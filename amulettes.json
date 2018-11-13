@@ -1,0 +1,1431 @@
+{
+ "Amulette": [
+  {
+   "name": "Amulette de l'Aventurier",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 1 à 2\nForce : 1 à 2\nAgilité : 1 à 2\nSagesse : 1 à 2\nIntelligence : 1 à 2",
+   "recette": "2x Puissante Amulette de l'Ours\n2x Puissante Amulette du Hibou",
+   "image": "https://barbok.eratz.fr/amulette_de_laventurier.png",
+   "condition": "",
+   "description": "Description : Pas très classe, pas très efficace, mais sympathique lorsque l'on possède la panoplie."
+  },
+  {
+   "name": "Amulette du Petit Hibou",
+   "level": "Niveau 1",
+   "caracteristique": "Intelligence : 1",
+   "image": "https://barbok.eratz.fr/amulette_du_petit_hibou.png",
+   "condition": "",
+   "description": "Description : Cette petite amulette ravira les héros débutants."
+  },
+  {
+   "name": "Amulette du Petit Ours",
+   "level": "Niveau 1",
+   "caracteristique": "Force : 1",
+   "image": "https://barbok.eratz.fr/amulette_du_petit_ours.png",
+   "condition": "",
+   "description": "Description : Cette petite amulette augmente la force de son porteur"
+  },
+  {
+   "name": "Amulette du Piou Rose",
+   "level": "Niveau 1",
+   "caracteristique": "Vitalité : 1",
+   "recette": "1x Plume de Piou Rose\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/amulette_du_piou_rose.png",
+   "condition": "",
+   "description": "Description : Cette amulette semble avoir été confectionnée à partir d'une petite tête de Piou desséchée. La coquetterie n'a aucune limite."
+  },
+  {
+   "name": "Amulette du Piou Rouge",
+   "level": "Niveau 1",
+   "caracteristique": "Intelligence : 1",
+   "recette": "1x Plume de Piou Rouge\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/amulette_du_piou_rouge.png",
+   "condition": "",
+   "description": "Description : Cette amulette semble avoir été confectionnée à partir d'une petite tête de Piou desséchée. La coquetterie n'a aucune limite."
+  },
+  {
+   "name": "Amulette du Piou Jaune",
+   "level": "Niveau 1",
+   "caracteristique": "Force : 1",
+   "recette": "1x Graine de Sésame\n1x Plume de Piou Jaune",
+   "image": "https://barbok.eratz.fr/amulette_du_piou_jaune.png",
+   "condition": "",
+   "description": "Description : Cette amulette semble avoir été confectionnée à partir d'une petite tête de Piou desséchée. La coquetterie n'a aucune limite."
+  },
+  {
+   "name": "Amulette du Piou Vert",
+   "level": "Niveau 1",
+   "caracteristique": "Agilité : 1",
+   "recette": "1x Graine de Sésame\n1x Plume de Piou Vert",
+   "image": "https://barbok.eratz.fr/amulette_du_piou_vert.png",
+   "condition": "",
+   "description": "Description : Cette amulette semble avoir été confectionnée à partir d'une petite tête de Piou desséchée. La coquetterie n'a aucune limite."
+  },
+  {
+   "name": "Amulette du Piou Bleu",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 1",
+   "recette": "1x Plume de Piou Bleu\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/amulette_du_piou_bleu.png",
+   "condition": "",
+   "description": "Description : Cette amulette semble avoir été confectionnée à partir d'une petite tête de Piou desséchée. La coquetterie n'a aucune limite."
+  },
+  {
+   "name": "Le S'Mesme",
+   "level": "Niveau 1",
+   "caracteristique": "Prospection : 1",
+   "image": "https://barbok.eratz.fr/le_smesme.png",
+   "condition": "",
+   "description": "Description : Après plusieurs nuits de dur labeur pour réaliser cette amulette, le plus grand bijoutier d'Astrub, connu pour avoir été élevé par les Bworks s'exclama devant une foule ébahie : \"C 1 pur amu tro bi1\". Même l'illustre historien Champo Gnon ne parvint pas à déchiffrer ce que le bijoutier avait voulu dire."
+  },
+  {
+   "name": "Amulette du Piou Violet",
+   "level": "Niveau 1",
+   "caracteristique": "Sagesse : 1",
+   "recette": "1x Graine de Sésame\n1x Plume de Piou Violet",
+   "image": "https://barbok.eratz.fr/amulette_du_piou_violet.png",
+   "condition": "",
+   "description": "Description : Cette amulette semble avoir été confectionnée à partir d'une petite tête de Piou desséchée. La coquetterie n'a aucune limite."
+  },
+  {
+   "name": "Koliet Aclou",
+   "level": "Niveau 1",
+   "caracteristique": "+1 de dommages",
+   "recette": "5x Bois de Frêne\n5x Bois de Châtaignier",
+   "image": "https://barbok.eratz.fr/koliet_aclou.png",
+   "condition": "",
+   "description": "Description : Cette amulette permet d'occasionner plus de dégâts pour les aventuriers qui débutent."
+  },
+  {
+   "name": "Grenouillette",
+   "level": "Niveau 1",
+   "caracteristique": "Agilité : 1",
+   "image": "https://barbok.eratz.fr/grenouillette.png",
+   "condition": "",
+   "description": "Description : Cette petite amulette augmente l'agilité de son porteur."
+  },
+  {
+   "name": "Petite Amulette du Hibou",
+   "level": "Niveau 1",
+   "caracteristique": "Intelligence : 2",
+   "recette": "1x Bois de Châtaignier\n1x Cuivre",
+   "image": "https://barbok.eratz.fr/petite_amulette_du_hibou.png",
+   "condition": "",
+   "description": "Description : Cette amulette augmente l'intelligence de son porteur."
+  },
+  {
+   "name": "Petite Amulette de l'Ours",
+   "level": "Niveau 1",
+   "caracteristique": "Force : 2",
+   "recette": "1x Bois de Noyer\n1x Bronze",
+   "image": "https://barbok.eratz.fr/petite_amulette_de_lours.png",
+   "condition": "",
+   "description": "Description : Cette amulette augmente la force de son porteur"
+  },
+  {
+   "name": "Petite Amulette du Loup",
+   "level": "Niveau 1",
+   "caracteristique": "Vitalité : 2",
+   "recette": "1x Bronze\n1x Bois de Frêne",
+   "image": "https://barbok.eratz.fr/petite_amulette_du_loup.png",
+   "condition": "",
+   "description": "Description : Cette amulette augmente la vitalité de son porteur."
+  },
+  {
+   "name": "Amulette du Loup",
+   "level": "Niveau 2",
+   "caracteristique": "Vitalité : 4",
+   "recette": "2x Bronze\n2x Bois de Frêne",
+   "image": "https://barbok.eratz.fr/amulette_du_loup.png",
+   "condition": "",
+   "description": "Description : Cette amulette augmente la vitalité de son porteur."
+  },
+  {
+   "name": "La Larme du Bouftou",
+   "level": "Niveau 2",
+   "caracteristique": "Vitalité : 4",
+   "recette": "1x Bave de Bouftou\n2x Cuivre",
+   "image": "https://barbok.eratz.fr/la_larme_du_bouftou.png",
+   "condition": "",
+   "description": "Description : Selon un illustre aventurier, cette amulette contient une larme de Bouftou, à l'odeur et aux propriétés semblables à celles des décoctions de cuir de bouftou."
+  },
+  {
+   "name": "Amulette de l'Ours",
+   "level": "Niveau 2",
+   "caracteristique": "Force : 4",
+   "recette": "2x Bois de Noyer\n2x Bronze",
+   "image": "https://barbok.eratz.fr/amulette_de_lours.png",
+   "condition": "",
+   "description": "Description : Cette amulette augmente la force de son porteur."
+  },
+  {
+   "name": "Pendentif du Hibou Chétif",
+   "level": "Niveau 2",
+   "caracteristique": "Intelligence : 6 à 10\nVitalité : -6 à -10",
+   "recette": "1x Bois de Frêne\n3x Bronze",
+   "image": "https://barbok.eratz.fr/pendentif_du_hibou_chetif.png",
+   "condition": "",
+   "description": "Description : Née d'une erreur de manipulation d'un bijoutier, cette amulette augmente l'intelligence de son porteur. En revanche, elle donne généralement un puissant mal de crâne qui a pour effet d'amoindrir la condition physique de son propriétaire."
+  },
+  {
+   "name": "Amulette du Hibou",
+   "level": "Niveau 2",
+   "caracteristique": "Intelligence : 4",
+   "recette": "2x Bois de Châtaignier\n2x Cuivre",
+   "image": "https://barbok.eratz.fr/amulette_du_hibou.png",
+   "condition": "",
+   "description": "Description : Cette amulette augmente l'intelligence de son porteur."
+  },
+  {
+   "name": "Amulette du Sram",
+   "level": "Niveau 2",
+   "caracteristique": "Agilité : 4",
+   "recette": "1x Os de Chafer\n2x Bois de Noyer",
+   "image": "https://barbok.eratz.fr/amulette_du_sram.png",
+   "condition": "",
+   "description": "Description : Cette amulette confectionnée à partir de petits crânes taillés dans de l'os, par un des plus grands bijoutiers Sram, est unique en son genre. Elle permet à son porteur de s'évader plus facilement lors des situations périlleuses."
+  },
+  {
+   "name": "Amulette du Bouftou",
+   "level": "Niveau 3",
+   "caracteristique": "Force : 1 à 10\nIntelligence : 1 à 10",
+   "recette": "1x Corne de Bouftou\n1x Cuir de Boufton Blanc\n1x Laine de Bouftou",
+   "image": "https://barbok.eratz.fr/amulette_du_bouftou.png",
+   "condition": "",
+   "description": "Description : Une bonne Corne de Bouftou, c'est une Corne qui procure calme et sagesse. Un Bon pendentif de Bouftou vous procurera donc sagesse et calme. Ou l'inverse. Ou autre chose. Ou alors rien."
+  },
+  {
+   "name": "Collier de l'Arc en Ciel",
+   "level": "Niveau 6",
+   "caracteristique": "Chance : 6",
+   "recette": "2x Bois de Châtaignier\n4x Bronze",
+   "image": "https://barbok.eratz.fr/collier_de_larc_en_ciel.png",
+   "condition": "",
+   "description": "Description : Ce collier est recherché par les collectionneurs, vous en tirerez un bon prix."
+  },
+  {
+   "name": "Belle Amulette de l'Ours",
+   "level": "Niveau 6",
+   "caracteristique": "Force : 6",
+   "recette": "3x Bois de Noyer\n3x Bronze",
+   "image": "https://barbok.eratz.fr/belle_amulette_de_lours.png",
+   "condition": "",
+   "description": "Description : Cette amulette augmente la force de son porteur"
+  },
+  {
+   "name": "Belle Amulette du Hibou",
+   "level": "Niveau 6",
+   "caracteristique": "Intelligence : 6",
+   "recette": "3x Bois de Châtaignier\n3x Cuivre",
+   "image": "https://barbok.eratz.fr/belle_amulette_du_hibou.png",
+   "condition": "",
+   "description": "Description : Cette amulette augmente l'intelligence de son porteur."
+  },
+  {
+   "name": "Amulette de Krokette",
+   "level": "Niveau 6",
+   "caracteristique": "Chance : 6",
+   "recette": "3x Cuivre\n3x Bois de Noyer",
+   "image": "https://barbok.eratz.fr/amulette_de_krokette.png",
+   "condition": "",
+   "description": "Description : Cette amulette a la faculté de devenir rose les jours où son porteur est d'humeur guillerette. On raconte qu'elle décuple également vos chances de trouver de bons objets."
+  },
+  {
+   "name": "Belle Amulette du Loup",
+   "level": "Niveau 6",
+   "caracteristique": "Vitalité : 6",
+   "recette": "3x Bois de Frêne\n3x Bronze",
+   "image": "https://barbok.eratz.fr/belle_amulette_du_loup.png",
+   "condition": "",
+   "description": "Description : Cette amulette augmente la vitalité de son porteur."
+  },
+  {
+   "name": "Puissante Amulette du Hibou",
+   "level": "Niveau 8",
+   "caracteristique": "Intelligence : 8",
+   "recette": "4x Bois de Châtaignier\n4x Cuivre",
+   "image": "https://barbok.eratz.fr/puissante_amulette_du_hibou.png",
+   "condition": "",
+   "description": "Description : Cette amulette augmente l'intelligence de son porteur."
+  },
+  {
+   "name": "Puissante Amulette de l'Ours",
+   "level": "Niveau 8",
+   "caracteristique": "Force : 8",
+   "recette": "4x Bois de Noyer\n4x Bronze",
+   "image": "https://barbok.eratz.fr/puissante_amulette_de_lours.png",
+   "condition": "",
+   "description": "Description : Cette amulette augmente la force de son porteur."
+  },
+  {
+   "name": "Puissante Amulette du Loup",
+   "level": "Niveau 8",
+   "caracteristique": "Vitalité : 8",
+   "recette": "4x Bois de Frêne\n4x Bronze",
+   "image": "https://barbok.eratz.fr/puissante_amulette_du_loup.png",
+   "condition": "",
+   "description": "Description : Cette amulette augmente la vitalité de son porteur."
+  },
+  {
+   "name": "Amulette des Champs",
+   "level": "Niveau 10",
+   "caracteristique": "Vitalité : 5 à 6\nAgilité : 4 à 5",
+   "recette": "10x Langue du Pissenlit Diabolique\n10x Pétale de Rose Démoniaque\n2x Feuille de Tournesol Sauvage",
+   "image": "https://barbok.eratz.fr/amulette_des_champs.png",
+   "condition": "",
+   "description": "Description : Cette petite amulette fleurit au printemps, mais se dessèche en été, se fane en automne, et pourrit en hiver.\nL'occasion rêvée pour changer de look au fil des saisons."
+  },
+  {
+   "name": "Amulette Itby",
+   "level": "Niveau 10",
+   "caracteristique": "Agilité : 10",
+   "recette": "5x Fer\n1x Cuivre\n4x Bois de Châtaignier",
+   "image": "https://barbok.eratz.fr/amulette_itby.png",
+   "condition": "",
+   "description": "Description : Création originale de l'orfèvre John Les Nonnes, c'est aujourd'hui un des bijoux les plus classiques."
+  },
+  {
+   "name": "Amulette en Mousse",
+   "level": "Niveau 11",
+   "caracteristique": "Vitalité : 6 à 15",
+   "image": "https://barbok.eratz.fr/amulette_en_mousse.png",
+   "condition": "",
+   "description": "Description : Cette amulette est souvent confondue avec un jouet à trouver dans des pochettes surprises, alors qu'en fait elle se gagne au stand de tir."
+  },
+  {
+   "name": "La Destinée Dorée",
+   "level": "Niveau 12",
+   "caracteristique": "Vitalité : 6\nAgilité : 6",
+   "recette": "4x Cuivre\n2x Bois de Chêne\n2x Manganèse",
+   "image": "https://barbok.eratz.fr/la_destinee_doree.png",
+   "condition": "",
+   "description": "Description : La Destinée Dorée permet au héros qui la porte d'augmenter considérablement sa vitalité et son agilité."
+  },
+  {
+   "name": "La Chaîne Nhanor Kibrill",
+   "level": "Niveau 13",
+   "caracteristique": "Intelligence : 11 à 15",
+   "recette": "1x Etain\n1x Bronze\n10x Cuivre",
+   "image": "https://barbok.eratz.fr/la_chaine_nhanor_kibrill.png",
+   "condition": "",
+   "description": "Description : Son créateur, un certain Ken Aton, était très célèbre pour ses habitudes assez étranges. Il passait ses journées à chasser le Minotoror pour se fabriquer une moquette pectorale."
+  },
+  {
+   "name": "La Lou Ptiote",
+   "level": "Niveau 15",
+   "caracteristique": "Intelligence : 11 à 17\nRésistance : 2% (feu)",
+   "recette": "1x Potion d'Etincelle\n1x Peau de serpentin\n1x Teinture Magique de Rougeur",
+   "image": "https://barbok.eratz.fr/la_lou_ptiote.png",
+   "condition": "",
+   "description": "Description : Sylveline n'était pas très futée. Sa mère, Lou, lui offrit cette lanterne en disant \"Tiens! Au moins tu seras une lumière !\". Elle non plus n'était pas une lanterne. Ce qui ne l'a pas empêchée d'avoir un éclair de génie qui illumina la vie de sa fille."
+  },
+  {
+   "name": "Amulette du Moskito",
+   "level": "Niveau 15",
+   "caracteristique": "Chance : 1 à 20\nVitalité : 1 à 10",
+   "recette": "10x Sourcil de Moskito\n5x Poudre de Perlinpainpain\n2x Ailes de Moskito",
+   "image": "https://barbok.eratz.fr/amulette_du_moskito.png",
+   "condition": "",
+   "description": "Description : Moins efficace et moins prisée que la célèbre Araknamu, cette petite amulette a pourtant beaucoup de charme lorsqu'elle est portée toute seule, sur un corps très poilu."
+  },
+  {
+   "name": "La Veaux Doux",
+   "level": "Niveau 15",
+   "caracteristique": "Force : 11 à 17\nRésistance : 1 à 2% (terre)",
+   "recette": "1x Poils du Milimulou\n1x Ficelle en Lin\n2x Bois de Bombu",
+   "image": "https://barbok.eratz.fr/la_veaux_doux.png",
+   "condition": "",
+   "description": "Description : Jozébo Vez était un berger de Veaux, lointains cousins des Bouftous. Dans son troupeau, quelques bêtes possédaient une fourrure plus douce que les autres. Elle se revendait bien plus cher et pour différencier ses bêtes, il attachait ce collier à leur cou."
+  },
+  {
+   "name": "Amulette du Bandit",
+   "level": "Niveau 16",
+   "caracteristique": "+1 à 3 de dommages\nFaiblesse : 1 à 10% (neutre)",
+   "recette": "1x Petite Amulette du Loup\n1x Petite Amulette de l'Ours\n1x Petite Amulette du Hibou",
+   "image": "https://barbok.eratz.fr/amulette_du_bandit.png",
+   "condition": "",
+   "description": "Description : Cette amulette a jadis appartenu au grand bandit \"Thisme\", réputé pour sa cruauté sans limite et sa mort idiote. Sa vie fût digne d'un conte d'Eniripsa, il mourût noyé et écrasé dans un pressoir à huile alors qu'il venait tout juste de purger une peine de prison de plus d'une centaine d'années, pour avoir volé une noix de cajou."
+  },
+  {
+   "name": "Amulette Itby remaniée",
+   "level": "Niveau 17",
+   "caracteristique": "Agilité : 20",
+   "recette": "8x Fer\n8x Cuivre\n4x Bois de Châtaignier",
+   "image": "https://barbok.eratz.fr/amulette_itby_remaniee.png",
+   "condition": "",
+   "description": "Description : Excellent travail de l'apprenti-orfèvre Polma Kartnez, cette copie surpasse l'originale."
+  },
+  {
+   "name": "Omelette Amulette",
+   "level": "Niveau 17",
+   "caracteristique": "Vitalité : 11 à 30\nCréature invocables : +1\nForce : -11 à -30",
+   "recette": "50x Oeuf de Tofu\n10x Bronze\n10x Kobalte",
+   "image": "https://barbok.eratz.fr/omelette_amulette.png",
+   "condition": "",
+   "description": "Description : L'osamodas Onehaieuf Bek cherchait absolument à gagner du mérite devant les membres de sa guilde, et décida alors de faire une Amulette révolutionnaire. Il y parvint en préparant un petit déjeuner à ses amis. Étrange."
+  },
+  {
+   "name": "La Gougnole",
+   "level": "Niveau 17",
+   "caracteristique": "Sagesse : 4\nIntelligence : 4\nVitalité : 4",
+   "recette": "8x Cuivre\n10x Bière d'Amakna\n6x Bois d'Erable",
+   "image": "https://barbok.eratz.fr/la_gougnole.png",
+   "condition": "",
+   "description": "Description : La Gougnole a été créée dans de la pierre de lune ayant trempé 5000 ans dans un baril de bière. Inévitablement, cela lui a conféré de terribles pouvoirs."
+  },
+  {
+   "name": "Amulette du Chafer",
+   "level": "Niveau 19",
+   "caracteristique": "Chance : 4\nSagesse : 4\nCoup critiques : +1",
+   "recette": "1x Os de Chafer\n8x Cuivre\n7x Etain",
+   "image": "https://barbok.eratz.fr/amulette_du_chafer.png",
+   "condition": "",
+   "description": "Description : Le Chafer est quelqu'un de sensible et distingué, il garde toujours avec lui une amulette faite des crânes de ses cousins tombés au combat. Le plus étrange, c'est que le Chafer n'a jamais eu de cousins."
+  },
+  {
+   "name": "Amulette Paysanne",
+   "level": "Niveau 20",
+   "caracteristique": "+1 de dommages\nInitiative : 1 à 50",
+   "recette": "15x Avoine\n15x Orge\n10x Graine de Lin\n1x Gland",
+   "image": "https://barbok.eratz.fr/amulette_paysanne.png",
+   "condition": "",
+   "description": "Description : Cette amulette est parfumée à l'huile de Tournesol Sauvage et aux fines herbes. Elle peut donc servir d'appât pour les ruminants dangereux que vous voudrez piéger, comme les Bouftous, ou les belles-mères par exemple."
+  },
+  {
+   "name": "Amulette de l'Homme Ours",
+   "level": "Niveau 20",
+   "caracteristique": "Résistance : 2 à 3 (eau)\nRésistance : 2 à 3 (air)\nRésistance : 2 à 3 (feu)",
+   "recette": "5x Argent\n6x Or\n3x Bois de Noyer\n1x Patte d'ours",
+   "image": "https://barbok.eratz.fr/amulette_de_lhomme_ours.png",
+   "condition": "",
+   "description": "Description : L'Homme Ours portait cette amulette autour du cou, lorsqu'il a affronté les brigandins de la tanière de Bimdhoul. La légende raconte qu'elle lui a sauvé la vie, mais quand on la regarde de près, on s'aperçoit qu'il s'agit bien d'une légende."
+  },
+  {
+   "name": "L'Araknamu",
+   "level": "Niveau 20",
+   "caracteristique": "Portée : +1",
+   "recette": "1x Ambre\n1x Feuille de Tronknyde\n1x Patte d'Arakne\n1x Racine d'Abraknyde",
+   "image": "https://barbok.eratz.fr/laraknamu.png",
+   "condition": "",
+   "description": "Description : Cette petite Arakne est la preuve vivante que l'on est pas obligé d'empailler un animal pour en faire une Amulette. Elle vous chatouillera le cou, et tissera peut-être une toile devant votre bouche, si vous baillez trop souvent, ou si vous avez trop mauvaise haleine."
+  },
+  {
+   "name": "Amulette du Boufcoul",
+   "level": "Niveau 20",
+   "caracteristique": "Agilité : 11 à 15\nChance : 11 à 15",
+   "recette": "5x Corne du Boufcoul\n10x Corne de Bouftou\n1x Amulette du Bouftou",
+   "image": "https://barbok.eratz.fr/amulette_du_boufcoul.png",
+   "condition": "",
+   "description": "Description : Cette amulette était jadis portée par tous les aventuriers qui préféraient répandre l'amour plutôt que de faire la guerre. Chacun ses goûts."
+  },
+  {
+   "name": "Amulette du Tofu",
+   "level": "Niveau 22",
+   "caracteristique": "Agilité : 6 à 15\nCoup critiques : +2 à 3",
+   "recette": "18x Plumes de Tofu\n10x Oeuf de Tofu\n11x Bec du Tofu\n1x Plume du Batofu",
+   "image": "https://barbok.eratz.fr/amulette_du_tofu.png",
+   "condition": "",
+   "description": "Description : Légère comme une plume de Tofu, cette amulette se porte autour du cou ou du front, pour les aventuriers en quête d'originalité."
+  },
+  {
+   "name": "Amulette du Marin",
+   "level": "Niveau 22",
+   "caracteristique": "Chance : 21 à 30",
+   "recette": "1x La Chaîne Nhanor Kibrill\n10x Or\n10x Greu-Vette",
+   "image": "https://barbok.eratz.fr/amulette_du_marin.png",
+   "condition": "",
+   "description": "Description : Cette amulette, sertie d'écailles de poisson, est censée porter chance à son propriétaire lorsqu'il part en mer les jours de tempête."
+  },
+  {
+   "name": "La Reinette",
+   "level": "Niveau 22",
+   "caracteristique": "Chance : 20\nAgilité : 10",
+   "recette": "1x La Destinée Dorée\n1x Bois d'Erable\n2x Bronze\n7x Etain",
+   "image": "https://barbok.eratz.fr/la_reinette.png",
+   "condition": "Chance > 10",
+   "description": "Description : Cette amulette, est une amélioration de La Destinée Dorée. Étrangement, elles n'ont rien en commun, excepté leur aspect assez ridicule, il faut le reconnaître."
+  },
+  {
+   "name": "Amulette du Bûcheron",
+   "level": "Niveau 22",
+   "caracteristique": "Agilité : 15\nChance : 15",
+   "recette": "2x Bois d'Ebène\n2x Bois de Merisier\n2x Bois d'If\n3x Bois de Chêne",
+   "image": "https://barbok.eratz.fr/amulette_du_bucheron.png",
+   "condition": "",
+   "description": "Description : Cette amulette, exclusivement fabriquée à partir de bois précieux, est très prisée des Bûcherons qui lui attribuent bien souvent des pouvoirs qu'elle n'a pas."
+  },
+  {
+   "name": "Amulette en Crabe",
+   "level": "Niveau 24",
+   "caracteristique": "Portée : +1",
+   "recette": "20x Pince du Crabe\n20x Langue de Crabe\n20x Carapace vide de Crabe",
+   "image": "https://barbok.eratz.fr/amulette_en_crabe.png",
+   "condition": "",
+   "description": "Description : Cette amulette blanchâtre est confectionnée avec du Crabe, ce qui en fait une amulette très fragile mais originale."
+  },
+  {
+   "name": "Amulette du Kitsou",
+   "level": "Niveau 26",
+   "caracteristique": "Vitalité : 11 à 40\nInitiative : 50",
+   "recette": "1x Peau de Kitsou Nakwa\n1x Peau de Kitsou Nae\n1x Peau de Kitsou Nere\n1x Poils de Kitsou Nakwa",
+   "image": "https://barbok.eratz.fr/amulette_du_kitsou.png",
+   "condition": "",
+   "description": "Description : Cette amulette du Kitsou attirera l'attention sur votre double menton."
+  },
+  {
+   "name": "Larvamulette",
+   "level": "Niveau 26",
+   "caracteristique": "Vitalité : 6 à 20\nIntelligence : 6 à 20\nAgilité : 6 à 20",
+   "recette": "1x Petite Perle Dorée\n2x Peau de Larve Bleue\n5x Peau de Larve Orange\n2x Peau de Larve Verte",
+   "image": "https://barbok.eratz.fr/larvamulette.png",
+   "condition": "",
+   "description": "Description : Avec cette tête de larve autour du cou, vous ressemblez à Ulrik Holgan célèbre dompteur de larves des temps modernes."
+  },
+  {
+   "name": "Entente",
+   "level": "Niveau 26",
+   "caracteristique": "Force : 5\nAgilité : 5\nVitalité : 5\nSagesse : 5\nIntelligence : 5\nChance : 5",
+   "recette": "1x Ambre\n4x Bois de Noyer\n4x Bois de Chêne\n8x Bronze\n8x Kobalte",
+   "image": "https://barbok.eratz.fr/entente.png",
+   "condition": "",
+   "description": "Description : Ce pendentif aide son porteur à se retrouver en paix avec le monde qui l'entoure."
+  },
+  {
+   "name": "La Célébrité",
+   "level": "Niveau 27",
+   "caracteristique": "Portée : +1\nVitalité : 4",
+   "recette": "7x Kobalte\n7x Etain\n8x Cuivre\n8x Bronze",
+   "image": "https://barbok.eratz.fr/la_celebrite.png",
+   "condition": "",
+   "description": "Description : Cette puissante amulette a tout pour rendre son porteur célèbre."
+  },
+  {
+   "name": "La Broche Hète",
+   "level": "Niveau 28",
+   "caracteristique": "Sagesse : 11 à 20",
+   "recette": "1x Coquille de Dragoeuf Noir\n3x Manganèse\n3x Etain\n2x Bois d'Erable",
+   "image": "https://barbok.eratz.fr/la_broche_hete.png",
+   "condition": "",
+   "description": "Description : Hète était l'un des plus grands guerriers d'Amakna. La légende dit qu'il tirait sa sagesse de la broche qu'il portait toujours sur lui."
+  },
+  {
+   "name": "Kabale",
+   "level": "Niveau 29",
+   "caracteristique": "Sagesse : 10\nIntelligence : 20",
+   "recette": "1x Coquille de Dragoeuf Blanc\n8x Bronze\n4x Kobalte\n2x Manganèse",
+   "image": "https://barbok.eratz.fr/kabale.png",
+   "condition": "",
+   "description": "Description : Symbole mystérieux d'un organisme mystérieux. D'ailleurs il n'existe pas, et vous n'en avez jamais entendu parler !"
+  },
+  {
+   "name": "Amulette de Shika",
+   "level": "Niveau 29",
+   "caracteristique": "Vitalité : 11 à 20\nSagesse : 6 à 10\nInitiative : 31 à 50",
+   "recette": "5x Or\n5x Argent\n1x Pierre du Craqueleur\n3x Bois de Merisier\n3x Bois d'Oliviolet",
+   "image": "https://barbok.eratz.fr/amulette_de_shika.png",
+   "condition": "",
+   "description": "Description : Cette amulette a permis à de nombreuses reprises à Shika Ingalsse, de survivre aux rebellions des troupeaux de Bouftous bien décidés à lui mener la vie dure."
+  },
+  {
+   "name": "La Bibelaw",
+   "level": "Niveau 30",
+   "caracteristique": "Vitalité : 11 à 20\nRésistance : 2 à 3% (air)\nRésistance : 2 à 3% (eau)\nRésistance : 2 à 3% (feu)\nRésistance : 2 à 3% (terre)",
+   "recette": "6x Plume du Kwak de Flamme\n4x Patte d'Arakne\n2x Patte d'Arakne Majeure\n2x Dent de Dragodinde\n1x Bout de Blop Griotte\n8x Bois de Bombu",
+   "image": "https://barbok.eratz.fr/la_bibelaw.png",
+   "condition": "",
+   "description": "Description : Law-bibe était un vieillard qui adorait assembler n'importe quoi pour en faire un objet. Un jour, il créa ce médaillon aux formes intrigantes. Une fois autour du cou, il ressentit une étrange sensation. Bien étrange sensation même..."
+  },
+  {
+   "name": "Médaille Holy",
+   "level": "Niveau 31",
+   "caracteristique": "+1 à 3 de dommages\nForce : 11 à 20",
+   "recette": "4x Manganèse\n4x Kobalte\n4x Bois de Chêne\n4x Bois d'Erable\n6x Bois d'If",
+   "image": "https://barbok.eratz.fr/medaille_holy.png",
+   "condition": "",
+   "description": "Description : Holy était une disciple de Iop qui avait juré de terrasser le mal où qu'il soit. D'un calme redoutable, elle ne s'énervait jamais sauf quand on la comparait à une certaine Oly."
+  },
+  {
+   "name": "Médaille Lahilama",
+   "level": "Niveau 31",
+   "caracteristique": "Soins : 1 à 3\nVitalité : 11 à 20",
+   "recette": "1x Bakélélite\n5x Silicate\n5x Dolomite\n3x Bois de Bambou\n1x Racine de Bulbambou",
+   "image": "https://barbok.eratz.fr/medaille_lahilama.png",
+   "condition": "",
+   "description": "Description : Lahilama était un grand chef spirituel qui officiait au fin fond des montagnes. Il s'ennuyait tellement, qu'il passait ses journées à coudre des bonnets jaunes pour ses disciples. La folie n'a pas de limites."
+  },
+  {
+   "name": "Dragolyre",
+   "level": "Niveau 32",
+   "caracteristique": "PA : +1\nForce : -35\nIntelligence : -35\nCréature invocables : +1\nChance : -35\nAgilité : -35",
+   "recette": "5x Bois de Charme\n5x Bois de Merisier\n1x Vieil Os de Dragoeuf\n1x Ambre\n10x Bois de Chêne",
+   "image": "https://barbok.eratz.fr/dragolyre.png",
+   "condition": "",
+   "description": "Description : Cette splendide amulette confectionnée à partir de restes de Dragoeuf, est suffisamment impressionnante pour faire battre en retrait la majorité des ennemis normalement constitués."
+  },
+  {
+   "name": "Amulette du Badoul",
+   "level": "Niveau 32",
+   "caracteristique": "Vitalité : 31 à 50\nAugmente les dommages de 6 à 10%",
+   "recette": "1x Pièce du Trésor du Badoul\n10x Bois d'Oliviolet\n10x Or\n10x Bois de Bombu\n8x Etain",
+   "image": "https://barbok.eratz.fr/amulette_du_badoul.png",
+   "condition": "",
+   "description": "Description : Dodge adorait exploser tout ce qui avait de la valeur à ses yeux. Il disait que c'était la preuve qu'il existait. Chacun son truc."
+  },
+  {
+   "name": "La Bourgeonette",
+   "level": "Niveau 32",
+   "caracteristique": "Résistance : 3 à 5% (terre)\nFaiblesse : 3 à 5% (air)\nForce : 16 à 25\nAgilité : -16 à -25",
+   "recette": "1x Teinture Magique Verdâtre\n30x Bourgeon d'Abraknyde\n2x Bourgeon d'Abraknyde Sombre\n20x Edelweiss\n4x Fleur de Blop Reinette",
+   "image": "https://barbok.eratz.fr/la_bourgeonette.png",
+   "condition": "",
+   "description": "Description : Gorgée de soleil, la Bourgeonette réchauffe les coeurs en plus de procurer une sensation d'invulnérabilité face à la terre. Elle est aussi tellement légère qu'on oublie souvent de l'enlever à l'heure du coucher."
+  },
+  {
+   "name": "Amulette Deulegarnoulle",
+   "level": "Niveau 33",
+   "caracteristique": "Créature invocables : +2\nRésistance : 2 (eau)\nRésistance : 2 (air)\nRésistance : 2 (feu)",
+   "recette": "4x Bronze\n1x Diamant\n4x Etain\n4x Manganèse\n5x Kobalte",
+   "image": "https://barbok.eratz.fr/amulette_deulegarnoulle.png",
+   "condition": "",
+   "description": "Description : Cette amulette provient des régions nordiques, elle confère a son porteur la capacité d'invoquer plus facilement des créatures."
+  },
+  {
+   "name": "Fourbamulette",
+   "level": "Niveau 33",
+   "caracteristique": "Vitalité : 11 à 15\nCoup critiques : +1\nPortée : +1",
+   "recette": "5x Ecorce de Fourbasse\n5x Bourgeon de Fourbasse\n50x Feuille de Fourbasse\n30x Pétale de Trukikol\n1x Ficelle en Lin",
+   "image": "https://barbok.eratz.fr/fourbamulette.png",
+   "condition": "",
+   "description": "Description : Cette amulette est constituée d'un mélange de feuilles de Fourbasse et de détritus de l'île de Moon. Elle ressemble plus à un collier de fleurs qu'à une véritable amulette, mais elle vous permettra de séduire sans trop d'efforts la faune locale de l'île de Moon, composée presque exclusivement d'abominables créatures. Ainsi, plus aucune Fourbasse ne saura vous résister, elles vous sauteront toutes au cou pour vous faire des suçons. Les plus malchanceux en amour sauront s'en contenter."
+  },
+  {
+   "name": "Ambramulette Arackne",
+   "level": "Niveau 34",
+   "caracteristique": "Agilité : -11 à -20\nForce : -11 à -20\nRésistance : 6 à 10 (eau)\nRésistance : 6 à 10 (air)\nRésistance : 6 à 10 (feu)",
+   "recette": "6x Ambre d'Abraknyde\n3x Etain\n1x Manganèse\n1x Bois d'If\n1x Bois de Merisier",
+   "image": "https://barbok.eratz.fr/ambramulette_arackne.png",
+   "condition": "",
+   "description": "Description : Porter autour du coup une Arackne prise dans l'ambre, lorsque vous attaquez une de ses soeurs, peut suffire à la décontenancer. Pauvre bête, on appelle cela l'ironie du sort."
+  },
+  {
+   "name": "Amulette du Pêcheur de Somoon",
+   "level": "Niveau 35",
+   "caracteristique": "Chance : 12 à 41",
+   "image": "https://barbok.eratz.fr/amulette_du_pecheur_de_somoon.png",
+   "condition": "",
+   "description": "Description : Pêcher un Somoon relève de l'exploit, mais avec cette amulette sur soi, plus rien n'est impossible."
+  },
+  {
+   "name": "Amulette de Silicate",
+   "level": "Niveau 37",
+   "caracteristique": "Coup critiques : +10\nRésistance : 1 (eau)\nRésistance : 1 (air)\nRésistance : 1 (feu)\nRésistance : 1 (terre)\nRésistance : 1 (neutre)\nAgilité : -30\nVitalité : -20",
+   "recette": "2x Bauxite\n1x Rubis\n2x Or\n2x Ambre\n2x Bois de Merisier",
+   "image": "https://barbok.eratz.fr/amulette_de_silicate.png",
+   "condition": "",
+   "description": "Description : Silicate a confectionné cette Amulette un matin d'hiver, pour un célèbre aventurier du nom de Rimb Vardi, qui pourchassait un vieux Bwork Mage, responsable de plusieurs catastrophes naturelles déclenchées par sa magie trop approximative."
+  },
+  {
+   "name": "Accord",
+   "level": "Niveau 38",
+   "caracteristique": "Force : 10\nAgilité : 10\nChance : 10\nSagesse : 10\nVitalité : 10\nIntelligence : 10",
+   "recette": "2x Ambre\n8x Bois d'If\n8x Bois d'Erable\n8x Bronze\n8x Kobalte",
+   "image": "https://barbok.eratz.fr/accord.png",
+   "condition": "",
+   "description": "Description : Ce pendentif aide son porteur à se retrouver en paix avec le monde qui l'entoure."
+  },
+  {
+   "name": "Amulette du Mineur Sombre",
+   "level": "Niveau 39",
+   "caracteristique": "Chance : 21 à 35\nProspection : 6 à 10\nFaiblesse : 6 à 10% (air)\nFaiblesse : 6 à 10% (eau)\nFaiblesse : 6 à 10% (feu)\nFaiblesse : 6 à 10% (terre)",
+   "recette": "1x Ebonite\n1x Magnésite\n4x Bois de Bombu\n4x Bois d'Oliviolet",
+   "image": "https://barbok.eratz.fr/amulette_du_mineur_sombre.png",
+   "condition": "Chance > 30",
+   "description": "Description : La seule chance de survivre dans une mine infestée de Mineurs Sombres, c'est d'y voir clair. A défaut de leur voler leur bougie, portez cette amulette, elle vous portera chance."
+  },
+  {
+   "name": "Ambramulette Moskito",
+   "level": "Niveau 40",
+   "caracteristique": "+3 à 5 de dommages\nChance : 11 à 20\nIntelligence : -11 à -20",
+   "recette": "15x Ambre\n2x Etain\n1x Manganèse\n1x Bois d'If\n1x Bois de Merisier",
+   "image": "https://barbok.eratz.fr/ambramulette_moskito.png",
+   "condition": "",
+   "description": "Description : Porter autour du cou un Moskito pris dans un ambre, c'est un peu montrer à vos adversaires, que vous êtes un redoutable chasseur... de Moskitos. De quoi vous rendre ridicule en dehors du Berceau."
+  },
+  {
+   "name": "La Broche Céleste",
+   "level": "Niveau 40",
+   "caracteristique": "Coup critiques : +5\n+2 de dommages\nPA : +1\nForce : -20\nSagesse : -20",
+   "recette": "1x Diamant\n1x Emeraude\n1x Bauxite\n1x Or\n14x Cuivre",
+   "image": "https://barbok.eratz.fr/la_broche_celeste.png",
+   "condition": "",
+   "description": "Description : On dit que cette broche a été créée par l'illustre forgeron Boulgur, qui a la réputation de forger les armes des dieux."
+  },
+  {
+   "name": "Vegamu",
+   "level": "Niveau 40",
+   "caracteristique": "Vitalité : 11 à 70\nPortée : +1 à 2\nChance : -1 à -20\nIntelligence : -1 à -20",
+   "recette": "2x Ailes de Moskito\n30x Fleur de Lin\n20x Fleur de Pissenlit Diabolique\n1x Amulette des Champs\n25x Avoine",
+   "image": "https://barbok.eratz.fr/vegamu.png",
+   "condition": "",
+   "description": "Description : La Vegamu a parfois tendance à attirer les Moskitos, qui de loin la prennent pour une copine. Ils sont souvent déçus une fois qu'ils tombent sur le porteur de l'amulette."
+  },
+  {
+   "name": "Bambamulette",
+   "level": "Niveau 40",
+   "caracteristique": "Soins : 3 à 5\nVitalité : 11 à 20\nForce : -11 à -20",
+   "recette": "6x Silicate\n6x Dolomite\n1x Rutile\n4x Bois de Bambou Sombre\n1x Racine de Bulbiflore",
+   "image": "https://barbok.eratz.fr/bambamulette.png",
+   "condition": "",
+   "description": "Description : Ce ridicule petit morceau de bambou est doté de pouvoirs magiques bien étranges. Il était autrefois porté par les jeunes Pandawas, une fois la puberté passée. Vous devriez peut-être attendre encore quelques années avant de le porter autour du coup..."
+  },
+  {
+   "name": "Amulette du Pirate",
+   "level": "Niveau 41",
+   "caracteristique": "Coup critiques : +2\nVitalité : 16 à 25\nForce : 16 à 25",
+   "recette": "1x Crâne de chafer\n10x Os de Chafer\n1x Teinture Magique Sombre",
+   "image": "https://barbok.eratz.fr/amulette_du_pirate.png",
+   "condition": "",
+   "description": "Description : Cette amulette terrifiante a impressionné plus d'un marin, la porter sur soi suffit à faire de vous une personne redoutée."
+  },
+  {
+   "name": "Emblème Livide",
+   "level": "Niveau 41",
+   "caracteristique": "+2 de dommages\nForce : 10\nSagesse : 20\nChance : -20\nAgilité : -20",
+   "recette": "8x Bois d'If\n8x Bois de Chêne\n1x Ambre d'Abraknyde\n8x Etain\n8x Manganèse",
+   "image": "https://barbok.eratz.fr/embleme_livide.png",
+   "condition": "",
+   "description": "Description : Cette amulette est extrêmement utile, mais rend son porteur blanc comme un bouftou."
+  },
+  {
+   "name": "Amulette Akwadala",
+   "level": "Niveau 41",
+   "caracteristique": "Vitalité : 11 à 30\nChance : 11 à 30\nCoup critiques : +2 à 3\n+1 à 2 de dommages",
+   "recette": "50x Artefact Pandawushu Eau\n5x Silicate\n2x Dolomite\n5x Bois de Bambou\n5x Bois de Charme",
+   "image": "https://barbok.eratz.fr/amulette_akwadala.png",
+   "condition": "",
+   "description": "Description : Seuls les habitants du village d'Akwadala avaient l'autorisation de porter cette amulette, qui est censée être un des éléments les plus importants de leur costume traditionnel. En y regardant de plus près, on se demande bien pourquoi."
+  },
+  {
+   "name": "Le foulard du Lard Fou",
+   "level": "Niveau 42",
+   "caracteristique": "Vitalité : 16 à 25\nCoup critiques : +2 à 3\nRésistance : 2 à 3 (eau)\nRésistance : 2 à 3 (air)\nRésistance : 2 à 3 (feu)\nRésistance : 1 à 3% (neutre)",
+   "recette": "10x Poils de Crocs Glands\n10x Scalp de Bwork Archer\n2x Touffe de Cheveux Blancs\n10x Poils de Barbe du Grand Pa Wabbit\n10x Poils du Sanglier",
+   "image": "https://barbok.eratz.fr/le_foulard_du_lard_fou.png",
+   "condition": "",
+   "description": "Description : Le Lard Fou était un petit démon bien vil qui ne pouvait s'empêcher de rester planté devant les gens sans bouger. Il était aussi résistant à la magie, ce qui imposait le respect à l'époque. Depuis, le Lard Fou se terre quelque part et attend."
+  },
+  {
+   "name": "Dragolyre Remaniée",
+   "level": "Niveau 42",
+   "caracteristique": "PA : +1\nCréature invocables : +1 à 2\nAgilité : -15\nChance : -15\nForce : -15\nIntelligence : -15",
+   "recette": "1x Dragolyre\n2x Oeuf de Dragoeuf Blanc\n2x Oeuf de Dragoeuf Noir\n2x Oeuf de Dragoeuf de Saphir\n2x Oeuf de Dragoeuf Doré",
+   "image": "https://barbok.eratz.fr/dragolyre_remaniee.png",
+   "condition": "",
+   "description": "Description : Grâce aux multiples talents des artisans d'Amakna, la Dragolyre Remaniée excelle dans la perfection."
+  },
+  {
+   "name": "Amukwak de Glace",
+   "level": "Niveau 42",
+   "caracteristique": "Résistance : 3 à 5% (eau)\nChance : 16 à 20\nCoup critiques : +2",
+   "recette": "3x Bec du Kwak de Glace\n2x Argent\n3x Or\n2x Bauxite\n2x Bronze",
+   "image": "https://barbok.eratz.fr/amukwak_de_glace.png",
+   "condition": "",
+   "description": "Description : Avec cette amulette autour du cou, vous pourriez tenter de faire croire à votre entourage que vous avez une haleine fraîche. Laissez tomber, c'est peine perdue."
+  },
+  {
+   "name": "Amukwak du Vent",
+   "level": "Niveau 42",
+   "caracteristique": "Résistance : 3 à 5% (air)\nAgilité : 16 à 20\nCoup critiques : +2",
+   "recette": "3x Bec du Kwak du Vent\n3x Or\n2x Argent\n2x Bauxite\n2x Bronze",
+   "image": "https://barbok.eratz.fr/amukwak_du_vent.png",
+   "condition": "",
+   "description": "Description : Lorsque le vent souffle dans ses plumes, le Kwak du Vent se sent libre comme l'air, et se laisse planer tel une vieille feuille morte emportée par une bourrasque. Contrairement aux idées reçues, c'est assez impressionnant."
+  },
+  {
+   "name": "Amukwak de Flammes",
+   "level": "Niveau 42",
+   "caracteristique": "Résistance : 3 à 5% (feu)\nIntelligence : 16 à 20\nCoup critiques : +2",
+   "recette": "2x Argent\n3x Or\n2x Bauxite\n2x Bronze\n3x Bec du Kwak de Flamme",
+   "image": "https://barbok.eratz.fr/amukwak_de_flammes.png",
+   "condition": "",
+   "description": "Description : Avec toutes ces plumes autour du cou, vous ressemblerez à Aldo Rado, grand Sacrieur aventurier en quête d'une cité d'or."
+  },
+  {
+   "name": "Amukwak de Terre",
+   "level": "Niveau 42",
+   "caracteristique": "Résistance : 3 à 5% (terre)\nForce : 16 à 20\nCoup critiques : +2",
+   "recette": "3x Bec du Kwak de Terre\n2x Argent\n2x Bauxite\n3x Or\n2x Bronze",
+   "image": "https://barbok.eratz.fr/amukwak_de_terre.png",
+   "condition": "",
+   "description": "Description : Jadis portée par Oto Mustam, chef des guerriers de Brâkmar, cette petite amulette ne lui servait qu'à se faire beau lors des orgies organisées à Brâkmar. Tout un programme."
+  },
+  {
+   "name": "Collier Sleump",
+   "level": "Niveau 43",
+   "caracteristique": "Vitalité : 31 à 50\nCoup critiques : +2 à 3\nSoins : 1 à 2\nCréature invocables : +1",
+   "image": "https://barbok.eratz.fr/collier_sleump.png",
+   "condition": "",
+   "description": "Description : Erala a porté cette amulette pendant toute son enfance. Personne ne sait exactement ce qu'elle renferme."
+  },
+  {
+   "name": "Amulette du Kam Assutra",
+   "level": "Niveau 43",
+   "caracteristique": "PA : +1",
+   "recette": "2x Saphir\n2x Bronze\n1x Or\n2x Bauxite\n2x Testicules du Mulou",
+   "image": "https://barbok.eratz.fr/amulette_du_kam_assutra.png",
+   "condition": "",
+   "description": "Description : Cette amulette donne des facultés très particulières à son porteur, en effet ce dernier se voit comme transporté par une aura mystérieuse parcourant son corps, ce qui généralement a pour effet de décupler ses capacités physiques."
+  },
+  {
+   "name": "La Chaplivate",
+   "level": "Niveau 43",
+   "caracteristique": "Vitalité : 16 à 25\nSagesse : 11 à 15\nChance : 16 à 25\nCoup critiques : +2 à 3",
+   "image": "https://barbok.eratz.fr/la_chaplivate.png",
+   "condition": "",
+   "description": "Description : A la fois amulette et cravate, cet objet d'apparat permettra à vos proches de vous tenir en laisse facilement. Et vous aimerez ça."
+  },
+  {
+   "name": "Tartamulette",
+   "level": "Niveau 43",
+   "caracteristique": "Force : 1 à 20\nCoup critiques : +1 à 4\nAugmente les dommages de 1 à 10%\nInitiative : 1 à 100\nRésistance : 1 à 5% (terre)",
+   "image": "https://barbok.eratz.fr/tartamulette.png",
+   "condition": "",
+   "description": "Description : Si vous avez toujours rêvé de distribuer des tartes à vos amis, offrez-leur cette amulette."
+  },
+  {
+   "name": "L'Amulette du Puzzle de la Griffe",
+   "level": "Niveau 44",
+   "caracteristique": "Intelligence : 16 à 30\n+3 à 5 de dommages",
+   "recette": "1x Pièce du Puzzle de la Griffe\n10x Bois d'Oliviolet\n10x Or\n10x Bois de Bombu\n1x Ficelle en Lin",
+   "image": "https://barbok.eratz.fr/lamulette_du_puzzle_de_la_griffe.png",
+   "condition": "",
+   "description": "Description : Autrefois, un Ecaflip nommé Dodge, éclata en mille morceaux une carte au trésor gravée sur une pierre. Croyant réussir à reformer la carte, il garda la plus grosse partie pour en faire une Amulette mystérieuse. Nul ne sait ce que le trésor est devenu."
+  },
+  {
+   "name": "Chance à Mulette",
+   "level": "Niveau 44",
+   "caracteristique": "Chance : 21 à 30\nProspection : 3 à 5",
+   "recette": "2x Ebonite\n3x Aluminite\n1x Magnésite\n5x Bois de Chêne\n5x Bois de Charme",
+   "image": "https://barbok.eratz.fr/chance_a_mulette.png",
+   "condition": "",
+   "description": "Description : Mulette était une petite Ecaflipette qui n'a jamais eu de chance dans sa vie, jusqu'au jour où sa grand-mère lui offrit cette amulette."
+  },
+  {
+   "name": "Amulette Scarabosse Doré",
+   "level": "Niveau 45",
+   "caracteristique": "Vitalité : 6 à 45\nSagesse : 6 à 15\nIntelligence : 6 à 15\nSoins : 1 à 3",
+   "recette": "1x Ailes du Scarabosse Doré\n20x Antenne du Scarafeuille blanc\n20x Antenne du Scarafeuille bleu\n20x Antenne du Scarafeuille vert\n20x Antenne du Scarafeuille rouge",
+   "image": "https://barbok.eratz.fr/amulette_scarabosse_dore.png",
+   "condition": "",
+   "description": "Description : Portée sur un torse velu, cette amulette a tout pour plaire tant elle se marie bien avec les touffes de poils."
+  },
+  {
+   "name": "Chaîne de la Liche",
+   "level": "Niveau 45",
+   "caracteristique": "Sagesse : 11 à 20\nChance : 21 à 30\nVitalité : -11 à -50\nCréature invocables : +2",
+   "recette": "1x Amulette du Craqueleur\n1x Or\n10x Bois d'Ebène\n1x Cristal\n10x Bois de Bombu",
+   "image": "https://barbok.eratz.fr/chaine_de_la_liche.png",
+   "condition": "",
+   "description": "Description : La Liche était une sale créature connue pour s'incruster dans les groupes de valeureux guerriers afin de subtiliser une part du butin. Un jour, son petit manège fut découvert et elle dut prendre la fuite."
+  },
+  {
+   "name": "La Feuille d'Eté",
+   "level": "Niveau 45",
+   "caracteristique": "Intelligence : 16 à 30\nChance : 16 à 30\nProspection : 4 à 10\nFaiblesse : 6 à 10% (air)\nFaiblesse : 6 à 10% (feu)\nFaiblesse : 6 à 10% (terre)",
+   "recette": "1x Ebonite\n1x Magnésite\n1x Coquille de Dragoeuf Blanc\n1x Bois d'Orme\n5x Bois de Bombu",
+   "image": "https://barbok.eratz.fr/la_feuille_dete.png",
+   "condition": "",
+   "description": "Description : Cette petite broche a vraiment du charme, destinée à la base pour les malchanceux fermement décidés à participer aux jeux de la fête foraine, on a vite remarqué, qu'elle était également bien adaptée pour les chasses épiques."
+  },
+  {
+   "name": "Craquamulette",
+   "level": "Niveau 46",
+   "caracteristique": "Force : 1 à 20\nAgilité : 1 à 20\nRésistance : 1 à 8 (eau)\nRésistance : 1 à 8 (air)\nRésistance : 1 à 8 (feu)\nRésistance : 1 à 5% (terre)",
+   "recette": "1x Charbon\n1x Silex\n1x Pierre du Craqueleur\n1x Pierre de Granit\n4x Dent en Or du Craqueleur",
+   "image": "https://barbok.eratz.fr/craquamulette.png",
+   "condition": "",
+   "description": "Description : Cette amulette est aussi lourde qu'un Blop boulimique, voilà qui devrait décourager les aventuriers un peu trop fragiles de la porter. En revanche, une fois son poids supporté, il faut reconnaître qu'elle vous donne fière allure."
+  },
+  {
+   "name": "L'Abramu",
+   "level": "Niveau 46",
+   "caracteristique": "PA : +1\nSagesse : 11 à 20\n+3 à 6 de dommages\nAgilité : -1 à -70\nIntelligence : -1 à -70\nForce : -1 à -70\nChance : -1 à -70",
+   "recette": "1x Ambre d'Abraknyde Sombre\n1x Ambre d'Abraknyde\n5x Bourgeon d'Abraknyde Sombre\n5x Ecorce d'Abraknyde Sombre\n5x Racine d'Abraknyde Sombre",
+   "image": "https://barbok.eratz.fr/labramu.png",
+   "condition": "",
+   "description": "Description : L'Abramu est une amulette très élégante. Si vous avez l'intention de la porter nous vous conseillons de vous promener nu afin de bien mettre en valeur ce précieux bijoux. Vous verrez, les dames n'y résistent pas."
+  },
+  {
+   "name": "Amulette des Abîmes",
+   "level": "Niveau 47",
+   "caracteristique": "Coup critiques : +5\nSagesse : 2 à 21\nChance : 20",
+   "image": "https://barbok.eratz.fr/amulette_des_abimes.png",
+   "condition": "",
+   "description": "Description : Cette amulette a été retrouvée dans l'épave échouée du célèbre pêcheur de Kralamoure, Moby Diqueriveurse, qui était également populaire pour ses boutades vaseuses au bar des pirates."
+  },
+  {
+   "name": "Amulette Papayou",
+   "level": "Niveau 47",
+   "caracteristique": "Vitalité : 21 à 30\nSagesse : 6 à 10\nChance : 16 à 25\n+2 à 3 de dommages",
+   "image": "https://barbok.eratz.fr/amulette_papayou.png",
+   "condition": "",
+   "description": "Description : Cette amulette n'est en réalité qu'un assortiment de fleurs accrochées autour d'un fil. Elle est censée diffuser un parfum magique à même de transformer un Papayou en Papayou Lélé."
+  },
+  {
+   "name": "Amulette du Craqueleur",
+   "level": "Niveau 47",
+   "caracteristique": "Intelligence : 16 à 25\nForce : 16 à 25\nAgilité : 16 à 25\nVitalité : 16 à 25\nRésistance : 2 à 5 (eau)\nRésistance : 2 à 5 (air)\nRésistance : 2 à 5 (feu)",
+   "recette": "2x Pierre de Cristal\n14x Argent\n9x Pierre du Craqueleur\n2x Pierre de Saphir\n1x Rubis",
+   "image": "https://barbok.eratz.fr/amulette_du_craqueleur.png",
+   "condition": "",
+   "description": "Description : Cette puissante amulette contient toute la vie du Craqueleur, tous les objets qu'il a récoltés avant de mourir sous les coups de butoir d'aventuriers attirés par ses richesses."
+  },
+  {
+   "name": "Harmonie",
+   "level": "Niveau 47",
+   "caracteristique": "Force : 15\nAgilité : 15\nSagesse : 15\nVitalité : 15\nChance : 15\nIntelligence : 15",
+   "recette": "2x Ambre\n10x Bois d'Erable\n12x Bois d'If\n11x Manganèse\n11x Etain",
+   "image": "https://barbok.eratz.fr/harmonie.png",
+   "condition": "",
+   "description": "Description : Ce pendentif aide son porteur à se retrouver en paix avec le monde qui l'entoure."
+  },
+  {
+   "name": "Amulette de la Boule",
+   "level": "Niveau 49",
+   "caracteristique": "Sagesse : 21 à 35\nRésistance : 4 à 7% (neutre)",
+   "recette": "10x Bout de Blop Coco\n10x Bout de Blop Griotte\n10x Bout de Blop Indigo\n10x Bout de Blop Reinette\n2x Rubis",
+   "image": "https://barbok.eratz.fr/amulette_de_la_boule.png",
+   "condition": "",
+   "description": "Description : Cette Amulette est presque parfaite, elle accroît considérablement la sagesse de celui qui la porte autour du cou. Très utile pour paraître plus sage auprès de vos amis, ou vous faire passer pour un écolier modèle."
+  },
+  {
+   "name": "Amublop Griotte",
+   "level": "Niveau 50",
+   "caracteristique": "Vitalité : 26 à 40\nSagesse : 11 à 15\nIntelligence : 16 à 25\nCoup critiques : +4 à 5",
+   "recette": "1x Fleur de Gloutoblop\n1x La Reinette\n1x Feuille de Blop Royal\n50x Bout de Blop Griotte\n50x Pollen de Blop\n10x Fleur de Blop Griotte",
+   "image": "https://barbok.eratz.fr/amublop_griotte.png",
+   "condition": "",
+   "description": "Description : Quand Lorkos voulut pénétrer dans le Labyrinthe du Minotoror, il n'hésita pas une seconde à équiper son Amublop. Personne n'a jamais su pourquoi."
+  },
+  {
+   "name": "Amulette Royale du Bouftou",
+   "level": "Niveau 50",
+   "caracteristique": "Force : 11 à 30\nIntelligence : 11 à 30",
+   "recette": "1x Amulette du Bouftou\n10x Corne de Bouftou\n10x Dent de Chef de Guerre Bouftou\n5x Corne de Chef de Guerre Bouftou\n20x Oeil de Boufton\n20x Oeil de Bouftou",
+   "image": "https://barbok.eratz.fr/amulette_royale_du_bouftou.png",
+   "condition": "",
+   "description": "Description : Cette amulette augmente la force et l'intelligence de son porteur."
+  },
+  {
+   "name": "Amublop Coco",
+   "level": "Niveau 50",
+   "caracteristique": "Vitalité : 26 à 40\nSagesse : 11 à 15\nAgilité : 16 à 25\nCoup critiques : +4 à 5",
+   "recette": "50x Bout de Blop Coco\n1x Fleur de Gloutoblop\n50x Pollen de Blop\n1x La Reinette\n10x Fleur de Blop Coco\n1x Feuille de Blop Royal",
+   "image": "https://barbok.eratz.fr/amublop_coco.png",
+   "condition": "",
+   "description": "Description : Quand Lorkos voulut pénétrer dans le Labyrinthe du Minotoror, il n'hésita pas une seconde à équiper son Amublop. Personne n'a jamais su pourquoi."
+  },
+  {
+   "name": "Amublop Reinette",
+   "level": "Niveau 50",
+   "caracteristique": "Vitalité : 26 à 40\nSagesse : 11 à 15\nForce : 16 à 25\nCoup critiques : +4 à 5",
+   "recette": "10x Fleur de Blop Reinette\n1x La Reinette\n1x Fleur de Gloutoblop\n1x Feuille de Blop Royal\n50x Bout de Blop Reinette\n50x Pollen de Blop",
+   "image": "https://barbok.eratz.fr/amublop_reinette.png",
+   "condition": "",
+   "description": "Description : Quand Lorkos voulut pénétrer dans le Labyrinthe du Minotoror, il n'hésita pas une seconde à équiper son Amublop. Personne n'a jamais su pourquoi."
+  },
+  {
+   "name": "Amublop Indigo",
+   "level": "Niveau 50",
+   "caracteristique": "Vitalité : 26 à 40\nSagesse : 11 à 15\nChance : 16 à 25\nCoup critiques : +4 à 5",
+   "recette": "1x Feuille de Blop Royal\n50x Bout de Blop Indigo\n50x Pollen de Blop\n1x Fleur de Gloutoblop\n10x Fleur de Blop Indigo\n1x La Reinette",
+   "image": "https://barbok.eratz.fr/amublop_indigo.png",
+   "condition": "",
+   "description": "Description : Quand Lorkos voulut pénétrer dans le Labyrinthe du Minotoror, il n'hésita pas une seconde à équiper son Amublop. Personne n'a jamais su pourquoi."
+  },
+  {
+   "name": "Médaille Oly",
+   "level": "Niveau 51",
+   "caracteristique": "+6 de dommages\nForce : 20",
+   "recette": "8x Bois de Merisier\n4x Bois d'If\n3x Bois d'Ebène\n10x Bois de Chêne\n1x Cristal\n10x Argent",
+   "image": "https://barbok.eratz.fr/medaille_oly.png",
+   "condition": "Alignement doit etre Bonta\nIntelligence > 10",
+   "description": "Description : Oly était une disciple de Iop dont le seul talent était la cuisine. On rapporte que Iop en personne lui aurait donné cette médaille, pour compenser ses trop grandes faiblesses en combat. Cependant seuls les coeurs purs peuvent la porter."
+  },
+  {
+   "name": "Amulette de Xélor",
+   "level": "Niveau 52",
+   "caracteristique": "PA : +1\nCoup critiques : +2 à 3\n+3 à 6 de dommages\nForce : -1 à -30\nIntelligence : -1 à -30",
+   "recette": "1x Diamant\n1x Rubis\n1x Saphir\n2x Bauxite\n3x Or\n1x Cristal",
+   "image": "https://barbok.eratz.fr/amulette_de_xelor.png",
+   "condition": "",
+   "description": "Description : Cette amulette surpuissante est le fruit du travail sur la maîtrise du temps d'un très vieux Xélor."
+  },
+  {
+   "name": "Amulette du Craqueleur des Plaines",
+   "level": "Niveau 52",
+   "caracteristique": "Vitalité : 16 à 25\nIntelligence : 16 à 25\nAgilité : 16 à 25\nChance : 16 à 25\nRésistance : 4 à 8 (terre)\nRésistance : 4 à 8 (neutre)",
+   "recette": "1x Fragment de Pierre Pointue\n1x Coeur de Craqueleur\n2x Dent en Or du Craqueleur\n20x Or\n1x Méga Pierre du Craqueleur\n5x Fragment de Pierre Polie",
+   "image": "https://barbok.eratz.fr/amulette_du_craqueleur_des_plaines.png",
+   "condition": "",
+   "description": "Description : Cette amulette renferme une partie de l'histoire des Craqueleurs des Plaines qui pourrait se résumer en deux lignes si quelqu'un la connaissait. Malheureusement, les Craqueleurs eux-mêmes ne la connaissent pas."
+  },
+  {
+   "name": "L'Oeil de Kanigrou",
+   "level": "Niveau 52",
+   "caracteristique": "Coup critiques : +2 à 5\n+2 à 5 de dommages\nVitalité : 11 à 20\nRésistance : 3 à 4% (neutre)",
+   "recette": "1x Oeil de Kanigrou\n1x Fil Résistant\n8x Or\n8x Bauxite\n8x Argent\n8x Etain",
+   "image": "https://barbok.eratz.fr/loeil_de_kanigrou.png",
+   "condition": "",
+   "description": "Description : Offert à Melyonen par le célèbre Kanigrou Rook Y Balboua, pour la remercier de lui avoir présenté celle qui est maintenant sa femme, Ar d'rieeeeeeeeeneuh comme il aime à l'appeler."
+  },
+  {
+   "name": "Talisman du Faucheur d'Avoine",
+   "level": "Niveau 55",
+   "caracteristique": "Intelligence : 21 à 30\nSoins : 3 à 5\nRésistance : 1 à 5 (feu)\nRésistance : 1 à 5 (air)\nRésistance : 1 à 5 (eau)",
+   "recette": "3x Rutile\n2x Pyrute\n1x Agathe\n8x Racine de Bulbambou\n8x Racine de Bulbiflore\n8x Racine de Bulbuisson",
+   "image": "https://barbok.eratz.fr/talisman_du_faucheur_davoine.png",
+   "condition": "",
+   "description": "Description : \"Je ne suis pas un Tikoko, les Trukikols me collent à la peau, je ne suis pas un Tikoko, un Tikokooooooo...\". Voilà ce que chantait à tue-tête en revenant de ses vacances sur l'île de Moon, Danioule le célèbre ménestrel paysan, connu pour battre l'Avoine en chantant."
+  },
+  {
+   "name": "Amuloumulette",
+   "level": "Niveau 57",
+   "caracteristique": "Agilité : 6 à 30\nCoup critiques : +2 à 5\n+2 à 5 de dommages\nProspection : 1 à 10",
+   "recette": "15x Griffe du Mulou\n25x Canine du Mulou\n1x Testicules du Mulou\n1x Scalp de Milimulou\n1x Scalp de Mulou\n10x Oeil de Mulou",
+   "image": "https://barbok.eratz.fr/amuloumulette.png",
+   "condition": "",
+   "description": "Description : Derrière ce surnom stupide, se cache en réalité une amulette relativement puissante, confectionnée à partir de crocs, de dents et d'ossements de Mulous, ce qui explique la terrible odeur qui s'en dégage. A défaut d'être assortie à votre cou, elle sera assortie à votre haleine."
+  },
+  {
+   "name": "Amulette du Koalak",
+   "level": "Niveau 60",
+   "caracteristique": "Sagesse : 21 à 30\nRésistance : 3 à 4% (eau)\nRésistance : 3 à 4% (terre)",
+   "recette": "1x Poils de Koalak Griotte\n2x Os de Pékeualak\n2x Etoffe de Dok Alako\n1x Peau de Koalak Immature\n1x Poils de Koalak Indigo\n1x Poils de Koalak Koko",
+   "image": "https://barbok.eratz.fr/amulette_du_koalak.png",
+   "condition": "",
+   "description": "Description : Cette amulette ne ressemble à aucune autre amulette, tout simplement car aucune amulette ne lui ressemble."
+  },
+  {
+   "name": "Amulette Dents de Wabbits",
+   "level": "Niveau 60",
+   "caracteristique": "Force : 21 à 30\nVitalité : 21 à 30\nAgilité : 21 à 30\nChance : 21 à 30\nAugmente les dommages de 1 à 5%\nPortée : +1\nCréature invocables : +1\nInitiative : 101 à 200",
+   "recette": "150x Dent de Wabbit\n5x Cawotte\n10x Patte de Wabbit\n2x Poils de Barbe du Grand Pa Wabbit\n10x Etoffe du Wabbit\n26x Bandeau du Black Tiwabbit",
+   "image": "https://barbok.eratz.fr/amulette_",
+   "condition": "",
+   "description": "Description : Les dents de cette amulette ont rongé plus de Cawottes que Brouce Boulgoure n'a déraciné d'arbres, ne vous étonnez donc pas si vous sentez la Cawotte, et si les Tiwabbits cherchent à vous faire des bisous dans le cou."
+  },
+  {
+   "name": "Gelamu",
+   "level": "Niveau 60",
+   "caracteristique": "Initiative : 101 à 400\nPortée : +1 à 2\nCréature invocables : +1 à 2",
+   "recette": "1x Multygely\n10x Blugely\n10x Vertgely\n10x Rougely\n15x Gelée Bleutée\n8x Gelée à la Menthe",
+   "image": "https://barbok.eratz.fr/gelamu.png",
+   "condition": "",
+   "description": "Description : Voilà une amulette, qui trahira votre goût prononcé pour les orgies de Gelée. On peut trouver mieux pour se mettre en valeur ou briller en société, mais il faut assumer jusqu'au bout votre faible pour la gelée."
+  },
+  {
+   "name": "Amulette Aerdala",
+   "level": "Niveau 62",
+   "caracteristique": "Vitalité : 21 à 30\nAgilité : 21 à 30\n+2 à 3 de dommages\nPA : +1",
+   "recette": "50x Artefact Pandawushu Air\n1x Racine de Bulbiflore\n1x Racine de Bulbuisson\n1x Silicate\n10x Dolomite\n5x Agathe",
+   "image": "https://barbok.eratz.fr/amulette_aerdala.png",
+   "condition": "",
+   "description": "Description : Seuls les habitants du village d'Aerdala avaient l'autorisation de porter cette amulette, qui est censée être un des éléments les plus importants de leur costume traditionnel. En y regardant de plus près, on se demande bien pourquoi."
+  },
+  {
+   "name": "Le Flan des Étoiles",
+   "level": "Niveau 62",
+   "caracteristique": "Sagesse : 16 à 25\nVitalité : 16 à 25\nIntelligence : 16 à 25\nPA : +1",
+   "recette": "20x Gelée à la Menthe\n20x Oeuf de Tofu\n5x Gelée Bleutée Royale\n2x Saphir\n2x Emeraude\n15x Gelée Bleutée",
+   "image": "https://barbok.eratz.fr/le_flan_des_etoiles.png",
+   "condition": "",
+   "description": "Description : Cet objet a été moulé à partir d'un mélange d'oeufs célestes et de poussières d'étoiles lactées. A conserver au frais."
+  },
+  {
+   "name": "Amulette Turquoise",
+   "level": "Niveau 63",
+   "caracteristique": "Prospection : 3 à 5\nIntelligence : 21 à 40\nPortée : +1\nChance : 16 à 25\nAgilité : 16 à 25\nVitalité : 21 à 30",
+   "recette": "2x Rubis\n10x Bois d'Ebène\n10x Bois de Merisier\n2x Ambre d'Abraknyde Sombre\n20x Bauxite\n20x Or",
+   "image": "https://barbok.eratz.fr/amulette_turquoise.png",
+   "condition": "",
+   "description": "Description : De la couleur du célèbre Dofus Turquoise, cette amulette n'a en fait aucun rapport avec ce dernier, ce qui ne l'empêche pas d'être très puissante pour autant. Comme quoi, les apparences ne sont pas toujours trompeuses."
+  },
+  {
+   "name": "La Maîtrise des Poupées",
+   "level": "Niveau 69",
+   "caracteristique": "Vitalité : 31 à 45\nPA : +1\nCréature invocables : +2 à 3\nRésistance : 3 à 5 (terre)\nRésistance : 3 à 5 (neutre)\nRésistance : 2 à 3% (terre)",
+   "recette": "10x Bois d'Orme\n10x Bois d'Ebène\n3x Rubis\n3x Cristal\n1x Bois Envoûté\n2x Ambre d'Abraknyde Sombre",
+   "image": "https://barbok.eratz.fr/la_maitrise_des_poupees.png",
+   "condition": "",
+   "description": "Description : Epuop Tik en personne a commandé cette amulette à un illustre bijoutier. Il désirait pouvoir habiller toutes ses poupées en même temps au lieu d'attendre qu'elles périssent pour en invoquer d'autres. Une maladie courante chez les Sadidas."
+  },
+  {
+   "name": "Amulette du Chef Crocodaille",
+   "level": "Niveau 70",
+   "caracteristique": "PA : +1\nCréature invocables : +1\nRésistance : 4 à 5% (air)\nRésistance : 4 à 5% (eau)",
+   "recette": "20x Ecaille de Chef Crocodaille\n25x Ecaille de Crocodaille\n1x Bouclier Reptilien\n1x Diamant\n1x Emeraude\n2x Rubis",
+   "image": "https://barbok.eratz.fr/amulette_du_chef_crocodaille.png",
+   "condition": "",
+   "description": "Description : Cette surprenante amulette a en fait été confectionnée à partir d'un Bouclier Reptilien dont on a détaché les multiples pierres précieuses. C'est donc un bijou particulièrement lourd à porter mais vraiment très résistant. Votre cou sera parfaitement protégé des vampires, mais aussi des suçons des villageoises un peu trop entreprenantes."
+  },
+  {
+   "name": "La Doubitch O'Boul",
+   "level": "Niveau 77",
+   "caracteristique": "Vitalité : 41 à 60\nIntelligence : 21 à 35\nPA : +1\nProspection : 11 à 15",
+   "recette": "1x Sucre d'Orge\n20x Vertgely\n20x Rougely\n1x Multygely\n20x Blugely\n10x Gelée Fraise Royale",
+   "image": "https://barbok.eratz.fr/la_doubitch_oboul.png",
+   "condition": "",
+   "description": "Description : Cette amulette est en fait une confiserie. Elle pourrait être mangée si elle n'avait pas auparavant été roulée sous les aisselles pendant 36 générations, par une horde de femelles Bwork en chaleur."
+  },
+  {
+   "name": "Amublop Indigo Royale",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 16 à 30\nChance : 16 à 30\nSoins : 3 à 5\n+3 à 5 de dommages\nPA : +1\nCréature invocables : +1",
+   "recette": "1x Amublop Indigo\n10x Fleur de Blopignon\n100x Pollen de Blop\n5x Feuille de Blop Royal\n10x Racine de Tronkoblop\n100x Bout de Blop Indigo\n1x Fleur de Blop Indigo Royal",
+   "image": "https://barbok.eratz.fr/amublop_indigo_royale.png",
+   "condition": "",
+   "description": "Description : Cette amulette coûte beaucoup plus cher à fabriquer qu'une Amublop classique. Mais il faut voir le bon côté des choses, elle peut aussi se revendre plus cher, surtout si vous arnaquez un habitant d'Astrub."
+  },
+  {
+   "name": "Epis de Shika",
+   "level": "Niveau 80",
+   "caracteristique": "Chance : 21 à 30\nVitalité : 26 à 40\nSagesse : 11 à 15\nCoup critiques : +1 à 2\n+2 à 3 de dommages\nPA : +1\nCréature invocables : +1\nProspection : 6 à 7",
+   "recette": "1x Ficelle en Lin\n12x Ambre de Bambouto\n2x Ambre Ancestrale\n6x Avoine Magique\n100x Fragment de Pierre Polie\n130x Pétale de Tournesol Sauvage\n50x Feuille de Tournesol Sauvage",
+   "image": "https://barbok.eratz.fr/epis_de_shika.png",
+   "condition": "",
+   "description": "Description : Shika assistait Farle lors des moissons, en récupérant les épis magiques qui tombaient sous sa faux. Elle prit l'habitude au fil des moissons, de les accrocher autour de son cou. Privés de leurs racines et du reste de leur tige, ces épis magiques continuent tout de même de mûrir chaque année à la même période."
+  },
+  {
+   "name": "Amulette Terrdala",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 31 à 50\nSagesse : 11 à 20\nPA : +1\nRésistance : 4 à 5% (air)\nRésistance : 4 à 5% (eau)",
+   "recette": "50x Artefact Pandawushu Terre\n3x Diamant\n1x Agathe\n4x Aluminite\n3x Pyrute\n10x Bois de Bambou Sombre\n1x Ecorce magique de Bulbambou",
+   "image": "https://barbok.eratz.fr/amulette_terrdala.png",
+   "condition": "",
+   "description": "Description : Seuls les habitants du village de Terrdala avaient l'autorisation de porter cette amulette, qui est censée être un des éléments les plus importants de leur costume traditionnel. En y regardant de plus près, on se demande bien pourquoi."
+  },
+  {
+   "name": "Amublop Reinette Royale",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 16 à 30\nForce : 16 à 30\nSoins : 3 à 5\n+3 à 5 de dommages\nPA : +1\nCréature invocables : +1",
+   "recette": "1x Amublop Reinette\n10x Fleur de Blopignon\n100x Pollen de Blop\n5x Feuille de Blop Royal\n10x Racine de Tronkoblop\n100x Bout de Blop Reinette\n1x Fleur de Blop Reinette Royal",
+   "image": "https://barbok.eratz.fr/amublop_reinette_royale.png",
+   "condition": "",
+   "description": "Description : Cette amulette coûte beaucoup plus cher à fabriquer qu'une Amublop classique. Mais il faut voir le bon côté des choses, elle peut aussi se revendre plus cher, surtout si vous arnaquez un habitant d'Astrub."
+  },
+  {
+   "name": "Epis de Farle",
+   "level": "Niveau 80",
+   "caracteristique": "Force : 21 à 30\nVitalité : 26 à 40\nSagesse : 11 à 15\nCoup critiques : +1 à 2\n+2 à 3 de dommages\nPA : +1\nCréature invocables : +1\nProspection : 6 à 7",
+   "recette": "1x Ficelle en Lin\n3x Cristal\n1x Emeraude\n60x Or\n1x Diamant\n2x Rubis\n6x Blé d'Or",
+   "image": "https://barbok.eratz.fr/epis_de_farle.png",
+   "condition": "",
+   "description": "Description : Cette amulette d'apparence rudimentaire a été confectionnée à partir de trois épis de Blé magiques, recouverts de poussière de pierre précieuse, et fauchés dans les plaines de Snossios pendant la treizième moisson d'Istrabraq. Elle confère un courage hors du commun à son porteur, désormais à même de faucher plaines et vallées sans jamais faillir."
+  },
+  {
+   "name": "Amublop Coco Royale",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 16 à 30\nAgilité : 16 à 30\nSoins : 3 à 5\n+3 à 5 de dommages\nPA : +1\nCréature invocables : +1",
+   "recette": "1x Amublop Coco\n10x Fleur de Blopignon\n100x Pollen de Blop\n5x Feuille de Blop Royal\n10x Racine de Tronkoblop\n100x Bout de Blop Coco\n1x Fleur de Blop Coco Royal",
+   "image": "https://barbok.eratz.fr/amublop_coco_royale.png",
+   "condition": "",
+   "description": "Description : Cette amulette coûte beaucoup plus cher à fabriquer qu'une Amublop classique. Mais il faut voir le bon côté des choses, elle peut aussi se revendre plus cher, surtout si vous arnaquez un habitant d'Astrub."
+  },
+  {
+   "name": "Amublop Griotte Royale",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 16 à 30\nIntelligence : 16 à 30\nSoins : 3 à 5\n+3 à 5 de dommages\nPA : +1\nCréature invocables : +1",
+   "recette": "1x Amublop Griotte\n10x Fleur de Blopignon\n100x Pollen de Blop\n5x Feuille de Blop Royal\n10x Racine de Tronkoblop\n100x Bout de Blop Griotte\n1x Fleur de Blop Griotte Royal",
+   "image": "https://barbok.eratz.fr/amublop_griotte_royale.png",
+   "condition": "",
+   "description": "Description : Cette amulette coûte beaucoup plus cher à fabriquer qu'une Amublop classique. Mais il faut voir le bon côté des choses, elle peut aussi se revendre plus cher, surtout si vous arnaquez un habitant d'Astrub."
+  },
+  {
+   "name": "Amulette Argie",
+   "level": "Niveau 82",
+   "caracteristique": "Résistance : 6 à 10 (eau)\nRésistance : 6 à 10 (air)\nRésistance : 6 à 10 (feu)\nRésistance : 6 à 10 (terre)\nRésistance : 6 à 10 (neutre)\nRésistance : 3 à 5% (air)\nRésistance : 3 à 5% (feu)\nRésistance : 3 à 5% (eau)",
+   "recette": "30x Or\n30x Bauxite\n30x Manganèse\n3x Rubis\n3x Cristal\n4x Ambre d'Abraknyde Sombre\n10x Bois d'Oliviolet",
+   "image": "https://barbok.eratz.fr/amulette_argie.png",
+   "condition": "",
+   "description": "Description : Cette étrange amulette, permet à son porteur de s'endormir pour une bonne sieste en plein combat. Un peu comme un Féca le ferait contre un groupe de Craqueleurs."
+  },
+  {
+   "name": "Amulette du Craqueleur Légendaire",
+   "level": "Niveau 84",
+   "caracteristique": "Vitalité : 31 à 50\nSagesse : 16 à 25\nIntelligence : 16 à 25\nAgilité : 16 à 25\nPA : +1\nRésistance : 4 à 5 (eau)\nRésistance : 4 à 5 (terre)",
+   "recette": "4x Topaze\n15x Pierre du Craqueleur Légendaire\n1x Amulette du Craqueleur\n15x Saphir\n15x Rubis\n1x Craquamulette\n25x Fragment de Pierre Pointue",
+   "image": "https://barbok.eratz.fr/amulette_du_craqueleur_legendaire.png",
+   "condition": "",
+   "description": "Description : D'apparence modeste, cette amulette renferme bien des secrets notamment celui précisant quels secrets elle renferme."
+  },
+  {
+   "name": "Amufafah",
+   "level": "Niveau 84",
+   "caracteristique": "Force : 16 à 25\nVitalité : 31 à 40\nSagesse : 11 à 20\nAgilité : 16 à 25\nPM : 1\nProspection : 6 à 10\nRésistance : 1 à 3% (feu)\nRésistance : 1 à 3% (eau)",
+   "recette": "3x Crinière fleurie\n15x Duvet du Kilibriss\n18x Moustache du Mufafah\n10x Plume de fesse du Kido\n9x Aile du Bitouf des plaines\n2x Touffe rousse du Flib\n1x Rune Ga Pme",
+   "image": "https://barbok.eratz.fr/amufafah.png",
+   "condition": "",
+   "description": "Description : Ce collier donne une furieuse envie de rugir à son possesseur, simplement parce que les moustaches du Mufafah qui l'ornent lui chatouillent les tétons."
+  },
+  {
+   "name": "La Feuille d'Automne",
+   "level": "Niveau 89",
+   "caracteristique": "Portée : +1 à 2\nCoup critiques : +6 à 10\nChance : 21 à 50\nAgilité : 21 à 50\nProspection : 11 à 15\nForce : -50\nIntelligence : -50",
+   "recette": "1x Bois Ancestral\n10x Or\n10x Bois de Charme\n2x Saphir\n10x Bois d'Ebène\n10x Bois de Merisier\n10x Bois d'Orme",
+   "image": "https://barbok.eratz.fr/la_feuille_dautomne.png",
+   "condition": "",
+   "description": "Description : Cette Broche a été confectionnée un matin d'automne au milieu d'une forêt de Hêtres et d'Ormes non loin de l'île d'Olag-lacustre. Elle est considérée par nombre de bûcherons comme une véritable relique."
+  },
+  {
+   "name": "Amublop Multicolore Royale",
+   "level": "Niveau 90",
+   "caracteristique": "Vitalité : 41 à 70\nSagesse : 16 à 30\n+4 à 6 de dommages\nAugmente les dommages de 21 à 30%\nPA : +1\nRésistance : 2 à 3% (feu)",
+   "recette": "1x Amublop Coco Royale\n1x Amublop Griotte Royale\n1x Amublop Indigo Royale\n1x Amublop Reinette Royale\n1x Fleur de Blop Multicolore Royal\n5x Feuille de Blop Multicolore Royal\n10x Fleur de Gloutoblop",
+   "image": "https://barbok.eratz.fr/amublop_multicolore_royale.png",
+   "condition": "",
+   "description": "Description : Sans additif ni colorant, cette amulette serait tout simplement transparente. Rassurez-vous, personne ne vous demandera de la manger."
+  },
+  {
+   "name": "Amulette Feudala",
+   "level": "Niveau 91",
+   "caracteristique": "Vitalité : 31 à 50\nIntelligence : 26 à 40\nChance : 26 à 40\nSoins : 4 à 5\nPA : +1\nRésistance : 6 à 10% (air)",
+   "recette": "50x Artefact Pandawushu Feu\n4x Agathe\n10x Pyrute\n5x Rutile\n2x Ecorce magique de Bulbiflore\n10x Bois de Bambou Sombre\n3x Emeraude",
+   "image": "https://barbok.eratz.fr/amulette_feudala.png",
+   "condition": "",
+   "description": "Description : Seuls les habitants du village de Feudala avaient l'autorisation de porter cette amulette, qui est censée être un des éléments les plus importants de leur costume traditionnel. En y regardant de plus près, on se demande bien pourquoi."
+  },
+  {
+   "name": "La Résinette",
+   "level": "Niveau 94",
+   "caracteristique": "Vitalité : 31 à 50\nSagesse : 16 à 25\nSoins : 4 à 8\n+3 à 4 de dommages\nProspection : 11 à 15\nRésistance : 4 à 5 (neutre)\nRésistance : 4 à 5 (feu)",
+   "recette": "1x Topaze\n1x Agathe\n1x Aigue-Marine\n1x Pyrute\n1x Racine de Bulbig\n1x Dent magique de Cooleuvre\n1x Rutile",
+   "image": "https://barbok.eratz.fr/la_resinette.png",
+   "condition": "",
+   "description": "Description : Cette amulette en résine de Bambou diffusera autour de vous une odeur agréable. Très efficace pour dissimuler vos essais de Vents de Panique."
+  },
+  {
+   "name": "Amulette de la Bouboule",
+   "level": "Niveau 98",
+   "caracteristique": "Sagesse : 21 à 35\nCréature invocables : +1 à 2\nProspection : 6 à 15\nRésistance : 6 à 10 (eau)\nRésistance : 6 à 10 (air)\nRésistance : 6 à 10 (feu)\nAugmente les dommages de 11 à 15%\nRésistance : 3 à 5% (eau)\nRésistance : 3 à 5% (neutre)",
+   "recette": "30x Bout de Blop Coco\n30x Bout de Blop Griotte\n30x Bout de Blop Indigo\n30x Bout de Blop Reinette\n10x Or\n6x Cristal\n6x Rubis",
+   "image": "https://barbok.eratz.fr/amulette_de_la_bouboule.png",
+   "condition": "",
+   "description": "Description : Un vieux dicton de Sufokia dit: de la Boule un jour, de la Bouboule peut-être un autre jour. Vous pourrez constatez que, plus le dicton est vieux, plus il s'avère ridicule."
+  },
+  {
+   "name": "La Feuille d'Hiver",
+   "level": "Niveau 98",
+   "caracteristique": "Vitalité : 21 à 40\nSagesse : 11 à 20\nChance : 21 à 40\n+3 à 7 de dommages\nAugmente les dommages de 3 à 5%\nProspection : 6 à 15\nRésistance : 3 à 5% (eau)",
+   "recette": "1x Kobalite\n1x Kriptonite\n1x Kouartz\n2x Saphir\n5x Ivoire\n1x Bois Envoûté\n4x Rubis",
+   "image": "https://barbok.eratz.fr/la_feuille_dhiver.png",
+   "condition": "",
+   "description": "Description : Cette magnifique broche est un hommage à la célèbre résistance des mineurs de la mine d'argent de Grimoth, qui passèrent un hiver entier, à combattre un Rockailleux de la pire espèce, pour finalement mourir achevés par un vieux Tofu égaré."
+  },
+  {
+   "name": "Collier du Dragon Cochon",
+   "level": "Niveau 100",
+   "caracteristique": "Agilité : 21 à 35\nSagesse : 16 à 25\nVitalité : 31 à 50\nCoup critiques : +2 à 3\nAugmente les dommages de 16 à 20%\nSoins : 3 à 5\n+3 à 5 de dommages\nRésistance : 4 à 6% (air)\nRésistance : 4 à 6% (terre)\nPA : +1",
+   "recette": "5x Cuir de Déminoboule\n8x Cuir Noir\n15x Peau de Bworkette\n25x Peau de Cochon de Farle\n12x Slip en cuir de Cochon de Lait\n30x Ivoire\n1x Poil de Dragon Cochon",
+   "image": "https://barbok.eratz.fr/collier_du_dragon_cochon.png",
+   "condition": "",
+   "description": "Description : Ce collier dispose d'une petite boucle, qui permettait d'accrocher une laisse au cou du Dragon Cochon, lorsque son propriétaire voulait l'emmener faire une petite promenade nocturne."
+  },
+  {
+   "name": "Amulette du Chef Bwork",
+   "level": "Niveau 100",
+   "caracteristique": "Force : 16 à 25\nVitalité : 36 à 50\nSagesse : 16 à 25\nChance : 26 à 35\nCoup critiques : +2 à 4\nPA : +1\nInitiative : 81 à 100\nRésistance : 4 à 5% (air)\nRésistance : 4 à 5% (eau)\nRésistance : 4 à 5% (terre)",
+   "image": "https://barbok.eratz.fr/amulette_du_chef_bwork.png",
+   "condition": "",
+   "description": "Description : D'apparence rudimentaire, cette amulette en forme de silex taillé est pourtant dotée d'une magie très puissante capable de transformer un Bwork en princesse, ou l'inverse, personne ne sait."
+  },
+  {
+   "name": "Collier du Rat Blanc",
+   "level": "Niveau 103",
+   "caracteristique": "Agilité : 26 à 35\nForce : 16 à 25\nVitalité : 31 à 50\nSagesse : 11 à 20\n+4 à 6 de dommages\nPA : +1\nInitiative : 200",
+   "recette": "1x Amulette de Xélor\n10x Ecaille de Chef Crocodaille\n3x Ambre de Bambouto Sacré\n2x Dent de Rat Blanc\n20x Ecaille de Crocodaille\n5x Colonne Vertebrale\n10x Silex",
+   "image": "https://barbok.eratz.fr/collier_du_rat_blanc.png",
+   "condition": "",
+   "description": "Description : Si vous le portez comme un collier, il vous protègera des émanations toxiques provenant des égoûts. En revanche, si vous le portez comme une ceinture, ce sont vos alliés qui seront protégés de vos émanations toxiques."
+  },
+  {
+   "name": "Collier du Rat Noir",
+   "level": "Niveau 103",
+   "caracteristique": "Agilité : 26 à 40\nPA : +1\nVitalité : 41 à 70\nSagesse : 16 à 25\n+6 à 10 de dommages aux pièges\n16 à 25% de dommages aux pièges\nRésistance : 4 à 6 (feu)",
+   "recette": "2x Etoffe du Rat Noir\n10x Collier Cassé d'Ouginak\n10x Ambre de Bambouto\n50x Crocs de Rats\n1x Rubis\n20x Oeil d'Ouginak\n1x La Broche Céleste",
+   "image": "https://barbok.eratz.fr/collier_du_rat_noir.png",
+   "condition": "",
+   "description": "Description : Le rat qui possédait ce collier pensait devenir le chef de son clan. Il s'est fait manger par un Lenald enragé."
+  },
+  {
+   "name": "Ouassulette",
+   "level": "Niveau 105",
+   "caracteristique": "Vitalité : 41 à 70\nSagesse : 21 à 30\nIntelligence : 26 à 40\nAgilité : 21 à 30\nSoins : 4 à 6\nPA : +1\nProspection : 11 à 15\nRésistance : 6 à 10 (feu)",
+   "recette": "71x Etoffe de Ouassingue\n3x Jus de Ouassingue\n4x Tourbe séchée de Tourbassingue\n4x Faux menton du Bourbassingue\n1x Dragolyre Remaniée\n3x Glouto Rhum\n1x Culotte à l'envers du Roissingue",
+   "image": "https://barbok.eratz.fr/ouassulette.png",
+   "condition": "",
+   "description": "Description : Ce bijou essaye parfois de vous voler des aliments au passage pendant votre repas, ne le laissez pas pendre trop bas."
+  },
+  {
+   "name": "Torque Ancestral",
+   "level": "Niveau 110",
+   "caracteristique": "Chance : 26 à 40\nForce : 21 à 30\nVitalité : 51 à 100\nSagesse : 11 à 20\nPA : +1\nProspection : 6 à 10\n+4 à 6 de dommages\nRésistance : 5 à 7 (feu)\nRésistance : 6 à 10% (feu)",
+   "recette": "30x Bois de Kaliptus\n35x Bourgeon d'Abraknyde Sombre\n150x Ecorce d'Abraknyde\n5x Racine d'Abraknyde Ancestral\n1x L'Abramu\n5x Ecorce d'Abraknyde Ancestral\n20x L'Araknamu",
+   "image": "https://barbok.eratz.fr/torque_ancestral.png",
+   "condition": "",
+   "description": "Description : Autour du cou, ce torque met en valeur votre barbe. Si vous n'avez pas de barbe, vous ne pouvez vous en prendre qu'à vous-même."
+  },
+  {
+   "name": "Collier du Minotoror",
+   "level": "Niveau 111",
+   "caracteristique": "PA : +1\nVitalité : 151 à 200\nSagesse : 21 à 45\nCréature invocables : +2 à 3\nSoins : 4 à 6\nProspection : 11 à 15",
+   "recette": "20x Poil de Renarbo\n1x Collier Cassé d'Ouginak\n13x Ambre de Bambouto Sacré\n5x Laine du Minotoror\n1x Cuir de Minotoror\n10x Poils du Minotoror\n1x Queue de Minotoror",
+   "image": "https://barbok.eratz.fr/collier_du_minotoror.png",
+   "condition": "",
+   "description": "Description : Ce collier permettait au Minotoror de ne pas avoir de puces, de tiques, ou même de poux. De toute évidence, vous en aviez besoin."
+  },
+  {
+   "name": "La Feuille de Printemps",
+   "level": "Niveau 123",
+   "caracteristique": "Vitalité : 41 à 70\nAgilité : 31 à 50\n+6 à 10 de dommages\nPortée : +1 à 2\nChance : 31 à 50\nPA : +1\nProspection : 11 à 15\nRésistance : 3 à 5% (feu)\nRésistance : 3 à 5% (eau)",
+   "recette": "2x Kobalite\n3x Kouartz\n3x Kriptonite\n5x Emeraude\n6x Cristal\n1x La Feuille d'Automne\n1x Méga Pierre du Craqueleur\n4x Magnésite",
+   "image": "https://barbok.eratz.fr/la_feuille_de_printemps.png",
+   "condition": "",
+   "description": "Description : Cette Amulette spécialement conçue pour les vieux Enutrofs, a permis il y a bien longtemps à Setag, de nettoyer la mine de Grimoth, de tous ses rivaux mineurs. Une méthode certes peu raisonnable, mais terriblement efficace."
+  },
+  {
+   "name": "Amulette du Dragoeuf",
+   "level": "Niveau 124",
+   "caracteristique": "Agilité : 31 à 50\nSagesse : 26 à 40\nVitalité : 71 à 100\nPA : +1\nCoup critiques : +1 à 2\n+5 à 7 de dommages\n11 à 20% de dommages aux pièges\nRésistance : 4 à 6 (feu)\nRésistance : 4 à 6% (feu)\nInitiative : 201 à 300\nProspection : 16 à 25",
+   "recette": "1x Dent de Crocabulia\n10x Ecaille de Dragoss Blanc\n10x Ecaille de Dragoss Doré\n10x Ecaille de Dragoss Noir\n10x Ecaille de Dragoss de Saphire\n50x Pierre du Craqueleur Légendaire\n1x Lanière en cuir du Dragoeuf Guerrier\n10x Carapace du Scarabosse Doré",
+   "image": "https://barbok.eratz.fr/amulette_du_dragoeuf.png",
+   "condition": "",
+   "description": "Description : Confectionnée à partir d'écailles de Dragoeufs, cette amulette protégera efficacement votre pomme d'Adam, ou vos amygdales. De quoi faire la différence sur un champ de bataille."
+  },
+  {
+   "name": "Médaille Kido",
+   "level": "Niveau 125",
+   "caracteristique": "Vitalité : 101 à 150\nSagesse : 31 à 40\nIntelligence : 21 à 40\nPA : +1\nProspection : 16 à 20\nRésistance : 6 à 10% (air)\nRésistance : 6 à 10% (feu)",
+   "recette": "1x Os de Fantôme Léopardo\n1x Ecorce magique de Bulbambou\n1x Ecorce magique de Bulbiflore\n1x Ecorce magique de Bulbuisson\n10x Aigue-Marine\n8x Rutile\n9x Pyrute\n4x Ambre de Bambouto Sacré",
+   "image": "https://barbok.eratz.fr/medaille_kido.png",
+   "condition": "",
+   "description": "Description : Cette médaille appartenait à un célèbre Pandawa, maître d'une vieille école d'arts martiaux qui enseignait à ses disciples la défense en utilisant la force de ses adversaires. Son école a fini par disparaître car ses adversaires n'étaient plus assez forts."
+  },
+  {
+   "name": "Amulette du Renouveau",
+   "level": "Niveau 126",
+   "caracteristique": "Force : 31 à 50\nVitalité : 41 à 70\nSagesse : 31 à 40\n+6 à 10 de dommages\nProspection : 11 à 15\nRésistance : 3 à 5% (terre)\nPortée : +1\nPA : +1",
+   "recette": "10x Ivoire\n10x Emeraude\n10x Saphir\n20x Ambre d'Abraknyde Sombre\n1x Bois Envoûté\n30x Or\n20x Cristal\n8x Bois d'Orme",
+   "image": "https://barbok.eratz.fr/amulette_du_renouveau.png",
+   "condition": "",
+   "description": "Description : C'est le célèbre et non moins burlesque artisan Yamato, injustement méprisé pour son arc ridicule, qui le premier, eu l'audace de tenter d'enchanter une amulette avec autant d'effets, chose réputée infaisable depuis des lustres."
+  },
+  {
+   "name": "Plimclik",
+   "level": "Niveau 130",
+   "caracteristique": "PA : +1\nPM : 1\nPortée : +1",
+   "image": "https://barbok.eratz.fr/plimclik.png",
+   "condition": "",
+   "description": "Description : Sous ce nom étrange se cache un objet tout aussi étrange, né on ne sait trop comment de précédentes amulettes. On ignore tout des circonstances dans lesquelles elle a été découverte."
+  },
+  {
+   "name": "Collier Cérémonial du Seigneur des Rats",
+   "level": "Niveau 134",
+   "caracteristique": "PA : +1\nAgilité : 26 à 40\nIntelligence : 16 à 30\nVitalité : 101 à 150\nSagesse : 16 à 25\n+6 à 10 de dommages\nInitiative : 201 à 400\nProspection : 11 à 15\nRésistance : 6 à 10% (neutre)",
+   "recette": "100x Poil de Rat d'Egoutant\n5x Poil de Chaman d'Egoutant\n5x Fémur de Sphincter Cell\n100x Dent de Karne\n1x Collier du Rat Blanc\n50x Crocs de Rats\n1x Collier du Rat Noir\n1x Etoffe de Péki",
+   "image": "https://barbok.eratz.fr/collier_ceremonial_du_seigneur_des_rats.png",
+   "condition": "",
+   "description": "Description : Afin d'éviter qu'on le lui vole, ce collier est glissé autour du cou de l'héritier du Seigneur des rats à sa naissance. Ainsi, à l'âge adulte, le seul moyen de le lui enlever est de lui couper la tête. On le lui vole tout de même."
+  },
+  {
+   "name": "Talisman d'Elya Wood",
+   "level": "Niveau 135",
+   "caracteristique": "Vitalité : 101 à 150\nSagesse : 31 à 40\nSoins : 6 à 10\nPA : +1\nIntelligence : 11 à 30\nRésistance : 9 à 13 (feu)\nRésistance : 9 à 13 (terre)\nRésistance : 5 à 7% (air)\nRésistance : 5 à 7% (eau)",
+   "recette": "10x Poudre d'Eniripsa\n10x Pierre de Diamant\n5x Agathe\n10x Pierre de Saphir\n1x Poils de Moon\n2x Emeraude\n70x Pierre de Topaze\n2x Etoffe de Maho Firefoux",
+   "image": "https://barbok.eratz.fr/talisman_delya_wood.png",
+   "condition": "",
+   "description": "Description : Ce Talisman a été confectionné avec de la poussière d'étoiles et de pierres précieuses, prises dans de l'ambre d'Abraknyde Ancestral. Le mélange étant parfois explosif, il est déconseillé d'en fabriquer une vous-même, laissez cela à un Bijoutier que vous n'aimez pas."
+  },
+  {
+   "name": "Talisman du Chêne Mou",
+   "level": "Niveau 138",
+   "caracteristique": "Force : 26 à 40\nIntelligence : 26 à 40\nSagesse : 16 à 25\nVitalité : 151 à 200\nProspection : 11 à 15\nPA : +1\n+6 à 10 de dommages\nSoins : 6 à 8\nInitiative : 201 à 300",
+   "recette": "30x L'Araknamu\n1x Torque Ancestral\n5x Bois Envoûté\n2x Ambre du Chêne Mou\n3x Ambre d'Abraknyde Sombre\n5x Racine d'Abraknyde Sombre\n10x Ecorce d'Abraknyde Sombre\n25x Bourgeon d'Abraknyde Sombre",
+   "image": "https://barbok.eratz.fr/talisman_du_chene_mou.png",
+   "condition": "",
+   "description": "Description : Cette pièce de bois prélevée au coeur du Chêne mou renferme un grand pouvoir, comme celui de mettre le Chêne Mou en colère."
+  },
+  {
+   "name": "La Meulette",
+   "level": "Niveau 143",
+   "caracteristique": "Force : 31 à 50\nAugmente les dommages de 6 à 15%\nCoup critiques : +2 à 3\nPA : +1\nProspection : 11 à 20\nSagesse : 21 à 30\nVitalité : 151 à 200\nRésistance : 6 à 10% (air)\nRésistance : 6 à 10% (eau)\n+2 à 4 de dommages",
+   "recette": "1x Amuloumulette\n1x Testicules Magiques du Meulou\n50x Etoffe de Dok Alako\n2x Etoffe de Fantôme Soryo Firefoux\n2x Etoffe de Fantôme Pandule\n1x Peau de Pandore\n10x Scalp de Bwork Mage\n5x Testicules du Mulou",
+   "image": "https://barbok.eratz.fr/la_meulette.png",
+   "condition": "",
+   "description": "Description : La Meulette renferme une étrange substance trouvée dans les entrailles du Meulou, d'aucuns prétendent qu'il s'agit de l'essence du monstre, d'autres pensent qu'il avait juste dévoré un Kirboule pas très frais."
+  },
+  {
+   "name": "Collier du Tanukouï San",
+   "level": "Niveau 152",
+   "caracteristique": "Vitalité : 201 à 250\nSagesse : 26 à 40\nAgilité : 31 à 50\nSoins : 6 à 10\n+6 à 10 de dommages\nPA : +1\nInitiative : 401 à 700\nRésistance : 8 à 10 (neutre)\nRésistance : 8 à 10% (neutre)",
+   "recette": "1x Os de Fantôme Tanukouï San\n1x Testicules du Tanukouï San\n5x Rutile\n30x Petite Perle Dorée\n10x Topaze\n40x Poils de Tanukouï San\n30x Peau de Tanukouï San\n8x Ambre de Bambouto Sacré",
+   "image": "https://barbok.eratz.fr/collier_du_tanukoui_san.png",
+   "condition": "",
+   "description": "Description : Ce collier est porté par le Tanukouï San depuis sa tendre enfance, ce qui lui confère une valeur ajoutée non négligeable lorsque l'on sait de quoi il était capable, même durant son enfance."
+  },
+  {
+   "name": "Collier du Minotot",
+   "level": "Niveau 158",
+   "caracteristique": "Chance : 26 à 40\nIntelligence : 26 à 40\nSagesse : 26 à 40\nVitalité : 181 à 230\nPA : +1\nPortée : +1\n+6 à 10 de dommages\nCoup critiques : +3 à 4\nProspection : 16 à 25\nAugmente les dommages de 11 à 15%",
+   "recette": "30x Ailes du Scarabosse Doré\n1x Corne du Minotot\n30x Ailes du Scarafeuille Noir\n1x Collier du Minotoror\n1x Pierre du Koulosse\n15x Rutile\n25x Rubis\n25x Saphir",
+   "image": "https://barbok.eratz.fr/collier_du_minotot.png",
+   "condition": "",
+   "description": "Description : Ce collier permettait aux Minotot, de protéger ses cervicales et d'éviter de périr à cause d'un stupide coup du Wabbit."
+  },
+  {
+   "name": "Zothulette",
+   "level": "Niveau 162",
+   "caracteristique": "+6 à 10 de dommages\nAugmente les dommages de 31 à 50%\nSagesse : 31 à 50\nVitalité : 251 à 300\nSoins : 6 à 10\nProspection : 11 à 20\nRésistance : 6 à 10% (neutre)\nRésistance : 6 à 10% (feu)\nCoup critiques : +4 à 5\nPortée : +1",
+   "recette": "150x Etoffe Zoth\n3x Braguette du Maître Zoth\n2x Rotule du Disciple Zoth\n3x Mouchoir de la Gamine Zoth\n4x Tibia du Guerrier Zoth\n3x Ecusson du Sergent Zoth\n1x Peau de Skeunk\n3x Pistil du Tynril",
+   "image": "https://barbok.eratz.fr/zothulette.png",
+   "condition": "",
+   "description": "Description : Cette amulette est un vulgaire morceau de bois et de tissu déchiré, mais les Zoths croient dur comme fer à ses pouvoirs. Les pauvres fous !"
+  },
+  {
+   "name": "Ougamulette",
+   "level": "Niveau 181",
+   "caracteristique": "Vitalité : 251 à 300\nSagesse : 41 à 50\n+5 à 7 de dommages\nAugmente les dommages de 31 à 40%\nPA : +1\nInitiative : 501 à 600\nProspection : 11 à 20\nRésistance : 6 à 10% (eau)",
+   "recette": "1x Fragment d'Ougalurette\n1x Epine d'Ougah\n8x Ecorce de Champaknyde\n9x Lamelle de Champbis\n11x Oeil de Champmane\n15x Coquille du Kaskargo\n1x Ouassulette\n25x Coco du Bitouf aérien",
+   "image": "https://barbok.eratz.fr/ougamulette.png",
+   "condition": "",
+   "description": "Description : Cette réplique approximative du grand Ougah se porte autour du cou, avec un regard noir et une barbe correctement entretenue."
+  },
+  {
+   "name": "Amulette Ripage",
+   "level": "Niveau 184",
+   "caracteristique": "Force : 31 à 50\nAgilité : 31 à 50\nSagesse : 31 à 40\nVitalité : 201 à 250\nCoup critiques : +1 à 2\n+6 à 10 de dommages\nPA : +1\n11 à 20% de dommages aux pièges\nInitiative : 301 à 400\nProspection : 11 à 20\nRésistance : 6 à 10 (feu)",
+   "recette": "2x Peau du Rasboul Majeur\n21x Ecorce de Nerbe\n25x Croupion du Bitouf aérien\n15x Ecusson du Sergent Zoth\n32x Bec du Kido\n3x Ambre du Tynril\n2x Peau de Bworker\n1x Amulette du Chef Bwork",
+   "image": "https://barbok.eratz.fr/amulette_ripage.png",
+   "condition": "",
+   "description": "Description : Un jour, le Captain Chafer rencontra le Bworker, il prit l'initiative de lui dire : \"ton postérieur, ta tête, quelle différence ?\". Depuis ce jour, personne n'a revu le Captain Chafer. Même son célèbre slip moulant en cuir semble avoir disparu."
+  },
+  {
+   "name": "Amunite",
+   "level": "Niveau 189",
+   "caracteristique": "Vitalité : 201 à 250\nIntelligence : 31 à 50\nSagesse : 31 à 50\n+6 à 10 de dommages\nAugmente les dommages de 6 à 10%\nSoins : 6 à 10\nPA : +1\nProspection : 11 à 20\nRésistance : 6 à 10 (feu)\nRésistance : 6 à 10 (terre)",
+   "recette": "1x Clakoss\n15x Trompe de la Tromperelle\n12x Faux menton du Bourbassingue\n14x Langue du Champodonte\n18x Rembourrage de Meupette\n12x Tibia du Guerrier Zoth\n24x Bâton du Kilibriss\n2x Etoffe du Wa Wabbit",
+   "image": "https://barbok.eratz.fr/amunite.png",
+   "condition": "",
+   "description": "Description : Ce bijou dégage une telle puissance qu'elle tuerait un Moskito à 30 pas, si son odeur n'empêchait pas ce dernier d'approcher à moins d'un kilomètre."
+  },
+  {
+   "name": "Kralamansion",
+   "level": "Niveau 194",
+   "caracteristique": "Vitalité : 251 à 350\nSagesse : 31 à 40\nCoup critiques : +4 à 5\nSoins : 6 à 10\n+11 à 15 de dommages\nAugmente les dommages de 21 à 30%\nPortée : +2\nPA : +1\nCréature invocables : +1 à 2\nProspection : 21 à 30",
+   "recette": "1x Encre du Kralamoure géant\n4x Ventouse du Kralamoure géant\n1x Culotte à l'envers du Roissingue\n13x Jus de Ouassingue\n45x Etoffe de Ouassingue\n28x Etoffe du Roissingue\n5x Kralamoure grillé ****\n6x Sardine à l'huile ****",
+   "image": "https://barbok.eratz.fr/kralamansion.png",
+   "condition": "",
+   "description": "Description : Cette effrayante amulette est longtemps restée cachée dans un manoir perdu. Autrefois vivante, elle voulait conquérir le monde. Finalement elle n'aura que votre cou. La pauvre."
+  }
+ ]
+}

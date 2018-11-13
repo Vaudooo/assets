@@ -1,0 +1,1381 @@
+{
+ "Cape": [
+  {
+   "name": "Cape Brâkmarienne",
+   "level": "Niveau 1",
+   "image": "https://barbok.eratz.fr/cape_brakmarienne.png",
+   "condition": "Alignement doit etre Brâkmar",
+   "description": "Description : Cette cape permet de passer incognito dans un cimetière, ou de se déguiser en Chafeuse lorsque le besoin d'extrême perversité se fait sentir."
+  },
+  {
+   "name": "Cape Banale",
+   "level": "Niveau 1",
+   "image": "https://barbok.eratz.fr/cape_banale.png",
+   "condition": "",
+   "description": "Description : Cette cape est faîte de laine de Boufton. Elle ne vous sera guère utile si ce n'est pour avoir l'air classe... Et encore..."
+  },
+  {
+   "name": "Cape du Piou Bleu",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 1",
+   "recette": "1x Plume de Piou Bleu\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/cape_du_piou_bleu.png",
+   "condition": "",
+   "description": "Description : Si vous êtes suffisamment petit, cette cape confectionnée à partir de quelques plumes de Piou, cachera vos fesses. Une protection assez modeste, mais qui a le mérite d'attirer l'attention des passants sur autre chose que vos cheveux gras ou vos grosses verrues."
+  },
+  {
+   "name": "Cape de l'Aventurier",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 1 à 2\nForce : 1 à 2\nAgilité : 1 à 2\nSagesse : 1 à 2\nIntelligence : 1 à 2",
+   "recette": "1x Cape Bleutée\n1x Petite Cape Sombre",
+   "image": "https://barbok.eratz.fr/cape_de_laventurier.png",
+   "condition": "",
+   "description": "Description : Classe mais peu performante, cette cape comblera tout de même les jeunes aventuriers."
+  },
+  {
+   "name": "Capananas",
+   "level": "Niveau 1",
+   "image": "https://barbok.eratz.fr/capananas.png",
+   "condition": "",
+   "description": "Description : Certains aventuriers racontent que cette cape est aussi rugueuse que la peau d'un Crocodaille, et d'autres racontent même qu'elle est encore plus rugueuse que la peau des fesses d'une femelle Bwork. Quoi qu'il en soit, faites attention à la porter du bon côté, si vous aussi, vous ne voulez pas finir par avoir les fesses rugueuses."
+  },
+  {
+   "name": "Cape Hivernale",
+   "level": "Niveau 1",
+   "image": "https://barbok.eratz.fr/cape_hivernale.png",
+   "condition": "",
+   "description": "Description : Une jolie doublure très chaude et très odorante a été admirablement cousue sur une cape banale.\nSur votre dos, ou comme peau de bête devant la cheminée, cette cape aura enfin une vraie utilité."
+  },
+  {
+   "name": "Cape Bontarienne",
+   "level": "Niveau 1",
+   "image": "https://barbok.eratz.fr/cape_bontarienne.png",
+   "condition": "Alignement doit etre Bonta",
+   "description": "Description : Cette cape vous donne des ailes. La fumée qui s'en dégage lorsqu'elle brûle, pourra même vous faire planer."
+  },
+  {
+   "name": "Cape du Piou Jaune",
+   "level": "Niveau 1",
+   "caracteristique": "Force : 1",
+   "recette": "1x Plume de Piou Jaune\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/cape_du_piou_jaune.png",
+   "condition": "",
+   "description": "Description : Si vous êtes suffisamment petit, cette cape confectionnée à partir de quelques plumes de Piou, cachera vos fesses. Une protection assez modeste, mais qui a le mérite d'attirer l'attention des passants sur autre chose que vos cheveux gras ou vos grosses verrues."
+  },
+  {
+   "name": "Cape du Pirate",
+   "level": "Niveau 1",
+   "caracteristique": "PM perdu à la cible : 1",
+   "image": "https://barbok.eratz.fr/cape_du_pirate.png",
+   "condition": "",
+   "description": "Description : Cette cape a appartenu à un vieux pirate du nom de Zokrim. Il devait être plutôt malchanceux..."
+  },
+  {
+   "name": "Cape du Piou Rouge",
+   "level": "Niveau 1",
+   "caracteristique": "Intelligence : 1",
+   "recette": "1x Plume de Piou Rouge\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/cape_du_piou_rouge.png",
+   "condition": "",
+   "description": "Description : Si vous êtes suffisamment petit, cette cape confectionnée à partir de quelques plumes de Piou, cachera vos fesses. Une protection assez modeste, mais qui a le mérite d'attirer l'attention des passants sur autre chose que vos cheveux gras ou vos grosses verrues."
+  },
+  {
+   "name": "Cape du Piou Vert",
+   "level": "Niveau 1",
+   "caracteristique": "Agilité : 1",
+   "recette": "1x Plume de Piou Vert\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/cape_du_piou_vert.png",
+   "condition": "",
+   "description": "Description : Si vous êtes suffisamment petit, cette cape confectionnée à partir de quelques plumes de Piou, cachera vos fesses. Une protection assez modeste, mais qui a le mérite d'attirer l'attention des passants sur autre chose que vos cheveux gras ou vos grosses verrues."
+  },
+  {
+   "name": "Cape du Piou Rose",
+   "level": "Niveau 1",
+   "caracteristique": "Vitalité : 1",
+   "recette": "1x Graine de Sésame\n1x Plume de Piou Rose",
+   "image": "https://barbok.eratz.fr/cape_du_piou_rose.png",
+   "condition": "",
+   "description": "Description : Si vous êtes suffisamment petit, cette cape confectionnée à partir de quelques plumes de Piou, cachera vos fesses. Une protection assez modeste, mais qui a le mérite d'attirer l'attention des passants sur autre chose que vos cheveux gras ou vos grosses verrues."
+  },
+  {
+   "name": "Petite Cape Bleutée",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 1 à 5",
+   "recette": "10x Laine de Boufton Blanc\n2x Peau de Larve Bleue\n1x Poudre de Perlinpainpain",
+   "image": "https://barbok.eratz.fr/petite_cape_bleutee.png",
+   "condition": "",
+   "description": "Description : Cette cape augmente la chance de son porteur."
+  },
+  {
+   "name": "Cape du Piou Violet",
+   "level": "Niveau 1",
+   "caracteristique": "Sagesse : 1",
+   "recette": "1x Graine de Sésame\n1x Plume de Piou Violet",
+   "image": "https://barbok.eratz.fr/cape_du_piou_violet.png",
+   "condition": "",
+   "description": "Description : Si vous êtes suffisamment petit, cette cape confectionnée à partir de quelques plumes de Piou, cachera vos fesses. Une protection assez modeste, mais qui a le mérite d'attirer l'attention des passants sur autre chose que vos cheveux gras ou vos grosses verrues."
+  },
+  {
+   "name": "La Cape S'loque",
+   "level": "Niveau 1",
+   "caracteristique": "Soins : 1",
+   "image": "https://barbok.eratz.fr/la_cape_sloque.png",
+   "condition": "",
+   "description": "Description : Cette cape molletonnée absorbe tous les bruits environnants, obligeant son porteur à hurler en permanence."
+  },
+  {
+   "name": "Cape Bleutée",
+   "level": "Niveau 3",
+   "caracteristique": "Chance : 1 à 10",
+   "recette": "18x Laine de Boufton Blanc\n1x Poudre de Perlinpainpain\n3x Peau de Larve Bleue",
+   "image": "https://barbok.eratz.fr/cape_bleutee.png",
+   "condition": "",
+   "description": "Description : Cette cape augmente la chance de son porteur."
+  },
+  {
+   "name": "Dofusteuse",
+   "level": "Niveau 6",
+   "caracteristique": "Sagesse : 1 à 20\nAgilité : 1 à 50\nChance : 1 à 50\nVitalité : 1 à 50\nForce : 1 à 50\nIntelligence : 1 à 50",
+   "image": "https://barbok.eratz.fr/dofusteuse.png",
+   "condition": "",
+   "description": "Description : Cette cape est certainement l'une des plus puissantes au monde. Elle augmente toutes les caractéristiques de son porteur."
+  },
+  {
+   "name": "Cape de Mori Arty",
+   "level": "Niveau 6",
+   "caracteristique": "Chance : -10\nIntelligence : 10",
+   "image": "https://barbok.eratz.fr/cape_de_mori_arty.png",
+   "condition": "Alignement doit etre Brâkmar\nIntelligence > 30",
+   "description": "Description : Cette authentique cape de méchant est une preuve de votre appartenance à la bande du diaboliquement génial Mori Arty, dont on raconte que seule sa malchance égalait sa stupéfiante intelligence. Ne peut être portée que par les plus grands méchants."
+  },
+  {
+   "name": "Grande Cape Bleutée",
+   "level": "Niveau 6",
+   "caracteristique": "Chance : 1 à 15",
+   "recette": "26x Laine de Boufton Blanc\n4x Peau de Larve Bleue\n1x Poudre de Perlinpainpain",
+   "image": "https://barbok.eratz.fr/grande_cape_bleutee.png",
+   "condition": "",
+   "description": "Description : Cette cape augmente la chance de son porteur."
+  },
+  {
+   "name": "Petite Cape Sombre",
+   "level": "Niveau 8",
+   "caracteristique": "Sagesse : 2 à 3",
+   "recette": "5x Laine de Boufton Noir\n1x Teinture Magique Sombre",
+   "image": "https://barbok.eratz.fr/petite_cape_sombre.png",
+   "condition": "",
+   "description": "Description : Cette cape augmente la sagesse de son porteur."
+  },
+  {
+   "name": "Petite Cape de Rougeur",
+   "level": "Niveau 8",
+   "caracteristique": "Vitalité : 6 à 10",
+   "recette": "4x Laine de Bouftou\n6x Pétale de Rose Démoniaque\n4x Laine de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/petite_cape_de_rougeur.png",
+   "condition": "",
+   "description": "Description : Cette cape augmente la vie de son porteur."
+  },
+  {
+   "name": "Cape du Champ Champ",
+   "level": "Niveau 9",
+   "caracteristique": "Sagesse : 1 à 10\nCoup critiques : +2 à 3\nForce : -1 à -30\nChance : -1 à -30\nRésistance : 1 à 5% (eau)",
+   "recette": "5x Epine du Champ Champ\n8x Graine de Pavot",
+   "image": "https://barbok.eratz.fr/cape_du_champ_champ.png",
+   "condition": "",
+   "description": "Description : La seule chose qui soit plus impressionnante qu'un Champ Champ enragé, c'est un Champ Champ enragé avec une cape. En effet, cette cape incarne une certaine forme de sur-puissance vestimentaire, bien qu'elle soit avouons-le, assez laide."
+  },
+  {
+   "name": "Cape Bouffante",
+   "level": "Niveau 10",
+   "caracteristique": "Initiative : 1 à 300\nVitalité : 1 à 50",
+   "recette": "1x Langue de Chef de Guerre Bouftou\n30x Laine de Boufton Noir\n10x Laine du Chef de Guerre Bouftou\n30x Laine de Boufton Blanc\n80x Laine de Bouftou",
+   "image": "https://barbok.eratz.fr/cape_bouffante.png",
+   "condition": "",
+   "description": "Description : Cette cape a tout pour plaire : sa résistance, son confort, sa couleur, sa rareté... En revanche son odeur est redoutable pour les parois nasales. Mais bon, on ne peut pas tout avoir non plus."
+  },
+  {
+   "name": "Abracape",
+   "level": "Niveau 10",
+   "caracteristique": "PA : +1\nIntelligence : -1 à -300\nForce : -1 à -300\nVitalité : 1 à 30\nChance : -1 à -300\nAgilité : -1 à -300",
+   "recette": "10x Abranneau\n10x Ecorce d'Abraknyde\n10x Bourgeon d'Abraknyde",
+   "image": "https://barbok.eratz.fr/abracape.png",
+   "condition": "",
+   "description": "Description : Cette magnifique cape est un brillant mélange entre l'essence d'Abraknyde et le bon Bouftou des familles."
+  },
+  {
+   "name": "Cape Pandawushu",
+   "level": "Niveau 10",
+   "caracteristique": "Vitalité : 6 à 15",
+   "recette": "2x Peau de Kitsou Nakwa\n2x Poils de Kitsou Nakwa",
+   "image": "https://barbok.eratz.fr/cape_pandawushu.png",
+   "condition": "",
+   "description": "Description : Cette cape est indispensable à l'entraînement au Pandawushu..."
+  },
+  {
+   "name": "Cape en Mousse",
+   "level": "Niveau 10",
+   "caracteristique": "Initiative : 1 à 100",
+   "image": "https://barbok.eratz.fr/cape_en_mousse.png",
+   "condition": "",
+   "description": "Description : Cette cape est idéale pour le camouflage en milieu naturel, mais uniquement s'il n'y a personne pour vous voir."
+  },
+  {
+   "name": "Capouze des Champs",
+   "level": "Niveau 10",
+   "caracteristique": "Vitalité : 5 à 6\nInitiative : 16 à 25",
+   "recette": "1x Herbe Folle\n10x Pétale de Tournesol Sauvage\n30x Pétale de Rose Démoniaque",
+   "image": "https://barbok.eratz.fr/capouze_des_champs.png",
+   "condition": "",
+   "description": "Description : Si vous voulez être la plus belle ce soir pour aller danser, c'est la cape qu'il vous faut."
+  },
+  {
+   "name": "Cape Sombre",
+   "level": "Niveau 12",
+   "caracteristique": "Sagesse : 3 à 5",
+   "recette": "5x Patte d'Arakne\n10x Laine de Boufton Noir\n1x Teinture Magique Sombre",
+   "image": "https://barbok.eratz.fr/cape_sombre.png",
+   "condition": "",
+   "description": "Description : Cette cape augmente la sagesse de son porteur."
+  },
+  {
+   "name": "Cape de Rougeur",
+   "level": "Niveau 13",
+   "caracteristique": "Vitalité : 11 à 15",
+   "recette": "6x Laine de Boufton Blanc\n6x Laine de Bouftou\n6x Pétale de Rose Démoniaque",
+   "image": "https://barbok.eratz.fr/cape_de_rougeur.png",
+   "condition": "",
+   "description": "Description : Cette cape augmente la vie de son porteur."
+  },
+  {
+   "name": "Cape du Lapino Blasé",
+   "level": "Niveau 14",
+   "caracteristique": "Agilité : 11 à 20",
+   "image": "https://barbok.eratz.fr/cape_du_lapino_blase.png",
+   "condition": "",
+   "description": "Description : Avec cette cape sur les épaules, vous pourrez enfin montrer aux personnes à qui vous tournez le dos, que vous êtes blasé par leur stupidité."
+  },
+  {
+   "name": "Cape Sulcorpe",
+   "level": "Niveau 14",
+   "caracteristique": "Force : 11 à 20",
+   "recette": "1x Teinture Magique Bleutée\n1x Plume du Kwak de Glace\n1x Laine de Boufton Noir",
+   "image": "https://barbok.eratz.fr/cape_sulcorpe.png",
+   "condition": "",
+   "description": "Description : Ayant appartenu à une certaine Mulba, qui s'en servait pour transporter des objets encombrants dans sa quête des Sept Poules de Cristal venues des étoiles, cette cape augmente considérablement la force."
+  },
+  {
+   "name": "Cape Ulais",
+   "level": "Niveau 14",
+   "caracteristique": "Vitalité : 11 à 20",
+   "recette": "1x Teinture Magique Verdâtre\n1x Laine de Boufton Noir\n1x Laine de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/cape_ulais.png",
+   "condition": "",
+   "description": "Description : Venant du Mont Taigüe ou du monde Aigüe selon la manière dont vous le prononcez, cette cape a conduit à l'empoisonnement de son ancienne propriétaire, mais bizarrement elle augmente la résistance de son porteur."
+  },
+  {
+   "name": "Cape Ellinie",
+   "level": "Niveau 14",
+   "caracteristique": "Agilité : 11 à 20",
+   "recette": "10x Ficelle en Lin\n10x Plumes de Tofu\n1x Teinture Magique Orange",
+   "image": "https://barbok.eratz.fr/cape_ellinie.png",
+   "condition": "",
+   "description": "Description : Cette cape vient du pays des Patitaliennes, un endroit où l'on parle avec les mains. Cela explique la grande liberté de mouvement laissée par celle-ci. Elle est en outre d'une légèreté surprenante."
+  },
+  {
+   "name": "Grande Cape de Rougeur",
+   "level": "Niveau 16",
+   "caracteristique": "Vitalité : 16 à 20",
+   "recette": "9x Laine de Boufton Blanc\n9x Laine de Bouftou\n9x Pétale de Rose Démoniaque",
+   "image": "https://barbok.eratz.fr/grande_cape_de_rougeur.png",
+   "condition": "",
+   "description": "Description : Cette cape augmente la vie de son porteur."
+  },
+  {
+   "name": "Cape Abilité",
+   "level": "Niveau 17",
+   "caracteristique": "Coup critiques : +2 à 3",
+   "recette": "15x Laine de Bouftou\n1x Plume du Kwak de Vent\n1x Teinture Magique Verdâtre",
+   "image": "https://barbok.eratz.fr/cape_abilite.png",
+   "condition": "",
+   "description": "Description : Tissée magiquement avec un soin infini, la Cape Abilité permet à son porteur de discerner les points faibles de ses adversaires pour leur porter des coups destructeurs."
+  },
+  {
+   "name": "Grande Cape Sombre",
+   "level": "Niveau 19",
+   "caracteristique": "Sagesse : 6 à 10",
+   "recette": "1x Teinture Magique Sombre\n15x Patte d'Arakne\n15x Laine de Boufton Noir",
+   "image": "https://barbok.eratz.fr/grande_cape_sombre.png",
+   "condition": "",
+   "description": "Description : Cette cape augmente la sagesse de son porteur."
+  },
+  {
+   "name": "Cape de Bowisse",
+   "level": "Niveau 20",
+   "caracteristique": "Chance : 11 à 40",
+   "recette": "1x Teinture Magique Verdâtre\n10x Laine de Boufton Blanc\n50x Peau de Larve Verte\n10x Laine de Bouftou",
+   "image": "https://barbok.eratz.fr/cape_de_bowisse.png",
+   "condition": "",
+   "description": "Description : Cette cape est comme son porteur, unique en son genre et trop souvent sous-estimée.\nElle est constituée d'un assemblage de peaux de larves vertes, ce qui lui donne un aspect rugueux des plus sympathique."
+  },
+  {
+   "name": "Cape de l'Homme Ours",
+   "level": "Niveau 20",
+   "caracteristique": "Vitalité : 11 à 15\nAgilité : 11 à 15",
+   "recette": "1x Etoffe d'Ours\n1x Poils de souris\n1x Poils du Sanglier\n1x Poils de Wabbit",
+   "image": "https://barbok.eratz.fr/cape_de_lhomme_ours.png",
+   "condition": "",
+   "description": "Description : Cette jolie cape a été portée pendant des années par le célèbre Homme Ours. Elle ne fera pas de vous un ours, mais vous pourrez rivaliser avec les plus grands."
+  },
+  {
+   "name": "Ailes en bois",
+   "level": "Niveau 20",
+   "caracteristique": "Pods : +31 à 50\nInitiative : 51 à 100",
+   "image": "https://barbok.eratz.fr/ailes_en_bois.png",
+   "condition": "",
+   "description": "Description : Pour ceux qui ont toujours rêvé de voler comme un Kwak, allez vous recoucher, car ces ailes ne feront de vous qu'un danger public doublé d'un idiot."
+  },
+  {
+   "name": "Cape Itou Lascione",
+   "level": "Niveau 21",
+   "caracteristique": "Intelligence : 21 à 35",
+   "recette": "1x Poils de Barbe du Grand Pa Wabbit\n2x Plume du Kwak de Flamme\n2x Plume du Kwak de Terre\n10x Poils de Wabbit",
+   "image": "https://barbok.eratz.fr/cape_itou_lascione.png",
+   "condition": "",
+   "description": "Description : Cette superbe cape a appartenu au Grand Stratéquerre. Ce célèbre seigneur de guerre et fin stratège, avide de conquête de l'univers, a bien vite abandonné tous ses projets après avoir revêtu cette cape. Étrange !"
+  },
+  {
+   "name": "La Samoulaille",
+   "level": "Niveau 22",
+   "caracteristique": "+1 à 2 de dommages",
+   "recette": "10x Laine de Bouftou\n1x Teinture Magique de Rougeur\n10x Laine de Boufton Blanc\n10x Poils de souris",
+   "image": "https://barbok.eratz.fr/la_samoulaille.png",
+   "condition": "",
+   "description": "Description : La Samoulaille est une cape légendaire, brodée par les tailleurs pour les guerriers préférant les combats au corps à corps."
+  },
+  {
+   "name": "Cape Edépée",
+   "level": "Niveau 22",
+   "caracteristique": "Résistance : 2 à 4 (terre)\nRésistance : 2 à 4 (neutre)",
+   "recette": "1x Teinture Magique de Rougeur\n8x Laine de Boufton Blanc\n8x Laine de Bouftou\n4x Poils du Sanglier",
+   "image": "https://barbok.eratz.fr/cape_edepee.png",
+   "condition": "",
+   "description": "Description : On prétend que cette cape légendaire permet de devenir presque invincible si on la combine à l'épée légendaire des escrimeurs, le Dard Tagnan et au chapeau légendaire des Six Rameaux de Bergers Rahks."
+  },
+  {
+   "name": "La Boufteuse",
+   "level": "Niveau 23",
+   "caracteristique": "Augmente les dommages de 6 à 15%\nVitalité : 11 à 20",
+   "recette": "1x Teinture Magique Bleutée\n2x Plume du Kwak de Glace\n10x Laine de Bouftou\n10x Laine de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/la_boufteuse.png",
+   "condition": "",
+   "description": "Description : La Boufteuse augmente les dégâts et la vitalité de son porteur. Cependant elle dégage une forte odeur, et il n'est pas rare qu'un bouftou vous prenne pour l'un des siens."
+  },
+  {
+   "name": "Cape du Tofu",
+   "level": "Niveau 26",
+   "caracteristique": "+1 à 3 de dommages",
+   "recette": "1x Plume du Batofu\n35x Plumes de Tofu\n30x Bec du Tofu\n30x Oeuf de Tofu",
+   "image": "https://barbok.eratz.fr/cape_du_tofu.png",
+   "condition": "",
+   "description": "Description : Cette étrange cape semble avoir été coupée en deux. Mais pourquoi aurait-elle était coupée en deux ? Personne ne le sait, même si tout le monde a son avis sur la question."
+  },
+  {
+   "name": "Cape du Vampire",
+   "level": "Niveau 29",
+   "caracteristique": "Résistance : 3 à 7 (eau)\nRésistance : 3 à 7 (air)\nRésistance : 3 à 7 (feu)",
+   "recette": "10x Laine de Bouftou\n1x Teinture Magique de Rougeur\n1x Laine de Boufton Blanc\n1x Sang du Vampire",
+   "image": "https://barbok.eratz.fr/cape_du_vampire.png",
+   "condition": "",
+   "description": "Description : Cette cape rouge sang a baigné dans le sang pendant des années. Ce type de cape est très prisée lors des Fêtes Dalouhines."
+  },
+  {
+   "name": "Ailes en bois améliorées",
+   "level": "Niveau 30",
+   "caracteristique": "Pods : +151 à 200\nInitiative : 151 à 200",
+   "recette": "1x Ailes en bois\n1x Duvet du Kilibriss\n1x Etoffe de Ouassingue\n1x Aile du Bitouf des plaines",
+   "image": "https://barbok.eratz.fr/ailes_en_bois_ameliorees.png",
+   "condition": "",
+   "description": "Description : Ces ailes en bois améliorées ont été rembourrées et rendues plus légères grâce à des plumes et du tissu de qualité. L'armature étant toujours en bois, vous aurez tout de même du mal à ne pas vous écraser."
+  },
+  {
+   "name": "Cape Grume",
+   "level": "Niveau 30",
+   "caracteristique": "Chance : 11 à 30\n+1 à 2 de dommages",
+   "image": "https://barbok.eratz.fr/cape_grume.png",
+   "condition": "",
+   "description": "Description : Cette cape a été confectionnée à partir d'une multitude d'écorces d'agrumes diverses et variées. Elle est jolie, elle rafraîchit, mais elle ne brille pas dans le noir."
+  },
+  {
+   "name": "Cape de Bonne Espérance",
+   "level": "Niveau 30",
+   "caracteristique": "Chance : 11 à 30\n+1 à 2 de dommages",
+   "recette": "4x Poils du Milimulou\n1x Poils de Grand Pa Wabbit\n2x Plume du Kwak de Vent\n1x Teinture Magique de Rougeur",
+   "image": "https://barbok.eratz.fr/cape_de_bonne_esperance.png",
+   "condition": "",
+   "description": "Description : Les effets magiques de cette cape sont souvent surestimés, ce qui a causé la perte de nombreux aventuriers, notamment, le tristement célèbre Ménestrel Francisque Kabroule."
+  },
+  {
+   "name": "Cigalocape",
+   "level": "Niveau 30",
+   "caracteristique": "Chance : 11 à 30\n+1 à 2 de dommages",
+   "image": "https://barbok.eratz.fr/cigalocape.png",
+   "condition": "",
+   "description": "Description : Les trois petites boules qui ornent cette cape permettent de donner de jolis coups de boules si vous savez faire la toupie."
+  },
+  {
+   "name": "Cape du Wa Wabbit",
+   "level": "Niveau 30",
+   "caracteristique": "Vitalité : 1 à 100",
+   "image": "https://barbok.eratz.fr/cape_du_wa_wabbit.png",
+   "condition": "",
+   "description": "Description : Cette cape appartenait au tristement célèbre Wa Wabbit. Elle est encore imprégnée de sa transpiration, ce qui vous permettra de vous remémorer ce magnifique combat à chaque fois que vous la porterez."
+  },
+  {
+   "name": "Cape du Justicier",
+   "level": "Niveau 30",
+   "caracteristique": "Augmente les dommages de 21 à 30%\nVitalité : 6 à 10",
+   "recette": "100x Poils de souris\n2x Laine du Chef de Guerre Bouftou\n25x Poils du Sanglier\n4x Etoffe de Croc Gland",
+   "image": "https://barbok.eratz.fr/cape_du_justicier.png",
+   "condition": "Alignement doit etre Bonta\nIntelligence > 20",
+   "description": "Description : Cette cape ne peut être portée que par les grands justiciers d'Amakna, c'est à dire presque personne."
+  },
+  {
+   "name": "Cape Kifébzz",
+   "level": "Niveau 33",
+   "caracteristique": "+2 à 3 de dommages\nCréature invocables : +1",
+   "image": "https://barbok.eratz.fr/cape_kifebzz.png",
+   "condition": "",
+   "description": "Description : Le dard accroché au bout de cette cape, vous empêchera probablement de vous asseoir sans vous faire très mal au postérieur, mais personne n'osera vous botter les fesses."
+  },
+  {
+   "name": "Cape du Mulou Fou",
+   "level": "Niveau 33",
+   "caracteristique": "Vitalité : 21 à 60\nAugmente les dommages de 6 à 15%",
+   "recette": "1x Queue du Mulou\n1x Canine du Mulou\n1x Griffe du Mulou\n10x Poils du Mulou\n1x Teinture Magique Sombre",
+   "image": "https://barbok.eratz.fr/cape_du_mulou_fou.png",
+   "condition": "",
+   "description": "Description : Cette cape a été confectionné grâce à des poils et autres élèments organiques de diverses Mulous... On peut dire qu'elle respire la puissance."
+  },
+  {
+   "name": "Cape Rice",
+   "level": "Niveau 33",
+   "caracteristique": "Portée : +1 à 2",
+   "recette": "1x Teinture Magique Verdâtre\n20x Laine de Boufton Blanc\n5x Poils du Sanglier\n5x Poils de Wabbit\n20x Laine de Bouftou",
+   "image": "https://barbok.eratz.fr/cape_rice.png",
+   "condition": "",
+   "description": "Description : Cette cape augmente la portée de son porteur, lui permettant d'atteindre des cibles très éloignées, ou d'impressionner les aventuriers un peu naïfs."
+  },
+  {
+   "name": "Poshocape",
+   "level": "Niveau 33",
+   "caracteristique": "Portée : +1 à 2",
+   "image": "https://barbok.eratz.fr/poshocape.png",
+   "condition": "",
+   "description": "Description : Avec cette jolie cible brodée sur votre cape, vos ennemis n'auront aucune excuse s'ils vous ratent."
+  },
+  {
+   "name": "Cape du Poolay Chogrelotant",
+   "level": "Niveau 33",
+   "caracteristique": "Résistance : 4 à 12 (terre)\nRésistance : 4 à 12 (neutre)\nPM perdu à la cible : 1\nRésistance : 4 à 12 (eau)\nRésistance : 4 à 12 (air)\nRésistance : 4 à 12 (feu)",
+   "recette": "1x Plume du Dernier Poolay\n1x Poils du Mulou\n1x Etoffe du Sanglier\n1x Poils de Grand Pa Wabbit",
+   "image": "https://barbok.eratz.fr/cape_du_poolay_chogrelotant.png",
+   "condition": "",
+   "description": "Description : Cette magnifique cape a été confectionnée avec les plumes du dernier Poolay d'Amakna. Véritable rareté, les collectionneurs rêvent de l'avoir dans leur collection."
+  },
+  {
+   "name": "Fourbacapa",
+   "level": "Niveau 33",
+   "caracteristique": "+2 à 3 de dommages\nCréature invocables : +1",
+   "recette": "8x Peau de Trukikol\n5x Kole\n20x Pétale de Trukikol\n5x Feuille de Kokoko\n30x Feuille de Fourbasse",
+   "image": "https://barbok.eratz.fr/fourbacapa.png",
+   "condition": "",
+   "description": "Description : On raconte que les Fourbasses mortes sont très confortables une fois qu'elles ont pris le temps de se décomposer au soleil. En effet, avec le temps elles deviennent beaucoup plus souples et douces. Beaucoup d'aventuriers aimeraient pouvoir en dire autant de leur dulcinée."
+  },
+  {
+   "name": "Cape Maj'Hic",
+   "level": "Niveau 34",
+   "caracteristique": "Résistance : 3 à 7 (eau)\nRésistance : 3 à 7 (air)\nRésistance : 3 à 7 (feu)\nAugmente les dommages de 6 à 10%",
+   "recette": "20x Plumes de Tofu\n1x Teinture Magique Bleutée\n5x Poils de Black Tiwabbit\n20x Laine de Boufton Blanc\n2x Poils du Milimulou",
+   "image": "https://barbok.eratz.fr/cape_majhic.png",
+   "condition": "",
+   "description": "Description : Cette cape d'apparence quelconque n'est en fait pas tout à fait quelconque. Elle rendrait invisible son porteur aux yeux de ceux qui ne le regardent pas. Impressionnant !"
+  },
+  {
+   "name": "Cape Hilère",
+   "level": "Niveau 34",
+   "caracteristique": "Vitalité : 31 à 100",
+   "recette": "20x Laine de Bouftou\n1x Teinture Magique de Rougeur\n10x Laine de Boufton Blanc\n1x Poils de Barbe du Grand Pa Wabbit\n1x Laine de Bouftou Royal",
+   "image": "https://barbok.eratz.fr/cape_hilere.png",
+   "condition": "",
+   "description": "Description : La cape Hilère est un type de cape très demandée par les coiffeurs. Ils adorent se rouler dedans. Elle rend les cheveux de son porteur plus résistants aux chocs."
+  },
+  {
+   "name": "Cape du Tofu Fou",
+   "level": "Niveau 36",
+   "caracteristique": "PM : 1\nAgilité : 1 à 100\nForce : -100\nIntelligence : -100\nChance : -100",
+   "recette": "1x Teinture Magique Sombre\n1x Laine de Boufton Noir\n1x Laine de Bouftou Royal\n100x Plumes de Tofu",
+   "image": "https://barbok.eratz.fr/cape_du_tofu_fou.png",
+   "condition": "",
+   "description": "Description : Cette cape, cousue main avec des plumes de Tofus, permet au héros qui la porte de courir plus vite et de s'échapper plus facilement des zones de tacle."
+  },
+  {
+   "name": "Cape Maimpa",
+   "level": "Niveau 36",
+   "caracteristique": "Initiative : 151 à 200\nAgilité : 16 à 30\nVitalité : 11 à 20",
+   "recette": "10x Oreilles de Loup\n4x Poil d'Ouginak\n1x Queue de Croc Gland\n8x Queue de Kolérat\n4x Poils de Wabbit",
+   "image": "https://barbok.eratz.fr/cape_maimpa.png",
+   "condition": "",
+   "description": "Description : Maimpa était un Ecaflip qui se moquait du vide, prétextant qu'il retomberait toujours sur ses pattes. Mais un jour, il atterrit sur un Trool affamé. Il fût enterré le jour même à l'endroit où l'on a trouvé ses restes. Un peu partout en quelques sortes."
+  },
+  {
+   "name": "Cape du bois de l'est",
+   "level": "Niveau 36",
+   "caracteristique": "Initiative : 151 à 200\nAgilité : 16 à 30\nVitalité : 11 à 20",
+   "image": "https://barbok.eratz.fr/cape_du_bois_de_lest.png",
+   "condition": "",
+   "description": "Description : Cette cape protégera vos dos des coups de soleil. Attention elle ne descend pas jusqu'aux fesses chez tous les aventuriers."
+  },
+  {
+   "name": "Cape du Prespic",
+   "level": "Niveau 37",
+   "caracteristique": "Sagesse : 1 à 30\n+1 à 2 de dommages",
+   "recette": "1x Estomac de Prespic\n15x Patte de Prespic\n3x Queue de Prespic\n1x Pic du Prespic\n1x Etoffe du Prespic",
+   "image": "https://barbok.eratz.fr/cape_du_prespic.png",
+   "condition": "",
+   "description": "Description : Cette petite cape rousse peut également faire office de descente de lit, ou de paillasson, de quoi remettre au goût du jour l'intérieur de votre habitation, de manière économique."
+  },
+  {
+   "name": "Cape Bouchon",
+   "level": "Niveau 37",
+   "caracteristique": "Sagesse : 1 à 30\n+1 à 2 de dommages",
+   "image": "https://barbok.eratz.fr/cape_bouchon.png",
+   "condition": "",
+   "description": "Description : Certains nomment cette cape la Tire-boucape, et vouent une haine farouche à l'encontre de ceux qui l'appellent autrement. Qu'importe, quel que soit le nom que vous donnerez à cette cape, elle ne vous sera d'aucune utilité pour déboucher les bouteilles."
+  },
+  {
+   "name": "Kwape de Flammes",
+   "level": "Niveau 41",
+   "caracteristique": "Intelligence : 11 à 15\nCréature invocables : +1\nInitiative : 21 à 30\nRésistance : 3 à 5% (feu)",
+   "recette": "5x Plumes de Tofu\n1x Plume de Corbac\n2x Plume de Tofu Maléfique\n1x Poils de Wabbit\n50x Plume du Kwak de Flamme",
+   "image": "https://barbok.eratz.fr/kwape_de_flammes.png",
+   "condition": "",
+   "description": "Description : Très peu irritante, mais un peu quand même il faut l'avouer, cette cape ne pourra pas hélas vous faire voler, ni même planer. Même en y cousant un grand \"M\" dessus, ça ne marchera pas, certains y croyaient pourtant dur comme fer. Dommage."
+  },
+  {
+   "name": "Cape de Bou",
+   "level": "Niveau 41",
+   "caracteristique": "PA perdu à la cible : 1\nRésistance : 6 à 20 (eau)\nRésistance : 6 à 20 (air)\nRésistance : 6 à 20 (feu)",
+   "recette": "50x Boue du Boo\n1x Coeur de Boue du Boo\n10x Main de Boo\n1x Fibre de Chanvre\n5x Fibre de Lin",
+   "image": "https://barbok.eratz.fr/cape_de_bou.png",
+   "condition": "",
+   "description": "Description : Cette Cape est bien étrange, elle est faite de bouts de boue du Boo, mais elle tient tout de même debout. Une fois sur vos épaules, elle pourra même faire de vous un boute-en-train."
+  },
+  {
+   "name": "Kwape de Glace",
+   "level": "Niveau 41",
+   "caracteristique": "Chance : 11 à 15\nCréature invocables : +1\nInitiative : 21 à 30\nRésistance : 3 à 5% (eau)",
+   "recette": "5x Plumes de Tofu\n1x Plume de Corbac\n2x Plume de Tofu Maléfique\n1x Poils de Wabbit\n50x Plume du Kwak de Glace",
+   "image": "https://barbok.eratz.fr/kwape_de_glace.png",
+   "condition": "",
+   "description": "Description : Idéale pour se rafraîchir sur l'île de Moon pendant la saison chaude, et parfaite pour refroidir les ardeurs de vos amis les plus entreprenants, cette cape saura répondre aux attentes de l'aventurier des temps modernes."
+  },
+  {
+   "name": "Kwape du Vent",
+   "level": "Niveau 41",
+   "caracteristique": "Agilité : 11 à 15\nCréature invocables : +1\nInitiative : 21 à 30\nRésistance : 3 à 5% (air)",
+   "recette": "5x Plumes de Tofu\n1x Plume de Corbac\n2x Plume de Tofu Maléfique\n1x Poils de Wabbit\n50x Plume du Kwak de Vent",
+   "image": "https://barbok.eratz.fr/kwape_du_vent.png",
+   "condition": "",
+   "description": "Description : Légère et raffinée, cette création peut accessoirement servir de rideau pour les plus dépourvus. Elle était jadis très convoitée par la Momie Nova en personne, qui désirait être correctement habillée pour sortir le soir. Un exemple à suivre pour certains."
+  },
+  {
+   "name": "Cape Akwadala",
+   "level": "Niveau 41",
+   "caracteristique": "Vitalité : 31 à 60\nChance : 11 à 20\nPortée : +1",
+   "recette": "50x Artefact Pandawushu Eau\n10x Fleur de Bulbiflore\n8x Pousses de Bulbambou\n7x Feuille de Bulbuisson\n10x Poils de Pandikaze",
+   "image": "https://barbok.eratz.fr/cape_akwadala.png",
+   "condition": "",
+   "description": "Description : Cette cape qui vient du village d'Akwadala, peut servir de paillasson, ou même de serpillière si vous venez de sortir de l'eau."
+  },
+  {
+   "name": "Kwape de Terre",
+   "level": "Niveau 41",
+   "caracteristique": "Force : 11 à 15\nCréature invocables : +1\nInitiative : 21 à 30\nRésistance : 3 à 5% (terre)",
+   "recette": "5x Plumes de Tofu\n1x Plume de Corbac\n2x Plume de Tofu Maléfique\n1x Poils de Wabbit\n50x Plume du Kwak de Terre",
+   "image": "https://barbok.eratz.fr/kwape_de_terre.png",
+   "condition": "",
+   "description": "Description : Idéale pour se camoufler en motte de terre géante, cette cape vous permettra d'attaquer par surprise les laboureurs et leur voler leurs richesses. Elle est donc avant tout réservée aux collectionneurs de silex."
+  },
+  {
+   "name": "Cape Siks Won Naïne",
+   "level": "Niveau 42",
+   "caracteristique": "Vitalité : 16 à 25\nSoins : 2 à 3\nAugmente les dommages de 11 à 15%",
+   "image": "https://barbok.eratz.fr/cape_siks_won_naine.png",
+   "condition": "",
+   "description": "Description : Les poils de Bitoufs cousus sur le haut de cette cape, protégeront efficacement votre nuque lorsque le public décidera de vous envoyer quelques chaises afin de vous signifier la médiocrité de vos prestations."
+  },
+  {
+   "name": "La Mokette",
+   "level": "Niveau 43",
+   "caracteristique": "+3 à 7 de dommages",
+   "recette": "1x Poils de Grand Pa Wabbit\n6x Poils du Milimulou\n4x Plume du Kwak de Terre\n3x Laine du Chef de Guerre Bouftou\n2x Poils de Barbe du Bwork Mage",
+   "image": "https://barbok.eratz.fr/la_mokette.png",
+   "condition": "",
+   "description": "Description : Cette splendide cape, tissée à partir de divers éléments fibreux de toute nature, est une pièce unique de par sa couleur et ses reflets."
+  },
+  {
+   "name": "Cape du Coq Hû",
+   "level": "Niveau 44",
+   "caracteristique": "Chance : 11 à 20\nPM : 1",
+   "recette": "1x Queue du Mulou\n1x Cocon de Ver à Soie\n1x Poils du Meulou\n4x Teinture Magique Bleutée\n4x Plume du Kwak de Glace",
+   "image": "https://barbok.eratz.fr/cape_du_coq_hu.png",
+   "condition": "",
+   "description": "Description : Le Coq ayant donné ses plumes pour la confection de cette cape s'est débattu pendant plusieurs jours et plusieurs nuits avant de finalement tomber à bout de force et de se laisser déplumer. \"Hû !\" s'exclama son propriétaire, lui aussi à bout de souffle."
+  },
+  {
+   "name": "Cape Huccino",
+   "level": "Niveau 44",
+   "caracteristique": "Vitalité : 21 à 35\nIntelligence : 21 à 35\n+2 à 3 de dommages",
+   "recette": "10x Teinture Magique Sombre\n3x Queue de Chef de Guerre Bouftou\n3x Poils de Kitsou Nae\n3x Poils de Kitsou Nere\n2x Poils de Pandikaze",
+   "image": "https://barbok.eratz.fr/cape_huccino.png",
+   "condition": "",
+   "description": "Description : Cette cape a été cousue dans un seul et unique but, créer une cape capable de maintenir éveillé son porteur pendant plusieurs jours d'affilée. Le résultat est bel et bien présent, elle est si rigide, qu'elle vous gardera debout dans toutes les circonstances. Attention cependant, vous ne serez plus capables de nouer vos lacets."
+  },
+  {
+   "name": "Corbacape",
+   "level": "Niveau 45",
+   "caracteristique": "Sagesse : 6 à 20\nRésistance : 1 à 7% (air)\nAgilité : 21 à 35\n+1 à 2 de dommages",
+   "recette": "1x Cape du Corbac\n2x Teinture Magique Sombre\n100x Patte de Corbac\n100x Plume de Corbac\n15x Oeil de Corbac",
+   "image": "https://barbok.eratz.fr/corbacape.png",
+   "condition": "",
+   "description": "Description : De quoi ressembler à une ombre, ou se déguiser en Maître Corbac pour impressionner les filles à la sortie de la Boulangerie avant la tombée de la nuit."
+  },
+  {
+   "name": "Scaracape Verte",
+   "level": "Niveau 45",
+   "caracteristique": "Force : 1 à 10\nVitalité : 1 à 30\n+1 à 3 de dommages\nRésistance : 1 à 5% (terre)",
+   "recette": "1x Huile de Palme\n10x Fruit de Palme\n4x Carapace de Scarafeuille Vert\n30x Antenne du Scarafeuille vert\n6x Ailes de Scarafeuille vert",
+   "image": "https://barbok.eratz.fr/scaracape_verte.png",
+   "condition": "",
+   "description": "Description : Qui n'a jamais rêvé de revêtir une cape en coquille de Scarafeuilles ? Une fois équipée, vous devriez réussir à vous prendre pour un véritable Scarafeuille, et peut-être arriverez-vous à vous déplacer en glissant et en dérapant. De quoi décontenancer une horde de Trools."
+  },
+  {
+   "name": "Scaracape Blanche",
+   "level": "Niveau 45",
+   "caracteristique": "Agilité : 1 à 10\nVitalité : 1 à 30\n+1 à 3 de dommages\nRésistance : 1 à 5% (air)",
+   "recette": "1x Huile de Palme\n10x Fruit de Palme\n4x Carapace de Scarafeuille Blanc\n30x Antenne du Scarafeuille blanc\n6x Ailes de Scarafeuille blanc",
+   "image": "https://barbok.eratz.fr/scaracape_blanche.png",
+   "condition": "",
+   "description": "Description : Qui n'a jamais rêvé de revêtir une cape en coquille de Scarafeuilles ? Une fois équipée, vous devriez réussir à vous prendre pour un véritable Scarafeuille, et peut-être arriverez-vous à vous déplacer en glissant et en dérapant. De quoi décontenancer une horde de Trools."
+  },
+  {
+   "name": "Mégacape",
+   "level": "Niveau 45",
+   "caracteristique": "Chance : 1 à 10\nVitalité : 1 à 30\n+1 à 3 de dommages\nRésistance : 1 à 5% (eau)",
+   "image": "https://barbok.eratz.fr/megacape.png",
+   "condition": "",
+   "description": "Description : Cette cape appartenait à un célèbre héros, connu pour avoir combattu le terrible docteur Wily qui voulait envahir et dominer le monde des douze avec ses propres invocations. Le docteur Wily mourut avant que toutes ses invocations n'eurent le temps d'attaquer."
+  },
+  {
+   "name": "Scaracape Rouge",
+   "level": "Niveau 45",
+   "caracteristique": "Intelligence : 1 à 10\nVitalité : 1 à 30\n+1 à 3 de dommages\nRésistance : 1 à 5% (feu)",
+   "recette": "1x Huile de Palme\n10x Fruit de Palme\n4x Carapace de Scarafeuille Rouge\n30x Antenne du Scarafeuille rouge\n6x Ailes de Scarafeuille rouge",
+   "image": "https://barbok.eratz.fr/scaracape_rouge.png",
+   "condition": "",
+   "description": "Description : Qui n'a jamais rêvé de revêtir une cape en coquille de Scarafeuilles ? Une fois équipée, vous devriez réussir à vous prendre pour un véritable Scarafeuille, et peut-être arriverez-vous à vous déplacer en glissant et en dérapant. De quoi décontenancer une horde de Trools."
+  },
+  {
+   "name": "Abracapa",
+   "level": "Niveau 45",
+   "caracteristique": "Vitalité : 1 à 50\nForce : 1 à 30\nCréature invocables : +1\n+1 à 3 de dommages",
+   "recette": "5x Ambre\n3x Sève d'Abraknyde\n30x Bourgeon d'Abraknyde\n30x Racine d'Abraknyde\n30x Ecorce d'Abraknyde",
+   "image": "https://barbok.eratz.fr/abracapa.png",
+   "condition": "",
+   "description": "Description : Vêtu de Feuilles d'Abraknydes, vous pourrez vous pavaner au beau milieu de la forêt sans que l'on vous reconnaisse vraiment. Attention toutefois aux Abraknydes en quête de bourgeonnements printaniers."
+  },
+  {
+   "name": "Scaracape Bleue",
+   "level": "Niveau 45",
+   "caracteristique": "Chance : 1 à 10\nVitalité : 1 à 30\n+1 à 3 de dommages\nRésistance : 1 à 5% (eau)",
+   "recette": "1x Huile de Palme\n10x Fruit de Palme\n4x Carapace de Scarafeuille Bleu\n30x Antenne du Scarafeuille bleu\n6x Ailes de Scarafeuille bleu",
+   "image": "https://barbok.eratz.fr/scaracape_bleue.png",
+   "condition": "",
+   "description": "Description : Qui n'a jamais rêvé de revêtir une cape en coquille de Scarafeuilles ? Une fois équipée, vous devriez réussir à vous prendre pour un véritable Scarafeuille, et peut-être arriverez-vous à vous déplacer en glissant et en dérapant. De quoi décontenancer une horde de Trools."
+  },
+  {
+   "name": "Capogato",
+   "level": "Niveau 45",
+   "caracteristique": "Force : 1 à 10\nVitalité : 1 à 30\n+1 à 3 de dommages\nRésistance : 1 à 5% (terre)",
+   "image": "https://barbok.eratz.fr/capogato.png",
+   "condition": "",
+   "description": "Description : Une fois enroulée autour de fruits confits et recouverte de gelée royale, cette cape peut être dégustée en suppositoire."
+  },
+  {
+   "name": "Cape Vioutifoule",
+   "level": "Niveau 45",
+   "caracteristique": "Intelligence : 1 à 10\nVitalité : 1 à 30\n+1 à 3 de dommages\nRésistance : 1 à 5% (feu)",
+   "image": "https://barbok.eratz.fr/cape_vioutifoule.png",
+   "condition": "",
+   "description": "Description : Silvia de Jodaw a cousu elle-même cette surprenante cape à partir de vieux rideaux. Heureusement, ça ne se voit pas trop, puisqu'elle ressemble à s'y méprendre à une serpillière bouillie dans du sang de Porkass."
+  },
+  {
+   "name": "Cape Paupayahn",
+   "level": "Niveau 45",
+   "caracteristique": "Agilité : 1 à 10\nVitalité : 1 à 30\n+1 à 3 de dommages\nRésistance : 1 à 5% (air)",
+   "image": "https://barbok.eratz.fr/cape_paupayahn.png",
+   "condition": "",
+   "description": "Description : Cette cape confectionnée à partir d'énormes graines diffuse une odeur persistante d'aisselle de Bitouf aérien. Il paraît que ça permet d'exciter son entourage à moindre frais."
+  },
+  {
+   "name": "Cape du Corbac",
+   "level": "Niveau 45",
+   "caracteristique": "Sagesse : 6 à 20\nRésistance : 6 à 10% (air)\nCréature invocables : +1",
+   "recette": "1x Corbac Mort\n1x Teinture Magique Sombre\n100x Plume de Corbac\n100x Patte de Corbac\n1x Scalp de Bwork Mage",
+   "image": "https://barbok.eratz.fr/cape_du_corbac.png",
+   "condition": "",
+   "description": "Description : Cette cape, pas très jolie au premier abord est pourtant très efficace, une fois que l'on s'habitue à son odeur de Corbac en décomposition."
+  },
+  {
+   "name": "Craquelocape",
+   "level": "Niveau 46",
+   "caracteristique": "Force : 1 à 30\nSagesse : 1 à 10\nRésistance : 1 à 6 (eau)\nRésistance : 1 à 6 (air)\nRésistance : 1 à 6 (feu)\nRésistance : 1 à 5% (feu)",
+   "recette": "20x Dent en Or du Craqueleur\n16x Charbon\n17x Silex\n5x Pierre du Craqueleur\n1x Pierre de Diamant",
+   "image": "https://barbok.eratz.fr/craquelocape.png",
+   "condition": "",
+   "description": "Description : Cette cape en pierre est un peu trop rigide, mais elle n'en reste pas moins une excellente protection contre les jets de pierres, ou plus dangereux encore, contre les crachats de Craqueleurs."
+  },
+  {
+   "name": "Cape du Black Wab",
+   "level": "Niveau 46",
+   "caracteristique": "Vitalité : 31 à 45\nCoup critiques : +3 à 4\nSoins : 1\nAugmente les dommages de 11 à 15%",
+   "image": "https://barbok.eratz.fr/cape_du_black_wab.png",
+   "condition": "",
+   "description": "Description : Le petit pompon accroché à l'extrémité de cette cape permet de ramasser efficacement les poussières de votre maison, il est normalement assez petit pour passer sous les meubles. N'oubliez pas de l'enlever lorsque vous partez travailler aux champs."
+  },
+  {
+   "name": "Cape Ricéfini",
+   "level": "Niveau 46",
+   "caracteristique": "Vitalité : 11 à 15\nSoins : 3 à 7",
+   "recette": "6x Teinture Magique de Rougeur\n2x Poils de Pandule\n10x Poudre d'Eniripsa\n10x Sang de Bouftou\n6x Teinture Magique Verdâtre",
+   "image": "https://barbok.eratz.fr/cape_ricefini.png",
+   "condition": "",
+   "description": "Description : Hirvé Vélard, célèbre ménestrel de son état, aimait chanter à en perdre la voix. Il fut brûlé vif près de la banque de Bonta, après avoir fait scandale avec sa chanson \"Fais-la frire, Mourir ou vivre\"."
+  },
+  {
+   "name": "Cape de Slait",
+   "level": "Niveau 47",
+   "caracteristique": "Vitalité : 21 à 30\nIntelligence : 16 à 25\nAgilité : 16 à 25\nPortée : +1\nCréature invocables : +1",
+   "image": "https://barbok.eratz.fr/cape_de_slait.png",
+   "condition": "",
+   "description": "Description : Deux queues pour une seule personne. Un rêve devenu réalité."
+  },
+  {
+   "name": "Cape Papayou",
+   "level": "Niveau 48",
+   "caracteristique": "Sagesse : 11 à 15\nChance : 16 à 25\n+2 à 3 de dommages\nInitiative : 51 à 75",
+   "image": "https://barbok.eratz.fr/cape_papayou.png",
+   "condition": "",
+   "description": "Description : Cette cape mettra en valeur les courbes de votre postérieur, ou celles de votre dos bossu."
+  },
+  {
+   "name": "Cape du Parrain",
+   "level": "Niveau 48",
+   "caracteristique": "Vitalité : 26 à 40\nIntelligence : 16 à 25\nAgilité : 16 à 25\nSoins : 2 à 3",
+   "image": "https://barbok.eratz.fr/cape_du_parrain.png",
+   "condition": "",
+   "description": "Description : Cette cape protégera votre cou du frimas, et votre postérieur des coups bas."
+  },
+  {
+   "name": "Cape Sanguine",
+   "level": "Niveau 50",
+   "caracteristique": "Vitalité : 21 à 40\nRésistance : 3 à 5% (feu)\nRésistance : 3 à 5 (eau)\nRésistance : 3 à 5 (air)\nRésistance : 3 à 5 (feu)",
+   "recette": "1x Teinture Magique de Rougeur\n10x Ailes de Scarafeuille rouge\n1x Scalp de Bwork Archer\n1x Tissu Sanguin\n1x Scalp de Milimulou\n10x Poils de Crocs Glands",
+   "image": "https://barbok.eratz.fr/cape_sanguine.png",
+   "condition": "Force > 90",
+   "description": "Description : A base de tissu sanguin, la Cape Sanguine a un aspect cartonneux au toucher, comme si la teinture rougeâtre avait coagulé."
+  },
+  {
+   "name": "Cape Ouginak",
+   "level": "Niveau 50",
+   "caracteristique": "Augmente les dommages de 6 à 35%\nSagesse : 16 à 25\nVitalité : 21 à 40",
+   "recette": "5x Bandelettes\n30x Babines d'Ouginak\n30x Poil d'Ouginak\n1x Tissu Sombre\n1x Etoffe de Croc Gland\n1x Queue de Chef de Guerre Bouftou",
+   "image": "https://barbok.eratz.fr/cape_ouginak.png",
+   "condition": "",
+   "description": "Description : Cette cape provient d'un Ouginak, elle sent encore l'odeur de sa truffe, chaude et humide, un peu comme les mamelles d'une femelle Bouftou en rût."
+  },
+  {
+   "name": "Cape Bouffante Royale",
+   "level": "Niveau 50",
+   "caracteristique": "Force : 11 à 60\nRésistance : 4 à 8% (terre)",
+   "recette": "1x Laine de Bouftou Royal\n200x Laine du Chef de Guerre Bouftou\n1x Cape Bouffante\n500x Laine de Bouftou\n300x Laine de Boufton Blanc\n300x Laine de Boufton Noir",
+   "image": "https://barbok.eratz.fr/cape_bouffante_royale.png",
+   "condition": "",
+   "description": "Description : Cette cape portée par le grand Bouftou Royal confère, en plus d'un style fabuleux, une force hors du commun."
+  },
+  {
+   "name": "Capodindo",
+   "level": "Niveau 50",
+   "caracteristique": "PM : 1",
+   "recette": "1x Queue de Dragodinde Rousse Sauvage\n1x Queue de Dragodinde\n2x Pic de Dragodinde Rousse Sauvage\n3x Aile de Dragodinde Rousse Sauvage\n2x Aile de Dragodinde\n20x Pic de Dragodinde",
+   "image": "https://barbok.eratz.fr/capodindo.png",
+   "condition": "",
+   "description": "Description : Parfois, lorsqu'un guerrier et une Dragodinde s'unissent, il peut se produire de bien étranges événements.\nCette cape en est la preuve vivante, puisqu'il s'agit des ailes d'une Dragodinde cousues sur une cape. La Dragodinde qui s'est sacrifiée pour cette cape, l'a offerte au célèbre ménestrel Lonne Jenone, le jour de leur union. Francisque Kabroule en aurait même fait une chanson."
+  },
+  {
+   "name": "Scaracape Noire",
+   "level": "Niveau 53",
+   "caracteristique": "Vitalité : 6 à 45\n+1 à 4 de dommages\n6 à 20% de dommages aux pièges\nRésistance : 1 à 5% (neutre)",
+   "recette": "1x Scaracape Blanche\n1x Scaracape Bleue\n1x Scaracape Rouge\n1x Scaracape Verte\n1x Ailes du Scarafeuille Noir\n1x Carapace de Scarafeuille Noir",
+   "image": "https://barbok.eratz.fr/scaracape_noire.png",
+   "condition": "",
+   "description": "Description : Si vous n'avez pas les moyens de vous acheter une Corbacape Mastralis, mais que vous aimez faire peur aux Araknes en vous habillant en noir, c'est la cape qu'il vous faut."
+  },
+  {
+   "name": "La Guenille",
+   "level": "Niveau 53",
+   "caracteristique": "Coup critiques : +3 à 10\n+3 à 5 de dommages\nInitiative : 51 à 100",
+   "recette": "3x Teinture Magique Bleutée\n2x Tissu Pourpre\n10x Fibre de Lin\n1x Fil Résistant\n4x Teinture Magique Sombre",
+   "image": "https://barbok.eratz.fr/la_guenille.png",
+   "condition": "",
+   "description": "Description : Cette étrange Cape puise toute sa force dans son aspect vétuste. Plus elle sera sale, et plus elle vous servira."
+  },
+  {
+   "name": "Cape de Jules Yanos",
+   "level": "Niveau 54",
+   "caracteristique": "Portée : +1\nPM : 1\nCréature invocables : +1\nRésistance : 3 à 6 (terre)\nRésistance : 3 à 6 (neutre)\nSagesse : -1 à -30",
+   "recette": "1x Poils du Meulou\n1x Laine de Bouftou Royal\n1x Laine du Chef de Guerre Bouftou\n1x Etoffe du Mulou\n4x Poils de Wo Wabbit\n1x Laine du Trool Furieux",
+   "image": "https://barbok.eratz.fr/cape_de_jules_yanos.png",
+   "condition": "",
+   "description": "Description : Jules Yanos, célèbre tailleur, était surtout célèbre pour avoir échangé sa femme contre un dé à coudre magique. Comme quoi, il existe encore des gens qui ont le sens des affaires."
+  },
+  {
+   "name": "Cape Fulgurante",
+   "level": "Niveau 55",
+   "caracteristique": "Sagesse : 1 à 20\nPA : +1\nVitalité : 1 à 30\n+1 à 3 de dommages",
+   "image": "https://barbok.eratz.fr/cape_fulgurante.png",
+   "condition": "",
+   "description": "Description : Cette magnifique cape augmente les points d'action de son porteur. Elle augmente également sa vitalité et sa sagesse."
+  },
+  {
+   "name": "Cape du Boufcoul",
+   "level": "Niveau 55",
+   "caracteristique": "Vitalité : 31 à 50\nSoins : 3 à 4\nInitiative : 201 à 300",
+   "recette": "30x Cuir de Bouftou\n2x Laine du Boufcoul\n30x Laine de Bouftou\n5x Etoffe de Dok Alako\n1x Cape Bouffante\n1x Cuir du Boufcoul",
+   "image": "https://barbok.eratz.fr/cape_du_boufcoul.png",
+   "condition": "",
+   "description": "Description : Si vous aimez prendre la vie du bon côté, cette cape est faite pour vous. En effet, elle est si épaisse et confortable qu'elle peut servir de lit improvisé si la fatigue commence à vous gagner. Son odeur de Kaliptus fumé lui permet même de repousser les insectes, les créatures indésirables ou encore les belles-mères."
+  },
+  {
+   "name": "Vegacape",
+   "level": "Niveau 58",
+   "caracteristique": "+1 à 7 de dommages\nAugmente les dommages de 1 à 30%",
+   "recette": "1x Capouze des Champs\n10x Feuille de Menthe Sauvage\n2x Langue du Pissenlit Diabolique\n10x Tige de Pissenlit Diabolique\n25x Trèfle à 5 feuilles",
+   "image": "https://barbok.eratz.fr/vegacape.png",
+   "condition": "",
+   "description": "Description : Une cape élégante qui vous rendra irrésistible auprès des amateurs de belles plantes."
+  },
+  {
+   "name": "Scaracape Dorée",
+   "level": "Niveau 58",
+   "caracteristique": "Vitalité : 6 à 55\nSagesse : 6 à 20\n+1 à 4 de dommages\nPortée : +1\nInitiative : 1 à 200",
+   "recette": "1x Scaracape Blanche\n1x Scaracape Bleue\n1x Scaracape Noire\n1x Scaracape Rouge\n1x Scaracape Verte\n1x Ailes du Scarabosse Doré",
+   "image": "https://barbok.eratz.fr/scaracape_doree.png",
+   "condition": "",
+   "description": "Description : Plus dorée qu'une Scaracape classique et moins noire qu'une Scaracape Noire, cette cape est parfaite pour cacher vos excroissances. Elle servait autrefois au Scarabosse Doré qui l'utilisait pour cacher son horrible bosse. De nos jours, cette cape est avant tout utilisée pour cacher les horribles postérieurs. Autant dire que cette cape est populaire."
+  },
+  {
+   "name": "Cape Hôte",
+   "level": "Niveau 58",
+   "caracteristique": "Vitalité : 26 à 40\nSagesse : 11 à 15\nIntelligence : 21 à 30\nSoins : 3 à 5",
+   "recette": "10x Teinture Magique Orange\n1x Cocon de Ver à Soie\n2x Mesure de sel\n10x Grand Anneau de Sagesse\n1x Poils Darits\n8x Poils du Mulou",
+   "image": "https://barbok.eratz.fr/cape_hote.png",
+   "condition": "",
+   "description": "Description : Cette création hybride entre une hôte et une cape, est franchement étonnante. Si elle avait été confectionnée en cuir, le Captain Chafer l'aurait adorée."
+  },
+  {
+   "name": "Gelocape",
+   "level": "Niveau 60",
+   "caracteristique": "Prospection : 6 à 20\nPortée : +1 à 2",
+   "recette": "50x Eau\n1x Gelée Citron\n10x Blugely\n20x Gelée Bleutée\n15x Gelée à la Menthe\n30x Gelée à la Fraise",
+   "image": "https://barbok.eratz.fr/gelocape.png",
+   "condition": "",
+   "description": "Description : Dépourvue de fils et de poils, cette Cape reste un mystère pour les têtes pensantes d'Amakna, ce qui ne doit pas représenter plus d'une dizaine de personnes."
+  },
+  {
+   "name": "Caracape",
+   "level": "Niveau 60",
+   "caracteristique": "Sagesse : 6 à 30\nChance : 1 à 30\nProspection : 1 à 5\nCoup critiques : +1 à 5",
+   "recette": "150x Carapace Bleue Vide\n150x Carapace Jaune Vide\n150x Carapace Rouge Vide\n150x Carapace Verte Vide\n150x Kokopaille\n1x Kokolait",
+   "image": "https://barbok.eratz.fr/caracape.png",
+   "condition": "",
+   "description": "Description : Une cape pratique et résistante, qui ne fera pas de vous une célébrité, mais comme vous n'en étiez pas une jusqu'à maintenant, où est le problème ?"
+  },
+  {
+   "name": "Cape de la Meupette",
+   "level": "Niveau 61",
+   "caracteristique": "Vitalité : 21 à 35\nAgilité : 21 à 30\nChance : 16 à 20\nSoins : 1 à 3\n+1 à 3 de dommages\nRésistance : 2 à 5 (terre)\nRésistance : 2 à 5 (neutre)",
+   "recette": "6x Foulard du Sparo\n15x Pollen de Blop\n3x Corail Morito\n2x Pétale Morito\n1x Etoffe Corailleuse\n8x Etoffe de Ouassingue",
+   "image": "https://barbok.eratz.fr/cape_de_la_meupette.png",
+   "condition": "",
+   "description": "Description : En portant cette cape, vous serez pris d'une furieuse envie de vinaigrette."
+  },
+  {
+   "name": "Cape Flotteuse",
+   "level": "Niveau 61",
+   "caracteristique": "Vitalité : 21 à 30\nRésistance : 6 à 10% (eau)\nRésistance : 6 à 10% (neutre)\nProspection : -3 à -5",
+   "recette": "1x Teinture Magique Bleutée\n10x Ailes de Scarafeuille bleu\n10x Carapace de Scarafeuille Bleu\n5x Ficelle en Lin\n5x Plume du Kwak de Glace\n5x Plume du Kwak de Vent",
+   "image": "https://barbok.eratz.fr/cape_flotteuse.png",
+   "condition": "Intelligence > 90",
+   "description": "Description : Cette Cape fut découpée dans un fanion, anciennement situé sur la plus haute tour du chateau d'Amakna. C'est sûrement pour cela qu'elle sent le linge séché au grand air."
+  },
+  {
+   "name": "Cape du Koalak",
+   "level": "Niveau 61",
+   "caracteristique": "Vitalité : 31 à 50\nRésistance : 7 à 10 (eau)\nRésistance : 7 à 10 (feu)\nRésistance : 7 à 10 (terre)",
+   "recette": "2x Peau de Koalak Immature\n3x Etoffe de Dok Alako\n2x Poils de Koalak Griotte\n3x Poils de Koalak Indigo\n2x Poils de Koalak Koko\n4x Poils de Koalak Reinette",
+   "image": "https://barbok.eratz.fr/cape_du_koalak.png",
+   "condition": "",
+   "description": "Description : Cette cape vous protégera de la majorité des attaques, mais pas du ridicule."
+  },
+  {
+   "name": "Cape du Kitsou",
+   "level": "Niveau 62",
+   "caracteristique": "Vitalité : 21 à 100\nRésistance : 4 à 5% (feu)\nRésistance : 4 à 5% (air)",
+   "recette": "1x Poils de Kitsou Nae\n1x Poils de Kitsou Nakwa\n1x Poils de Kitsou Nere\n1x Peau de Kitsou Nae\n1x Peau de Kitsou Nakwa\n1x Peau de Kitsou Nere",
+   "image": "https://barbok.eratz.fr/cape_du_kitsou.png",
+   "condition": "",
+   "description": "Description : Cette cape est lavable en rivière, même si elle risque de déteindre dès le troisième lavage."
+  },
+  {
+   "name": "Cape Terrdala",
+   "level": "Niveau 63",
+   "caracteristique": "Force : 16 à 25\nVitalité : 31 à 50\n+6 à 10 de dommages aux pièges\nInitiative : 151 à 200\nRésistance : 6 à 7 (eau)\nRésistance : 6 à 7 (terre)",
+   "recette": "50x Artefact Pandawushu Terre\n8x Poils de Pandule\n1x Etoffe de Pandule\n15x Feuille de Bulbuisson\n5x Poils de Pandikaze\n5x Poils du Sanglier",
+   "image": "https://barbok.eratz.fr/cape_terrdala.png",
+   "condition": "",
+   "description": "Description : Cette cape qui vient du village de Terrdala, peut servir de paillasson, ou même de serpillière si vous venez de sortir de l'eau."
+  },
+  {
+   "name": "La Poilue",
+   "level": "Niveau 63",
+   "caracteristique": "Portée : +1 à 2\nSagesse : 11 à 20\nVitalité : 31 à 50\nRésistance : 3 à 5% (terre)",
+   "recette": "8x Poil de Sanglier des Plaines\n4x Poil d'Ouginak\n12x Poils de Wabbit\n8x Poil de Kanigrou\n12x Poils de Black Tiwabbit\n2x Poils du Mulou",
+   "image": "https://barbok.eratz.fr/la_poilue.png",
+   "condition": "Sagesse > 30\nVitalité > 50",
+   "description": "Description : Il faut avouer que cette Cape possède une forte odeur très désagréable. En essayant de mettre des mots sur cette infection, on peut dire que c'est tout simplement un mélange de poils de monstres divers qui créent ce magnifique pot pourri."
+  },
+  {
+   "name": "Cape du Mulou",
+   "level": "Niveau 64",
+   "caracteristique": "Vitalité : 1 à 50\nSagesse : 1 à 20\nSoins : 1 à 8\nPortée : +1\nProspection : 1 à 5",
+   "recette": "5x Poils du Mulou\n1x Mojo du Mulou\n5x Poils du Milimulou\n10x Oeil du Milimulou\n1x Scalp de Mulou\n1x Queue du Mulou",
+   "image": "https://barbok.eratz.fr/cape_du_mulou.png",
+   "condition": "",
+   "description": "Description : Cette peau de Mulou constitue une excellente protection contre le froid, mais également contre les aventuriers aux sens olfactifs un peu trop développés."
+  },
+  {
+   "name": "Cape Aerdala",
+   "level": "Niveau 65",
+   "caracteristique": "Agilité : 11 à 20\nVitalité : 21 à 40\n+3 à 4 de dommages aux pièges\nProspection : 6 à 10\nRésistance : 6 à 8 (feu)\nRésistance : 6 à 8 (eau)",
+   "recette": "50x Artefact Pandawushu Air\n5x Poils de Pandikaze\n1x Etoffe de Pandikaze\n10x Poils de Pandule\n1x Poils de Kitsou Nere\n2x Poils de Kitsou Nakwa",
+   "image": "https://barbok.eratz.fr/cape_aerdala.png",
+   "condition": "",
+   "description": "Description : Cette cape qui vient du village d'Aerdala, peut servir de paillasson, ou même de serpillière si vous venez de sortir de l'eau."
+  },
+  {
+   "name": "Cape du Désir O'Boul",
+   "level": "Niveau 67",
+   "caracteristique": "Vitalité : 41 à 60\nSagesse : 16 à 30\nCoup critiques : +3 à 4\n+4 à 5 de dommages",
+   "recette": "20x Plume de Piou Violet\n20x Plume de Piou Rose\n20x Plume de Piou Vert\n20x Plume de Piou Rouge\n20x Poil de Sanglier des Plaines\n20x Poils de Barbe du Bwork Mage",
+   "image": "https://barbok.eratz.fr/cape_du_desir_oboul.png",
+   "condition": "",
+   "description": "Description : Cette cape presque vivante en poils de barbe roux est unique en son genre. Animée d'une magie extraordinaire, elle a tendance à jouer de nombreux tours à son porteur, en se cachant toujours au moment de partir à l'aventure, lorsqu'on a besoin d'elle. Elle compense heureusement sa fourberie, par une puissance en combat à toute épreuve, qui fait d'elle une \"véwitable meuchine de guewe\" d'après certains Wabbits."
+  },
+  {
+   "name": "Cape Hucine",
+   "level": "Niveau 71",
+   "caracteristique": "Vitalité : 71 à 100\nSagesse : 31 à 40\nPA : +1\nCréature invocables : +1 à 2\nRésistance : 6 à 10% (eau)\nRésistance : 6 à 10% (terre)\nAgilité : -101 à -200\nChance : -101 à -200\nForce : -101 à -200\nIntelligence : -101 à -200",
+   "image": "https://barbok.eratz.fr/cape_hucine.png",
+   "condition": "",
+   "description": "Description : Cette magnifique cape sent la fleur des bois. Pas de quoi rendre folle de vous une Craêtte, mais suffisant pour couvrir les odeurs d'un Sadida qui se néglige."
+  },
+  {
+   "name": "Cape Hitton",
+   "level": "Niveau 80",
+   "caracteristique": "Rend la portée du sort 0 modifiable\nAugmente la portée du sort Puissance Sylvestre de 4\n+15 de dommages\nAugmente la portée du sort Tremblement de 3",
+   "recette": "1x Etoffe de Gourlo le Terrible\n20x Etoffe de Ouassingue\n4x Foulard du Sparo\n4x Maillot de corps de Barbroussa\n10x Aile du Bitouf des plaines\n10x Plume de fesse du Kido\n16x Queue de scorbute",
+   "image": "https://barbok.eratz.fr/cape_hitton.png",
+   "condition": "",
+   "description": "Description : Cet objet sert à cacher les surcharges pondérales des Sadidas. À force de dormir au lieu de faire de l'exercice physique, les personnages de cette classe développent une tendance à l'embonpoint. Si les Sadidettes possèdent des réserves anti-famine, avantageusement placées pour flatter les regards masculins, les Sadidas tentent plutôt de masquer les leurs grâce à cette cape."
+  },
+  {
+   "name": "Cape Hulco",
+   "level": "Niveau 80",
+   "caracteristique": "Réduit de 1 le coût en PA du sort Flèche Enflammée\n+25 aux CC sur le sort Flèche Absorbante\nRéduit de 1 le délai de relance du sort Tir Critique\nDésactive la ligne de vue du sort 0",
+   "recette": "1x Etoffe de Gourlo le Terrible\n20x Etoffe de Ouassingue\n4x Foulard du Sparo\n4x Maillot de corps de Barbroussa\n10x Aile du Bitouf des plaines\n10x Plume de fesse du Kido\n6x Oeil de Crabe",
+   "image": "https://barbok.eratz.fr/cape_hulco.png",
+   "condition": "",
+   "description": "Description : La cape Hulco tire son origine du nom d'un Crâ atypique. Celui-ci possédait un sens de l'orientation très particulier. Il était capable de se perdre chez lui. Et pourtant ce n'était pas bien grand ! Son problème résidait dans une déformation des fonctions du cerveau : pour lui, tous les lieux ressemblent une vaste plage, entourée de cocotiers, baignée par la lumière chaude d'un soleil couchant."
+  },
+  {
+   "name": "Cape Huchon",
+   "level": "Niveau 80",
+   "caracteristique": "Augmente de 1 le nombre de lancer maximal par cible du sort Gelure\nAugmente la portée du sort Frappe de Xélor de 1\nAugmente la portée du sort Vol du Temps de 2\nRéduit de 1 le coût en PA du sort Momification",
+   "recette": "1x Etoffe de Gourlo le Terrible\n20x Etoffe de Ouassingue\n4x Foulard du Sparo\n4x Maillot de corps de Barbroussa\n10x Aile du Bitouf des plaines\n10x Plume de fesse du Kido\n71x Ongle de Kanigrou",
+   "image": "https://barbok.eratz.fr/cape_huchon.png",
+   "condition": "",
+   "description": "Description : La couleur sombre de cette cape lui permet d'être en harmonie avec n'importe quel vêtement, quel que soit son coloris. Comme elle est très ample, elle permet aussi de protéger la tête et le bout du nez."
+  },
+  {
+   "name": "Cape Haharnum",
+   "level": "Niveau 80",
+   "caracteristique": "+30 aux CC sur le sort Accélération\n+20 de dommages\n+20 de dommages\nAugmente la portée du sort Sac Animé de 4",
+   "recette": "1x Etoffe de Gourlo le Terrible\n20x Etoffe de Ouassingue\n4x Foulard du Sparo\n4x Maillot de corps de Barbroussa\n10x Aile du Bitouf des plaines\n10x Plume de fesse du Kido\n5x Langue de Crabe",
+   "image": "https://barbok.eratz.fr/cape_haharnum.png",
+   "condition": "",
+   "description": "Description : Les Enutrofs ont pris l'habitude de dessiner une carte sur leur cape, car ils vivent dans un tel foutoir qu'il leur est difficile de retrouver le chemin des toilettes. Cela est très problématique, surtout lorsque l'on est sujet à des envies aussi pressantes qu'incontrôlables !"
+  },
+  {
+   "name": "Cape Routh",
+   "level": "Niveau 80",
+   "caracteristique": "Réduit de 1 le délai de relance du sort Invisibilité\nAugmente la portée du sort Piège Sournois de 3\n+30 aux CC sur le sort Poison insidieux\nRéduit de 1 le coût en PA du sort Piège répulsif",
+   "recette": "1x Etoffe de Gourlo le Terrible\n20x Etoffe de Ouassingue\n4x Foulard du Sparo\n4x Maillot de corps de Barbroussa\n10x Aile du Bitouf des plaines\n10x Plume de fesse du Kido\n24x Bandeau du Black Tiwabbit",
+   "image": "https://barbok.eratz.fr/cape_routh.png",
+   "condition": "",
+   "description": "Description : Cette cape est si légère et si fine qu'elle s'envole à la moindre brise de vent, de n'importe quel vent. Pas toujours très pratique, surtout lorsque l'on veut se faire discret, après un repas composé de légumineuses et de diverses boissons fermentées."
+  },
+  {
+   "name": "Cape Aurale",
+   "level": "Niveau 80",
+   "caracteristique": "Augmente la portée du sort Bond de 1\nRéduit de 1 le coût en PA du sort Compulsion\nAugmente la portée du sort Intimidation de 1\nDésactive la ligne de vue du sort 0",
+   "recette": "1x Etoffe de Gourlo le Terrible\n20x Etoffe de Ouassingue\n4x Foulard du Sparo\n4x Maillot de corps de Barbroussa\n10x Aile du Bitouf des plaines\n10x Plume de fesse du Kido\n65x Oreille de Kanigrou",
+   "image": "https://barbok.eratz.fr/cape_aurale.png",
+   "condition": "",
+   "description": "Description : La cape qui flotte au vent est indispensable pour vous procurer une aura de guerrier, surtout si vous tournez le dos à l'adversaire. Certains pensent qu'elle est renforcée par une plaque de métal qui permet de parer tous les coups sournois."
+  },
+  {
+   "name": "Cape Ytale",
+   "level": "Niveau 80",
+   "caracteristique": "Réduit de 1 le coût en PA du sort Châ\nAugmente la portée du sort Furie de 1\nRéduit de 2 le délai de relance du sort Transposition\nAugmente la portée du sort Transfert de Vie de 2",
+   "recette": "1x Etoffe de Gourlo le Terrible\n20x Etoffe de Ouassingue\n4x Foulard du Sparo\n4x Maillot de corps de Barbroussa\n10x Aile du Bitouf des plaines\n10x Plume de fesse du Kido\n15x Patte d'Arakne Majeure",
+   "image": "https://barbok.eratz.fr/cape_ytale.png",
+   "condition": "",
+   "description": "Description : Ce vêtement joue un rôle primordial dans la prestance des Sacrieurs. Ils s'en servent comme bandage pour panser les plaies, comme serpillière pour essuyer le sang, comme descente de lit pour ne pas avoir froid aux pieds. On ne dira jamais à quel point les personnages de cette classe redoutent les sols gelés !"
+  },
+  {
+   "name": "Cape Sulhit",
+   "level": "Niveau 80",
+   "caracteristique": "Désactive la ligne de vue du sort 0\nAugmente la portée du sort Mot de Prévention de 2\nAugmente la portée du sort Mot Interdit de 1\nAugmente la portée du sort Mot d'Epine de 4",
+   "recette": "1x Etoffe de Gourlo le Terrible\n20x Etoffe de Ouassingue\n4x Foulard du Sparo\n4x Maillot de corps de Barbroussa\n10x Aile du Bitouf des plaines\n10x Plume de fesse du Kido\n2x Queue de Sanglier des Plaines",
+   "image": "https://barbok.eratz.fr/cape_sulhit.png",
+   "condition": "",
+   "description": "Description : La Cape Sulhit se met délicatement sur les épaules afin de protéger son porteur des tendinites et de l'enraidissement des articulations. Vêtement aux vertus médicales, il est regardé avec envie par les Pandawas, qui passent beaucoup de temps à porter leur adversaire comme leur allié. Eux-aussi, ils aimeraient avoir un vêtement de ce type."
+  },
+  {
+   "name": "Cape Lyne",
+   "level": "Niveau 80",
+   "caracteristique": "Augmente de 1 le nombre de lancer maximal par tour du sort Fouet\nRéduit de 1 le délai de relance du sort Invocation de Bwork Mage\nRéduit de 3 le délai de relance du sort Bénédiction Animale\n+25 aux CC sur le sort Cri de l'Ours",
+   "recette": "1x Etoffe de Gourlo le Terrible\n20x Etoffe de Ouassingue\n4x Foulard du Sparo\n4x Maillot de corps de Barbroussa\n10x Aile du Bitouf des plaines\n10x Plume de fesse du Kido\n6x Oeil de Kolérat",
+   "image": "https://barbok.eratz.fr/cape_lyne.png",
+   "condition": "",
+   "description": "Description : Cette douce cape est parfois employée par les Osamodettes coquettes en guise de couvre-chef aux larges bords. Les Osamodas mâles ne s'en servent que comme pèlerine. Grâce au dessin qui orne cet habit, cette classe de personnages a hérité d'une réputation de grande franchise. On ne les voit jamais rire sous cape car le rire est cousu dessus."
+  },
+  {
+   "name": "Cape d'Elya Wood",
+   "level": "Niveau 80",
+   "caracteristique": "Intelligence : 21 à 35\n+6 à 8 de dommages\nPortée : +1 à 2\nRésistance : 6 à 15 (eau)\nRésistance : 6 à 15 (air)\nRésistance : 6 à 15 (feu)",
+   "recette": "2x Laine de Bouftou Royal\n10x Poils de Barbe du Bwork Mage\n10x Poils de Barbe du Grand Pa Wabbit\n1x Poils du Meulou\n10x Poils du Milimulou\n1x Poils du Minotoror\n1x Etoffe du Meulou",
+   "image": "https://barbok.eratz.fr/cape_delya_wood.png",
+   "condition": "",
+   "description": "Description : On raconte que le Captain Chafer a tenté de voler cette cape pour remplacer ses célèbres sous-vêtements en cuir. Mais elle ne lui allait pas, elle n'incarnait pas assez la perversité et la perfidie pour lui."
+  },
+  {
+   "name": "Cape Wéra",
+   "level": "Niveau 80",
+   "caracteristique": "Désactive la ligne de vue du sort 0\nAugmente la portée du sort Souffle Alcoolisé de 2\nDésactive le lancer en ligne du sort 0\n+15 de dommages",
+   "recette": "1x Etoffe de Gourlo le Terrible\n20x Etoffe de Ouassingue\n4x Foulard du Sparo\n4x Maillot de corps de Barbroussa\n10x Aile du Bitouf des plaines\n10x Plume de fesse du Kido\n7x Museau de Kolérat",
+   "image": "https://barbok.eratz.fr/cape_wera.png",
+   "condition": "",
+   "description": "Description : Les Pandawas se servent de cette cape comme protection contre les intempéries et comme accessoire de danse. Ils la posent à terre, au centre d'un cercle de danseurs éméchés. Puis, ils commencent leur chorégraphie improvisée sans que le pied touche le sol en dehors de la zone délimitée par ce vêtement."
+  },
+  {
+   "name": "Cape Aillé",
+   "level": "Niveau 80",
+   "caracteristique": "Augmente la portée du sort Trèfle de 4\n+25 de dommages\n+30 de dommages\nRéduit de 1 le coût en PA du sort Odorat",
+   "recette": "1x Etoffe de Gourlo le Terrible\n20x Etoffe de Ouassingue\n4x Foulard du Sparo\n4x Maillot de corps de Barbroussa\n10x Aile du Bitouf des plaines\n10x Plume de fesse du Kido\n65x Poil de Kanigrou",
+   "image": "https://barbok.eratz.fr/cape_aille.png",
+   "condition": "",
+   "description": "Description : Faite dans un tissu doux et résistant, cette cape donne aux Ecaflips l'impression qu'ils sont toujours des as, quoi qu'il arrive. Lorsqu'ils remportent la victoire, ils adorent se draper dans ce vêtement avant de réclamer leur récompense : « Et maintenant, t'as qu'à payer ! »"
+  },
+  {
+   "name": "Cape de Shika",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 26 à 35\nSagesse : 16 à 20\nChance : 26 à 35\nCréature invocables : +1\nPods : +201 à 250\nRésistance : 2 à 3 (air)\nRésistance : 2 à 3 (eau)\nRésistance : 2 à 3 (feu)\nRésistance : 2 à 3 (neutre)\nRésistance : 2 à 3 (terre)\nRésistance : 4 à 5% (feu)\nRésistance : 4 à 5% (terre)",
+   "recette": "8x Fibre de Lin\n5x Etoffe de Dok Alako\n5x Etoffe de Kanigrou\n8x Fibre de Chanvre\n6x Poils de Koalak Griotte\n6x Poils de Koalak Indigo\n50x Poil de Kanigrou",
+   "image": "https://barbok.eratz.fr/cape_de_shika.png",
+   "condition": "",
+   "description": "Description : Des fleurs des moissons ont été cousues sur cette cape confectionnée à partir de céréales magiques tissées entre elles. Elle est animée d'une magie si puissante, que Shika s'en servait de protection contre la foudre, les soirs d'orage."
+  },
+  {
+   "name": "Cape de Farle",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 26 à 35\nSagesse : 16 à 20\nAgilité : 26 à 35\nCréature invocables : +1\nPods : +201 à 250\nRésistance : 2 à 3 (eau)\nRésistance : 2 à 3 (air)\nRésistance : 2 à 3 (feu)\nRésistance : 2 à 3 (terre)\nRésistance : 2 à 3 (neutre)\nRésistance : 4 à 5% (air)\nRésistance : 4 à 5% (eau)",
+   "recette": "8x Fibre de Chanvre\n8x Fibre de Lin\n4x Etoffe du Prespic\n9x Etoffe de Croc Gland\n8x Etoffe de Kanigrou\n18x Poils de Barbe du Bwork Mage\n30x Laine du Chef de Guerre Bouftou",
+   "image": "https://barbok.eratz.fr/cape_de_farle.png",
+   "condition": "",
+   "description": "Description : Cette cape en tissu et en peaux permettait à Farle Ingalsse d'ensemencer des champs entiers pendant une saison complète sans jamais devoir s'arrêter. En effet, une fois repliée et utilisée comme une besace, sa capacité semble presque illimitée. Personne ne connaît réellement le tailleur à l'origine de cette merveille, la légende raconte seulement, qu'il s'est retiré de la profession lorsque ses clients ont commencé à confondre ses capes avec des serpillères. Quel triste départ en retraite !"
+  },
+  {
+   "name": "Cape Hadosse",
+   "level": "Niveau 80",
+   "caracteristique": "+30 aux CC sur le sort Armure Terrestre\nRéduit de 1 le coût en PA du sort Téléportation\nAugmente la portée du sort Glyphe d'Aveuglement de 1\n+30 aux CC sur le sort Bulle",
+   "recette": "1x Etoffe de Gourlo le Terrible\n20x Etoffe de Ouassingue\n4x Foulard du Sparo\n4x Maillot de corps de Barbroussa\n10x Aile du Bitouf des plaines\n10x Plume de fesse du Kido\n11x Oeil d'Ouginak",
+   "image": "https://barbok.eratz.fr/cape_hadosse.png",
+   "condition": "",
+   "description": "Description : Les couleurs chaudes et réconfortantes de cette cape peuvent entraîner son porteur dans un voyage imaginaire, dans des contrées ensoleillées, pleines de canyons creusés par l'érosion, et de décors rupestres taillées dans les roches et les falaises. C'est extrêmement utile pour oublier le froid et la grisaille par temps de pluie."
+  },
+  {
+   "name": "Craquelocape Légendaire",
+   "level": "Niveau 84",
+   "caracteristique": "Vitalité : 51 à 70\nSagesse : 16 à 25\nAgilité : 26 à 40\nCoup critiques : +3 à 4\nProspection : 4 à 5\nRésistance : 5 à 6 (feu)\nRésistance : 5 à 6 (air)",
+   "recette": "10x Fragment de Pierre Polie\n30x Pierre du Craqueleur\n2x Agathe\n10x Rubis\n3x Pierre du Craqueleur Légendaire\n1x Craquelocape\n3x Fragment de Pierre Pointue",
+   "image": "https://barbok.eratz.fr/craquelocape_legendaire.png",
+   "condition": "",
+   "description": "Description : Cette cape épaisse en pierre brute fera de vous une brute épaisse en pierre."
+  },
+  {
+   "name": "La Brouteuse",
+   "level": "Niveau 88",
+   "caracteristique": "Vitalité : 31 à 50\nForce : 31 à 50\n+3 à 6 de dommages\nCréature invocables : +2 à 3\nRésistance : 7 à 9% (feu)\nRésistance : 7 à 9% (neutre)",
+   "recette": "1x Chanvre Euphorique\n20x Edelweiss\n2x Fleur de Gloutovore\n10x Teinture Magique Verdâtre\n20x Peau de Larve Verte\n20x Tige de Pissenlit Diabolique\n10x Pétale de Blop",
+   "image": "https://barbok.eratz.fr/la_brouteuse.png",
+   "condition": "",
+   "description": "Description : Idéale pour le jardin, la Brouteuse peut aussi servir de paillasson pour votre entrée de maison. Conçue à la base pour les Sadidas, elle n'abîme pas les poils, même les plus fragiles. Certains vont même jusqu'à dire qu'elle ralentit leur chute."
+  },
+  {
+   "name": "Cape Feudala",
+   "level": "Niveau 92",
+   "caracteristique": "Vitalité : 26 à 45\nSagesse : 16 à 25\nCoup critiques : +3 à 4\nRésistance : 4 à 5 (eau)\nRésistance : 4 à 5 (terre)\nRésistance : 6 à 10% (eau)\nRésistance : 6 à 10% (terre)",
+   "recette": "50x Artefact Pandawushu Feu\n2x Poils de Kitsou Nae\n2x Poils de Kitsou Nakwa\n2x Poils de Kitsou Nere\n2x Poils de Kitsou Nufeu\n10x Poils de Pandikaze\n1x Etoffe de Pandikaze",
+   "image": "https://barbok.eratz.fr/cape_feudala.png",
+   "condition": "",
+   "description": "Description : Cette cape qui vient du village de Feudala, peut servir de paillasson, ou même de serpillière si vous venez de sortir de l'eau."
+  },
+  {
+   "name": "Cape de la Ouassingue",
+   "level": "Niveau 97",
+   "caracteristique": "Vitalité : 51 à 80\nSagesse : 21 à 30\nIntelligence : 26 à 40\nAgilité : 16 à 25\nAugmente les dommages de 6 à 10%\nCréature invocables : +1\nInitiative : -101 à -200\nProspection : 11 à 15\nRésistance : 6 à 10 (neutre)\nRésistance : 6 à 10 (terre)",
+   "recette": "82x Etoffe de Ouassingue\n12x Foulard du Sparo\n1x Cape du Mulou Fou\n8x Etoffe de Meupette\n7x Jus de Ouassingue\n6x Tourbe séchée de Tourbassingue\n4x Faux menton du Bourbassingue",
+   "image": "https://barbok.eratz.fr/cape_de_la_ouassingue.png",
+   "condition": "",
+   "description": "Description : Moins performante que la Cape du Roissingue, cette cape présente néanmoins les mêmes avantages quant à l'évacuation de la sueur. Avec elle, vous allez pouvoir faire face à toutes les situations... Si vous arrivez à combattre en apnée, car vu l'odeur, il est vraiment impossible de ne pas défaillir."
+  },
+  {
+   "name": "Cape du Chef Bwork",
+   "level": "Niveau 100",
+   "caracteristique": "Vitalité : 36 à 50\nAgilité : 26 à 40\nChance : 26 à 40\n+3 à 4 de dommages\nProspection : 4 à 5\nRésistance : 3 à 4 (eau)\nRésistance : 3 à 4 (air)\nRésistance : 3 à 4 (feu)\nRésistance : 3 à 4 (terre)\nRésistance : 3 à 4 (neutre)\nRésistance : 4 à 5% (air)\nRésistance : 4 à 5% (feu)\nRésistance : 4 à 5% (eau)",
+   "image": "https://barbok.eratz.fr/cape_du_chef_bwork.png",
+   "condition": "",
+   "description": "Description : Cette cape déchirée et pleine de trous vous fera passer pour un très grand guerrier Bwork. Elle est parfaite si vous voulez terroriser les vieux du village. En revanche, pour séduire l'âme sœur, cela risque d'être un peu plus difficile, à moins de la porter entièrement nu, ce qui vous permettra en plus, de continuer à faire peur aux vieux du village."
+  },
+  {
+   "name": "Cape du Rat Blanc",
+   "level": "Niveau 102",
+   "caracteristique": "Agilité : 26 à 40\nForce : 21 à 30\nVitalité : 41 à 70\nSagesse : 11 à 20\nPortée : +1\nRésistance : 4 à 6 (air)\nRésistance : 4 à 6 (neutre)\nRésistance : 4 à 6% (feu)",
+   "recette": "20x Poil de Rat d'Egoutant\n10x Poil de Sanglier des Plaines\n1x La Guenille\n30x Poil d'Ouginak\n3x Etoffe du Rat Blanc\n35x Poil de Kanigrou\n10x Tissu Invisible",
+   "image": "https://barbok.eratz.fr/cape_du_rat_blanc.png",
+   "condition": "",
+   "description": "Description : Cette cape est le symbole identifiant un rat blanc du réseau d'égoûts de Bonta, elle lui est remise après un examen long et difficile, et il la porte fièrement jusqu'à sa mort, c'est à dire jamais longtemps."
+  },
+  {
+   "name": "Cape du Dragon Cochon",
+   "level": "Niveau 103",
+   "caracteristique": "Chance : 26 à 40\nProspection : 11 à 15\n+4 à 6 de dommages\nVitalité : 81 à 110\nRésistance : 4 à 6% (feu)\nRésistance : 4 à 5 (air)\nRésistance : 4 à 5 (eau)\nEchec critique : +2 à 4\nRésistance : 4 à 6% (air)\nRésistance : 4 à 5 (feu)\nRésistance : 4 à 5 (neutre)\nRésistance : 4 à 5 (terre)",
+   "recette": "1x Défense de Dragon Cochon\n1x Queue de Dragon Cochon\n25x Queue de Dragodinde Rousse Sauvage\n18x Peau de Don Duss Ang\n18x Peau de Don Dorgan\n4x Queue de Koalak Sanguin\n1x Poil de Dragon Cochon",
+   "image": "https://barbok.eratz.fr/cape_du_dragon_cochon.png",
+   "condition": "",
+   "description": "Description : Cette cape ne fera pas de vous un petit Cochon de Lait, mais elle vous permettra peut-être de vous travestir l'espace d'une soirée, afin de séduire une belle Cochonne."
+  },
+  {
+   "name": "Cape du Rat Noir",
+   "level": "Niveau 105",
+   "caracteristique": "Agilité : 31 à 40\nSagesse : 11 à 20\n+4 à 5 de dommages\nVitalité : 41 à 70\n+6 à 8 de dommages aux pièges\n11 à 20% de dommages aux pièges\nRésistance : 4 à 6% (neutre)",
+   "recette": "40x Poil de Rat d'Egoutant\n1x Poil de Chaman d'Egoutant\n15x Oreille de Kanigrou\n10x Colonne Vertebrale\n30x Crocs de Rats\n3x Etoffe du Rat Noir\n35x Poil de Kanigrou",
+   "image": "https://barbok.eratz.fr/cape_du_rat_noir.png",
+   "condition": "",
+   "description": "Description : Cette cape peut être confectionnée avec n'importe quels poils, à condition qu'ils soient les plus sales possibles. Ils sont tressés entre eux puis fixés à l'aide de sécrétions diverses. L'odeur n'est pas en option."
+  },
+  {
+   "name": "Cape Houte",
+   "level": "Niveau 105",
+   "caracteristique": "Vitalité : 71 à 100\nSagesse : 16 à 25\nIntelligence : 26 à 40\nSoins : 6 à 10\nProspection : 11 à 15\nRésistance : 6 à 10 (feu)\nRésistance : 6 à 10 (air)",
+   "recette": "20x Poils de Kitsou Nufeu\n1x Etoffe de Maho Firefoux\n10x Poils de Maho Firefoux\n1x Etoffe de Soryo Firefoux\n12x Poils de Soryo Firefoux\n5x Etoffe de Pandikaze\n30x Poils de Pandikaze",
+   "image": "https://barbok.eratz.fr/cape_houte.png",
+   "condition": "",
+   "description": "Description : Cette cape très puissante a renversé plus d'un imprudent ayant tenté de la porter, une caractéristique partagée avec la Momie Nova."
+  },
+  {
+   "name": "Cape du Minotoror",
+   "level": "Niveau 109",
+   "caracteristique": "Vitalité : 121 à 170\nSagesse : 21 à 40\nProspection : 6 à 15\nCréature invocables : +3 à 4\nSoins : 4 à 6\nRésistance : 6 à 10% (neutre)",
+   "recette": "25x Poils du Minotoror\n6x Laine du Minotoror\n8x Poil de Déminoboule\n40x Poil de Gamino\n8x Poil de Renarbo\n2x Poils de Barbe du Warko Marron\n2x Poils de Barbe du Warko Violet",
+   "image": "https://barbok.eratz.fr/cape_du_minotoror.png",
+   "condition": "",
+   "description": "Description : Prenez un Minotoror, attachez-le fermement, prenez un rabot géant, et pelez-lui (en un seul passage) le dos. Voilà, c'est fait, vous avez désormais entre les mains, une cape du Minotoror."
+  },
+  {
+   "name": "Puissante Cape Fulgurante",
+   "level": "Niveau 110",
+   "caracteristique": "PA : +1\nSagesse : 31 à 40\nVitalité : 31 à 40\n+4 à 5 de dommages",
+   "recette": "3x Etoffe du Roissingue\n10x Tissu Invisible\n50x Kristalite\n10x Tissu Pourpre\n150x Etoffe Zoth\n1x Tissu Sanguin\n50x Etoffe de Ouassingue",
+   "image": "https://barbok.eratz.fr/puissante_cape_fulgurante.png",
+   "condition": "",
+   "description": "Description : Tissée dans des étoffes de Zoths, cette cape possède un pouvoir extraordinaire dont l'origine reste encore inconnue."
+  },
+  {
+   "name": "Abracapa Ancestrale",
+   "level": "Niveau 114",
+   "caracteristique": "Force : 21 à 30\nChance : 26 à 45\nVitalité : 51 à 100\nSagesse : 16 à 25\n+4 à 5 de dommages\nAugmente les dommages de 6 à 10%\nInitiative : 101 à 200\nProspection : 6 à 10\nRésistance : 6 à 10% (air)\nRésistance : 6 à 10% (eau)",
+   "recette": "150x Racine d'Abraknyde\n45x Bois de Bambou Sombre\n1x Abracapa\n3x Ecorce d'Abraknyde Ancestral\n1x Bourgeon de l'Abraknyde Ancestral\n1x Abracape\n2x Racine d'Abraknyde Ancestral",
+   "image": "https://barbok.eratz.fr/abracapa_ancestrale.png",
+   "condition": "",
+   "description": "Description : En été, l'Abraknyde Ancestral aime se dorer au soleil, mais son bois habitué aux forêts sombres le supporte mal. Cette cape est confectionnée avec les pelures de son écorce."
+  },
+  {
+   "name": "Caracape Minotoris",
+   "level": "Niveau 121",
+   "caracteristique": "Résistance : 6 à 10% (air)\nRésistance : 6 à 10% (terre)\nRésistance : 6 à 10% (feu)\nRésistance : 6 à 10% (eau)\nAgilité : 16 à 20\nAugmente les dommages de 16 à 20%\nRésistance : 11 à 15 (eau)\nRésistance : 11 à 15 (air)\nRésistance : 11 à 15 (feu)\nRésistance : 11 à 15 (terre)\nRésistance : 11 à 15 (neutre)",
+   "recette": "4x Queue de Minotoror\n1x Cuir de Minotoror\n1x Laine du Minotoror\n10x Poils de Grand Pa Wabbit\n10x Poil de Sanglier des Plaines\n10x Plume du Kwak de Vent\n10x Plume du Kwak de Terre\n4x Poils du Minotoror",
+   "image": "https://barbok.eratz.fr/caracape_minotoris.png",
+   "condition": "",
+   "description": "Description : Cette cape, d'allure royale, constitue pourtant une incroyable protection. C'est ce modèle qui a fait la réputation d'une célèbre tailleuse, juste avant de mourir de son succès, écrasée par la foule."
+  },
+  {
+   "name": "Ortiz",
+   "level": "Niveau 125",
+   "caracteristique": "Intelligence : 26 à 50\nVitalité : 151 à 200\nSagesse : 21 à 35\n+5 à 7 de dommages\nProspection : -11 à -15\nRésistance : 6 à 10% (feu)\nRésistance : 6 à 10% (air)",
+   "recette": "1x Etoffe de Fantôme Pandule\n1x Etoffe de Pandule\n6x Etoffe du Prespic\n10x Poils de Kitsou Nufeu\n12x Poils de Kitsou Nere\n3x Poils de Yokai Firefoux\n2x Poils de Maho Firefoux\n1x Poils de Pandore",
+   "image": "https://barbok.eratz.fr/ortiz.png",
+   "condition": "",
+   "description": "Description : Portée par les plus grands de ce monde, cette cape est surtout réputée pour sa douceur légendaire, qui lui permet d'être portée sans aucun sous-vêtement lors des saisons chaudes. Une forme raffinée d'exhibitionnisme qui en a séduit plus d'un."
+  },
+  {
+   "name": "Cape Dragoeuf",
+   "level": "Niveau 127",
+   "caracteristique": "Prospection : 16 à 25\nPortée : +1\nVitalité : 101 à 150\nCréature invocables : +2 à 3\n+4 à 6 de dommages\nRésistance : 6 à 8% (air)\nRésistance : 6 à 8% (feu)",
+   "recette": "20x Ecaille de Dragoss Noir\n20x Ecaille de Dragoss de Saphire\n20x Ecaille de Dragoss Blanc\n20x Ecaille de Dragoss Doré\n20x Peau de Dragueuse\n20x Peau de Dragoeuf Volant\n2x Lanière en cuir du Dragoeuf Guerrier\n2x Peau de Crocabulia",
+   "image": "https://barbok.eratz.fr/cape_dragoeuf.png",
+   "condition": "",
+   "description": "Description : Cette cape recouverte d'écailles vous protègera d'après la légende, de la foudre, des haricots, et surtout des femmes fatales."
+  },
+  {
+   "name": "Corbacape Mastralis",
+   "level": "Niveau 127",
+   "caracteristique": "Sagesse : 36 à 50\nVitalité : 81 à 120\nPortée : +2\nRésistance : 6 à 10% (neutre)\nProspection : 6 à 10\nRésistance : 6 à 10% (eau)\nRésistance : 6 à 10% (terre)\nChance : 46 à 60",
+   "recette": "10x Plume du Maître Corbac\n20x Teinture Magique Sombre\n80x Plume de Corbac\n80x Plume de Tofu Maléfique\n50x Poils du Milimulou\n80x Poils de Black Tiwabbit\n10x Tissu Sombre\n8x Corbac Mort",
+   "image": "https://barbok.eratz.fr/corbacape_mastralis.png",
+   "condition": "",
+   "description": "Description : Les meilleurs tailleurs d'Amakna se sont associés jadis pour utiliser les restes de la dépouille du Maître Corbac afin d'en faire une cape somptueuse. Avec une telle cape sur les épaules, le maître c'est vous."
+  },
+  {
+   "name": "Cape Cérémoniale du Seigneur des Rats",
+   "level": "Niveau 130",
+   "caracteristique": "Agilité : 31 à 45\nIntelligence : 16 à 30\nVitalité : 101 à 150\nSagesse : 11 à 20\nProspection : 11 à 15\nPortée : +1\n+4 à 6 de dommages\nSoins : 4 à 6\nRésistance : 4 à 6 (air)\nRésistance : 4 à 6 (feu)\nRésistance : 5 à 7% (air)\nRésistance : 5 à 7% (feu)",
+   "recette": "10x Etoffe du Rat Noir\n2x Epaulette du Dark Vlad\n21x Etoffe de Kanigrou\n2x Coton Ancestral\n1x Cape du Rat Blanc\n1x Cape du Rat Noir\n4x Peau de Sphincter Cell\n10x Etoffe du Rat Blanc",
+   "image": "https://barbok.eratz.fr/cape_ceremoniale_du_seigneur_des_rats.png",
+   "condition": "",
+   "description": "Description : Cette cape colorée fait de vous une cible privilégiée. Seuls les aventuriers vifs et agiles ont su la porter longtemps."
+  },
+  {
+   "name": "Cape du Meulou",
+   "level": "Niveau 139",
+   "caracteristique": "Force : 31 à 50\nAugmente les dommages de 11 à 15%\nVitalité : 151 à 200\nSagesse : 21 à 30\nCoup critiques : +2 à 3\n+5 à 7 de dommages\nProspection : 11 à 20\nInitiative : 201 à 400\nRésistance : 5 à 7% (neutre)\nRésistance : 6 à 10% (feu)",
+   "recette": "1x Cape du Mulou\n1x Cape du Mulou Fou\n1x Mojo du Meulou\n2x Etoffe de Fantôme Pandikaze\n2x Etoffe de Fantôme Tanukouï San\n80x Poils de Koalak Forestier\n5x Scalp de Meulou\n1x Etoffe du Meulou",
+   "image": "https://barbok.eratz.fr/cape_du_meulou.png",
+   "condition": "",
+   "description": "Description : Le Meulou a la queue si belle et si longue qu'elle traîne au sol. Certains aventuriers jaloux la lui ont arrachée et la portent, espérant sûrement y gagner en virilité."
+  },
+  {
+   "name": "Cape Usée du Chêne Mou",
+   "level": "Niveau 142",
+   "caracteristique": "Force : 26 à 40\nIntelligence : 26 à 40\nSagesse : 16 à 25\nVitalité : 201 à 250\n+4 à 6 de dommages\nProspection : 11 à 15\nRésistance : 5 à 7 (terre)\nRésistance : 5 à 7 (feu)\nRésistance : 4 à 6% (air)\nRésistance : 4 à 6% (eau)\nRésistance : 4 à 6% (neutre)",
+   "recette": "1x Abracapa\n1x Abracape\n1x Abracapa Ancestrale\n1x Bourgeon du Chêne Mou\n5x Ecorce du Chêne Mou\n200x Ambre\n4x Racine du Chêne Mou\n5x Ambre d'Abraknyde Sombre",
+   "image": "https://barbok.eratz.fr/cape_usee_du_chene_mou.png",
+   "condition": "",
+   "description": "Description : Il y a plus de 200 ans, une étoffe d'un tissu anodin s'est prise dans les branches du Chêne Mou. L'arbre a poussé autour et au travers, l'imprégnant ainsi de sa magie. Elle est désormais indissociable de ce gros morceau de bois ce qui la rend peu pratique et inflammable, mais sa puissance est indéniable."
+  },
+  {
+   "name": "Cape Itaineflam",
+   "level": "Niveau 148",
+   "caracteristique": "Sagesse : 16 à 30\nVitalité : 151 à 200\nAgilité : 31 à 50\nAugmente les dommages de 11 à 15%\nProspection : 16 à 20\n11 à 15% de dommages aux pièges\nRésistance : 6 à 10 (neutre)\nRésistance : 6 à 10 (feu)\nRésistance : 6 à 10% (feu)\nRésistance : 6 à 10% (air)\nCoup critiques : +2 à 3\nFaiblesse : 6 à 8% (eau)\nInitiative : 151 à 300",
+   "recette": "1x Queue Magique du Péki\n2x Etoffe du Wa Wabbit\n25x Poil de Péki\n5x Etoffe de Fantôme Soryo Firefoux\n4x Etoffe de Fantôme Pandore\n2x Peau de Moon\n10x Plume de Tofu Royal\n5x Tresse du Koulosse",
+   "image": "https://barbok.eratz.fr/cape_itaineflam.png",
+   "condition": "",
+   "description": "Description : Cette cape ne vient pas de votre galaxie et pourtant, elle semble assortie à la couleur de vos bas résille en laine de Boufton."
+  },
+  {
+   "name": "Cape Souveraine du Roissingue",
+   "level": "Niveau 152",
+   "caracteristique": "Vitalité : 151 à 200\nSagesse : 26 à 40\nIntelligence : 26 à 40\nChance : 41 à 60\nAgilité : 41 à 60\nCoup critiques : +1\n+5 à 7 de dommages\nProspection : 11 à 15\nRésistance : 6 à 10 (eau)\nRésistance : 6 à 10% (neutre)\nRésistance : 6 à 10% (feu)",
+   "recette": "1x Peau lacérée du Tynril\n42x Duvet du Kilibriss\n3x Culotte à l'envers du Roissingue\n160x Etoffe de Ouassingue\n11x Etoffe du Roissingue\n6x Faux menton du Bourbassingue\n1x Perruque du Kimbo\n5x Tourbe séchée de Tourbassingue",
+   "image": "https://barbok.eratz.fr/cape_souveraine_du_roissingue.png",
+   "condition": "",
+   "description": "Description : Constituée d'une étoffe de Roissingue, cette cape comporte des micro trous permettant une meilleure évacuation de la sueur en cas d'effort intense, comme lors de mêlées belliqueuses en zone marécageuse. Cette cape laisse passer l'humidité mais garde la chaleur. Ainsi, vous restez sec quelle que soit la situation. Dommage que l'odeur persistante de moisissure soit inaltérable."
+  },
+  {
+   "name": "Cape du Minotot",
+   "level": "Niveau 156",
+   "caracteristique": "Intelligence : 31 à 50\nChance : 31 à 50\nVitalité : 201 à 250\nSagesse : 16 à 25\nCoup critiques : +3 à 4\nProspection : 16 à 30\n+6 à 10 de dommages",
+   "recette": "1x Poil de Maître Pandore\n100x Poil de Gamino\n15x Poil de Mominotor\n10x Poil du Wa Wabbit\n15x Laine du Minotoror\n1x Cape du Minotoror\n15x Poil de Déminoboule\n1x Laine du Minotot",
+   "image": "https://barbok.eratz.fr/cape_du_minotot.png",
+   "condition": "",
+   "description": "Description : Pour sortir en soirée, ou séduire au bal masqué du Captain Chafer, c'est la cape qu'il vous faut."
+  },
+  {
+   "name": "Cape du Petit Chapon Rouge",
+   "level": "Niveau 171",
+   "caracteristique": "Intelligence : 51 à 70\nSagesse : 31 à 50\nSoins : 6 à 10\n+6 à 10 de dommages\nAugmente les dommages de 6 à 10%\nProspection : 11 à 15\nRésistance : 6 à 10 (feu)\nRésistance : 6 à 10% (feu)",
+   "recette": "18x Etoffe de Meupette\n1x Queue emplumée du Rasboul Majeur\n1x Etoffe Corailleuse\n9x Barbe inexistante du Barbroussa\n81x Amygdales du Bitouf Sombre\n58x Calice de Fécorce\n1x Cape Sanguine\n6x Crinière fleurie",
+   "image": "https://barbok.eratz.fr/cape_du_petit_chapon_rouge.png",
+   "condition": "",
+   "description": "Description : Cette cape appartenait à un célèbre Chapon, ancien volatile aux longues plumes qui aimait se pavoiser devant le Zaap de Bonta devant sa basse-cour composée de volailles crédules et de poulardes immatures."
+  },
+  {
+   "name": "Caprin",
+   "level": "Niveau 181",
+   "caracteristique": "Vitalité : 201 à 250\nAgilité : 41 à 60\nSagesse : 31 à 40\nCoup critiques : +2 à 3\n+6 à 10 de dommages\nProspection : 21 à 30\nRésistance : 6 à 10 (feu)\nRésistance : 6 à 10% (terre)\nRésistance : 6 à 10 (neutre)",
+   "recette": "2x Epine d'Ougah\n10x Langue du Champodonte\n12x Oeil de Champmane\n31x Etamine de Floribonde\n80x Duvet du Kilibriss\n52x Aile du Bitouf des plaines\n40x Etoffe Zoth\n1x Peau du Rasboul Majeur",
+   "image": "https://barbok.eratz.fr/caprin.png",
+   "condition": "",
+   "description": "Description : Si cette cape n'était pas recouverte de moisissure, elle pourrait servir de nappe. Ce n'est pas grave, elle pourra toujours vous servir de linceul."
+  },
+  {
+   "name": "Cape Erforée",
+   "level": "Niveau 185",
+   "caracteristique": "Agilité : 41 à 60\nForce : 41 à 60\nSagesse : 31 à 40\nVitalité : 201 à 250\n+4 à 6 de dommages\nAugmente les dommages de 6 à 10%\nPortée : +1\n21 à 30% de dommages aux pièges\nProspection : 21 à 30\nRésistance : 6 à 10% (eau)",
+   "recette": "1x Peau de Moon\n1x Etoffe Magique de Moon\n11x Tresse du Poolay\n100x Plume de fesse du Kido\n1x Plume Vibrante du Tofu Royal\n3x Perruque du Kimbo\n2x Peau de Bworker\n1x Cape du Chef Bwork",
+   "image": "https://barbok.eratz.fr/cape_erforee.png",
+   "condition": "",
+   "description": "Description : On raconte que le Bworker s'est cousu cette cape avec la peau des fesses de Rushu. Cette histoire aurait pu être crédible si le Bworker savait coudre."
+  },
+  {
+   "name": "Capignon",
+   "level": "Niveau 190",
+   "caracteristique": "Intelligence : 31 à 50\nVitalité : 201 à 250\nSagesse : 31 à 40\nCoup critiques : +1 à 2\n+5 à 7 de dommages\nSoins : 5 à 7\nInitiative : 301 à 500\nProspection : 11 à 20\nRésistance : 6 à 10 (neutre)\nRésistance : 6 à 10% (neutre)",
+   "recette": "12x Lamelle de Champbis\n26x Etoffe Zoth\n60x Etoffe de Ouassingue\n21x Poil de Péki\n9x Etoffe de Meupette\n2x Epine d'Ougah\n2x Fémur du Minotot\n1x Cape Houte",
+   "image": "https://barbok.eratz.fr/capignon.png",
+   "condition": "",
+   "description": "Description : Cette cape était autrefois réservée aux meilleurs grimpeurs, aux aventuriers qui étaient les plus rapides pour escalader la montagne des Craqueleurs. Aujourd'hui elle sert surtout à se faire remarquer dans les soirées mondaines."
+  },
+  {
+   "name": "Voile d'encre",
+   "level": "Niveau 191",
+   "caracteristique": "Vitalité : 251 à 350\nForce : 51 à 70\nIntelligence : 51 à 70\nSagesse : 26 à 40\n+6 à 10 de dommages\nRésistance : 6 à 10% (eau)\nRésistance : 6 à 10% (air)\nRésistance : 6 à 10% (feu)\nPortée : +1\nCoup critiques : +2 à 3",
+   "recette": "6x Ventouse du Kralamoure géant\n6x Beignet de Greu-vette ****\n5x Kralamoure grillé ****\n1x Encre du Kralamoure géant\n17x Jus de Ouassingue\n30x Etoffe de Ouassingue\n12x Etoffe Zoth\n21x Bave du Kaskargo",
+   "image": "https://barbok.eratz.fr/voile_dencre.png",
+   "condition": "",
+   "description": "Description : Cette cape étrange semble faite d'encre noire, mais étrangement, elle se comporte comme une étoffe et ne coule pas. En revanche elle tâche. Votre arrière train n'aura jamais été aussi sale."
+  }
+ ]
+}

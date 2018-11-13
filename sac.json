@@ -1,0 +1,145 @@
+{
+ "Sac": [
+  {
+   "name": "Petit Sac en Laine de Boufton",
+   "level": "Niveau 1",
+   "caracteristique": "Pods : +51 à 100",
+   "recette": "10x Laine de Boufton Blanc\n10x Laine de Boufton Noir",
+   "image": "https://barbok.eratz.fr/petit_sac_en_laine_de_boufton.png",
+   "condition": "",
+   "description": "Description : Ce petit sac ne fera pas de vous une célébrité, mais il aura au moins le mérite de vous permettre de ranger quelques effets personnels."
+  },
+  {
+   "name": "Sakananas",
+   "level": "Niveau 1",
+   "caracteristique": "Pods : +201 à 400",
+   "image": "https://barbok.eratz.fr/sakananas.png",
+   "condition": "",
+   "description": "Description : Ce sac ressemble à s'y méprendre à un ananas magique, peut-être parce qu'il s'agit d'un ananas magique transformé en sac pour des raisons qui restent encore inconnues. Contrairement au sac Cawotte, le Sakananas n'est pas vidé, vous ne pouvez donc rien y mettre, et il est en permanence très lourd, un peu comme votre ami Iop perdu depuis plusieurs mois dans la taverne d'Astrub. Contrairement aux apparences, ce sac ne fait pas partie de la célèbre panoplie Ananas. On vous a une fois de plus menti."
+  },
+  {
+   "name": "Sac du Petit Récolteur",
+   "level": "Niveau 5",
+   "caracteristique": "Pods : +151 à 250",
+   "recette": "5x Plumes de Tofu\n20x Laine de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/sac_du_petit_recolteur.png",
+   "condition": "Métier > Bûcheron (20)\nMétier > Mineur (20)\nMétier > PÃªcheur (20)\nMétier > Paysan (20)\nMétier > Alchimiste (20)\nMétier > Chasseur (20)",
+   "description": "Description : Ce sac est spécialement étudié pour contenir quelques ressources collectables.\nSeuls les vrais collecteurs sont à même de pouvoir le porter. (niveau 20 de collecteur requis)."
+  },
+  {
+   "name": "Sac du Petit Aventurier",
+   "level": "Niveau 10",
+   "caracteristique": "Pods : +151 à 200",
+   "recette": "18x Poils du Sanglier\n18x Laine de Boufton Blanc\n18x Laine de Boufton Noir",
+   "image": "https://barbok.eratz.fr/sac_du_petit_aventurier.png",
+   "condition": "",
+   "description": "Description : Ce sac est destiné à ceux qui ne partent pas trop loin de chez eux, et ont besoin d'emmener des choses pas importantes du tout, comme des Planches de Frêne par exemple."
+  },
+  {
+   "name": "Sac du Récolteur",
+   "level": "Niveau 15",
+   "caracteristique": "Pods : +251 à 400",
+   "recette": "25x Laine de Boufton Blanc\n10x Poils de Black Tiwabbit\n25x Laine de Boufton Noir",
+   "image": "https://barbok.eratz.fr/sac_du_recolteur.png",
+   "condition": "Métier > Bûcheron (40)\nMétier > Mineur (40)\nMétier > PÃªcheur (40)\nMétier > Paysan (40)\nMétier > Alchimiste (40)\nMétier > Chasseur (40)",
+   "description": "Description : Ce sac est spécialement étudié pour contenir des ressources collectables.\nSeuls les vrais collecteurs sont à même de pouvoir le porter. (niveau 40 de collecteur requis)."
+  },
+  {
+   "name": "Sac du Petit Moskito",
+   "level": "Niveau 16",
+   "caracteristique": "Chance : 1 à 30\nPods : +1 à 100",
+   "recette": "18x Ailes de Moskito\n20x Poudre de Perlinpainpain\n15x Sourcil de Moskito",
+   "image": "https://barbok.eratz.fr/sac_du_petit_moskito.png",
+   "condition": "",
+   "description": "Description : Ce sac en peau et en ailes de Moskitos faisait jadis fureur à la sortie des écoles. Aujourd'hui, il est totalement démodé, et a été remplacé dans le coeur des enfants, par le Petit sac d'écolier du Chef Crocodaille. Du grand n'importe quoi, quand on voit que ce dernier est largement plus cher, et surtout beaucoup plus laid. Une sombre histoire de mode."
+  },
+  {
+   "name": "Sac du Paysan",
+   "level": "Niveau 19",
+   "caracteristique": "Chance : 6 à 10\nPods : +101 à 200",
+   "recette": "20x Seigle\n10x Tige de Pissenlit Diabolique\n3x Bave de Rose Démoniaque",
+   "image": "https://barbok.eratz.fr/sac_du_paysan.png",
+   "condition": "",
+   "description": "Description : Ce sac très en vogue chez les jeunes écoliers, est idéal pour entreposer des farines animales et végétales. Une fois ouvert, puis déplié et déchiré le long des coutures, il pourra vous servir de jupe si vous n'avez pas peur de montrer vos cuisses velues."
+  },
+  {
+   "name": "Sac du Grand Récolteur",
+   "level": "Niveau 20",
+   "caracteristique": "Pods : +601 à 800",
+   "recette": "20x Laine de Bouftou\n2x Laine du Chef de Guerre Bouftou\n2x Poils de Barbe du Grand Pa Wabbit\n2x Poils de Barbe du Bwork Mage\n20x Plumes de Tofu",
+   "image": "https://barbok.eratz.fr/sac_du_grand_recolteur.png",
+   "condition": "Métier > Bûcheron (60)\nMétier > Mineur (60)\nMétier > PÃªcheur (60)\nMétier > Paysan (60)\nMétier > Alchimiste (60)\nMétier > Chasseur (60)",
+   "description": "Description : Ce sac est spécialement étudié pour contenir de nombreuses ressources collectables.\nSeuls les vrais collecteurs sont à même de pouvoir le porter. (niveau 60 de collecteur requis)."
+  },
+  {
+   "name": "Sac du Staca Noviste",
+   "level": "Niveau 20",
+   "caracteristique": "Pods : +1001 à 1500",
+   "recette": "4x Plume Pointue de Kwak du Vent\n4x Plume du Kwak de Flamme\n2x Poils du Milimulou\n2x Poils de Wo Wabbit\n1x Etoffe du Mulou\n2x Poils de Barbe du Grand Pa Wabbit",
+   "image": "https://barbok.eratz.fr/sac_du_staca_noviste.png",
+   "condition": "Métier > Bûcheron (90)\nMétier > Mineur (90)\nMétier > PÃªcheur (90)\nMétier > Paysan (90)\nMétier > Alchimiste (90)\nMétier > Chasseur (90)",
+   "description": "Description : On raconte qu'un Mineur célèbre était capable de miner sans arrêt pendant des mois dans 4 mines différentes en même temps. Il s'agit en fait d'une légende inventée par la guilde du Marteau-Faucille pour inciter ses mineurs à récolter plus."
+  },
+  {
+   "name": "Larvasac",
+   "level": "Niveau 27",
+   "caracteristique": "Vitalité : 6 à 20\n+1 à 2 de dommages",
+   "recette": "14x Peau de Larve Verte\n15x Peau de Larve Bleue\n17x Peau de Larve Orange\n1x Petite Perle Dorée",
+   "image": "https://barbok.eratz.fr/larvasac.png",
+   "condition": "",
+   "description": "Description : Ce sac original mais sans fioritures était très en vogue il y a bien longtemps. Un exemple typique du mauvais goût de vos ancêtres."
+  },
+  {
+   "name": "Sac de Bouba le Prophète",
+   "level": "Niveau 38",
+   "caracteristique": "Force : 21 à 30\nVitalité : 11 à 20\nPortée : +1",
+   "image": "https://barbok.eratz.fr/sac_de_bouba_le_prophete.png",
+   "condition": "",
+   "description": "Description : Bouba a toujours prétendu être un prophète, porteur d'un message qu'il a fini par lui-même oublier. reconverti pendant plusieurs années comme chasseur de primes, il a terminé sa triste carrière, digéré dans le ventre d'une créature des sables."
+  },
+  {
+   "name": "Sac de l'Aventurier",
+   "level": "Niveau 40",
+   "caracteristique": "Pods : +251 à 300",
+   "recette": "1x Plume du Kwak de Terre\n1x Plume du Kwak de Vent\n1x Poils de Barbe du Grand Pa Wabbit\n1x Poils du Sanglier",
+   "image": "https://barbok.eratz.fr/sac_de_laventurier.png",
+   "condition": "",
+   "description": "Description : C'est le sac idéal pour ranger tous vos pains et potions lorsque vous partez pour plusieurs mois, dans le labyrinthe par exemple."
+  },
+  {
+   "name": "Sac-Cawotte",
+   "level": "Niveau 60",
+   "caracteristique": "Pods : +501 à 1000\nRésistance : 3 à 5% (eau)\nRésistance : 3 à 5% (terre)",
+   "recette": "10x Cawotte\n10x Poils de Wo Wabbit\n12x Poils de Black Tiwabbit\n26x Bandeau du Black Tiwabbit\n5x Poils de Barbe du Grand Pa Wabbit\n35x Poils de Wabbit",
+   "image": "https://barbok.eratz.fr/sac-cawotte.png",
+   "condition": "",
+   "description": "Description : Avec ce sac sur les épaules, vous pouvez partir à l'aventure sans vous soucier des problèmes alimentaires. En effet, même si la Cawotte est vide comme un crâne de Iop, les feuilles du dessus repoussent toutes seules, de quoi se faire de bonnes tisanes."
+  },
+  {
+   "name": "Sac du grand aventurier",
+   "level": "Niveau 60",
+   "caracteristique": "Pods : +501 à 1000",
+   "recette": "21x Ongle de Kanigrou\n4x Etoffe de Kanigrou\n11x Oreille de Kanigrou\n27x Poil de Kanigrou\n12x Peau de Kanigrou\n8x Ecaille de Crocodaille",
+   "image": "https://barbok.eratz.fr/sac_du_grand_aventurier.png",
+   "condition": "",
+   "description": "Description : C'est le sac idéal pour ranger tous vos pains et potions lorsque vous partez en voyage vers des destinations exotiques, comme l'île de Moon."
+  },
+  {
+   "name": "Sac du Koulosse",
+   "level": "Niveau 69",
+   "caracteristique": "Vitalité : 95\n+6 de dommages\nPods : +114\nRésistance : 3 (eau)\nRésistance : 1 (terre)\nForce : -40\nIntelligence : -79\nAgilité : -62\nChance : -30",
+   "image": "https://barbok.eratz.fr/sac_du_koulosse.png",
+   "condition": "",
+   "description": "Description : Ce sac permet au Koulosse de garder au frais ses feuilles de Kaliptus ou d'étouffer les Koalaks un peu trop entreprenants."
+  },
+  {
+   "name": "Petit sac d'écolier du Chef Crocodaille",
+   "level": "Niveau 70",
+   "caracteristique": "Vitalité : 21 à 30\nSagesse : 16 à 20\nAgilité : 21 à 30\nCoup critiques : +1 à 2\nPods : +301 à 350\nRésistance : 3 à 5% (feu)\nRésistance : 3 à 5% (eau)",
+   "recette": "30x Ecaille de Chef Crocodaille\n30x Ecaille de Crocodaille\n1x Peau de Chef Crocodaille\n1x Peau de Crocodaille\n12x Poil d'Ouginak\n12x Poil de Kanigrou",
+   "image": "https://barbok.eratz.fr/petit_sac_decolier_du_chef_crocodaille.png",
+   "condition": "",
+   "description": "Description : A Amakna aussi, la rentrée scolaire est une épreuve douloureuse pour les jeunes enfants. Surtout pour les jeunes Iops, pour qui la rentrée des classes est synonyme de véritable calvaire, parsemé d'épreuves insurmontables. Réconfortez-les avec ce magnifique sac d'écolier en peau et en écailles de Chef Crocodaille, et rembourré d'une multitude de poils."
+  }
+ ]
+}

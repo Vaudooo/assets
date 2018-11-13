@@ -1,0 +1,1481 @@
+{
+ "Anneau": [
+  {
+   "name": "Anneau du Piou Bleu",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 1",
+   "recette": "1x Plume de Piou Bleu\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/anneau_du_piou_bleu.png",
+   "condition": "",
+   "description": "Description : Cet anneau permettra à votre maîtresse de vous retrouver, où que vous soyez."
+  },
+  {
+   "name": "Anneau du Piou Rose",
+   "level": "Niveau 1",
+   "caracteristique": "Vitalité : 1",
+   "recette": "1x Graine de Sésame\n1x Plume de Piou Rose",
+   "image": "https://barbok.eratz.fr/anneau_du_piou_rose.png",
+   "condition": "",
+   "description": "Description : Cet anneau permettra à votre maîtresse de vous retrouver, où que vous soyez."
+  },
+  {
+   "name": "Anneau du Piou Vert",
+   "level": "Niveau 1",
+   "caracteristique": "Agilité : 1",
+   "recette": "1x Plume de Piou Vert\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/anneau_du_piou_vert.png",
+   "condition": "",
+   "description": "Description : Cet anneau permettra à votre maîtresse de vous retrouver, où que vous soyez."
+  },
+  {
+   "name": "Anneau de l'Aventurier",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 1 à 2\nForce : 1 à 2\nAgilité : 1 à 2\nIntelligence : 1 à 2\nSagesse : 1 à 2",
+   "recette": "4x Puissant Anneau d'Agilité\n4x Puissant Anneau de Chance",
+   "image": "https://barbok.eratz.fr/anneau_de_laventurier.png",
+   "condition": "",
+   "description": "Description : Un petit anneau sympathique pour les débutants, et qui amusera les jeunes enfants, ou les Ecaflips."
+  },
+  {
+   "name": "Anneau du Piou Violet",
+   "level": "Niveau 1",
+   "caracteristique": "Sagesse : 1",
+   "recette": "1x Plume de Piou Violet\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/anneau_du_piou_violet.png",
+   "condition": "",
+   "description": "Description : Cet anneau permettra à votre maîtresse de vous retrouver, où que vous soyez."
+  },
+  {
+   "name": "Anneau Agilesque",
+   "level": "Niveau 1",
+   "caracteristique": "Agilité : 1",
+   "recette": "1x Fer\n1x Bave de Bouftou",
+   "image": "https://barbok.eratz.fr/anneau_agilesque.png",
+   "condition": "",
+   "description": "Description : Étrangement, les collectionneurs Amaknéens s'arrachent cet anneau alors qu'il ne vaut pas tripette."
+  },
+  {
+   "name": "Alliance",
+   "level": "Niveau 1",
+   "image": "https://barbok.eratz.fr/alliance.png",
+   "condition": "",
+   "description": "Description : Cette alliance symbolise l'union entre deux âmes follement amoureuses l'une de l'autre. Inutile de conter fleurette caché derrière les buissons, cette fois c'est pour de bon, vous allez pouvoir vous afficher sans scrupules."
+  },
+  {
+   "name": "Anneau du Piou Jaune",
+   "level": "Niveau 1",
+   "caracteristique": "Force : 1",
+   "recette": "1x Plume de Piou Jaune\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/anneau_du_piou_jaune.png",
+   "condition": "",
+   "description": "Description : Cet anneau permettra à votre maîtresse de vous retrouver, où que vous soyez."
+  },
+  {
+   "name": "Anneau du Piou Rouge",
+   "level": "Niveau 1",
+   "caracteristique": "Intelligence : 1",
+   "recette": "1x Plume de Piou Rouge\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/anneau_du_piou_rouge.png",
+   "condition": "",
+   "description": "Description : Cet anneau permettra à votre maîtresse de vous retrouver, où que vous soyez."
+  },
+  {
+   "name": "Anneau Forcesque",
+   "level": "Niveau 1",
+   "caracteristique": "Force : 2",
+   "recette": "1x Fer\n1x Plumes de Tofu",
+   "image": "https://barbok.eratz.fr/anneau_forcesque.png",
+   "condition": "",
+   "description": "Description : Ce petit anneau donne de la Force à son porteur."
+  },
+  {
+   "name": "Petit Anneau Magique",
+   "level": "Niveau 1",
+   "caracteristique": "Intelligence : 1",
+   "recette": "4x Cuivre\n1x Fer",
+   "image": "https://barbok.eratz.fr/petit_anneau_magique.png",
+   "condition": "",
+   "description": "Description : Ce petit anneau augmente l'intelligence de son porteur."
+  },
+  {
+   "name": "Petit Anneau de Sagesse",
+   "level": "Niveau 1",
+   "caracteristique": "Sagesse : 1",
+   "recette": "1x Bronze\n1x Fer",
+   "image": "https://barbok.eratz.fr/petit_anneau_de_sagesse.png",
+   "condition": "",
+   "description": "Description : Cet anneau renforce la sagesse de son porteur."
+  },
+  {
+   "name": "Petit Anneau d'Agilité",
+   "level": "Niveau 1",
+   "caracteristique": "Agilité : 2",
+   "recette": "1x Cuivre\n1x Fer",
+   "image": "https://barbok.eratz.fr/petit_anneau_dagilite.png",
+   "condition": "",
+   "description": "Description : Cet anneau augmente l'agilité de son porteur."
+  },
+  {
+   "name": "Petit Anneau de Chance",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 2",
+   "recette": "1x Cuivre\n1x Bronze",
+   "image": "https://barbok.eratz.fr/petit_anneau_de_chance.png",
+   "condition": "",
+   "description": "Description : Cet anneau renforce la chance de son porteur."
+  },
+  {
+   "name": "Le Plussain",
+   "level": "Niveau 1",
+   "caracteristique": "Coup critiques : +1",
+   "image": "https://barbok.eratz.fr/le_plussain.png",
+   "condition": "",
+   "description": "Description : Ce petit anneau ne sert à rien, sinon à être très voyant, histoire de montrer aux gens que vous existez."
+  },
+  {
+   "name": "Petit Anneau du Chanceux",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 1",
+   "image": "https://barbok.eratz.fr/petit_anneau_du_chanceux.png",
+   "condition": "",
+   "description": "Description : Ce petit anneau augmente la chance de son porteur."
+  },
+  {
+   "name": "Camaïneux",
+   "level": "Niveau 1",
+   "caracteristique": "Vitalité : 2 à 6\nChance : -2 à -6",
+   "recette": "3x Bronze\n2x Fer",
+   "image": "https://barbok.eratz.fr/camaineux.png",
+   "condition": "",
+   "description": "Description : Cet anneau influe sur le cours de votre destinée, il vous rend plus résistant, mais moins chanceux. Vous augmentez vos chances de vivre longtemps en diminuant vos chances de vivre heureux."
+  },
+  {
+   "name": "Gantie Royal",
+   "level": "Niveau 1",
+   "caracteristique": "Force : 2 à 6\nIntelligence : -2 à -6",
+   "recette": "2x Fer\n3x Cuivre",
+   "image": "https://barbok.eratz.fr/gantie_royal.png",
+   "condition": "",
+   "description": "Description : Malgré un nom pompeux, cet anneau rend juste un peu plus fort, et un peu plus bête."
+  },
+  {
+   "name": "Anneau Vitalesque",
+   "level": "Niveau 1",
+   "caracteristique": "Vitalité : 1",
+   "recette": "1x Fer\n1x Patte d'Arakne",
+   "image": "https://barbok.eratz.fr/anneau_vitalesque.png",
+   "condition": "",
+   "description": "Description : Ce petit anneau augmente la vie de son porteur."
+  },
+  {
+   "name": "Anneau Rexik",
+   "level": "Niveau 1",
+   "caracteristique": "Agilité : 2 à 6\nChance : -2 à -6",
+   "recette": "1x Bois de Châtaignier\n1x Cuivre",
+   "image": "https://barbok.eratz.fr/anneau_rexik.png",
+   "condition": "",
+   "description": "Description : Cet étrange petit anneau a la faculté d'augmenter l'agilité de son porteur, pourtant étrangement frappé d'un manque de chance."
+  },
+  {
+   "name": "Anneau d'Agilité",
+   "level": "Niveau 2",
+   "caracteristique": "Agilité : 4",
+   "recette": "3x Cuivre\n1x Fer",
+   "image": "https://barbok.eratz.fr/anneau_dagilite.png",
+   "condition": "",
+   "description": "Description : Cet anneau augmente l'agilité de son porteur."
+  },
+  {
+   "name": "Anneau de Sagesse",
+   "level": "Niveau 2",
+   "caracteristique": "Sagesse : 2",
+   "recette": "3x Bronze\n1x Fer",
+   "image": "https://barbok.eratz.fr/anneau_de_sagesse.png",
+   "condition": "",
+   "description": "Description : Cet anneau renforce la sagesse de son porteur."
+  },
+  {
+   "name": "Anneau de Chance",
+   "level": "Niveau 2",
+   "caracteristique": "Chance : 4",
+   "recette": "1x Cuivre\n3x Bronze",
+   "image": "https://barbok.eratz.fr/anneau_de_chance.png",
+   "condition": "",
+   "description": "Description : Cet anneau renforce la chance de son porteur."
+  },
+  {
+   "name": "Alliance Du Champ Champ",
+   "level": "Niveau 3",
+   "caracteristique": "Résistance : 1 à 3 (terre)\nRésistance : 1 à 3 (neutre)\nForce : -1 à -30\nChance : -1 à -30",
+   "recette": "1x Champignon\n2x Graine de Pavot",
+   "image": "https://barbok.eratz.fr/alliance_du_champ_champ.png",
+   "condition": "",
+   "description": "Description : Lorsque le Champ Champ se marie, il offre cette alliance à sa dulcinée. Cette dernière étant dépourvue de bras, l'alliance est déposée soigneusement sur une de ses épines. En vous équipant de cette alliance, vous briserez les liens du mariage qui unissaient ces deux créatures, et dans le meilleur des cas, le Champ Champ vous prendra pour sa dulcinée."
+  },
+  {
+   "name": "Anneau du Champ Champ",
+   "level": "Niveau 3",
+   "caracteristique": "Résistance : 1 à 3 (eau)\nRésistance : 1 à 3 (air)\nRésistance : 1 à 3 (feu)\nForce : -1 à -30\nChance : -1 à -30",
+   "recette": "2x Graine de Pavot\n1x Epine du Champ Champ",
+   "image": "https://barbok.eratz.fr/anneau_du_champ_champ.png",
+   "condition": "",
+   "description": "Description : Le Champ Champ n'a jamais été connu pour être une créature très sympathique. Il vous empoisonne la vie dès qu'il peut, il mord assez fort, et a très mauvais caractère. C'est étonnant comme ces vilaines petites créatures peuvent parfois vous faire penser à un conjoint."
+  },
+  {
+   "name": "Anneau Thé",
+   "level": "Niveau 4",
+   "image": "https://barbok.eratz.fr/anneau_the.png",
+   "condition": "",
+   "description": "Description : Cet anneau a fait ses preuves, une petite marque à l'intérieur le prouve. Il s'agit d'une confection unique faite par un apprenti bijoutier à l'occasion d'un test important. Il est fabriqué à partir d'un anneau de fer classique plongé dans une solution de Thé magique."
+  },
+  {
+   "name": "Araknoton",
+   "level": "Niveau 5",
+   "caracteristique": "Agilité : 1 à 10",
+   "recette": "3x Patte d'Arakne\n1x Poudre de Perlinpainpain",
+   "image": "https://barbok.eratz.fr/araknoton.png",
+   "condition": "",
+   "description": "Description : Ce ridicule petit anneau vous permettra de combattre plus facilement votre phobie des Araknes."
+  },
+  {
+   "name": "Abranneau",
+   "level": "Niveau 5",
+   "caracteristique": "PA : +1\nPortée : -1\nForce : -100\nIntelligence : -100\nAgilité : -100\nChance : -100",
+   "recette": "4x Ecorce d'Abraknyde\n4x Bourgeon d'Abraknyde\n1x Ambre d'Abraknyde",
+   "image": "https://barbok.eratz.fr/abranneau.png",
+   "condition": "",
+   "description": "Description : Cet anneau, forgé dans de l'écorce d'Abraknyde possède de grands pouvoirs et implique donc de grandes responsabilités. Cependant, malgré sa valeur, des rumeurs laissent entendre qu'il est maudit."
+  },
+  {
+   "name": "Grand Anneau d'Agilité",
+   "level": "Niveau 5",
+   "caracteristique": "Agilité : 6",
+   "recette": "1x Fer\n5x Cuivre",
+   "image": "https://barbok.eratz.fr/grand_anneau_dagilite.png",
+   "condition": "",
+   "description": "Description : Cet anneau augmente l'agilité de son porteur."
+  },
+  {
+   "name": "Grand Anneau de Chance",
+   "level": "Niveau 6",
+   "caracteristique": "Chance : 6",
+   "recette": "1x Cuivre\n5x Bronze",
+   "image": "https://barbok.eratz.fr/grand_anneau_de_chance.png",
+   "condition": "",
+   "description": "Description : Cet anneau renforce la chance de son porteur."
+  },
+  {
+   "name": "Grand Anneau de Sagesse",
+   "level": "Niveau 6",
+   "caracteristique": "Sagesse : 3",
+   "recette": "5x Bronze\n1x Fer",
+   "image": "https://barbok.eratz.fr/grand_anneau_de_sagesse.png",
+   "condition": "",
+   "description": "Description : Cet anneau renforce la sagesse de son porteur."
+  },
+  {
+   "name": "Puissant Anneau d'Agilité",
+   "level": "Niveau 8",
+   "caracteristique": "Agilité : 8",
+   "recette": "7x Cuivre\n1x Fer",
+   "image": "https://barbok.eratz.fr/puissant_anneau_dagilite.png",
+   "condition": "",
+   "description": "Description : Cet anneau augmente l'agilité de son porteur."
+  },
+  {
+   "name": "Anneau de Satisfaction",
+   "level": "Niveau 8",
+   "caracteristique": "PA : +1\nIntelligence : -200\nForce : -200\nAgilité : -150\nChance : -150",
+   "recette": "4x Bois de Châtaignier\n4x Bois de Noyer\n4x Kobalte\n4x Cuivre",
+   "image": "https://barbok.eratz.fr/anneau_de_satisfaction.png",
+   "condition": "",
+   "description": "Description : Cet anneau permettra a votre héros d'augmenter ses PA, en contrepartie de sa force et de son intelligence."
+  },
+  {
+   "name": "Puissant Anneau de Chance",
+   "level": "Niveau 8",
+   "caracteristique": "Chance : 8",
+   "recette": "1x Cuivre\n7x Bronze",
+   "image": "https://barbok.eratz.fr/puissant_anneau_de_chance.png",
+   "condition": "",
+   "description": "Description : Cet anneau renforce la chance de son porteur."
+  },
+  {
+   "name": "Puissant Anneau de Sagesse",
+   "level": "Niveau 8",
+   "caracteristique": "Sagesse : 4",
+   "recette": "1x Fer\n7x Bronze",
+   "image": "https://barbok.eratz.fr/puissant_anneau_de_sagesse.png",
+   "condition": "",
+   "description": "Description : Cet anneau renforce la sagesse de son porteur."
+  },
+  {
+   "name": "Anneau de Bouze le Clerc",
+   "level": "Niveau 10",
+   "caracteristique": "Vitalité : 1 à 30",
+   "recette": "1x Oeil de Boufton\n1x Oeil de Bouftou\n1x Dent de Chef de Guerre Bouftou",
+   "image": "https://barbok.eratz.fr/anneau_de_bouze_le_clerc.png",
+   "condition": "",
+   "description": "Description : Cet anneau provient du fameux Bouze le Clerc, sauveur des temps modernes. Sa phrase culte parlait d'un fin Eni et d'au-delà."
+  },
+  {
+   "name": "Anneau Champêtre",
+   "level": "Niveau 10",
+   "caracteristique": "Vitalité : 5 à 6\nIntelligence : 4 à 5",
+   "recette": "8x Langue du Pissenlit Diabolique\n5x Feuille de Tournesol Sauvage\n4x Tige de Pissenlit Diabolique",
+   "image": "https://barbok.eratz.fr/anneau_champetre.png",
+   "condition": "",
+   "description": "Description : Avec ce petit anneau autour du doigt, vous pourrez presque essayer de passer inaperçu au milieu des champs."
+  },
+  {
+   "name": "Anneau en Mousse",
+   "level": "Niveau 10",
+   "caracteristique": "Créature invocables : +1",
+   "image": "https://barbok.eratz.fr/anneau_en_mousse.png",
+   "condition": "",
+   "description": "Description : Offert en alliance, cet anneau permet de faire passer deux messages à l'être aimé : \"Je t'aime\" et \"Va faire la vaisselle\". Idéal pour ne pas perdre son temps en répétant tous les soirs la même chose."
+  },
+  {
+   "name": "Anneau Fortifiant",
+   "level": "Niveau 11",
+   "caracteristique": "Force : 6 à 15",
+   "recette": "3x Bois de Châtaignier\n3x Bois de Noyer\n4x Cuivre",
+   "image": "https://barbok.eratz.fr/anneau_fortifiant.png",
+   "condition": "",
+   "description": "Description : Cet anneau, transmis de Grand père Enutrof en Père Enutrof, procure à son porteur une formidable force. Celui-ci n'en est qu'une pâle copie, mais il saura tout de même satisfaire les collectionneurs, qu'ils soient Enutrof ou non."
+  },
+  {
+   "name": "Mitaines Mitées du Paysan",
+   "level": "Niveau 12",
+   "caracteristique": "Soins : 1\nCréature invocables : +1\nFaiblesse : 4 à 5% (air)",
+   "recette": "25x Orge\n2x Bave de Rose Démoniaque\n10x Pétale de Tournesol Sauvage",
+   "image": "https://barbok.eratz.fr/mitaines_mitees_du_paysan.png",
+   "condition": "",
+   "description": "Description : Ces mitaines mitées sont de véritables bijoux. On raconte qu'elles sont recouvertes de poussière de diamant, ce qui leur confère une résistance extraordinaire. Elles disposent d'une face abrasive, idéale pour frotter le derrière des Bouftous, ou celui de votre épouse."
+  },
+  {
+   "name": "L'Anneau de Valeur",
+   "level": "Niveau 12",
+   "caracteristique": "Force : 4\nChance : 4",
+   "recette": "4x Cuivre\n2x Manganèse\n2x Kobalte",
+   "image": "https://barbok.eratz.fr/lanneau_de_valeur.png",
+   "condition": "",
+   "description": "Description : Cet anneau apporte force et courage à son porteur."
+  },
+  {
+   "name": "Anneau du Mental",
+   "level": "Niveau 14",
+   "caracteristique": "Intelligence : 11 à 20",
+   "recette": "5x Bois de Noyer\n5x Cuivre\n5x Fer",
+   "image": "https://barbok.eratz.fr/anneau_du_mental.png",
+   "condition": "",
+   "description": "Description : Cet anneau permet d'augmenter légèrement l'intelligence de son porteur."
+  },
+  {
+   "name": "Blessure du Sacrieur",
+   "level": "Niveau 15",
+   "caracteristique": "Force : 6 à 10\nVitalité : 6 à 10",
+   "recette": "3x Kobalte\n1x Ambre\n3x Manganèse",
+   "image": "https://barbok.eratz.fr/blessure_du_sacrieur.png",
+   "condition": "",
+   "description": "Description : On dit que cet anneau serait issu d'une des nombreuses blessures reçues par un Sacrieur."
+  },
+  {
+   "name": "Anneau des Rocheuses",
+   "level": "Niveau 15",
+   "caracteristique": "Agilité : 4\nVitalité : 4",
+   "recette": "2x Cuivre\n2x Bronze\n6x Manganèse",
+   "image": "https://barbok.eratz.fr/anneau_des_rocheuses.png",
+   "condition": "",
+   "description": "Description : Anneau serti d'une pierre rare. Il doit son nom aux différentes pierres nécessaires à sa confection."
+  },
+  {
+   "name": "Le Bagueur",
+   "level": "Niveau 15",
+   "caracteristique": "Vitalité : 6 à 10\nChance : 6 à 10",
+   "recette": "10x Cuivre\n2x Fer\n1x Ambre",
+   "image": "https://barbok.eratz.fr/le_bagueur.png",
+   "condition": "",
+   "description": "Description : Ce joli anneau avait comme fonction première de permettre aux Osamodas de reconnaître leur tofu dans les combats."
+  },
+  {
+   "name": "Anneau Rak",
+   "level": "Niveau 17",
+   "caracteristique": "Vitalité : 8\nChance : 8",
+   "recette": "5x Cuivre\n5x Bronze\n5x Etain",
+   "image": "https://barbok.eratz.fr/anneau_rak.png",
+   "condition": "",
+   "description": "Description : Selon certaines légendes, cet anneau protège son porteur des intempéries. Mais ceci n'a jamais encore pu être prouvé, puisqu'il ne pleut jamais en Amakna."
+  },
+  {
+   "name": "Anneau du Bandit",
+   "level": "Niveau 17",
+   "caracteristique": "Vitalité : 1 à 15\nCoup critiques : +1 à 2",
+   "recette": "20x Petit Anneau d'Agilité\n20x Petit Anneau Magique\n20x Petit Anneau de Chance",
+   "image": "https://barbok.eratz.fr/anneau_du_bandit.png",
+   "condition": "",
+   "description": "Description : Cet anneau est aussi populaire auprès des dentistes que des bandits, qui s'en servent pour casser une à une les dents des imprudents. Une forme de prévention comme une autre contre l'apparition des caries."
+  },
+  {
+   "name": "Anneau Vice",
+   "level": "Niveau 18",
+   "caracteristique": "Vitalité : 11 à 15\nSagesse : 1 à 5",
+   "recette": "1x Dolomite\n3x Argent\n5x Or",
+   "image": "https://barbok.eratz.fr/anneau_vice.png",
+   "condition": "",
+   "description": "Description : Anneau des débutants par excellence, c'est également l'anneau symbolisant le mieux un bon nombre de moeurs inavouables. Il semblerait qu'il vous corresponde dans tous les cas, très bien."
+  },
+  {
+   "name": "Anneau du Sanglier",
+   "level": "Niveau 19",
+   "caracteristique": "Sagesse : 6 à 10",
+   "recette": "1x Défense du Sanglier\n5x Poils du Sanglier\n10x Groin du Sanglier",
+   "image": "https://barbok.eratz.fr/anneau_du_sanglier.png",
+   "condition": "",
+   "description": "Description : Cet anneau était placé sur les pattes des sangliers en rut, pour que les éleveurs puissent facilement les reconnaître. Aujourd'hui, c'est vous qui portez cet anneau. Toutes les interprétations sont possibles."
+  },
+  {
+   "name": "Chance d'Ecaflip",
+   "level": "Niveau 20",
+   "caracteristique": "Chance : 11 à 15\nIntelligence : 11 à 15",
+   "recette": "6x Bronze\n6x Fer\n4x Bois de Chêne\n6x Bois de Noyer",
+   "image": "https://barbok.eratz.fr/chance_decaflip.png",
+   "condition": "",
+   "description": "Description : Cet anneau a été créé pour augmenter la chance de son porteur lors de parties de cartes."
+  },
+  {
+   "name": "Anneau Zest",
+   "level": "Niveau 20",
+   "caracteristique": "Chance : 11 à 15\nIntelligence : 11 à 15",
+   "image": "https://barbok.eratz.fr/anneau_zest.png",
+   "condition": "",
+   "description": "Description : Si votre eau n'a plus assez de goût, trempez-votre doigt avec cet anneau dans votre verre, agitez-le frénétiquement jusqu'à ce qu'il se décroche. Et voilà vous avez un délicieux cocktail à l'orange sanguine et au citron, ainsi qu'un doigt en moins. On ne peut pas tout avoir."
+  },
+  {
+   "name": "Alliance de l'Homme Ours",
+   "level": "Niveau 20",
+   "caracteristique": "Initiative : 26 à 35\n+1 de dommages",
+   "recette": "1x Dent d'Ours\n4x Bois de Frêne\n3x Bois d'Erable\n4x Argent",
+   "image": "https://barbok.eratz.fr/alliance_de_lhomme_ours.png",
+   "condition": "",
+   "description": "Description : L'Homme Ours n'a jamais quitté cette alliance, bien que sa femme fût dévorée sous ses yeux, par un des ours qu'il venait d'invoquer, et cela pour impressionner sa dulcinée. Elle a effectivement été très impressionnée."
+  },
+  {
+   "name": "Anneau du Tofu",
+   "level": "Niveau 21",
+   "caracteristique": "Sagesse : 1 à 10\nAgilité : 6 à 15",
+   "recette": "1x Plume du Batofu\n13x Plumes de Tofu\n8x Oeuf de Tofu\n12x Bec du Tofu",
+   "image": "https://barbok.eratz.fr/anneau_du_tofu.png",
+   "condition": "",
+   "description": "Description : Cet anneau vraiment insignifiant tant il est ridicule, peut tout de même se révéler indispensable. En effet, vos ennemis risquent d'avoir tellement pitié de vous, qu'ils vous achèveront, plutôt que de vous laisser souffrir atrocement. Il faut toujours voir le bon côté des choses."
+  },
+  {
+   "name": "Mos Kitano",
+   "level": "Niveau 21",
+   "caracteristique": "Chance : 1 à 15\nSoins : 1",
+   "recette": "1x Poudre de Perlinpainpain\n1x Sourcil de Moskito\n1x Ailes de Moskito\n1x Oeil de Crabe",
+   "image": "https://barbok.eratz.fr/mos_kitano.png",
+   "condition": "",
+   "description": "Description : Cet anneau est si léger qu'il vous permettra de réaliser n'importe quelle acrobatie avec vos doigts. Très pratique pour humilier un adversaire dix fois plus petit que vous, en lui écrasant la tête avec le pouce."
+  },
+  {
+   "name": "Anneau Mèr",
+   "level": "Niveau 25",
+   "caracteristique": "Sagesse : -2 à -11\nVitalité : 2 à 61",
+   "image": "https://barbok.eratz.fr/anneau_mer.png",
+   "condition": "Intelligence < 100\nChance < 100",
+   "description": "Description : Cet anneau appartenait à Mèr, le plus gros fainéant de toute la contrée d'Amakna. Il vouait un culte aux doneuths, mais aussi aux côtelettes de ribs."
+  },
+  {
+   "name": "Alliance de Silimelle",
+   "level": "Niveau 26",
+   "caracteristique": "Sagesse : 25\nForce : -5\nIntelligence : -5",
+   "recette": "1x Diamant\n2x Manganèse\n3x Etain\n5x Argent",
+   "image": "https://barbok.eratz.fr/alliance_de_silimelle.png",
+   "condition": "",
+   "description": "Description : Cette magnifique alliance a été volée à Silimelle la Brasseuse de Bière, lors d'une soirée un peu trop arrosée à la taverne. Voilà ce qui arrive lorsque l'on paie des coups à des inconnus..."
+  },
+  {
+   "name": "Fécaliseur du Magicien",
+   "level": "Niveau 26",
+   "caracteristique": "Résistance : 3 à 5 (eau)\nRésistance : 3 à 5 (air)\nRésistance : 3 à 5 (feu)",
+   "recette": "6x Manganèse\n5x Kobalte\n6x Cuivre\n6x Etain",
+   "image": "https://barbok.eratz.fr/fecaliseur_du_magicien.png",
+   "condition": "",
+   "description": "Description : Cet anneau est à même de protéger son porteur des petites attaques magiques et donc par extension, des petits monstres qui usent de la magie pour faire les malins et se rendre intéressants."
+  },
+  {
+   "name": "Fécaliseur du Guerrier",
+   "level": "Niveau 26",
+   "caracteristique": "Résistance : 3 à 5 (terre)\nRésistance : 3 à 5 (neutre)",
+   "recette": "6x Etain\n5x Cuivre\n6x Kobalte\n6x Manganèse",
+   "image": "https://barbok.eratz.fr/fecaliseur_du_guerrier.png",
+   "condition": "",
+   "description": "Description : Cet anneau est à même de protéger son porteur des petites attaques physiques et donc par extension, des petits monstres qui jouent sur leur physique pour vous surprendre."
+  },
+  {
+   "name": "L'Ecaliseur",
+   "level": "Niveau 29",
+   "caracteristique": "Chance : 4\nVitalité : 4\n+2 de dommages",
+   "recette": "5x Bauxite\n4x Cuivre\n4x Bronze\n5x Etain",
+   "image": "https://barbok.eratz.fr/lecaliseur.png",
+   "condition": "",
+   "description": "Description : Cet anneau a été offert il y bien longtemps à Isidor, un chat malin, par le roi Allister, qui reconnu l'agilité inégalable de cet Ecaflip."
+  },
+  {
+   "name": "Passé de Xélor",
+   "level": "Niveau 30",
+   "caracteristique": "Sagesse : 11 à 15\nIntelligence : 11 à 15",
+   "recette": "2x Ambre d'Abraknyde\n3x Kobalte\n2x Etain\n2x Cuivre\n6x Argent",
+   "image": "https://barbok.eratz.fr/passe_de_xelor.png",
+   "condition": "",
+   "description": "Description : Anneaux engendrés lors des voyages temporels de Xélor."
+  },
+  {
+   "name": "Anneau Royal du Bouftou",
+   "level": "Niveau 30",
+   "caracteristique": "Vitalité : 1 à 60",
+   "recette": "1x Anneau de Bouze le Clerc\n10x Corne de Bouftou\n1x Corne de Chef de Guerre Bouftou\n50x Dent de Chef de Guerre Bouftou\n20x Oeil de Bouftou",
+   "image": "https://barbok.eratz.fr/anneau_royal_du_bouftou.png",
+   "condition": "",
+   "description": "Description : Cet anneau augmente la vie de son porteur, tout comme l'odeur de la femelle du Bouftou Royal augmente son charme."
+  },
+  {
+   "name": "Souvenir d'Enutrof",
+   "level": "Niveau 30",
+   "caracteristique": "Sagesse : 11 à 15\nChance : 11 à 15",
+   "recette": "6x Argent\n3x Manganèse\n2x Cuivre\n2x Etain\n2x Ambre d'Abraknyde",
+   "image": "https://barbok.eratz.fr/souvenir_denutrof.png",
+   "condition": "",
+   "description": "Description : Anneaux créés à partir de larmes d'Enutrof ayant perdu sa pelle. Cela donne une idée du désespoir dans lequel peut être plongé le bonhomme."
+  },
+  {
+   "name": "Anneau Solo",
+   "level": "Niveau 31",
+   "caracteristique": "Force : 6 à 15\nIntelligence : -6 à -15\nAgilité : 6 à 15\nCoup critiques : +1 à 5\nEchec critique : +1 à 5",
+   "recette": "8x Coccyx du Corailleur\n1x Potion de Copeaux de Bois Solides\n1x Boîte de Kanigrou\n1x Potion de Copeaux de Bois Rares\n15x Pince de Crustorail",
+   "image": "https://barbok.eratz.fr/anneau_solo.png",
+   "condition": "",
+   "description": "Description : Solo était un gentil vaurien, d'ailleurs il le disait lui-même. Ça ne l'a pas empêché de mourir pendu sur la place du village après avoir dérobé une petite culotte à la femme du chef. Solo n'était vraiment pas futé, mais gentil quand-même..."
+  },
+  {
+   "name": "Fourballiance",
+   "level": "Niveau 33",
+   "caracteristique": "Vitalité : 11 à 15\n+1 à 2 de dommages\nCréature invocables : +1",
+   "recette": "2x Ecorce de Fourbasse\n1x Rhum Fourbe\n1x Feuille de Kokoko\n1x Trukikol Mort\n8x Bourgeon de Fourbasse",
+   "image": "https://barbok.eratz.fr/fourballiance.png",
+   "condition": "",
+   "description": "Description : Prenez des feuilles de Fourbasse, empilez-les, laissez-les macérer dans de l'alcool éventé, perforez-les, buvez le reste d'alcool, collez les feuilles autour d'un morceau d'écorce, fixez des morceaux de feuille de Kokoko avec une matière gluante, et voilà, vous avez une magnifique Fourballiance. Elle sent très mauvais, et vous sera particulièrement utile pour justifier et cacher l'odeur de vos doigts surtout si vous avez tendance à les mettre n'importe où. Surtout là où il ne faut pas."
+  },
+  {
+   "name": "Anneau de la mort",
+   "level": "Niveau 36",
+   "caracteristique": "Force : 16 à 25\nVitalité : 16 à 25\n+1 à 2 de dommages",
+   "image": "https://barbok.eratz.fr/anneau_de_la_mort.png",
+   "condition": "",
+   "description": "Description : La construction de cet anneau, aussi connu sous le nom \"Anneau noir\", ne semble pas encore achevée. Mais qu'importe, sa puissance est suffisante pour détruire une lune."
+  },
+  {
+   "name": "L'Anneau Dhyn",
+   "level": "Niveau 36",
+   "caracteristique": "+2 à 4 de dommages\nCoup critiques : +2 à 4\nAgilité : 11 à 15\nIntelligence : -21 à -30\nForce : -21 à -30",
+   "recette": "1x Saphir\n2x Bois d'If\n6x Etain\n2x Ambre d'Abraknyde\n2x Manganèse",
+   "image": "https://barbok.eratz.fr/lanneau_dhyn.png",
+   "condition": "",
+   "description": "Description : Ce petit anneau qui ne paye pas de mine a été crée par Degun. Ce bijoutier était plus connu pour ses coups de gueule envers tout le monde et sa cruelle aversion pour la Liche, que pour sa créativité en matière d'orfévrerie."
+  },
+  {
+   "name": "Alliance Akwadala",
+   "level": "Niveau 37",
+   "caracteristique": "Initiative : 101 à 150\nRésistance : 7 à 10 (eau)",
+   "recette": "3x Argent\n50x Artefact Pandawushu Eau\n1x Aluminite\n2x Or",
+   "image": "https://barbok.eratz.fr/alliance_akwadala.png",
+   "condition": "",
+   "description": "Description : Cet alliance provient du village d'Akwadala. Plus proche du porte-bonheur que de la relique magique, elle vous permettra tout de même de faire croire à vos amis que vous avez trouvé l'âme soeur."
+  },
+  {
+   "name": "Anneau du Boufcoul",
+   "level": "Niveau 38",
+   "caracteristique": "Vitalité : 21 à 30\nRésistance : 4 à 5 (feu)\nRésistance : 4 à 5 (terre)",
+   "recette": "1x Anneau de Bouze le Clerc\n5x Corne du Boufcoul\n10x Corne de Bouftou\n10x Feuille de Kaliptus\n1x Dent de Dragodinde",
+   "image": "https://barbok.eratz.fr/anneau_du_boufcoul.png",
+   "condition": "",
+   "description": "Description : Cet anneau vous permettra de faire encore plus mal, lorsque vous donnerez des fessées bien méritées à vos enfants."
+  },
+  {
+   "name": "Anneau du Prespic",
+   "level": "Niveau 38",
+   "caracteristique": "Renvois de dommages : 1",
+   "recette": "5x Patte de Prespic\n2x Crinière de Prespic\n1x Pic du Prespic\n5x Queue de Prespic\n1x Estomac de Prespic",
+   "image": "https://barbok.eratz.fr/anneau_du_prespic.png",
+   "condition": "",
+   "description": "Description : A la fois sobre et tout de même original, cet anneau saura séduire les aventuriers avides d'apparat de luxes mais complètement fauchés, au point d'aller dépouiller de ridicules petites créatures sauvages pour s'orner de bijoux. La mesquinerie ne connaît aucune limite."
+  },
+  {
+   "name": "Force de Crocoburio",
+   "level": "Niveau 40",
+   "caracteristique": "Force : 16 à 30",
+   "image": "https://barbok.eratz.fr/force_de_crocoburio.png",
+   "condition": "Force > 59",
+   "description": "Description : Cet anneau fut enchanté par le souffle noir de Grougalorasalar, lui conférant un immense pouvoir, hélas aujourd'hui amoindri. Cette relique était destinée à Crocoburio car lui seul était à même d'équiper cet anneau sans subir sa domination."
+  },
+  {
+   "name": "Grosse Bagouze du Parrain",
+   "level": "Niveau 40",
+   "caracteristique": "Sagesse : 6 à 10\nVitalité : 21 à 30\n+2 de dommages",
+   "image": "https://barbok.eratz.fr/grosse_bagouze_du_parrain.png",
+   "condition": "",
+   "description": "Description : Cette lourde bague permet de donner un peu plus d'inertie à vos gifles, et un peu plus de piquant à vos caresses."
+  },
+  {
+   "name": "Anneau de l'Invocateur Satisfait",
+   "level": "Niveau 40",
+   "caracteristique": "Créature invocables : +1\nPA : +1\nAgilité : -200\nForce : -200\nIntelligence : -200\nChance : -200",
+   "recette": "1x Anneau de Satisfaction\n1x Ebonite\n1x Kobalite\n1x Kouartz\n4x Manganèse",
+   "image": "https://barbok.eratz.fr/anneau_de_linvocateur_satisfait.png",
+   "condition": "",
+   "description": "Description : Cet anneau est une version améliorée du célèbre Anneau de Satisfaction. Idéal pour laisser à vos petites bestioles le soin de faire le combat à votre place, ou tout simplement pour faire le malin en invoquant une armée de Tofus."
+  },
+  {
+   "name": "Anobra",
+   "level": "Niveau 40",
+   "caracteristique": "+4 à 5 de dommages",
+   "recette": "5x Ambre\n20x Feuille de Tronknyde\n40x Racine d'Abraknyde\n5x Ambre d'Abraknyde\n1x Cale en bois du Tronknyde",
+   "image": "https://barbok.eratz.fr/anobra.png",
+   "condition": "",
+   "description": "Description : Travailler la Branche d'Abraknyde n'est pas chose aisée. Mais avec de la persévérance, on peut finir par obtenir un anneau à la fois sobre, élégant et raffiné. Tout le contraire d'un Sadida dans une taverne."
+  },
+  {
+   "name": "Jambanneau",
+   "level": "Niveau 40",
+   "caracteristique": "+4 à 5 de dommages",
+   "image": "https://barbok.eratz.fr/jambanneau.png",
+   "condition": "",
+   "description": "Description : Avec cet anneau, votre doigt fera de vous un véritable petit Porkass, ce qui ne devrait pas déplaire à vos amis les plus proches."
+  },
+  {
+   "name": "Kwakanneau de Glace",
+   "level": "Niveau 42",
+   "caracteristique": "Résistance : 3 à 5% (eau)\nChance : 16 à 20\nAugmente les dommages de 5 à 10%",
+   "recette": "1x Plume du Kwak de Glace\n3x Griffes de Kwak\n4x Etain\n2x Bronze\n3x Or",
+   "image": "https://barbok.eratz.fr/kwakanneau_de_glace.png",
+   "condition": "",
+   "description": "Description : Ce petit anneau était jadis très convoité par les Enutrofettes qui préféraient s'en servir pour décorer leurs orteils. Une excellente façon de cacher leurs verrues."
+  },
+  {
+   "name": "Kwakanneau de Flammes",
+   "level": "Niveau 42",
+   "caracteristique": "Résistance : 3 à 5% (feu)\nIntelligence : 16 à 20\nAugmente les dommages de 5 à 10%",
+   "recette": "3x Griffes de Kwak\n1x Plume du Kwak de Flamme\n4x Etain\n2x Bronze\n3x Or",
+   "image": "https://barbok.eratz.fr/kwakanneau_de_flammes.png",
+   "condition": "",
+   "description": "Description : Grâce à cet anneau, si vous vous perdez en allant délivrer un message, votre maître pourra peut-être vous retrouver."
+  },
+  {
+   "name": "Kwakanneau de Vent",
+   "level": "Niveau 42",
+   "caracteristique": "Résistance : 3 à 5% (air)\nAgilité : 16 à 20\nAugmente les dommages de 5 à 10%",
+   "recette": "3x Griffes de Kwak\n1x Plume du Kwak de Vent\n4x Etain\n2x Bronze\n3x Or",
+   "image": "https://barbok.eratz.fr/kwakanneau_de_vent.png",
+   "condition": "",
+   "description": "Description : Cet anneau est si léger, qu'il pourrait s'envoler au premier coup de vent. Mais ne rêvez pas, si cela se produit, vous ne vous envolerez pas avec lui. On se moquera de vous dans le meilleur des cas."
+  },
+  {
+   "name": "Kwakanneau de Terre",
+   "level": "Niveau 42",
+   "caracteristique": "Résistance : 3 à 5% (terre)\nForce : 16 à 20\nAugmente les dommages de 5 à 10%",
+   "recette": "3x Griffes de Kwak\n1x Plume du Kwak de Terre\n4x Etain\n2x Bronze\n3x Or",
+   "image": "https://barbok.eratz.fr/kwakanneau_de_terre.png",
+   "condition": "",
+   "description": "Description : Judicieusement porté, cet anneau vous permettra d'embellir vos doigts boudinés. Malheureusement pour certains, il n'est efficace que sur les doigts."
+  },
+  {
+   "name": "Scaranneau Rouge",
+   "level": "Niveau 43",
+   "caracteristique": "Intelligence : 1 à 20\nCoup critiques : +1 à 4\nAugmente les dommages de 1 à 10%\nInitiative : 1 à 100\nRésistance : 1 à 5% (feu)",
+   "recette": "1x Huile de Palme\n10x Fruit de Palme\n3x Carapace de Scarafeuille Rouge\n30x Antenne du Scarafeuille rouge\n5x Ailes de Scarafeuille rouge",
+   "image": "https://barbok.eratz.fr/scaranneau_rouge.png",
+   "condition": "",
+   "description": "Description : Porter cet anneau autour du doigt vous permettra d'avoir une pensée émue pour tous les Scarafeuilles que vous avez exterminés. Alors peut-être, vous vous demanderez si tout cela en valait réellement la peine."
+  },
+  {
+   "name": "Scaranneau Bleu",
+   "level": "Niveau 43",
+   "caracteristique": "Chance : 1 à 20\nCoup critiques : +1 à 4\nAugmente les dommages de 1 à 10%\nInitiative : 1 à 100\nRésistance : 1 à 5% (eau)",
+   "recette": "1x Huile de Palme\n10x Fruit de Palme\n3x Carapace de Scarafeuille Bleu\n30x Antenne du Scarafeuille bleu\n5x Ailes de Scarafeuille bleu",
+   "image": "https://barbok.eratz.fr/scaranneau_bleu.png",
+   "condition": "",
+   "description": "Description : Porter cet anneau autour du doigt vous permettra d'avoir une pensée émue pour tous les Scarafeuilles que vous avez exterminés. Alors peut-être, vous vous demanderez si tout cela en valait réellement la peine."
+  },
+  {
+   "name": "Scaranneau Vert",
+   "level": "Niveau 43",
+   "caracteristique": "Force : 1 à 20\nCoup critiques : +1 à 4\nAugmente les dommages de 1 à 10%\nInitiative : 1 à 100\nRésistance : 1 à 5% (terre)",
+   "recette": "1x Huile de Palme\n10x Fruit de Palme\n3x Carapace de Scarafeuille Vert\n30x Antenne du Scarafeuille vert\n5x Ailes de Scarafeuille vert",
+   "image": "https://barbok.eratz.fr/scaranneau_vert.png",
+   "condition": "",
+   "description": "Description : Porter cet anneau autour du doigt vous permettra d'avoir une pensée émue pour tous les Scarafeuilles que vous avez exterminés. Alors peut-être, vous vous demanderez si tout cela en valait réellement la peine."
+  },
+  {
+   "name": "Anneau du Scarabosse Doré",
+   "level": "Niveau 43",
+   "caracteristique": "Soins : 1 à 4\n+1 à 4 de dommages",
+   "recette": "1x Scaranneau Vert\n1x Ailes du Scarabosse Doré\n1x Scaranneau Blanc\n1x Scaranneau Bleu\n1x Scaranneau Noir\n1x Scaranneau Rouge",
+   "image": "https://barbok.eratz.fr/anneau_du_scarabosse_dore.png",
+   "condition": "",
+   "description": "Description : Le Sacrabosse est une étrange créature. Bossue et laide depuis sa naissance, elle s'est retrouvée être la risée des autres Scarafeuilles. C'est peut-être pour cela que vous vous sentez si proche de cette créature."
+  },
+  {
+   "name": "Scaranneau Blanc",
+   "level": "Niveau 43",
+   "caracteristique": "Agilité : 1 à 20\nCoup critiques : +1 à 4\nAugmente les dommages de 1 à 10%\nInitiative : 1 à 100\nRésistance : 1 à 5% (air)",
+   "recette": "1x Huile de Palme\n10x Fruit de Palme\n3x Carapace de Scarafeuille Blanc\n30x Antenne du Scarafeuille blanc\n5x Ailes de Scarafeuille blanc",
+   "image": "https://barbok.eratz.fr/scaranneau_blanc.png",
+   "condition": "",
+   "description": "Description : Porter cet anneau autour du doigt vous permettra d'avoir une pensée émue pour tous les Scarafeuilles que vous avez exterminés. Alors peut-être, vous vous demanderez si tout cela en valait réellement la peine."
+  },
+  {
+   "name": "Anneau de Slait",
+   "level": "Niveau 43",
+   "caracteristique": "Vitalité : 21 à 30\nSagesse : 11 à 20\nSoins : 1 à 2",
+   "image": "https://barbok.eratz.fr/anneau_de_slait.png",
+   "condition": "",
+   "description": "Description : Certains aventuriers s'amusent à collectionner ce type d'anneau pour des raisons encore inconnues."
+  },
+  {
+   "name": "Anneau Forain",
+   "level": "Niveau 44",
+   "caracteristique": "Chance : 11 à 25\nVitalité : 16 à 30\nAugmente les dommages de 3 à 5%\nRésistance : 2 à 3 (eau)\nRésistance : 2 à 3 (air)\nRésistance : 2 à 3 (feu)\nRésistance : 1 à 3% (air)",
+   "recette": "5x Or\n1x Bakélélite\n1x Ivoire\n1x Cristal\n1x Aluminite",
+   "image": "https://barbok.eratz.fr/anneau_forain.png",
+   "condition": "",
+   "description": "Description : Cet anneau a été créé par un célèbre forain, dont personne ne se rappelle le nom. Il est mort lors du concours de tir à l'arc, en mettant comme cible sur sa tête, une Graine de Tournesol Sauvage à la place de la traditionnelle Citrouille."
+  },
+  {
+   "name": "Anneau Hé",
+   "level": "Niveau 44",
+   "caracteristique": "Vitalité : 31 à 50\nSagesse : 11 à 20\nCoup critiques : +2 à 3",
+   "recette": "1x Petite Perle Dorée\n1x Rutile\n1x Ambre de Bambouto\n1x Bois de Bambou Doré\n1x Topaze",
+   "image": "https://barbok.eratz.fr/anneau_he.png",
+   "condition": "",
+   "description": "Description : Cet anneau appartenait à un vieillard, qui selon certaines rumeurs, aurait sauvé toutes les créatures de l'île de Moon d'un terrible déluge, en les amenant sur son radeau. Une autre version des faits raconte qu'il aurait troqué son radeau contre un petit singe, au lieu de sauver les créatures de l'île."
+  },
+  {
+   "name": "Anneau Paupayahn",
+   "level": "Niveau 45",
+   "caracteristique": "Vitalité : 1 à 20\nSagesse : 1 à 15\nRésistance : 1 à 5 (eau)\nRésistance : 1 à 5 (air)\nRésistance : 1 à 5 (feu)\nRésistance : 1 à 5% (air)",
+   "image": "https://barbok.eratz.fr/anneau_paupayahn.png",
+   "condition": "",
+   "description": "Description : Lorsque votre eau ou votre bière n'a plus de goût, trempez-y cet anneau."
+  },
+  {
+   "name": "Bracelet du Tétounik",
+   "level": "Niveau 45",
+   "caracteristique": "Vitalité : 16 à 25\nSoins : 2 à 3\nPortée : +1",
+   "image": "https://barbok.eratz.fr/bracelet_du_tetounik.png",
+   "condition": "",
+   "description": "Description : Ce bracelet est censé briller, mais uniquement la nuit et dans les tavernes."
+  },
+  {
+   "name": "Palmano",
+   "level": "Niveau 46",
+   "caracteristique": "Agilité : 21 à 35\nCréature invocables : +1 à 2\nInitiative : 201 à 300",
+   "recette": "1x Coccyx du Corailleur\n1x Corail Kouraçao\n1x Corail Malibout\n1x Corail Morito\n1x Corail Passaoh",
+   "image": "https://barbok.eratz.fr/palmano.png",
+   "condition": "",
+   "description": "Description : Ce bijou n'est pas très précieux, mais il a la taille idéale pour servir à doser le mourgale dans un bon belgrouth à la glaviouze."
+  },
+  {
+   "name": "Abranneau Mou",
+   "level": "Niveau 46",
+   "caracteristique": "Portée : +1\nCréature invocables : +2\nVitalité : 31 à 80",
+   "recette": "2x Ambre d'Abraknyde Sombre\n1x Ambre d'Abraknyde\n10x Bourgeon d'Abraknyde\n10x Racine d'Abraknyde\n10x Ecorce d'Abraknyde",
+   "image": "https://barbok.eratz.fr/abranneau_mou.png",
+   "condition": "",
+   "description": "Description : Cet anneau, est en fait une excroissance du Chêne Mou, arrachée lors d'une tempête. Maintenant il est à vous, mais évitez de trop l'approcher de son maître, il pourrait décider de se retourner contre vous."
+  },
+  {
+   "name": "Scaranneau Noir",
+   "level": "Niveau 48",
+   "caracteristique": "Vitalité : 6 à 30\nCoup critiques : +1 à 3\nSoins : 1 à 4\nRésistance : 2 à 3% (neutre)",
+   "recette": "1x Scaranneau Blanc\n1x Scaranneau Bleu\n1x Scaranneau Rouge\n1x Scaranneau Vert\n1x Antennes du Scarafeuille Noir",
+   "image": "https://barbok.eratz.fr/scaranneau_noir.png",
+   "condition": "",
+   "description": "Description : Cet anneau magnifique peut être porté autour du gros orteil. Idéal pour cacher vos verrues et vos ongles incarnés."
+  },
+  {
+   "name": "Anneau Stradamus",
+   "level": "Niveau 48",
+   "caracteristique": "Vitalité : 16 à 25\nSoins : 3 à 5\nRésistance : 3 à 4 (terre)",
+   "recette": "2x Aluminite\n2x Rutile\n2x Pyrute\n2x L'Ecaliseur\n2x Racine de Bulbambou",
+   "image": "https://barbok.eratz.fr/anneau_stradamus.png",
+   "condition": "",
+   "description": "Description : Stradamus, était un viel Enutrof, complètement ivre, qui lisait l'avenir dans les choppes de bière. La légende raconte qu'à sa demande, il fût enseveli à la verticale dans un des murs de la taverne de Brâkmar, pour \"qu'aucun poltron ne puisse renverser une bière sur sa tombe\". Le genre de légende colportée au fil des beuveries organisées par les Maîtres Sérianes."
+  },
+  {
+   "name": "Abranneau Sombre",
+   "level": "Niveau 48",
+   "caracteristique": "Chance : 11 à 20\nForce : 11 à 20\nAgilité : 11 à 20\nSagesse : 11 à 20\nIntelligence : 11 à 20\nVitalité : 11 à 20",
+   "recette": "1x Ambre d'Abraknyde Sombre\n3x Bourgeon d'Abraknyde Sombre\n1x Abranneau\n2x Ecorce d'Abraknyde Sombre",
+   "image": "https://barbok.eratz.fr/abranneau_sombre.png",
+   "condition": "",
+   "description": "Description : Cet anneau, permet à l'Abraknyde Sombre, de sortir en soirée tout en étant vraiment très chic. Et comme la vie est bien faite, c'est toujours la soirée dans la Forêt Sombre."
+  },
+  {
+   "name": "Anneau Rigami",
+   "level": "Niveau 49",
+   "caracteristique": "Vitalité : 21 à 40\nRésistance : 3 à 5 (feu)\nRésistance : 3 à 5 (air)\nRésistance : 3 à 5 (eau)\nRésistance : 3 à 5 (terre)",
+   "recette": "1x Rutile\n1x Bakélélite\n6x Or\n2x Argent\n3x Bronze",
+   "image": "https://barbok.eratz.fr/anneau_rigami.png",
+   "condition": "",
+   "description": "Description : Cet anneau doit son nom aux dernières paroles de son créateur : \"Oh, Rigami mon ami !\" lança-t-il dans un râle de douleur terriblement amusant. Il est important de constater que la confection de cet anneau en Bambou est antérieure à l'apparition des Bambous. Une énigme de plus qui ne risque pas d'être résolue avant plusieurs décennies."
+  },
+  {
+   "name": "Blopanneau Coco",
+   "level": "Niveau 50",
+   "caracteristique": "Agilité : 16 à 25\n+1 à 3 de dommages\nPortée : +1\nCréature invocables : +1",
+   "recette": "1x Fleur de Blopignon\n1x Anneau de l'Invocateur Satisfait\n1x Feuille de Blop Royal\n50x Bout de Blop Coco\n50x Pollen de Blop\n10x Fleur de Blop Coco",
+   "image": "https://barbok.eratz.fr/blopanneau_coco.png",
+   "condition": "",
+   "description": "Description : Une fois enfilé au bout d'un doigt, il n'est plus possible de se débarrasser de cet anneau. Plus vous y pensez, et plus il vous rappelle quelqu'un."
+  },
+  {
+   "name": "Anodindo",
+   "level": "Niveau 50",
+   "caracteristique": "Intelligence : 1 à 25\nChance : 1 à 25\nAgilité : 1 à 25\nForce : 1 à 25\nSagesse : 1 à 25",
+   "recette": "20x Pic de Dragodinde\n15x Pic de Dragodinde Rousse Sauvage\n2x Queue de Dragodinde Rousse Sauvage\n9x Aile de Dragodinde\n13x Aile de Dragodinde Rousse Sauvage\n2x Queue de Dragodinde",
+   "image": "https://barbok.eratz.fr/anodindo.png",
+   "condition": "",
+   "description": "Description : Grâce à cet anneau, vos amies diront de vous \"Elle a vraiment tout d'une dinde\"."
+  },
+  {
+   "name": "Anneau Zocomial",
+   "level": "Niveau 50",
+   "caracteristique": "Vitalité : 21 à 35\nAugmente les dommages de 11 à 15%\nInitiative : 101 à 150\nRésistance : 4 à 5 (air)\nRésistance : 4 à 5 (eau)",
+   "recette": "1x Rutile\n1x Aigue-Marine\n5x Bois de Bambouto\n2x Dent de Chef de Guerre Bouftou\n1x Aluminite\n2x Crocs de Rats",
+   "image": "https://barbok.eratz.fr/anneau_zocomial.png",
+   "condition": "",
+   "description": "Description : Cet anneau vivant dispose d'un terrible envoûtement, capable de rendre malades les aventuriers les plus résistants. On raconte qu'il était à l'origine censé soigner celui qui le porte autour de l'index et qu'il est devenu dangereux et agressif à force de se retrouver contre sa volonté dans des endroits peu recommandables."
+  },
+  {
+   "name": "Blopanneau Griotte",
+   "level": "Niveau 50",
+   "caracteristique": "Intelligence : 16 à 25\n+2 à 4 de dommages\nPortée : +1\nCréature invocables : +1",
+   "recette": "1x Fleur de Blopignon\n1x Anneau de l'Invocateur Satisfait\n1x Feuille de Blop Royal\n50x Bout de Blop Griotte\n50x Pollen de Blop\n10x Fleur de Blop Griotte",
+   "image": "https://barbok.eratz.fr/blopanneau_griotte.png",
+   "condition": "",
+   "description": "Description : Une fois enfilé au bout d'un doigt, il n'est plus possible de se débarrasser de cet anneau. Plus vous y pensez, et plus il vous rappelle quelqu'un."
+  },
+  {
+   "name": "Blopanneau Indigo",
+   "level": "Niveau 50",
+   "caracteristique": "Chance : 16 à 25\n+1 à 3 de dommages\nPortée : +1\nCréature invocables : +1",
+   "recette": "1x Fleur de Blopignon\n1x Anneau de l'Invocateur Satisfait\n1x Feuille de Blop Royal\n50x Bout de Blop Indigo\n50x Pollen de Blop\n10x Fleur de Blop Indigo",
+   "image": "https://barbok.eratz.fr/blopanneau_indigo.png",
+   "condition": "",
+   "description": "Description : Une fois enfilé au bout d'un doigt, il n'est plus possible de se débarrasser de cet anneau. Plus vous y pensez, et plus il vous rappelle quelqu'un."
+  },
+  {
+   "name": "Blopanneau Reinette",
+   "level": "Niveau 50",
+   "caracteristique": "Force : 16 à 25\n+1 à 3 de dommages\nPortée : +1\nCréature invocables : +1",
+   "recette": "1x Fleur de Blopignon\n1x Anneau de l'Invocateur Satisfait\n1x Feuille de Blop Royal\n50x Bout de Blop Reinette\n50x Pollen de Blop\n10x Fleur de Blop Reinette",
+   "image": "https://barbok.eratz.fr/blopanneau_reinette.png",
+   "condition": "",
+   "description": "Description : Une fois enfilé au bout d'un doigt, il n'est plus possible de se débarrasser de cet anneau. Plus vous y pensez, et plus il vous rappelle quelqu'un."
+  },
+  {
+   "name": "Anneau Tribal",
+   "level": "Niveau 51",
+   "caracteristique": "Vitalité : 6 à 15\nSagesse : 6 à 15\nCoup critiques : +2 à 3\n+2 de dommages\nCréature invocables : +1\nInitiative : 101 à 150",
+   "recette": "1x Cristal\n1x Kriptonite\n4x Coquille de Dragoeuf Doré\n2x Ebonite\n4x Coquille de Dragoeuf Saphir\n1x Aluminite",
+   "image": "https://barbok.eratz.fr/anneau_tribal.png",
+   "condition": "",
+   "description": "Description : L'origine de cet anneau est pour le moins douteuse, on pense qu'il a appartenu à une tribu de Sadidas Kannibouls végétariens mangeurs de fougères de la pire espèce qui soit. Sûrement une histoire pour faire peur aux jeunes Sadidas."
+  },
+  {
+   "name": "Anneau du Mulou",
+   "level": "Niveau 51",
+   "caracteristique": "Force : 1 à 25\nSagesse : 1 à 15\nAgilité : 1 à 25\nProspection : 1 à 10\nRésistance : 1 à 6 (feu)",
+   "recette": "22x Griffe du Mulou\n30x Canine du Mulou\n10x Oeil de Mulou\n20x Oeil du Milimulou\n1x Queue du Mulou\n5x Poils du Mulou",
+   "image": "https://barbok.eratz.fr/anneau_du_mulou.png",
+   "condition": "",
+   "description": "Description : Attention, cet anneau rendra votre doigt particulièrement malodorant. Une odeur qui risque d'en couvrir une autre. C'est peut-être pour votre doigt et votre entourage une très bonne chose..."
+  },
+  {
+   "name": "Alliance Ethnique",
+   "level": "Niveau 53",
+   "caracteristique": "Intelligence : 21 à 35\nChance : 21 à 35\nProspection : 4 à 5\nRésistance : 3 à 4 (feu)\nRésistance : 3 à 4 (air)",
+   "recette": "2x Kobalite\n5x Dent de Karne\n4x Rutile\n6x Dent de Serpentin\n4x Ambre de Bambouto\n1x Topaze",
+   "image": "https://barbok.eratz.fr/alliance_ethnique.png",
+   "condition": "",
+   "description": "Description : Un groupe de Ménestrels cosmopolites, mais particulièrement mauvais, avaient décidé d'utiliser cette alliance pour se reconnaître dans la foule qui venait assister à leurs représentations. Finalement, cette alliance ne leur fut d'aucune utilité car ils n'eurent aucun succès. Selon certaines mauvaises langues ou bonnes oreilles, c'était bien mérité."
+  },
+  {
+   "name": "Anneau du Koalak",
+   "level": "Niveau 53",
+   "caracteristique": "Vitalité : 21 à 30\nPortée : +1\nCréature invocables : +1\nRésistance : 4 à 5% (feu)",
+   "recette": "1x Os de Pékeualak\n1x Etoffe de Dok Alako\n1x Poils de Koalak Griotte\n1x Poils de Koalak Indigo\n1x Poils de Koalak Koko\n1x Poils de Koalak Reinette",
+   "image": "https://barbok.eratz.fr/anneau_du_koalak.png",
+   "condition": "",
+   "description": "Description : Ce magnifique anneau est porté par les Koalaks les plus téméraires, ceux qui ont été assez courageux pour le voler aux aventuriers d'Astrub à la sortie de la banque."
+  },
+  {
+   "name": "Anneau Karina",
+   "level": "Niveau 54",
+   "caracteristique": "Force : 16 à 30\nVitalité : 21 à 35\nAgilité : 16 à 30\nRésistance : 2 à 3% (air)\nRésistance : 2 à 3% (terre)",
+   "recette": "2x Bakélélite\n3x Magnésite\n2x Ebonite\n8x Ambre de Bambouto\n5x Pyrute\n5x Rutile",
+   "image": "https://barbok.eratz.fr/anneau_karina.png",
+   "condition": "",
+   "description": "Description : Contrairement à ce que certains pensent, cet anneau n'a aucun rapport avec la sulfureuse Karina, qui s'est à maintes reprises, mise en scène d'une façon assez exotique dans le bar des pirates de Sufokia. En réalité, c'est un musicien éleveur de Tofus, qui a donné ce nom à cet anneau, capable une fois porté autour du pouce, d'émettre un son proche de celui que l'on peut entendre lorsque l'on tord le cou d'un Tofu."
+  },
+  {
+   "name": "Anneau du Kitsou",
+   "level": "Niveau 55",
+   "caracteristique": "Vitalité : 11 à 50\nRésistance : 4 à 6 (air)\nRésistance : 4 à 6 (eau)\nRésistance : 4 à 5% (terre)",
+   "recette": "1x Peau de Kitsou Nae\n1x Peau de Kitsou Nakwa\n1x Peau de Kitsou Nere\n1x Poils de Kitsou Nae\n1x Poils de Kitsou Nakwa\n1x Poils de Kitsou Nere",
+   "image": "https://barbok.eratz.fr/anneau_du_kitsou.png",
+   "condition": "",
+   "description": "Description : Ce petit anneau du Kitsou devrait vous protéger des petits tracas de la vie de tous les jours."
+  },
+  {
+   "name": "Alliance Aerdala",
+   "level": "Niveau 57",
+   "caracteristique": "Sagesse : 16 à 25\nAgilité : 16 à 25\n+2 à 3 de dommages aux pièges\nProspection : 6 à 10",
+   "recette": "50x Artefact Pandawushu Air\n1x Aluminite\n1x Pyrute\n1x Agathe\n8x Bois de Bambou\n1x Bois de Bambou Sombre",
+   "image": "https://barbok.eratz.fr/alliance_aerdala.png",
+   "condition": "",
+   "description": "Description : Cet alliance provient du village d'Aerdala. Plus proche du porte-bonheur que de la relique magique, elle vous permettra tout de même de faire croire à vos amis que vous avez trouvé l'âme soeur."
+  },
+  {
+   "name": "Anneau Piaume",
+   "level": "Niveau 57",
+   "caracteristique": "Sagesse : 16 à 25\nCoup critiques : +3 à 4\nProspection : 6 à 10",
+   "recette": "1x Aigue-Marine\n2x Bakélélite\n3x Kouartz\n4x Kriptonite\n2x Rutile\n3x Pyrute",
+   "image": "https://barbok.eratz.fr/anneau_piaume.png",
+   "condition": "",
+   "description": "Description : Ce bijou a fait rêver plus d'un aventurier avant vous. En effet, on lui prête énormément de vertus, comme celle de transformer les plus belliqueux en doux rêveurs. La notice indique clairement qu'il est déconseillé de le mettre au feu, mais elle ne précise pas pourquoi."
+  },
+  {
+   "name": "Anneau Ha",
+   "level": "Niveau 58",
+   "caracteristique": "Vitalité : 16 à 25\nAgilité : 16 à 25\n+4 à 5 de dommages\n+4 à 5 de dommages aux pièges\n11 à 15% de dommages aux pièges",
+   "recette": "4x Dent de Chef de Guerre Bouftou\n6x Crocs de Rats\n6x Ambre de Bambouto\n4x Pyrute\n5x Rutile\n20x Pousses de Bulbambou",
+   "image": "https://barbok.eratz.fr/anneau_ha.png",
+   "condition": "",
+   "description": "Description : Le bijoutier à l'origine de cette oeuvre n'a contrairement aux apparences aucun lien de parenté avec un célèbre forgeur d'épées. D'après son créateur, cet anneau est censé vous rappeler l'ambiance de la brousse, sans pour autant sentir les secousses. Personne n'a encore compris de quoi il parlait."
+  },
+  {
+   "name": "Anneau Merta",
+   "level": "Niveau 59",
+   "caracteristique": "Intelligence : 16 à 25\nAgilité : 16 à 25\nCoup critiques : +2 à 3\nSoins : 3 à 4\nInitiative : 101 à 150\nRésistance : 4 à 5 (eau)",
+   "recette": "1x Agathe\n1x L'Ecaliseur\n1x Aluminite\n15x Fleur de Bulbiflore\n15x Feuille de Bulbuisson\n15x Pousses de Bulbambou",
+   "image": "https://barbok.eratz.fr/anneau_merta.png",
+   "condition": "",
+   "description": "Description : Cet anneau dispose d'un bien étrange enchantement. En effet, une fois porté autour du doigt, vous ne pourrez plus parler qu'au Bijoutier qui vous l'a confectionné."
+  },
+  {
+   "name": "L'Enutrofion",
+   "level": "Niveau 59",
+   "caracteristique": "Chance : 11 à 20\nProspection : 6 à 10",
+   "recette": "2x Kouartz\n1x Rubis\n3x Ebonite\n4x Or\n4x Bronze\n4x Etain",
+   "image": "https://barbok.eratz.fr/lenutrofion.png",
+   "condition": "Classe doit etre Enutrof",
+   "description": "Description : Cet anneau est destiné aux seuls Enutrofs. Leur dieu l'a enchanté pour qu'il ne soit porté que par ses disciples. Il permettra à tout Enutrof qui se respecte, d'avoir beaucoup plus de chance pour découvrir des trésors."
+  },
+  {
+   "name": "Anneau du Jeune Vald",
+   "level": "Niveau 59",
+   "caracteristique": "Force : 16 à 25\nVitalité : 16 à 25\nSagesse : 11 à 15\nAgilité : 16 à 25\nCoup critiques : +2 à 3\nProspection : 2 à 3\nRésistance : 2 à 3% (feu)\nRésistance : 2 à 3% (eau)",
+   "recette": "2x Magnésite\n2x Bakélélite\n2x Ivoire\n20x Silex\n1x Saphir\n1x Ebonite",
+   "image": "https://barbok.eratz.fr/anneau_du_jeune_vald.png",
+   "condition": "",
+   "description": "Description : A l'époque où tous les Iops de son âge recevaient pour leur communion, une monture Tabi, ou une Goultard en bois, Vald lui a reçu cet anneau. C'est un peu moins marrant pour jouer avec ses petits camarades, mais c'est plus utile en plein combat."
+  },
+  {
+   "name": "Alliance de Corail",
+   "level": "Niveau 60",
+   "caracteristique": "Force : 11 à 20\nVitalité : 16 à 25\nSagesse : 6 à 10\nChance : 16 à 30\nProspection : 3 à 5\nRésistance : 4 à 5 (eau)\nRésistance : 2 à 3% (eau)",
+   "recette": "1x Sacrum magistral\n1x Croquette\n15x Pince de Crustorail\n10x Silicate\n8x Dolomite\n1x Corail usé",
+   "image": "https://barbok.eratz.fr/alliance_de_corail.png",
+   "condition": "",
+   "description": "Description : Cet anneau a été arraché au doigt encore chaud d'un jeune Corailleur fraichement massacré. Sa mère l'attendait pour le repas, jusqu'à ce qu'elle s'aperçoive que son rejeton venait d'être transformé en pierre tombale. Même le corail a un coeur, et pas forcément de pierre."
+  },
+  {
+   "name": "Gelano",
+   "level": "Niveau 60",
+   "caracteristique": "PA : +1",
+   "recette": "100x Gelée Bleutée\n2x Gelée Citron Royale\n2x Gelée Fraise Royale\n2x Gelée Bleutée Royale\n2x Gelée Menthe Royale\n100x Gelée à la Fraise",
+   "image": "https://barbok.eratz.fr/gelano.png",
+   "condition": "",
+   "description": "Description : Inutile de vous ronger les ongles avec cet anneau, léchez-vous les doigts !"
+  },
+  {
+   "name": "Anneau Poli",
+   "level": "Niveau 66",
+   "caracteristique": "Force : 11 à 15\nVitalité : 11 à 25\nIntelligence : 11 à 15\nAgilité : 11 à 15\nChance : 11 à 15\n+2 à 4 de dommages\nAugmente les dommages de 6 à 15%\nPortée : +1\nInitiative : 141 à 170\nFaiblesse : 1 à 5% (air)\nFaiblesse : 1 à 5% (eau)\nFaiblesse : 1 à 5% (feu)\nFaiblesse : 1 à 5% (terre)\nFaiblesse : 1 à 5% (neutre)",
+   "recette": "3x Coeur de pierre poli\n2x Boule polie\n25x Fragment de cerveau poli\n1x Coco du Bitouf des plaines\n1x Bec du Kido\n1x Coeur de Brandon",
+   "image": "https://barbok.eratz.fr/anneau_poli.png",
+   "condition": "",
+   "description": "Description : Cet anneau n'est malheureusement poli qu'à l'extérieur. On y enfile le doigt par un trou orné d'éclats de roche acérés. Recommandé pour les Sacrieurs."
+  },
+  {
+   "name": "Anneau Fioutioure",
+   "level": "Niveau 70",
+   "caracteristique": "Sagesse : 16 à 25\nAgilité : 21 à 30\nSoins : 6 à 8\nInitiative : 150",
+   "recette": "1x Agathe\n1x Aigue-Marine\n1x Kouartz\n1x Pyrute\n1x Rutile\n2x Racine de Bulbuisson",
+   "image": "https://barbok.eratz.fr/anneau_fioutioure.png",
+   "condition": "",
+   "description": "Description : Celle qui a créé cet anneau pensait que la fin du monde était proche, elle passait ses journées à graver sur les tables en bois à l'aide de son sertisseur, qu'il n'y avait plus d'avenir pour les habitants d'Amakna. La suite des événements, lui montra qu'elle avait tort."
+  },
+  {
+   "name": "Anneau Bsène",
+   "level": "Niveau 70",
+   "caracteristique": "Vitalité : 21 à 35\nSoins : 4 à 5\n+4 à 5 de dommages\nCréature invocables : +1\nRésistance : 1 à 2% (feu)\nRésistance : 1 à 2% (eau)",
+   "recette": "5x Ambre de Bambouto\n1x Topaze\n1x Racine de Bulbambou\n4x Kouartz\n2x Rutile\n2x Pyrute",
+   "image": "https://barbok.eratz.fr/anneau_bsene.png",
+   "condition": "",
+   "description": "Description : Réservé aux aventuriers avertis, cet anneau risque de choquer votre entourage s'il est composé de jeunes créatures innocentes."
+  },
+  {
+   "name": "Bracelet du Chef Crocodaille",
+   "level": "Niveau 70",
+   "caracteristique": "Agilité : 21 à 30\nChance : 21 à 30\nCoup critiques : +1 à 3\nProspection : 4 à 5\nRésistance : 4 à 5% (feu)\nRésistance : 4 à 5% (terre)",
+   "recette": "30x Ecaille de Crocodaille\n30x Ecaille de Chef Crocodaille\n10x Dent de Crocodaille\n5x Dents de Chef Crocodaille\n2x Rubis\n1x Diamant",
+   "image": "https://barbok.eratz.fr/bracelet_du_chef_crocodaille.png",
+   "condition": "",
+   "description": "Description : Ce bracelet ressemble étrangement à un gant et pourtant ce n'est pas un gant mais bien un bracelet. Les apparences sont parfois trompeuses."
+  },
+  {
+   "name": "Anneau Nime",
+   "level": "Niveau 70",
+   "caracteristique": "Vitalité : 16 à 25\nSagesse : 6 à 10\nIntelligence : 16 à 25\nChance : 16 à 25\nInitiative : 31 à 50\nProspection : 6 à 10\nRésistance : 3 à 5 (eau)\nRésistance : 3 à 5 (air)\nRésistance : 3 à 5 (feu)\nRésistance : 3 à 5 (terre)\nRésistance : 3 à 5 (neutre)",
+   "recette": "3x Kobalite\n2x Kouartz\n2x Kriptonite\n2x Cristal\n1x Saphir\n2x Ebonite",
+   "image": "https://barbok.eratz.fr/anneau_nime.png",
+   "condition": "",
+   "description": "Description : Personne ne connaît le propriétaire de cet anneau, qui a tenu a garder l'anonymat suite à un combat humiliant face à une Arackne invoquée. Cependant, il faut avouer que cette dernière venait d'être compulsée par un Iop."
+  },
+  {
+   "name": "Alliance Terrdala",
+   "level": "Niveau 77",
+   "caracteristique": "Vitalité : 26 à 40\nSagesse : 16 à 25\n+3 à 4 de dommages\nRésistance : 4 à 5% (eau)\nRésistance : 4 à 5% (terre)",
+   "recette": "50x Artefact Pandawushu Terre\n1x Topaze\n2x Kouartz\n2x Aluminite\n5x Bois de Bambou\n5x Bois de Bambou Sombre",
+   "image": "https://barbok.eratz.fr/alliance_terrdala.png",
+   "condition": "",
+   "description": "Description : Cette alliance provient du village de Terrdala. Plus proche du porte-bonheur que de la relique magique, elle vous permettra tout de même de faire croire à vos amis que vous avez trouvé l'âme soeur."
+  },
+  {
+   "name": "Blopanneau Coco Royal",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 21 à 35\nSagesse : 11 à 15\nAgilité : 16 à 30\n+4 à 5 de dommages\nInitiative : 101 à 200\nProspection : 6 à 10",
+   "recette": "1x Blopanneau Coco\n10x Fleur de Gloutoblop\n100x Pollen de Blop\n5x Feuille de Blop Royal\n10x Racine de Tronkoblop\n100x Bout de Blop Coco\n1x Fleur de Blop Coco Royal",
+   "image": "https://barbok.eratz.fr/blopanneau_coco_royal.png",
+   "condition": "",
+   "description": "Description : Kroula avait jadis tenté d'enfiler cet anneau autour de son gros orteil. Il espérait ainsi que ses ennemis daigneraient lui lécher les pieds dans l'espoir de récupérer quelques gouttes de jus de Blop Royal."
+  },
+  {
+   "name": "Anneau de Loopine",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 21 à 30\nChance : 21 à 30\n+2 à 4 de dommages\nInitiative : 101 à 200\nRésistance : 1 à 3% (terre)\nProspection : 6 à 15\nRésistance : 1 à 3% (air)\nSagesse : 6 à 10",
+   "recette": "20x Dent en Or du Craqueleur\n1x Méga Pierre du Craqueleur\n2x Emeraude\n2x Saphir\n5x Kobalite\n5x Kriptonite\n5x Kouartz",
+   "image": "https://barbok.eratz.fr/anneau_de_loopine.png",
+   "condition": "",
+   "description": "Description : Loopine a jadis demandé comment créer un tel anneau au monstre qui hante sa grotte en échange de quelques services à rendre, qui l'ont changé à jamais. Les gens avertis vous diront qu'il a perdu au change..."
+  },
+  {
+   "name": "Blopanneau Griotte Royal",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 21 à 35\nSagesse : 11 à 15\nIntelligence : 16 à 30\n+4 à 5 de dommages\nInitiative : 101 à 200\nProspection : 6 à 10",
+   "recette": "1x Blopanneau Griotte\n10x Fleur de Gloutoblop\n100x Pollen de Blop\n5x Feuille de Blop Royal\n10x Racine de Tronkoblop\n100x Bout de Blop Griotte\n1x Fleur de Blop Griotte Royal",
+   "image": "https://barbok.eratz.fr/blopanneau_griotte_royal.png",
+   "condition": "",
+   "description": "Description : Kroula avait jadis tenté d'enfiler cet anneau autour de son gros orteil. Il espérait ainsi que ses ennemis daigneraient lui lécher les pieds dans l'espoir de récupérer quelques gouttes de jus de Blop Royal."
+  },
+  {
+   "name": "Blopanneau Indigo Royal",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 21 à 35\nSagesse : 11 à 15\nChance : 16 à 30\n+4 à 5 de dommages\nInitiative : 101 à 200\nProspection : 6 à 10",
+   "recette": "1x Blopanneau Indigo\n10x Fleur de Gloutoblop\n100x Pollen de Blop\n5x Feuille de Blop Royal\n10x Racine de Tronkoblop\n100x Bout de Blop Indigo\n1x Fleur de Blop Indigo Royal",
+   "image": "https://barbok.eratz.fr/blopanneau_indigo_royal.png",
+   "condition": "",
+   "description": "Description : Kroula avait jadis tenté d'enfiler cet anneau autour de son gros orteil. Il espérait ainsi que ses ennemis daigneraient lui lécher les pieds dans l'espoir de récupérer quelques gouttes de jus de Blop Royal."
+  },
+  {
+   "name": "Craquanneau Légendaire",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 31 à 50\nAgilité : 16 à 25\nIntelligence : 16 à 25\nPortée : +1\nRésistance : 4 à 5% (air)\nRésistance : 4 à 5% (eau)",
+   "recette": "10x Saphir\n1x Diamant\n7x Ambre de Bambouto Sacré\n6x Pierre du Craqueleur Légendaire\n3x Coeur de Craqueleur\n1x Méga Pierre du Craqueleur\n20x Pierre du Craqueleur",
+   "image": "https://barbok.eratz.fr/craquanneau_legendaire.png",
+   "condition": "",
+   "description": "Description : Ce rocher serti de pierres précieuses est idéal pour marquer les tempes ou le front de vos adversaires de façon définitive."
+  },
+  {
+   "name": "Bracelet Magique de Shika",
+   "level": "Niveau 80",
+   "caracteristique": "Intelligence : 21 à 30\nVitalité : 36 à 50\nSagesse : 16 à 20\nChance : 16 à 20\nAgilité : 16 à 20\nAugmente les dommages de 11 à 15%\nRésistance : 4 à 5% (air)\nRésistance : 4 à 5% (terre)",
+   "recette": "30x Poil de Gamino\n10x Ambre de Bambouto\n10x Saphir\n10x Fibre de Lin\n5x Ambre d'Abraknyde\n1x Ambre de Bambouto Sacré\n10x Bandelette du Guerrier Koalak",
+   "image": "https://barbok.eratz.fr/bracelet_magique_de_shika.png",
+   "condition": "",
+   "description": "Description : Ce bracelet couvrait les bras de Shika, la protégeant des coups de soleil, et des coups de bec des Corbacs attirés par sa beauté rayonnante. Ils sont encore imprégnés de sa sueur suave."
+  },
+  {
+   "name": "Blopanneau Reinette Royal",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 21 à 35\nSagesse : 11 à 15\nForce : 16 à 30\n+4 à 5 de dommages\nInitiative : 101 à 200\nProspection : 6 à 10",
+   "recette": "1x Blopanneau Reinette\n10x Fleur de Gloutoblop\n100x Pollen de Blop\n5x Feuille de Blop Royal\n10x Racine de Tronkoblop\n100x Bout de Blop Reinette\n1x Fleur de Blop Reinette Royal",
+   "image": "https://barbok.eratz.fr/blopanneau_reinette_royal.png",
+   "condition": "",
+   "description": "Description : Kroula avait jadis tenté d'enfiler cet anneau autour de son gros orteil. Il espérait ainsi que ses ennemis daigneraient lui lécher les pieds dans l'espoir de récupérer quelques gouttes de jus de Blop Royal."
+  },
+  {
+   "name": "Bracelet Magique de Farle",
+   "level": "Niveau 80",
+   "caracteristique": "Force : 21 à 30\nVitalité : 36 à 50\nSagesse : 16 à 20\nIntelligence : 16 à 20\nAgilité : 16 à 20\nAugmente les dommages de 11 à 15%\nRésistance : 4 à 5% (feu)\nRésistance : 4 à 5% (eau)",
+   "recette": "20x Fibre de Lin\n2x Rubis\n2x Bakélélite\n2x Diamant\n3x Ebonite\n12x Kouartz\n6x Kobalite",
+   "image": "https://barbok.eratz.fr/bracelet_magique_de_farle.png",
+   "condition": "",
+   "description": "Description : Ce bracelet en pierres précieuses a été recouvert d'une toile de Chanvre par Shika, pour éviter d'attirer l'attention des Corbacs, lorsque Farle semait son orge."
+  },
+  {
+   "name": "Alliance Feudala",
+   "level": "Niveau 81",
+   "caracteristique": "Sagesse : 21 à 30\nIntelligence : 21 à 30\nCoup critiques : +2 à 3\nSoins : 4 à 5\nRésistance : 6 à 10% (eau)",
+   "recette": "50x Artefact Pandawushu Feu\n5x Bois d'Ebène\n5x Pyrute\n6x Aluminite\n8x Bois de Bambou Sombre\n1x Aigue-Marine\n3x Agathe",
+   "image": "https://barbok.eratz.fr/alliance_feudala.png",
+   "condition": "",
+   "description": "Description : Cette alliance provient du village de Feudala. Plus proche du porte-bonheur que de la relique magique, elle vous permettra tout de même de faire croire à vos amis que vous avez trouvé l'âme soeur."
+  },
+  {
+   "name": "Anneau du Mineur Gogorifiant",
+   "level": "Niveau 84",
+   "caracteristique": "Vitalité : 16 à 25\nSagesse : 16 à 25\nChance : 21 à 35\nCoup critiques : +1 à 2\n+3 à 4 de dommages\nInitiative : 51 à 100\nProspection : 11 à 15\nRésistance : 1 à 3% (eau)",
+   "recette": "2x Emeraude\n2x Saphir\n2x Rubis\n2x Cristal\n10x Kobalite\n10x Kriptonite\n10x Bakélélite",
+   "image": "https://barbok.eratz.fr/anneau_du_mineur_gogorifiant.png",
+   "condition": "Classe doit etre Enutrof",
+   "description": "Description : Chez les Enutrofs, on dit qu'un mineur est gogorifié lorsqu'il ne supporte plus la lumière du jour, à force de travailler dans sa mine. Ne tentez jamais d'approcher une bougie d'un tel mineur, il vous transformerait en bronze."
+  },
+  {
+   "name": "Alliance de Farle",
+   "level": "Niveau 87",
+   "caracteristique": "Force : 21 à 30\nVitalité : 26 à 40\nSagesse : 16 à 25\nCoup critiques : +4 à 5\nProspection : 6 à 10\n+3 à 4 de dommages\nAugmente les dommages de 4 à 5%",
+   "recette": "3x Kobalite\n3x Bakélélite\n5x Aluminite\n4x Rubis\n4x Fragment de Pierre Pointue\n4x Fragment d'Os\n2x Emeraude",
+   "image": "https://barbok.eratz.fr/alliance_de_farle.png",
+   "condition": "",
+   "description": "Description : Cette alliance a été usée par le frottement des épis d'escourgeon pendant des centaines de moissons. Elle est également le témoin, de l'union entre Farle et Shika, lorsqu'ils se sont mariés au milieu d'un champs d'orge de printemps."
+  },
+  {
+   "name": "Anneau K'Tuelle",
+   "level": "Niveau 90",
+   "caracteristique": "Vitalité : 51 à 100\nAgilité : 21 à 35\nChance : 21 à 35\n+3 à 4 de dommages\nProspection : 6 à 10\nRésistance : 4 à 5% (feu)\nRésistance : 4 à 5% (air)",
+   "recette": "5x Rutile\n8x Dent Pointue\n8x Ambre de Bambouto\n2x Topaze\n1x Dents de Meulou\n4x Petite Perle Dorée\n2x Aigue-Marine",
+   "image": "https://barbok.eratz.fr/anneau_ktuelle.png",
+   "condition": "",
+   "description": "Description : Cet anneau en forme de gros papillon de nuit ne mettra pas vos mains en valeur, mais ce n'est peut-être pas plus mal..."
+  },
+  {
+   "name": "Blopanneau Multicolore Royal",
+   "level": "Niveau 90",
+   "caracteristique": "Vitalité : 21 à 40\nSagesse : 16 à 25\nSoins : 3 à 5\nAugmente les dommages de 16 à 25%\nCréature invocables : +1\nRésistance : 2 à 3% (air)",
+   "recette": "1x Blopanneau Coco Royal\n1x Blopanneau Griotte Royal\n1x Blopanneau Indigo Royal\n1x Blopanneau Reinette Royal\n1x Fleur de Blop Multicolore Royal\n5x Feuille de Blop Multicolore Royal\n10x Fleur de Blopignon",
+   "image": "https://barbok.eratz.fr/blopanneau_multicolore_royal.png",
+   "condition": "",
+   "description": "Description : Plutôt que de réduire sa consommation de jus de Blop frelaté, Shika Ingalsse préféra continuer de faucher en état d'ébriété. C'est en titubant dans les champs qu'elle tomba sur cet étrange anneau. Malheureusement, cette histoire ne comporte qu'une seule chute."
+  },
+  {
+   "name": "Anneau du Rat Noir",
+   "level": "Niveau 98",
+   "caracteristique": "Agilité : 21 à 30\nSagesse : 11 à 20\nVitalité : 31 à 50\n+4 à 5 de dommages\nAugmente les dommages de 4 à 5%\n+5 à 8 de dommages aux pièges\n11 à 20% de dommages aux pièges\nInitiative : 101 à 150\nProspection : 4 à 5",
+   "recette": "1x Anneau du Koalak\n1x Anneau du Kitsou\n3x Cubitus du Rat Noir\n30x Dent de Dragodinde\n1x Saphir\n1x Rubis\n2x Pyrute",
+   "image": "https://barbok.eratz.fr/anneau_du_rat_noir.png",
+   "condition": "",
+   "description": "Description : Tournez cet anneau vers la droite si vous devez serrer la main d'un ennemi, et vers la gauche si vous devez serrer celle d'un ami. Dans tous les cas, on vous déconseille d'applaudir avec cet anneau."
+  },
+  {
+   "name": "Bracelet du Chef Bwork",
+   "level": "Niveau 100",
+   "caracteristique": "Force : 26 à 40\nVitalité : 26 à 40\nAgilité : 26 à 40\nRésistance : 4 à 5% (terre)\nAugmente les dommages de 3 à 5%\nProspection : 6 à 7\nRésistance : 6 à 7 (eau)\nRésistance : 6 à 7 (air)\nRésistance : 6 à 7 (feu)\nRésistance : 6 à 7 (terre)\nRésistance : 6 à 7 (neutre)\nRésistance : 4 à 5% (air)\nRésistance : 4 à 5% (eau)",
+   "image": "https://barbok.eratz.fr/bracelet_du_chef_bwork.png",
+   "condition": "",
+   "description": "Description : Muni de ce petit anneau, vous pourrez faire croire à votre entourage que vous avez épousé un grand Chef Bwork et qu'il vous a offert ce bracelet comme cadeau de mariage. De quoi vous rendre intéressant lors des soirées animées à la Taverne si vous n'avez pas beaucoup de conversation."
+  },
+  {
+   "name": "Gantelet du Rat Blanc",
+   "level": "Niveau 101",
+   "caracteristique": "Agilité : 21 à 30\nForce : 11 à 20\nVitalité : 31 à 40\nSagesse : 11 à 20\n+3 à 4 de dommages\nRésistance : 4 à 6 (air)\nRésistance : 4 à 6 (eau)\nRésistance : 4 à 6 (feu)\nRésistance : 4 à 6 (neutre)\nRésistance : 4 à 6 (terre)",
+   "recette": "50x Dent de Dragodinde\n2x Kobalite\n1x Anneau Tribal\n10x Os de Chafer\n3x Ambre de Bambouto\n2x Dent de Rat Blanc\n10x Aluminite",
+   "image": "https://barbok.eratz.fr/gantelet_du_rat_blanc.png",
+   "condition": "",
+   "description": "Description : Ce gantelet appartenait à Marie Thé, cuisinière du palais de Bonta. Elle s'en servait pour assommer les Bouftous qui refusaient de se faire égorger, les plantes sauvages qui ne voulaient pas aller dans le saladier, et les clients qui ne voulaient pas les manger."
+  },
+  {
+   "name": "Anneau du Minotoror",
+   "level": "Niveau 105",
+   "caracteristique": "Vitalité : 61 à 100\nProspection : 7 à 10\nCréature invocables : +1 à 2\nRésistance : 4 à 6 (air)\nRésistance : 4 à 6 (feu)\nSagesse : 11 à 20\nInitiative : 51 à 100",
+   "recette": "20x Poil de Gamino\n1x Fémur de Koalak Farouche\n1x Corne Brûlée du Minotoror\n5x Poil de Déminoboule\n30x Dent de Dragodinde\n9x Rubis\n4x Laine du Minotoror",
+   "image": "https://barbok.eratz.fr/anneau_du_minotoror.png",
+   "condition": "",
+   "description": "Description : Contrairement à ce que certains aventuriers rapportent, cet anneau n'a jamais été porté par le Minotoror, incapable d'enfiler un tel anneau autour de ses sabots."
+  },
+  {
+   "name": "Anneau du Dragon Cochon",
+   "level": "Niveau 108",
+   "caracteristique": "Chance : 21 à 35\nVitalité : 51 à 80\nAgilité : 21 à 35\nProspection : 6 à 10\nCoup critiques : +3 à 4\nAugmente les dommages de 3 à 5%\nSagesse : 16 à 25\nInitiative : 101 à 150\n+3 à 5 de dommages\nForce : 21 à 35",
+   "recette": "9x Ambre\n8x Ambre de Bambouto\n5x Rubis\n5x Saphir\n8x Ivoire\n5x Groin de Dragon Cochon\n1x Défense de Dragon Cochon",
+   "image": "https://barbok.eratz.fr/anneau_du_dragon_cochon.png",
+   "condition": "",
+   "description": "Description : Cet anneau en cuir et en ivoire permet de stimuler plus facilement vos partenaires."
+  },
+  {
+   "name": "Anneau Ancestral",
+   "level": "Niveau 113",
+   "caracteristique": "Chance : 26 à 40\nForce : 21 à 30\nVitalité : 81 à 130\nSagesse : 26 à 35\nProspection : 6 à 10\nRésistance : 4 à 6% (eau)\nRésistance : 4 à 6% (terre)",
+   "recette": "3x Racine d'Abraknyde Ancestral\n1x Abranneau\n1x Anobra\n100x Racine d'Abraknyde\n1x Abranneau Sombre\n3x Ambre Ancestrale\n100x Ecorce d'Abraknyde",
+   "image": "https://barbok.eratz.fr/anneau_ancestral.png",
+   "condition": "",
+   "description": "Description : Les soirs où vous aurez trop bu, vous verrez peut-être le Moskito pris dans cet anneau vous faire un clin d'oeil. Mais évitez d'en parler à vos amis, il fait seulement semblant."
+  },
+  {
+   "name": "Alliance d'Elya Wood",
+   "level": "Niveau 120",
+   "caracteristique": "Vitalité : 61 à 100\nIntelligence : 21 à 35\nSoins : 4 à 6\nProspection : 11 à 15\nRésistance : 8 à 12 (feu)\nRésistance : 8 à 12 (terre)\nRésistance : 6 à 10% (feu)\nRésistance : 6 à 10% (terre)",
+   "recette": "2x Pyrute\n2x Rutile\n2x Kriptonite\n1x Ecorce magique de Bulbig\n5x Agathe\n5x Aigue-Marine\n5x Topaze\n4x Bois de Bambou Doré",
+   "image": "https://barbok.eratz.fr/alliance_delya_wood.png",
+   "condition": "",
+   "description": "Description : Cette petite alliance est parfaitement adaptée aux petits doigts des Eniripsas. Elle est en revanche presque inutilisable par les Iops à cause de leurs gros doigts boudinés, et leur incapacité à comprendre où se met une alliance."
+  },
+  {
+   "name": "Anneau Skargo",
+   "level": "Niveau 120",
+   "caracteristique": "Chance : 26 à 35\nVitalité : 81 à 100\nCoup critiques : +2 à 3\n+4 à 6 de dommages\nProspection : 6 à 10\nRésistance : 5 à 7 (eau)\nRésistance : 5 à 7% (eau)",
+   "recette": "8x Coquille du Kaskargo\n45x Bave du Kaskargo\n28x Peau de Raul Mops\n32x Potion de métal lourd liquide\n1x Anneau du Scarabosse Doré\n5x Sacrum magistral\n15x Coeur de pierre poli\n4x Sourcil du Rasboul majeur",
+   "image": "https://barbok.eratz.fr/anneau_skargo.png",
+   "condition": "",
+   "description": "Description : Sculpté dans une carapace de Kaskargo, cet anneau résiste à n'importe quoi ou n'importe qui."
+  },
+  {
+   "name": "Anneau du Meulou",
+   "level": "Niveau 126",
+   "caracteristique": "Force : 26 à 40\nInitiative : 101 à 200\nProspection : 6 à 15\nAgilité : 21 à 30\nVitalité : 71 à 100\n+4 à 5 de dommages\nRésistance : 4 à 6 (neutre)\nPortée : +1\nRésistance : 5 à 7% (feu)",
+   "recette": "1x Anneau du Mulou\n1x Mojo du Meulou\n1x Etoffe du Meulou\n1x Etoffe de Maître Pandore\n10x Cubitus de Momie Koalak\n120x Côtes de Porkass\n5x Poils du Meulou\n5x Dents de Meulou",
+   "image": "https://barbok.eratz.fr/anneau_du_meulou.png",
+   "condition": "",
+   "description": "Description : Attention, cet anneau rendra votre doigt particulièrement malodorant. Une odeur qui risque d'en couvrir une autre. C'est peut-être pour votre doigt et votre entourage une très bonne chose..."
+  },
+  {
+   "name": "Anneau du Dragoeuf",
+   "level": "Niveau 128",
+   "caracteristique": "Augmente les dommages de 16 à 25%\nVitalité : 101 à 150\nSagesse : 11 à 20\nProspection : 11 à 15\nCréature invocables : +1\nSoins : 4 à 6\n+4 à 6 de dommages",
+   "recette": "10x Coquille de Dragoss Blanc\n10x Coquille de Dragoss Doré\n10x Coquille de Dragoss Noir\n10x Coquille de Dragoss de Saphir\n3x Dent de Crocabulia\n5x Corne de Dragueuse\n2x Corne de Dragoeuf Volant\n1x Pierre du Koulosse",
+   "image": "https://barbok.eratz.fr/anneau_du_dragoeuf.png",
+   "condition": "",
+   "description": "Description : Cet anneau directement taillé dans une écaille géante de Dragoeuf protègera une petite partie d'une de vos phalanges. Sûrement la plus importante."
+  },
+  {
+   "name": "Anneau Cérémonial du Seigneur des Rats",
+   "level": "Niveau 131",
+   "caracteristique": "Vitalité : 101 à 130\nAgilité : 26 à 40\nAugmente les dommages de 6 à 10%\nProspection : 11 à 15\nCoup critiques : +3 à 4\n+4 à 6 de dommages\nRésistance : 5 à 7 (feu)\nRésistance : 5 à 7 (terre)\nRésistance : 5 à 7% (air)",
+   "recette": "1x Gantelet du Rat Blanc\n1x Bracelet de Force de Trool\n6x Cubitus du Rat Noir\n1x Kolérat Mort\n2x Fémur de Sphincter Cell\n3x Ambre Ancestrale\n20x Sang d'Oni\n1x Anneau du Rat Noir",
+   "image": "https://barbok.eratz.fr/anneau_ceremonial_du_seigneur_des_rats.png",
+   "condition": "",
+   "description": "Description : Cet anneau a été conçu à une époque où le seigneur des rats s'était mutilé et n'avait plus qu'un doigt. Les malheureux seigneurs suivants avaient encore tous les leurs."
+  },
+  {
+   "name": "Anneau du Chêne Mou",
+   "level": "Niveau 139",
+   "caracteristique": "Force : 21 à 30\nIntelligence : 21 à 30\nSagesse : 16 à 25\nVitalité : 101 à 150\nCoup critiques : +1 à 2\nProspection : 6 à 10\n+4 à 6 de dommages\nRésistance : 4 à 6% (feu)\nRésistance : 4 à 6% (terre)\nRésistance : 4 à 6% (neutre)",
+   "recette": "1x Abranneau\n1x Abranneau Mou\n1x Abranneau Sombre\n1x Anobra\n4x Ecorce du Chêne Mou\n5x Racine du Chêne Mou\n1x Ambre du Chêne Mou\n3x Bois Envoûté",
+   "image": "https://barbok.eratz.fr/anneau_du_chene_mou.png",
+   "condition": "",
+   "description": "Description : Cet anneau est un excrément du Chêne Mou, en bois, mais l'odeur est la même."
+  },
+  {
+   "name": "Anneau Stalgik",
+   "level": "Niveau 150",
+   "caracteristique": "Augmente la portée du sort Maladresse de 1\nRéduit de 1 le coût en PA du sort Cupidité\nRéduit de 1 le délai de relance du sort Clé Réductrice\n+20 aux CC sur le sort Lancer de Pelle",
+   "recette": "4x Coquille du Kaskargo\n5x Noeud de l'Abrakleur clair\n5x Coco du Bitouf aérien\n4x Bec du Kido\n1x Chaussette du Kimbo\n16x Croupion du Bitouf aérien\n18x Rembourrage de Meupette\n3x Ecorce de Floribonde",
+   "image": "https://barbok.eratz.fr/anneau_stalgik.png",
+   "condition": "",
+   "description": "Description : Grâce à cet objet, les Enutrofs peuvent à tout moment se remémorer les instants heureux. Un doux parfum s'en échappe. Il suffit pour cela de retirer la pelle qui y est fichée. Au préalable, il faut bien sûr y mettre l'odeur que l'on veut conserver en souvenir, et ce n'est pas toujours facile."
+  },
+  {
+   "name": "Anneau Raille",
+   "level": "Niveau 150",
+   "caracteristique": "Désactive la ligne de vue du sort 0\n+30 aux CC sur le sort Pandatak\nRéduit de 3 le délai de relance du sort Lien Spiritueux\nDésactive la ligne de vue du sort 0",
+   "recette": "4x Coquille du Kaskargo\n5x Noeud de l'Abrakleur clair\n5x Coco du Bitouf aérien\n4x Humérus du Sparo\n1x Chaussette du Kimbo\n16x Croupion du Bitouf aérien\n18x Rembourrage de Meupette\n3x Ecorce de Floribonde",
+   "image": "https://barbok.eratz.fr/anneau_raille.png",
+   "condition": "",
+   "description": "Description : Ce bijou a tendance à rendre les Pandawas un peu moqueurs, surtout après la troisième bière. Ils peuvent même aller jusqu'aux insultes. Mais ce n'est pas très important car, comme le dit le célèbre proverbe Pandawa, « Ventre imbibé n'a pas d'oreille »."
+  },
+  {
+   "name": "Anneau Pwal",
+   "level": "Niveau 150",
+   "caracteristique": "Désactive le lancer en ligne du sort 0\nRéduit de 1 le délai de relance du sort La Surpuissante\n+30 aux CC sur le sort Ronces Agressives\nRéduit de 3 le délai de relance du sort Connaissance des Poupées",
+   "recette": "1x Chaussette du Kimbo\n4x Coquille du Kaskargo\n16x Croupion du Bitouf aérien\n5x Noeud de l'Abrakleur clair\n18x Rembourrage de Meupette\n5x Coco du Bitouf aérien\n3x Ecorce de Floribonde\n4x Barbe inexistante du Barbroussa",
+   "image": "https://barbok.eratz.fr/anneau_pwal.png",
+   "condition": "",
+   "description": "Description : Contrairement à la rumeur, les Sadidas n'ont pas de poils dans la main. Non ! Ceux-ci sont en fait ajustés autour d'un superbe anneau, dont ils renforcent les effets bénéfiques : ils ne doivent en aucun cas être coupés. Grâce à l'Anneau Pwal, vous serez toujours parfait !"
+  },
+  {
+   "name": "Anneau Pitale",
+   "level": "Niveau 150",
+   "caracteristique": "Réduit de 1 le coût en PA du sort Châ\nAugmente la portée du sort Pied du Sacrieur de 2\nAugmente la portée du sort Dérobade de 3\nAugmente la portée du sort Transposition de 4",
+   "recette": "1x Chaussette du Kimbo\n4x Coquille du Kaskargo\n16x Croupion du Bitouf aérien\n5x Noeud de l'Abrakleur clair\n18x Rembourrage de Meupette\n5x Coco du Bitouf aérien\n3x Ecorce de Floribonde\n3x Corail usé",
+   "image": "https://barbok.eratz.fr/anneau_pitale.png",
+   "condition": "",
+   "description": "Description : Si vous voyez un personnage qui n'est pas Sacrieur mettre un Anneau Pitale, emmenez-le d'urgence en soins intensif. Ce bijou est en effet extrêmement blessant. En général, les gens perdent leur sang-froid devant le bain d'hémoglobine provoqué par cet anneau."
+  },
+  {
+   "name": "Anneau Bhli",
+   "level": "Niveau 150",
+   "caracteristique": "+30 aux CC sur le sort Flèche Explosive\nRéduit de 1 le coût en PA du sort Flèche Harcelante\nRéduit de 1 le coût en PA du sort Oeil de Taupe\nRéduit de 1 le délai de relance du sort Maî",
+   "recette": "4x Coquille du Kaskargo\n5x Noeud de l'Abrakleur clair\n5x Coco du Bitouf aérien\n4x Tourbe séchée de Tourbassingue\n1x Chaussette du Kimbo\n16x Croupion du Bitouf aérien\n18x Rembourrage de Meupette\n3x Ecorce de Floribonde",
+   "image": "https://barbok.eratz.fr/anneau_bhli.png",
+   "condition": "",
+   "description": "Description : Porter cet anneau est une marque honorifique. Cela signifie que vous êtes un digne fidèle de la déesse Crâ, la seule qui vous révèle comment bander plus vite afin de tirer efficacement."
+  },
+  {
+   "name": "Anneau Hell",
+   "level": "Niveau 150",
+   "caracteristique": "Réduit de 1 le coût en PA du sort Piège Empoisonné\nRéduit de 1 le coût en PA du sort Piège d'Immobilisation\nRéduit de 1 le délai de relance du sort Pulsion de Chakra\nAugmente la portée du sort Double de 1",
+   "recette": "4x Coquille du Kaskargo\n5x Noeud de l'Abrakleur clair\n5x Coco du Bitouf aérien\n3x Ecorce de Floribonde\n1x Chaussette du Kimbo\n16x Croupion du Bitouf aérien\n18x Rembourrage de Meupette\n4x Paille Vampiresque",
+   "image": "https://barbok.eratz.fr/anneau_hell.png",
+   "condition": "",
+   "description": "Description : Ce bijou à tête de mort était traditionnellement offert en cadeau, lors d'une fête récompensant tous les enfants Sram pour leur fourberie et leurs coups bas. Les autres classes ont tendance à déconsidérer cette pratique, qui rend les gamins trop agités. Ils deviennent alors infernaux."
+  },
+  {
+   "name": "Anneau Tassion",
+   "level": "Niveau 150",
+   "caracteristique": "+30 aux CC sur le sort Armure Aqueuse\nRéduit de 1 le coût en PA du sort Bouclier Féca\nAugmente la portée du sort Glyphe Enflammé de 1\nAugmente la portée du sort Science du bâ de 3",
+   "recette": "4x Coquille du Kaskargo\n5x Noeud de l'Abrakleur clair\n5x Coco du Bitouf aérien\n4x Faux menton du Bourbassingue\n1x Chaussette du Kimbo\n16x Croupion du Bitouf aérien\n18x Rembourrage de Meupette\n3x Ecorce de Floribonde",
+   "image": "https://barbok.eratz.fr/anneau_tassion.png",
+   "condition": "",
+   "description": "Description : Les mini boucliers de l'anneau Tassion servent de pense-bête aux Fécas qui peuvent y glisser des petits mots et des listes de choses à faire. Ce bijou est surnommé le bouclier anti-oubli. En revanche, il ne protège ni du bégaiement ni des lapsus."
+  },
+  {
+   "name": "Bague Houx",
+   "level": "Niveau 150",
+   "caracteristique": "+20 aux CC sur le sort Griffe de Ceangal\n+15 de dommages\nRéduit de 1 le délai de relance du sort Contrecoup\nRéduit de 1 le délai de relance du sort Roulette",
+   "recette": "1x Chaussette du Kimbo\n16x Croupion du Bitouf aérien\n18x Rembourrage de Meupette\n3x Ecorce de Floribonde\n6x Jus de Ouassingue\n4x Coquille du Kaskargo\n5x Noeud de l'Abrakleur clair\n5x Coco du Bitouf aérien",
+   "image": "https://barbok.eratz.fr/bague_houx.png",
+   "condition": "",
+   "description": "Description : La volubilité des Ecaflips est légendaire. Ils sont capables de vous sortir n'importe quel baratin pour vous faire jouer. Cette bague célèbre cette loquacité sans faille. Accessoirement, elle peut servir de dé de rechange et elle est également très pratique pour se gratter... à peu près partout."
+  },
+  {
+   "name": "Bague Héra",
+   "level": "Niveau 150",
+   "caracteristique": "Augmente la portée du sort Invocation de Craqueleur de 1\n+20 aux CC sur le sort Griffe Spectrale\nAugmente la portée du sort Invocation de Bouftou de 2\nRéduit de 1 le délai de relance du sort Déplacement Félin",
+   "recette": "4x Coquille du Kaskargo\n5x Noeud de l'Abrakleur clair\n5x Coco du Bitouf aérien\n4x Coeur de pierre poli\n1x Chaussette du Kimbo\n16x Croupion du Bitouf aérien\n18x Rembourrage de Meupette\n3x Ecorce de Floribonde",
+   "image": "https://barbok.eratz.fr/bague_hera.png",
+   "condition": "",
+   "description": "Description : Les Osamodettes adorent la bague Héra qui complète leur démarche féline d'une touche de grâce. Il faut dire qu'à force de côtoyer les monstres, elles finissent parfois par se comporter en vraies tigresses. Mais en réalité, elles sont aussi dévouées que des mères louves."
+  },
+  {
+   "name": "Bague Harre",
+   "level": "Niveau 150",
+   "caracteristique": "Désactive la ligne de vue du sort 0\n+25 de dommages\nRéduit de 1 le coût en PA du sort Puissance\n+25 aux CC sur le sort Epée du destin",
+   "recette": "4x Coquille du Kaskargo\n5x Noeud de l'Abrakleur clair\n5x Coco du Bitouf aérien\n4x Boule polie\n1x Chaussette du Kimbo\n16x Croupion du Bitouf aérien\n18x Rembourrage de Meupette\n4x Ecorce de Floribonde",
+   "image": "https://barbok.eratz.fr/bague_harre.png",
+   "condition": "",
+   "description": "Description : Les mauvaises langues prétendent que la bague Harre est l'accessoire de mode le plus inutile au monde. Les ailes sur le côté sont fort embarrassantes quand vous voulez chercher des mouchoirs dans vos poches. Or, comme les Iops n'ont ni mouchoir ni poche, tout va bien. De plus, elles permettent de déchiqueter un peu de chair à chaque fois qu'elles frôlent l'ennemi. C'est à se demander si ce n'est pas un bijou de Sacrieur."
+  },
+  {
+   "name": "Anneau Zamour",
+   "level": "Niveau 150",
+   "caracteristique": "Désactive le lancer en ligne du sort 0\n+20 aux CC sur le sort Mot Curatif\nAugmente la portée du sort Mot d'Amitié de 2\nRéduit de 1 le coût en PA du sort Mot de Jouvence",
+   "recette": "4x Coquille du Kaskargo\n5x Noeud de l'Abrakleur clair\n5x Coco du Bitouf aérien\n4x Touffe rousse du Flib\n1x Chaussette du Kimbo\n16x Croupion du Bitouf aérien\n18x Rembourrage de Meupette\n3x Ecorce de Floribonde",
+   "image": "https://barbok.eratz.fr/anneau_zamour.png",
+   "condition": "",
+   "description": "Description : Cet objet a été donné par la déesse Eniripsa à ses fidèles en signe d'alliance spirituelle lors de la séance d'initiation aux sorts de la classe. Accessoirement, les Eniripsas peuvent aussi s'en servir comme bracelet mousse pour éponger le sang des alliés."
+  },
+  {
+   "name": "Anneau Tilus",
+   "level": "Niveau 150",
+   "caracteristique": "Réduit de 1 le délai de relance du sort Dévouement\n+15 de dommages\nRéduit de 5 le délai de relance du sort Téléportation\nAugmente la portée du sort Cadran de Xélor de 3",
+   "recette": "1x Chaussette du Kimbo\n16x Croupion du Bitouf aérien\n4x Coquille du Kaskargo\n5x Noeud de l'Abrakleur clair\n18x Rembourrage de Meupette\n5x Coco du Bitouf aérien\n3x Ecorce de Floribonde\n2x Epaulette de Trool",
+   "image": "https://barbok.eratz.fr/anneau_tilus.png",
+   "condition": "",
+   "description": "Description : L'anneau Tilus est le seul bijou qui donne l'heure et qui est parfaitement résistant à l'eau. Certains pensent qu'en agrandissant les plans de cet objet et en les modifiant, on pourrait en faire un véhicule se déplaçant sous l'eau. Où peuvent-ils aller chercher tout cela ?"
+  },
+  {
+   "name": "Bracelet du Minotot",
+   "level": "Niveau 151",
+   "caracteristique": "Chance : 26 à 40\nVitalité : 101 à 130\nProspection : 11 à 20\nAugmente les dommages de 6 à 10%\n+4 à 6 de dommages\nSoins : 4 à 6\nRésistance : 4 à 7 (feu)\nSagesse : 16 à 30\nRésistance : 4 à 7 (terre)\nRésistance : 4 à 6% (eau)\nInitiative : 101 à 200",
+   "recette": "1x Fémur du Minotot\n1x Anneau du Minotoror\n1x Méga Pierre du Craqueleur Légendaire\n60x Carapace de Scaratos\n1x Fémur du Minotoror\n30x Carapace de Scarafeuille Noir\n3x Carapace du Scarabosse Doré\n16x Pyrute",
+   "image": "https://barbok.eratz.fr/bracelet_du_minotot.png",
+   "condition": "",
+   "description": "Description : Ce bracelet permet de protéger entièrement le bras d'un Eniripsa, mais triple son poids."
+  },
+  {
+   "name": "Sceau Souverain du Roissingue",
+   "level": "Niveau 158",
+   "caracteristique": "Vitalité : 101 à 150\nSagesse : 21 à 35\nChance : 26 à 40\nAgilité : 26 à 40\n+5 à 7 de dommages\nProspection : 11 à 15\nRésistance : 6 à 10 (eau)\nRésistance : 6 à 10 (terre)\nRésistance : 5 à 7% (terre)\nPortée : +1",
+   "recette": "1x Ambre du Tynril\n250x Etoffe de Ouassingue\n6x Jus de Ouassingue\n10x Bandelette du Mominotor\n15x Chicot du Flib\n4x Culotte à l'envers du Roissingue\n5x Tourbe séchée de Tourbassingue\n6x Faux menton du Bourbassingue",
+   "image": "https://barbok.eratz.fr/sceau_souverain_du_roissingue.png",
+   "condition": "",
+   "description": "Description : Ce sceau désigne son possesseur comme étant le souverain incontesté de la Tourbière sans fond de l'île d'Otomaï. Difficile d'imaginer un royaume plus bucolique."
+  },
+  {
+   "name": "Bracelet Ventré",
+   "level": "Niveau 179",
+   "caracteristique": "Force : 26 à 40\nAgilité : 26 à 40\nVitalité : 151 à 200\nSagesse : 21 à 30\nCoup critiques : +2 à 3\n+6 à 10 de dommages\nInitiative : 301 à 400\nProspection : 11 à 20\nRésistance : 6 à 10 (feu)\nRésistance : 6 à 10% (feu)",
+   "recette": "15x Peau de Bworkette\n1x Peau de Skeunk\n50x Crinière de Trool\n10x Tresse du Poolay\n15x Ecorce de Brouture\n2x Peau de Bworker\n3x Peau du Rasboul Majeur\n1x Bracelet du Chef Bwork",
+   "image": "https://barbok.eratz.fr/bracelet_ventre.png",
+   "condition": "",
+   "description": "Description : Les trois pointes de ce bracelet représentent les trois faiblesses du Bworker : sa soif de vengeance, sa soif de victoire, et sa soif tout court."
+  },
+  {
+   "name": "Anneau Bliteré",
+   "level": "Niveau 179",
+   "caracteristique": "Chance : 26 à 40\nIntelligence : 26 à 40\nVitalité : 151 à 200\nSagesse : 21 à 30\nCoup critiques : +2 à 3\n+6 à 10 de dommages\nInitiative : 301 à 400\nProspection : 11 à 20\nRésistance : 6 à 10 (terre)\nRésistance : 6 à 10% (terre)",
+   "recette": "10x Mouchoir de la Gamine Zoth\n3x Ambre du Tynril\n9x Etoffe de Meupette\n1x Bracelet de Force de Trool\n15x Ecorce de Nerbe\n3x Peau de Bworker\n8x Etoffe de Péki\n1x Bracelet du Chef Bwork",
+   "image": "https://barbok.eratz.fr/anneau_blitere.png",
+   "condition": "",
+   "description": "Description : Cet anneau est recouvert des mucosités du Bworker. Les petites pointes lui permettent de se curer le nez avec plus d'efficacité."
+  },
+  {
+   "name": "Anneau Chevelu",
+   "level": "Niveau 180",
+   "caracteristique": "Force : 31 à 50\nVitalité : 151 à 200\nSagesse : 16 à 25\n+4 à 5 de dommages\nCoup critiques : +3 à 4\nProspection : 11 à 20\nRésistance : 6 à 10 (eau)\nRésistance : 6 à 10 (terre)\nRésistance : 6 à 10% (terre)\nRésistance : 6 à 10% (neutre)",
+   "recette": "12x Oeil de Champmane\n10x Trompe de la Tromperelle\n10x Bave de Champ à Gnons\n3x Ecorce du Tynril\n17x Croupion du Bitouf aérien\n18x Touffe rousse du Flib\n15x Braguette du Maître Zoth\n13x Rotule du Disciple Zoth",
+   "image": "https://barbok.eratz.fr/anneau_chevelu.png",
+   "condition": "",
+   "description": "Description : Avec cet anneau, en plus d'avoir un cheveu sur la langue et un poil dans la main, vous pourrez vous vanter d'avoir des cheveux autour des doigts."
+  },
+  {
+   "name": "Alliance Boletée",
+   "level": "Niveau 186",
+   "caracteristique": "Vitalité : 101 à 150\nSagesse : 31 à 40\nIntelligence : 31 à 50\n+4 à 5 de dommages\nSoins : 6 à 10\nCréature invocables : +2\nProspection : 11 à 15\nRésistance : 6 à 10 (neutre)\nRésistance : 6 à 10 (eau)\nRésistance : 6 à 10% (air)",
+   "recette": "2x Epine d'Ougah\n12x Langue du Champodonte\n9x Tourbe séchée de Tourbassingue\n21x Amygdales du Bitouf Sombre\n11x Ecorce de Champaknyde\n3x Chanvre Euphorique\n27x Graine de l'Abrakleur sombre\n6x Talon d'achille de l'Abrakleur sombre",
+   "image": "https://barbok.eratz.fr/alliance_boletee.png",
+   "condition": "",
+   "description": "Description : Si vos ennemis sont allergiques aux champignons, laissez-les vous croquer les doigts."
+  },
+  {
+   "name": "Anneau Colerette",
+   "level": "Niveau 188",
+   "caracteristique": "Agilité : 31 à 50\nVitalité : 101 à 150\nSagesse : 31 à 40\n+5 à 7 de dommages\nPortée : +1\n+11 à 20 de dommages aux pièges\nProspection : 11 à 20\nRésistance : 6 à 10 (neutre)\nRésistance : 6 à 10 (eau)\nRésistance : 6 à 10 (terre)\nRésistance : 6 à 10% (eau)",
+   "recette": "2x Epine d'Ougah\n15x Champignon Luidegît\n11x Lamelle de Champbis\n3x Oeil de Champmane\n5x Tresse du Poolay\n1x Bracelet de Force de Trool\n10x Bave de Champ à Gnons\n1x Anneau Poli",
+   "image": "https://barbok.eratz.fr/anneau_colerette.png",
+   "condition": "",
+   "description": "Description : Colerette la jeune Crâette, a perdu la tête dans les bois de Litneg. La pauvre fille a reçu une hache lancée par Brouce Boulgoure, qui l'avait prise par méprise pour une fougère géante. Etre une belle plante ne paie pas toujours."
+  },
+  {
+   "name": "Annolamour",
+   "level": "Niveau 189",
+   "caracteristique": "Force : 31 à 50\nChance : 31 à 50\nSagesse : 31 à 50\nVitalité : 201 à 250\n+6 à 10 de dommages\nAugmente les dommages de 11 à 20%\nInitiative : 501 à 700\nProspection : 11 à 15\nRésistance : 6 à 10 (feu)\nRésistance : 6 à 10 (eau)",
+   "recette": "4x Bar grillé ****\n1x Encre du Kralamoure géant\n3x Ventouse du Kralamoure géant\n20x Jus de Ouassingue\n41x Etoffe de Ouassingue\n12x Faux menton du Bourbassingue\n200x Kralamoure\n5x Carpe vapeur ****",
+   "image": "https://barbok.eratz.fr/annolamour.png",
+   "condition": "",
+   "description": "Description : Cet anneau vous suce le doigt en permanence, il est gluant et froid, si vous supportez ça vous pourrez profiter de ses immenses pouvoirs."
+  },
+  {
+   "name": "Kralano",
+   "level": "Niveau 199",
+   "caracteristique": "Vitalité : 151 à 200\nIntelligence : 31 à 50\nSagesse : 31 à 50\nAgilité : 31 à 50\nCoup critiques : +2 à 3\nSoins : 6 à 10\n+4 à 6 de dommages\nPortée : +1\nProspection : 6 à 10\nRésistance : 6 à 10 (neutre)\nRésistance : 6 à 10% (neutre)",
+   "recette": "8x Goujon en tranche ****\n1x Encre du Kralamoure géant\n2x Ventouse du Kralamoure géant\n12x Tourbe séchée de Tourbassingue\n23x Etoffe du Roissingue\n31x Etoffe de Ouassingue\n4x Brochet farci ****\n18x Ecusson du Sergent Zoth",
+   "image": "https://barbok.eratz.fr/kralano.png",
+   "condition": "",
+   "description": "Description : Une fois enfilé, vous ne pourrez plus jamais l'enlever tellement ses ventouses sont efficaces."
+  }
+ ]
+}
