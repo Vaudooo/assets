@@ -1,0 +1,1828 @@
+{
+ "Chapeau": [
+  {
+   "name": "Chapeau de la Mariée",
+   "level": "Niveau 1",
+   "image": "https://barbok.eratz.fr/chapeau_de_la_mariee.png",
+   "condition": "Sexe féminin",
+   "description": "Description : Faites-le fondre comme une gelée menthe au soleil avec cette merveilleuse coiffe en soie de larve du sud, lavable à l'eau douce."
+  },
+  {
+   "name": "Casque amélioré",
+   "level": "Niveau 1",
+   "recette": "1x Casque\n1x Plume de fesse du Kido\n1x Moustache du Mufafah\n1x Etoffe de Ouassingue",
+   "image": "https://barbok.eratz.fr/casque_ameliore.png",
+   "condition": "",
+   "description": "Description : Ce casque amélioré permet en théorie de chevaucher les Scarafeuilles les plus rapides sans perdre sa perruque. Tout simplement inestimable."
+  },
+  {
+   "name": "Chapeau de l'Aventurier",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 1 à 2\nForce : 1 à 2\nAgilité : 1 à 2\nSagesse : 1 à 2\nIntelligence : 1 à 2",
+   "recette": "4x Chapeau du Piou Rose\n3x Casque",
+   "image": "https://barbok.eratz.fr/chapeau_de_laventurier.png",
+   "condition": "",
+   "description": "Description : A part faire fuir les nanas, ce chapeau n'a pas vraiment grande utilité."
+  },
+  {
+   "name": "Cache Oreilles",
+   "level": "Niveau 1",
+   "image": "https://barbok.eratz.fr/cache_oreilles.png",
+   "condition": "",
+   "description": "Description : Ce cache oreille très doux tiendra vos feuilles de choux au chaud."
+  },
+  {
+   "name": "Bandeau Komintot",
+   "level": "Niveau 1",
+   "caracteristique": "Sagesse : 1 à 5",
+   "recette": "10x Poils de souris\n3x Peau de Larve Orange",
+   "image": "https://barbok.eratz.fr/bandeau_komintot.png",
+   "condition": "",
+   "description": "Description : Le Komintot permet d'augmenter la sagesse de son porteur."
+  },
+  {
+   "name": "Bandeau de Vitalité",
+   "level": "Niveau 1",
+   "caracteristique": "Vitalité : 1 à 10",
+   "recette": "12x Anneau Vitalesque\n5x Laine de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/bandeau_de_vitalite.png",
+   "condition": "",
+   "description": "Description : Ce Bandeau permet d'augmenter la vitalité de son porteur."
+  },
+  {
+   "name": "Chapeau du Piou Rose",
+   "level": "Niveau 1",
+   "caracteristique": "Vitalité : 1",
+   "recette": "1x Graine de Sésame\n1x Plume de Piou Rose",
+   "image": "https://barbok.eratz.fr/chapeau_du_piou_rose.png",
+   "condition": "",
+   "description": "Description : Muni de ce petit chapeau sur la tête, vous aurez l'air bien ridicule, mais aussi terriblement irrésistible. La vie est une question de choix."
+  },
+  {
+   "name": "Tête de Citwouille",
+   "level": "Niveau 1",
+   "caracteristique": "Initiative : 1 à 10\nVitalité : 1 à 5",
+   "image": "https://barbok.eratz.fr/tete_de_citwouille.png",
+   "condition": "",
+   "description": "Description : Vous aurez l'air encore plus stupide que d'habitude avec cette Citwouille magique sur la tête, mais rappelez-vous de la malédiction d'Halouine, qui transforme certaines créatures en d'étranges bêtes difformes...\nIl semblerait que seule cette coiffe puisse vous prémunir de cette terrible malédiction."
+  },
+  {
+   "name": "Chapeau du Piou Bleu",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 1",
+   "recette": "1x Plume de Piou Bleu\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/chapeau_du_piou_bleu.png",
+   "condition": "",
+   "description": "Description : Muni de ce petit chapeau sur la tête, vous aurez l'air bien ridicule, mais aussi terriblement irrésistible. La vie est une question de choix."
+  },
+  {
+   "name": "Chapeau du Marié",
+   "level": "Niveau 1",
+   "image": "https://barbok.eratz.fr/chapeau_du_marie.png",
+   "condition": "Sexe masculin",
+   "description": "Description : Avec un tel chapeau qui saurait vous dire non ?\nA vous la gloire et les conquêtes !"
+  },
+  {
+   "name": "Lisseur",
+   "level": "Niveau 1",
+   "caracteristique": "Résistance : 1 à 3 (eau)\nRésistance : 1 à 3 (air)\nRésistance : 1 à 3 (feu)",
+   "recette": "1x Sang du Vampire\n1x Poils de Barbe du Bwork Mage",
+   "image": "https://barbok.eratz.fr/lisseur.png",
+   "condition": "",
+   "description": "Description : Le Lisseur prévient des dégâts magiques."
+  },
+  {
+   "name": "Chapeau du Piou Vert",
+   "level": "Niveau 1",
+   "caracteristique": "Agilité : 1",
+   "recette": "1x Plume de Piou Vert\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/chapeau_du_piou_vert.png",
+   "condition": "",
+   "description": "Description : Muni de ce petit chapeau sur la tête, vous aurez l'air bien ridicule, mais aussi terriblement irrésistible. La vie est une question de choix."
+  },
+  {
+   "name": "Petit Bandeau de Vitalité",
+   "level": "Niveau 1",
+   "caracteristique": "Vitalité : 1 à 5",
+   "recette": "10x Anneau Vitalesque\n2x Laine de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/petit_bandeau_de_vitalite.png",
+   "condition": "",
+   "description": "Description : Ce Bandeau permet d'augmenter la vitalité de son porteur."
+  },
+  {
+   "name": "Louffeur",
+   "level": "Niveau 1",
+   "caracteristique": "Résistance : 1 à 3 (terre)\nRésistance : 1 à 3 (neutre)",
+   "recette": "1x Sang du Vampire\n5x Poils du Sanglier",
+   "image": "https://barbok.eratz.fr/louffeur.png",
+   "condition": "",
+   "description": "Description : Le Louffeur prévient des dégâts physiques."
+  },
+  {
+   "name": "Chapeau du Piou Violet",
+   "level": "Niveau 1",
+   "caracteristique": "Sagesse : 1",
+   "recette": "1x Plume de Piou Violet\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/chapeau_du_piou_violet.png",
+   "condition": "",
+   "description": "Description : Muni de ce petit chapeau sur la tête, vous aurez l'air bien ridicule, mais aussi terriblement irrésistible. La vie est une question de choix."
+  },
+  {
+   "name": "Maskananas",
+   "level": "Niveau 1",
+   "image": "https://barbok.eratz.fr/maskananas.png",
+   "condition": "",
+   "description": "Description : Ce masque en forme de fruit exotique est une véritable pièce de collection. Il ne sert à rien, si ce n'est vous rendre véritablement original et appétissant. C'est déjà beaucoup."
+  },
+  {
+   "name": "Le Floude",
+   "level": "Niveau 1",
+   "caracteristique": "+1 de dommages",
+   "image": "https://barbok.eratz.fr/le_floude.png",
+   "condition": "",
+   "description": "Description : Le Floude n'est pas réellement un chapeau mais un parasite se développant sur le crâne des personnes trop volubiles, excessivement bruyantes, ou simplement verbalement agressives. Son aspect repoussant fait fuir les gens, ce qui pousse son porteur à crier encore plus fort pour se faire entendre, sans succès évidement, puisqu'il n'a rien à dire de toute façon."
+  },
+  {
+   "name": "Chapeau du Piou Rouge",
+   "level": "Niveau 1",
+   "caracteristique": "Intelligence : 1",
+   "recette": "1x Plume de Piou Rouge\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/chapeau_du_piou_rouge.png",
+   "condition": "",
+   "description": "Description : Muni de ce petit chapeau sur la tête, vous aurez l'air bien ridicule, mais aussi terriblement irrésistible. La vie est une question de choix."
+  },
+  {
+   "name": "Coiffe du Champion",
+   "level": "Niveau 1",
+   "image": "https://barbok.eratz.fr/coiffe_du_champion.png",
+   "condition": "",
+   "description": "Description : Cette imposante coiffe vous donnera de toute évidence la grosse tête, si vous ne l'avez pas déjà."
+  },
+  {
+   "name": "Grand Bandeau de Vitalité",
+   "level": "Niveau 3",
+   "caracteristique": "Vitalité : 1 à 15",
+   "recette": "14x Anneau Vitalesque\n8x Laine de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/grand_bandeau_de_vitalite.png",
+   "condition": "",
+   "description": "Description : Ce Bandeau permet d'augmenter la vitalité de son porteur."
+  },
+  {
+   "name": "Chapeau du Lapino",
+   "level": "Niveau 6",
+   "caracteristique": "Créature invocables : +1",
+   "image": "https://barbok.eratz.fr/chapeau_du_lapino.png",
+   "condition": "",
+   "description": "Description : Si vous envisagez de dialoguer avec les Wabbits, c'est peut-être la coiffe qu'il vous faut. Si vous cherchez à séduire, posez cette coiffe sur la tête de vos rivaux."
+  },
+  {
+   "name": "L'Araknacoiffe",
+   "level": "Niveau 6",
+   "caracteristique": "Vitalité : 6 à 15\nSagesse : 6 à 15\nInitiative : 11 à 30\nPortée : -2",
+   "recette": "10x Patte d'Arakne\n1x Peau de Larve Bleue",
+   "image": "https://barbok.eratz.fr/laraknacoiffe.png",
+   "condition": "",
+   "description": "Description : Affublé de cette coiffe, vous ressemblerez à une Arakne sauvage. Dans le meilleur des cas, vous effraierez les Moskitos un peu naïfs."
+  },
+  {
+   "name": "Makroute",
+   "level": "Niveau 6",
+   "caracteristique": "Force : 6 à 20\nSagesse : 1 à 5",
+   "image": "https://barbok.eratz.fr/makroute.png",
+   "condition": "",
+   "description": "Description : Makroute est un chien très affectueux... Le problème, c'est que lorsqu'il trouve un nouveau copain, il ne le lâche plus... Il a bien dû se faire 30 millions d'amis de cette façon..."
+  },
+  {
+   "name": "Pandawa",
+   "level": "Niveau 6",
+   "caracteristique": "Créature invocables : +1",
+   "image": "https://barbok.eratz.fr/pandawa.png",
+   "condition": "Classe doit etre",
+   "description": "Description : Ah le Pandawa, vraiment quelle grosse tête il a. Comme son pote Makroute, il passe son temps sur la tête de son maître. Nul besoin de se déplacer, lorsqu'il est motivé, il arrive même à subtiliser la nourriture de son porteur."
+  },
+  {
+   "name": "Champcoiffe",
+   "level": "Niveau 9",
+   "caracteristique": "Sagesse : 1 à 15\nForce : -1 à -30\nChance : -1 à -30",
+   "recette": "4x Epine du Champ Champ\n2x Champignon",
+   "image": "https://barbok.eratz.fr/champcoiffe.png",
+   "condition": "",
+   "description": "Description : Autrefois utilisée en infusion, et parfois même fumée, cette coiffe de Champ Champ a tout pour plaire."
+  },
+  {
+   "name": "Coiffe Champêtre",
+   "level": "Niveau 10",
+   "caracteristique": "Créature invocables : +1",
+   "recette": "1x Herbe Folle\n40x Pétale de Rose Démoniaque\n10x Bave de Rose Démoniaque",
+   "image": "https://barbok.eratz.fr/coiffe_champetre.png",
+   "condition": "",
+   "description": "Description : Si vous avez toujours rêvé d'être fleuriste et d'avoir une haleine parfumée à l'eau de rose, c'est le moment d'adopter cette étrange coiffe."
+  },
+  {
+   "name": "Coiffe du Bouftou",
+   "level": "Niveau 10",
+   "caracteristique": "Force : 1 à 40\nIntelligence : 1 à 40",
+   "recette": "1x Cervelle de Bouftou\n40x Laine du Chef de Guerre Bouftou\n150x Laine de Bouftou\n100x Laine de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/coiffe_du_bouftou.png",
+   "condition": "",
+   "description": "Description : Ce superbe chapeau permet à son porteur de gagner force et intelligence si ce dernier parvient à s'accommoder de l'odeur."
+  },
+  {
+   "name": "Coiffe en Mousse",
+   "level": "Niveau 11",
+   "caracteristique": "Vitalité : 1 à 20\n+1 de dommages\nPortée : +1\nFaiblesse : 1 à 5% (air)\nFaiblesse : 1 à 5% (eau)\nFaiblesse : 1 à 5% (feu)\nFaiblesse : 1 à 5% (neutre)",
+   "image": "https://barbok.eratz.fr/coiffe_en_mousse.png",
+   "condition": "",
+   "description": "Description : Sur la notice de cette coiffe, on peut lire :\"Offrez cette coiffe à votre mari, accrochez-la solidement sur sa tête et traînez-le par les pieds dans votre cuisine. Voilà le sol est propre désormais\". Cela résume un peu la conception moderne du ménage et de la répartition des tâches ménagères au sein des couples épanouïs et qui s'assument."
+  },
+  {
+   "name": "Moskitogalurette",
+   "level": "Niveau 15",
+   "caracteristique": "Sagesse : 1 à 10\nChance : 1 à 30\nForce : -11 à -20\nIntelligence : 11 à 20",
+   "recette": "35x Sourcil de Moskito\n30x Poudre de Perlinpainpain\n15x Ailes de Moskito",
+   "image": "https://barbok.eratz.fr/moskitogalurette.png",
+   "condition": "",
+   "description": "Description : Cette coiffe doit son nom surprenant à l'excentricité du premier Enutrof qui l'a découverte en dépouillant un vieux Moskito malade. Très utile pour les aventuriers qui débutent, elle permet avant tout, de rendre folles de vous les Araknes affamées."
+  },
+  {
+   "name": "Korko Klako",
+   "level": "Niveau 17",
+   "caracteristique": "Créature invocables : +1",
+   "recette": "1x Laine du Chef de Guerre Bouftou\n1x Sac à Patates Clair\n10x Ficelle en Lin",
+   "image": "https://barbok.eratz.fr/korko_klako.png",
+   "condition": "Classe doit etre Sadida",
+   "description": "Description : Lo Korko Klako ost ouno chapo kilo bo. Tros ostotiko, tros bolo, il so porto par los plus bo dos Sadida."
+  },
+  {
+   "name": "Bob du Paysan",
+   "level": "Niveau 19",
+   "caracteristique": "Sagesse : 6 à 10",
+   "recette": "35x Seigle\n15x Graine de Pavot\n2x Bave de Rose Démoniaque",
+   "image": "https://barbok.eratz.fr/bob_du_paysan.png",
+   "condition": "",
+   "description": "Description : Pour se protéger du soleil lorsque vous travaillez dans les champs, rien de mieux qu'un Ploukosse. Pour se protéger du soleil lorsque vous travaillez dans les champs et que vous êtes pauvre, rien de mieux que le célèbre Bob du Paysan."
+  },
+  {
+   "name": "Casque",
+   "level": "Niveau 20",
+   "caracteristique": "Vitalité : 11 à 15\nSagesse : 1 à 5",
+   "image": "https://barbok.eratz.fr/casque.png",
+   "condition": "",
+   "description": "Description : Porter ce casque signifie adopter un look unique... A mi-chemin entre le ridicule et le comique."
+  },
+  {
+   "name": "Astrocoiffe",
+   "level": "Niveau 20",
+   "caracteristique": "Augmente les dommages de 6 à 20%",
+   "image": "https://barbok.eratz.fr/astrocoiffe.png",
+   "condition": "",
+   "description": "Description : L'Astrocoiffe permet d'avoir une belle coiffe, et c'est déjà pas mal !"
+  },
+  {
+   "name": "Citwouille",
+   "level": "Niveau 20",
+   "caracteristique": "Résistance : 1 à 10 (eau)\nRésistance : 1 à 10 (air)\nRésistance : 1 à 10 (feu)\nRésistance : 1 à 10 (terre)\nRésistance : 1 à 10 (neutre)",
+   "image": "https://barbok.eratz.fr/citwouille.png",
+   "condition": "",
+   "description": "Description : La citwouille a la particularité d'empêcher la dispersion des particules de magie, cela en fait un très bon isolant magique. C'est d'ailleurs pour cela que certains guerriers se servent de ce légume comme couvre-chef."
+  },
+  {
+   "name": "Coiffe de l'Homme Ours",
+   "level": "Niveau 20",
+   "caracteristique": "Vitalité : 21 à 30",
+   "recette": "1x Ours Déchiqueté\n1x Poils d'Ours\n1x Etoffe d'Ours\n1x Peau d'Ours",
+   "image": "https://barbok.eratz.fr/coiffe_de_lhomme_ours.png",
+   "condition": "",
+   "description": "Description : Cette étrange coiffe a appartenu au tristement célèbre Homme Ours. Cousue à partir des restes de la tête d'un ours en décomposition, cette coiffe vous permettra de ne pas passer inaperçu, et surtout, de laisser grâce à son odeur originale, une trace de votre passage."
+  },
+  {
+   "name": "La Coiffe du Ploukosse",
+   "level": "Niveau 20",
+   "caracteristique": "Augmente les dommages de 6 à 20%",
+   "recette": "1x Avoine\n6x Ficelle en Lin\n1x Orge\n1x Avoine Magique",
+   "image": "https://barbok.eratz.fr/la_coiffe_du_ploukosse.png",
+   "condition": "",
+   "description": "Description : La Coiffe du Ploukosse, sous ses dehors \"has been\", est très efficace lors des combats pour un simple chapeau de paille."
+  },
+  {
+   "name": "Cornes de XVII",
+   "level": "Niveau 20",
+   "caracteristique": "Augmente les dommages de 6 à 20%",
+   "image": "https://barbok.eratz.fr/cornes_de_xvii.png",
+   "condition": "",
+   "description": "Description : A force de vouloir encorner les autres aventuriers, c'est vous qui risquez d'avoir la tête comme une passoire ! En effet, les Cornes de XVII, le Démon de la dix-septième Heure, ont la faculté extraordinaire de vous faire oublier pratiquement tout... sauf peut-être l'heure du déjeuner !"
+  },
+  {
+   "name": "Chapeau Pointu",
+   "level": "Niveau 21",
+   "caracteristique": "Vitalité : 21 à 35",
+   "recette": "6x Poils du Sanglier\n1x Cuir du Chef de Guerre Bouftou\n1x Laine du Chef de Guerre Bouftou\n1x Plume Pointue de Kwak du Vent",
+   "image": "https://barbok.eratz.fr/chapeau_pointu.png",
+   "condition": "",
+   "description": "Description : Ce magnifique chapeau permettra à votre héros d'être la plus belle pour aller danser au bal masqué (hohé hohé)."
+  },
+  {
+   "name": "Coquille Emeraude",
+   "level": "Niveau 21",
+   "caracteristique": "Vitalité : 21 à 35",
+   "image": "https://barbok.eratz.fr/coquille_emeraude.png",
+   "condition": "",
+   "description": "Description : Cette coiffe semble avoir été fabriquée à partir d'un Dofus Emeraude brisé. Le Dofus n'est pas encore complètement vide, vous pourrez profiter de cette coiffe pour vous faire un shampooing aux oeufs."
+  },
+  {
+   "name": "Le Oiram",
+   "level": "Niveau 22",
+   "caracteristique": "Chance : 11 à 50",
+   "recette": "1x Cuir de Bouftou Royal\n1x Laine du Chef de Guerre Bouftou\n1x Laine de Bouftou Royal\n1x Champignon Luidegît",
+   "image": "https://barbok.eratz.fr/le_oiram.png",
+   "condition": "Classe doit etre",
+   "description": "Description : Le Oiram a fait de nombreux adeptes de part le monde, du fait de son côté très classieux... Ce chapeau a longtemps été porté par un plombier qui passait son temps à sauter et courir..."
+  },
+  {
+   "name": "Le Troma",
+   "level": "Niveau 22",
+   "caracteristique": "Vitalité : 11 à 50",
+   "recette": "1x Patte d'Arakne Magique\n2x Ficelle en Lin\n100x Poils de souris\n6x Laine de Boufton Noir",
+   "image": "https://barbok.eratz.fr/le_troma.png",
+   "condition": "",
+   "description": "Description : Le Troma est aussi craignos qu'un Rasboul en poil de Bitouf. (Pour ceux qui ne savent pas ce qu'est un Rasboul en poil de bitouf, référez-vous aux grands livres des Craps à Poules)."
+  },
+  {
+   "name": "Géniallissime Coiffe de Torte Hou",
+   "level": "Niveau 22",
+   "caracteristique": "Chance : 11 à 50",
+   "image": "https://barbok.eratz.fr/geniallissime_coiffe_de_torte_hou.png",
+   "condition": "",
+   "description": "Description : A peine démodée, cette coiffe vous donnera un style unique et vous permettra de regarder sous les jupes des Crâettes en toute discrétion. Idéale pour les soirées d'été plutôt arrosées."
+  },
+  {
+   "name": "Kaskofu",
+   "level": "Niveau 23",
+   "caracteristique": "Sagesse : 6 à 15",
+   "recette": "1x Plume du Batofu\n25x Plumes de Tofu\n18x Bec du Tofu\n13x Oeuf de Tofu",
+   "image": "https://barbok.eratz.fr/kaskofu.png",
+   "condition": "",
+   "description": "Description : Ce casque de chantier est devenu un objet de mode incontournable pour les aventurières coquettes. Mais où va le monde ?"
+  },
+  {
+   "name": "Crystal O'Boul",
+   "level": "Niveau 24",
+   "caracteristique": "Vitalité : 21 à 50",
+   "recette": "1x Pierre de Crystaloboule\n10x Poils de souris\n10x Poils du Sanglier\n10x Ficelle en Lin",
+   "image": "https://barbok.eratz.fr/crystal_oboul.png",
+   "condition": "",
+   "description": "Description : Hugne \"le sans mémoire\" possédait une magnifique boule de crystal que lui avait donné son pépé. Bien décidé à la conserver toute sa vie, il la plaça sur son chapeau, qu'il ne quittait jamais... Il est mort de fatigue, en essayant de la retrouver."
+  },
+  {
+   "name": "Jouik Krampe",
+   "level": "Niveau 26",
+   "caracteristique": "Créature invocables : +1\nIntelligence : 11 à 50",
+   "recette": "1x Sac à Patates Sombre\n1x Ficelle en Lin\n10x Laine de Boufton Noir\n10x Poils de Black Tiwabbit",
+   "image": "https://barbok.eratz.fr/jouik_krampe.png",
+   "condition": "Classe doit etre Sadida",
+   "description": "Description : Ce magnifique masque en cuir appartenait à Jouik Krampe, cousin de Zeurg. Tous deux étaient très portés sur les vêtements en cuir moulant. Un peu comme le Captain Chafer, la perversité en moins."
+  },
+  {
+   "name": "Houde",
+   "level": "Niveau 30",
+   "caracteristique": "Chance : 11 à 50\nCoup critiques : +1 à 2",
+   "recette": "1x Peau de Larve Verte Magique\n1x Plumes de Tofu\n10x Ficelle en Lin\n10x Poils du Sanglier",
+   "image": "https://barbok.eratz.fr/houde.png",
+   "condition": "",
+   "description": "Description : Ce chapeau en peau de larve verte magique donne à son porteur une allure guillerette, mais également un peu stupide. On ne peut pas tout avoir dans la vie, le porteur de ce chapeau en est d'ailleurs un excellent exemple."
+  },
+  {
+   "name": "Couronne du Wa Wabbit",
+   "level": "Niveau 30",
+   "caracteristique": "Vitalité : 1 à 100",
+   "image": "https://barbok.eratz.fr/couronne_du_wa_wabbit.png",
+   "condition": "",
+   "description": "Description : Cette magnifique couronne a appartenu au tristement célèbre Wa Wabbit."
+  },
+  {
+   "name": "Borsitrono",
+   "level": "Niveau 30",
+   "caracteristique": "Coup critiques : +3 à 10",
+   "image": "https://barbok.eratz.fr/borsitrono.png",
+   "condition": "",
+   "description": "Description : Cet énorme citron vidé accueillera sans problème votre tête et le petit pépin qui se loge dans votre crâne."
+  },
+  {
+   "name": "Toady",
+   "level": "Niveau 30",
+   "caracteristique": "Agilité : 11 à 60",
+   "recette": "10x Champignon Luidegît\n1x Cape du Champ Champ\n1x Champcoiffe\n110x Champignon\n110x Epine du Champ Champ",
+   "image": "https://barbok.eratz.fr/toady.png",
+   "condition": "",
+   "description": "Description : Rouge, blanc et surtout somptueusement classe, ce chapeau vous permettra d'assurer un max lors des soirées de l'ambassadeur qui sont toujours une réussite."
+  },
+  {
+   "name": "Oreilles de Lapineupe",
+   "level": "Niveau 30",
+   "caracteristique": "Coup critiques : +1 à 10",
+   "image": "https://barbok.eratz.fr/oreilles_de_lapineupe.png",
+   "condition": "",
+   "description": "Description : Ces oreilles mettront en valeur votre sourire éclatant, tout en vous permettant d'amplifier les ragots et rumeurs qui circuleront dans votre dos."
+  },
+  {
+   "name": "Kritter",
+   "level": "Niveau 30",
+   "caracteristique": "Coup critiques : +3 à 10",
+   "recette": "1x Os Surprise du Chafer Fantassin\n1x Os de Chafer\n1x Os Invisible du Chafer Invisible\n1x Fémur du Chafer Archer\n1x Dents de Chef Crocodaille",
+   "image": "https://barbok.eratz.fr/kritter.png",
+   "condition": "Classe doit etre",
+   "description": "Description : Ce crâne de démon reconstruit à partir d'ossements divers et variés apporte grâce et élégance à son porteur... Vos amies vont vous jalouser..."
+  },
+  {
+   "name": "Coiffe de Goultard",
+   "level": "Niveau 30",
+   "caracteristique": "Coup critiques : +3 à 10",
+   "image": "https://barbok.eratz.fr/coiffe_de_goultard.png",
+   "condition": "",
+   "description": "Description : Cette coiffe ne vous rendra pas plus féroce et encore moins plus puissant... Et si vous croyez que les aventuriers un peu naïfs vont vous prendre pour Goultard vous vous fourrez le doigt dans l'œil ! Mais grâce à elle on vous verra arriver de loin, c'est déjà ça !"
+  },
+  {
+   "name": "Fourbacoiffe",
+   "level": "Niveau 31",
+   "caracteristique": "Coup critiques : +2 à 3\nInitiative : 151 à 200",
+   "recette": "5x Kole\n35x Feuille de Fourbasse\n12x Bourgeon de Fourbasse\n2x Peau de Trukikol\n35x Pétale de Trukikol",
+   "image": "https://barbok.eratz.fr/fourbacoiffe.png",
+   "condition": "",
+   "description": "Description : Avec cette coiffe sur la tête, vous n'avez vraiment pas l'air très futé. Mais plus que sans la coiffe, donc autant la garder."
+  },
+  {
+   "name": "Casque de Galgarion",
+   "level": "Niveau 33",
+   "caracteristique": "Portée : +1 à 2",
+   "image": "https://barbok.eratz.fr/casque_de_galgarion.png",
+   "condition": "",
+   "description": "Description : Malgré les apparences, ce casque ne vous permettra pas de mieux entendre... mais de voir plus loin ! En revanche, méfiez-vous des bourrasques inattendues car vous allez finir par vous envoler."
+  },
+  {
+   "name": "Gulliver",
+   "level": "Niveau 33",
+   "caracteristique": "Sagesse : 16 à 25",
+   "recette": "30x Oreille de Cochon de Lait\n30x Oreille du Grand Pa Wabbit\n30x Oreille de Porkass\n25x Oreille de Kanigrou\n25x Oreilles de Loup",
+   "image": "https://barbok.eratz.fr/gulliver.png",
+   "condition": "",
+   "description": "Description : Ce chapeau confectionné à partir d'oreilles cousues entre elles, vous rendra tout simplement unique tant il est original. On raconte qu'il a jadis permis à Rakmar Bilgout de séduire la reine des Bouftous, pour ensuite l'égorger plus facilement."
+  },
+  {
+   "name": "Cigalocoiffe",
+   "level": "Niveau 33",
+   "caracteristique": "Sagesse : 15",
+   "image": "https://barbok.eratz.fr/cigalocoiffe.png",
+   "condition": "",
+   "description": "Description : Avec ou sans cette coiffe, vous ressemblerez toujours à un bouffon, mais avec cette coiffe vous aurez au moins une bonne excuse."
+  },
+  {
+   "name": "Lapinocoiffe",
+   "level": "Niveau 33",
+   "caracteristique": "Portée : +1 à 2",
+   "image": "https://barbok.eratz.fr/lapinocoiffe.png",
+   "condition": "",
+   "description": "Description : Qui oserait porter une coiffe aussi ridicule ? Personne excepté vous."
+  },
+  {
+   "name": "Choipo Podlard",
+   "level": "Niveau 33",
+   "caracteristique": "Portée : +1 à 2",
+   "recette": "1x Poils Darits\n10x Laine de Boufton Noir\n10x Laine de Bouftou\n10x Laine de Boufton Blanc\n10x Ficelle en Lin",
+   "image": "https://barbok.eratz.fr/choipo_podlard.png",
+   "condition": "",
+   "description": "Description : Le Choipo Podlard vient d'une grande école de magie. Créature vivante, il a rencontré les plus grands magiciens de notre temps, tels que Mme Magoa AlaGale, Mr Doublegore et le célèbre Remy Krokeur."
+  },
+  {
+   "name": "Minotokorno",
+   "level": "Niveau 33",
+   "caracteristique": "Force : 11 à 50\nAugmente les dommages de 11 à 20%",
+   "recette": "1x Poils du Sanglier\n1x Poils de souris\n1x Poils du Minotoror\n1x Ficelle en Lin\n2x Corne Brûlée du Minotoror",
+   "image": "https://barbok.eratz.fr/minotokorno.png",
+   "condition": "",
+   "description": "Description : Ce chapeau en Corne de Minotoror est très efficace pour impressionner ses adversaires en se faisant passer pour un Minotoror. Cette ruse ne semble fonctionner que sur les adversaires simplets. Un Iop ou un Tofu devrait faire l'affaire."
+  },
+  {
+   "name": "Coiffe de Maître Noir Jack",
+   "level": "Niveau 33",
+   "caracteristique": "Sagesse : 16 à 25",
+   "image": "https://barbok.eratz.fr/coiffe_de_maitre_noir_jack.png",
+   "condition": "",
+   "description": "Description : L'Eniripsa Maître Noir Jack a toujours été passionné par la couture. C'est ce qui l'a d'ailleurs conduit à devenir un expert en points de suture. Ami des tailleurs, il aurait conçu cette coiffure bicolore en s'inspirant de celle d'une tailleuse cruelle qui extermina jadis la tribu Ouginak des Maciens... Charmant, non ?"
+  },
+  {
+   "name": "Larvacoiffe",
+   "level": "Niveau 34",
+   "caracteristique": "Vitalité : 6 à 15\nSagesse : 6 à 10\nCoup critiques : +2 à 3\n+2 à 3 de dommages aux pièges",
+   "recette": "40x Poudre de Perlinpainpain\n14x Peau de Larve Bleue\n11x Peau de Larve Verte\n18x Peau de Larve Orange\n1x Petite Perle Dorée",
+   "image": "https://barbok.eratz.fr/larvacoiffe.png",
+   "condition": "",
+   "description": "Description : Enfin, l'opportunité de ressembler à une vraie larve s'offre à vous. Vous pourrez enfin afficher ouvertement votre mode de vie larvesque."
+  },
+  {
+   "name": "Shako",
+   "level": "Niveau 34",
+   "caracteristique": "Intelligence : 11 à 50\nForce : -1 à -20\n+1 à 3 de dommages",
+   "recette": "10x Os de Chafer\n5x Os Invisible du Chafer Invisible\n1x Os Surprise du Chafer Fantassin\n4x Os de Crocodaille\n1x Fragment d'Os",
+   "image": "https://barbok.eratz.fr/shako.png",
+   "condition": "",
+   "description": "Description : Ce casque en os a longtemps séjourné dans les poches d'un Kanigrou. Usé, rayé, il garde tout de même de belles propriétés."
+  },
+  {
+   "name": "Coiffe de Crâ Cramé",
+   "level": "Niveau 35",
+   "caracteristique": "Force : 11 à 50\nSagesse : 11 à 20\nIntelligence : -1 à -20",
+   "image": "https://barbok.eratz.fr/coiffe_de_cra_crame.png",
+   "condition": "",
+   "description": "Description : Voici une coiffe parfaitement adaptée aux Crâs qui n'ont pas peur de passer pour des abrutis. C'est vrai qu'en la portant vous n'aurez pas franchement l'air très intelligent. D'ailleurs ceux qui osent l'arborer sont généralement des Iops ou des aventuriers avec déjà quelques neurones en moins..."
+  },
+  {
+   "name": "Le Ours",
+   "level": "Niveau 35",
+   "caracteristique": "Force : 11 à 50\nSagesse : 11 à 20\nIntelligence : -1 à -20",
+   "recette": "1x Ours Déchiqueté\n1x Fil de Soie\n5x Poil de Kanigrou\n5x Poils de Black Tiwabbit\n4x Linceul",
+   "image": "https://barbok.eratz.fr/le_ours.png",
+   "condition": "",
+   "description": "Description : Le Ours est un chapeau confectionné dans la tête d'un ours mort. Il a cependant gardé un poil soyeux. Le tailleur qui l'a confectionné devait être très habile pour avoir réussi a garder l'expression de mécontentement de l'ours d'origine."
+  },
+  {
+   "name": "Coiffe du Prespic",
+   "level": "Niveau 36",
+   "caracteristique": "Sagesse : 1 à 20\n+1 à 3 de dommages",
+   "recette": "1x Etoffe du Prespic\n25x Patte de Prespic\n1x Estomac de Prespic\n3x Crinière de Prespic\n11x Queue de Prespic",
+   "image": "https://barbok.eratz.fr/coiffe_du_prespic.png",
+   "condition": "",
+   "description": "Description : Avec cette coiffe de Prespic sur la tête, vous ressemblez presque à Dévie Cloquette, célèbre chasseuse des temps modernes, prête à tout pour cacher sa calvitie naissante. Pas de chance pour vous si vous vouliez faire de même, vous devrez vous contenter d'une coiffe de couleur rousse, qui de toute évidence, dégagera une horrible odeur dès qu'il se mettra à pleuvoir."
+  },
+  {
+   "name": "Dora",
+   "level": "Niveau 36",
+   "caracteristique": "Intelligence : 11 à 60\nForce : 11 à 60",
+   "recette": "1x Osier Enchanté\n1x Laine de Bouftou Royal\n10x Ficelle en Lin\n2x Bois de Charme\n2x Bois de Châtaignier",
+   "image": "https://barbok.eratz.fr/dora.png",
+   "condition": "",
+   "description": "Description : Ce chapeau, en forme de corbeille à fruits en osier renversée, est en fait une corbeille à fruits renversée magique. Ce qui ne manquera pas d'impressionner votre entourage, surtout s'il est composé d'apprentis Bworks Mages."
+  },
+  {
+   "name": "Chapeau de Satanusse",
+   "level": "Niveau 36",
+   "caracteristique": "Intelligence : 11 à 60\nForce : 11 à 60",
+   "image": "https://barbok.eratz.fr/chapeau_de_satanusse.png",
+   "condition": "",
+   "description": "Description : Satanusse était jadis un patineur artistique traînant ses patins de Holiboul on Ice en patinoires de seconde zone. C'est en tombant sur le coccyx qu'il eut la vision qui allait changer sa vie : son destin était d'être le conducteur de Dragokart le plus doué de sa génération ! Un petit choc provoque parfois un grand déclic."
+  },
+  {
+   "name": "Cochobits",
+   "level": "Niveau 36",
+   "caracteristique": "Sagesse : 1 à 20\n+1 à 3 de dommages",
+   "image": "https://barbok.eratz.fr/cochobits.png",
+   "condition": "",
+   "description": "Description : Ces oreilles de Porkass encore fraîches vous permettront de séduire facilement les Porkass que vous croiserez. Ne rigolez pas, ça pourrait finir par vous servir, on peut parfois se sentir bien seul dans la campagne d'Amakna."
+  },
+  {
+   "name": "Dantgoule",
+   "level": "Niveau 36",
+   "caracteristique": "Agilité : 11 à 60\nVitalité : 11 à 60",
+   "recette": "1x Cuir de Sanglier\n1x Cuir du Chef de Guerre Bouftou\n10x Ficelle en Lin\n5x Slip en cuir du Chafer Lancier\n1x Potion Dantegoulesque",
+   "image": "https://barbok.eratz.fr/dantgoule.png",
+   "condition": "",
+   "description": "Description : Ce chapeau, confectionné à partir de Slips en cuir de Chafer Lancier tressés entre eux, vous rendra de toute évidence irrésistible auprès des femelles Bwork Mages, réputées pour leur féminité débordante, accentuée par leur barbe rousse."
+  },
+  {
+   "name": "Caskabeille",
+   "level": "Niveau 37",
+   "caracteristique": "Force : 11 à 40\nIntelligence : 11 à 40\nVitalité : 11 à 40",
+   "image": "https://barbok.eratz.fr/caskabeille.png",
+   "condition": "",
+   "description": "Description : En équipant ce chapeau vous prenez le risque de recevoir des coups de tapette à Moskitos sur les antennes."
+  },
+  {
+   "name": "Caskostar",
+   "level": "Niveau 37",
+   "caracteristique": "Force : 21 à 30\nSagesse : 11 à 15\nCoup critiques : +1 à 2",
+   "image": "https://barbok.eratz.fr/caskostar.png",
+   "condition": "",
+   "description": "Description : Ce casque est parfait si vous voulez ressembler à un méchant malgré votre visage de chérubin et vos boutons d'acné."
+  },
+  {
+   "name": "Le Chapleau",
+   "level": "Niveau 37",
+   "caracteristique": "Vitalité : 11 à 20\nSagesse : 11 à 15\nChance : 16 à 25",
+   "image": "https://barbok.eratz.fr/le_chapleau.png",
+   "condition": "",
+   "description": "Description : Ce chapeau est livré avec une moustache postiche qui ne pousse pas, ce qui vous permettra d'économiser quelques séances chez le barbier."
+  },
+  {
+   "name": "Lorko Kasko",
+   "level": "Niveau 37",
+   "caracteristique": "Force : 11 à 40\nIntelligence : 11 à 40\nVitalité : 11 à 40",
+   "recette": "1x Ecorce de Liroye Merline\n2x Ecorce d'Abraknyde Sombre\n2x Ecorce d'Abraknyde\n2x Ficelle en Lin\n2x Racine d'Abraknyde Sombre",
+   "image": "https://barbok.eratz.fr/lorko_kasko.png",
+   "condition": "Classe doit etre",
+   "description": "Description : Ce chapeau en écorce enchantée appartenait à Lorko, un Bûcheron réputé qui n'a pas hésité à défier le célèbre Bûcheron Brouce Boulgoure, lors d'un fameux duel de déracinage d'Orme à mains nues dans la clairière de Liroye Merline."
+  },
+  {
+   "name": "Dora Sombre de Brave",
+   "level": "Niveau 37",
+   "caracteristique": "Intelligence : 11 à 50\nSagesse : 11 à 20",
+   "recette": "1x Osier Sombre\n20x Ficelle en Lin\n5x Linceul\n1x Tissu Sombre\n20x Ecorce d'Abraknyde Sombre",
+   "image": "https://barbok.eratz.fr/dora_sombre_de_brave.png",
+   "condition": "",
+   "description": "Description : C'est le fantôme Brave qui le premier comprit comment utiliser correctement de l'Osier Sombre à des fins autres que gastronomiques."
+  },
+  {
+   "name": "Masque Siks Won Naïne",
+   "level": "Niveau 38",
+   "caracteristique": "Vitalité : 16 à 20\nSagesse : 6 à 10\nCoup critiques : +1 à 2\nAugmente les dommages de 11 à 15%",
+   "image": "https://barbok.eratz.fr/masque_siks_won_naine.png",
+   "condition": "",
+   "description": "Description : Avec ce masque sur la tête, vous ressemblerez de loin à une larve géante mutante, mais de près vous ressemblerez à un terrible combattant. Évitez les combats en distance."
+  },
+  {
+   "name": "Coiffe Mulet du Tétounik",
+   "level": "Niveau 39",
+   "caracteristique": "Coup critiques : +2 à 3\nSoins : 2 à 3\nInitiative : 51 à 100",
+   "image": "https://barbok.eratz.fr/coiffe_mulet_du_tetounik.png",
+   "condition": "",
+   "description": "Description : Nuque longue et crête de Pioute, cette coiffe vous ira comme un gant, surtout si vous l'enfilez ailleurs que sur vos mains."
+  },
+  {
+   "name": "Dragocoiffe Blanche",
+   "level": "Niveau 39",
+   "caracteristique": "Résistance : 6 à 15% (neutre)",
+   "recette": "10x Coquille de Dragoeuf Blanc\n5x Oeuf de Dragoeuf Blanc\n1x Cuir de Sanglier des Plaines\n5x Peau de serpentin\n10x Laine de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/dragocoiffe_blanche.png",
+   "condition": "",
+   "description": "Description : Une coquille de Dragoeuf Blanc rembourrée de cuir et de laine, rien de tel pour se protéger des attaques classiques et des éclairs d'un Bwork Mage ivre. En revanche, vous avez l'air de sortir de l'oeuf avec un pareil chapeau."
+  },
+  {
+   "name": "Bonnet Toual",
+   "level": "Niveau 40",
+   "caracteristique": "Réduit de 1 le coût en PA du sort Renvoi de Sort\n+15 de dommages\nRéduit de 1 le coût en PA du sort Glyphe Agressif\nDésactive la ligne de vue du sort 0",
+   "recette": "1x Etoffe Corailleuse\n2x Pétale Morito\n10x Pince de Crustorail\n10x Bulbe Morito\n4x Oeil de Kwoan",
+   "image": "https://barbok.eratz.fr/bonnet_toual.png",
+   "condition": "",
+   "description": "Description : En revêtant cette coiffe, le Féca accroît sa chance et celle de ses alliés. Si votre groupe est guidé par un Féca portant un Bonnet Toual, vous êtes sûr d'arriver à bon port et ce presque sans une égratignure. Mais l'odeur est si nauséabonde que cela en fait l'objet idéal pour se protéger de la veuve et de l'orphelin."
+  },
+  {
+   "name": "Casque Keutumedi",
+   "level": "Niveau 40",
+   "caracteristique": "+25 aux CC sur le sort Epée Divine\nRéduit de 1 le délai de relance du sort Vitalité\nAugmente la portée du sort Pression de 1\nRéduit de 1 le coût en PA du sort Epée Destructrice",
+   "recette": "1x Etoffe Corailleuse\n2x Pétale Kouraçao\n2x Moustache du Mufafah\n10x Pince de Crustorail\n10x Bulbe Kouraçao",
+   "image": "https://barbok.eratz.fr/casque_keutumedi.png",
+   "condition": "",
+   "description": "Description : Grâce à cette coiffe guerrière, les Iops ont vraiment fière allure. Le seul problème est qu'elle leur cache une partie de leur champ de vision et les empêche d'entendre correctement les paroles de leurs adversaires. Le casque Keutumedi est vraiment fait pour les gens qui aiment frapper avant de réfléchir."
+  },
+  {
+   "name": "Chapeau Leufère",
+   "level": "Niveau 40",
+   "caracteristique": "+25 aux CC sur le sort Bluff\n+25 aux CC sur le sort Pile ou Face\nRéduit de 1 le coût en PA du sort Chance d'Ecaflip\nAugmente de 1 le nombre de lancer maximal par tour du sort Bond du Félin",
+   "recette": "1x Etoffe Corailleuse\n2x Pétale Malibout\n10x Pince de Crustorail\n10x Bulbe Malibout\n10x Oreille de Kanigrou",
+   "image": "https://barbok.eratz.fr/chapeau_leufere.png",
+   "condition": "",
+   "description": "Description : Cette coiffe procure assurance et témérité à celui qui la porte. Grâce à elle vous irez toujours de l'avant, en pensant être capable de réaliser tous les exploits. Pensez toutefois à l'enlever de temps en temps, sinon elle vous entraînera dans des situations inextricables !"
+  },
+  {
+   "name": "Bonnet Nufar",
+   "level": "Niveau 40",
+   "caracteristique": "Réduit de 1 le coût en PA du sort Flou\n+30 aux CC sur le sort Rayon Obscur\nRéduit de 1 le délai de relance du sort Contre\nEst une arme de chasse",
+   "recette": "1x Etoffe Corailleuse\n2x Pétale Passaoh\n10x Pince de Crustorail\n10x Bulbe Passaoh\n20x Ongle de Kanigrou",
+   "image": "https://barbok.eratz.fr/bonnet_nufar.png",
+   "condition": "",
+   "description": "Description : Cette coiffe ressemble beaucoup au Sulik et au Piruk. Mais comme elle est très confortable et que les Xélors ne la quittent jamais, même pour dormir, elle est communément nommée Bonnet Nufar. Elle dégage une agréable odeur de nymphéa qui contribue à l'endormissement. En revanche, les ronflements qu'elle provoque sont aussi insupportables que les chants de crapaud lors de la saison des amours."
+  },
+  {
+   "name": "Chapeau Lithique",
+   "level": "Niveau 40",
+   "caracteristique": "+30 aux CC sur le sort Picole\nAugmente de 1 le nombre de lancer maximal par cible du sort Epouvante\n+15 de dommages\n+10 de dommages",
+   "recette": "1x Etoffe Corailleuse\n2x Pétale Kouraçao\n10x Pince de Crustorail\n10x Bulbe Kouraçao\n20x Poil de Kanigrou",
+   "image": "https://barbok.eratz.fr/chapeau_lithique.png",
+   "condition": "",
+   "description": "Description : Cette coiffe a la propriété de faire dire au porteur des promesses qu'il oublie aussitôt. Est-ce parce qu'elle exerce une pression sur les zones de la mémoire ou sur celle du langage ? Nul ne le sait précisément. L'important est de ne prendre en compte que les paroles les moins extravagantes."
+  },
+  {
+   "name": "Bonnet Spairance",
+   "level": "Niveau 40",
+   "caracteristique": "Réduit de 1 le coût en PA du sort Châ\nDésactive la ligne de vue du sort 0\nAugmente de 1 le nombre de lancer maximal par cible du sort Attirance\nRéduit de 1 le délai de relance du sort Sacrifice",
+   "recette": "1x Etoffe Corailleuse\n2x Pétale Morito\n10x Pince de Crustorail\n10x Bulbe Morito\n16x Pointe de Flèche du Bwork Archer",
+   "image": "https://barbok.eratz.fr/bonnet_spairance.png",
+   "condition": "",
+   "description": "Description : Les pointes acérées qui sortent de ce bonnet permettent non seulement de blesser l'adversaire mais aussi d'avoir plus de chance de se prendre la foudre sur le crâne par temps d'orage. Les Sacrieurs sont en effet une classe qui aime autant faire souffrir les autres qu'eux-mêmes. Une bonne odeur de chair grillée : rien de tel pour commencer la journée !"
+  },
+  {
+   "name": "Chapeau Grave",
+   "level": "Niveau 40",
+   "caracteristique": "+15 de dommages\nAugmente la portée du sort Piège de Masse de 2\nRéduit de 1 le coût en PA du sort Repérage\nRéduit de 2 le délai de relance du sort Concentration de Chakra",
+   "recette": "1x Etoffe Corailleuse\n2x Pétale Morito\n10x Pince de Crustorail\n10x Bulbe Morito\n12x Dent du Tofu Maléfique",
+   "image": "https://barbok.eratz.fr/chapeau_grave.png",
+   "condition": "",
+   "description": "Description : À cause de cette coiffe, les adversaires deviennent souvent muets comme une tombe. On n'ose demander à quoi est censé ressembler ce couvre-chef, on ne peut plus atypique. Mais ce n'est pas très grave. Les Srams ne sont guère susceptibles."
+  },
+  {
+   "name": "Capuche Apin",
+   "level": "Niveau 40",
+   "caracteristique": "Réduit de 1 le coût en PA du sort Invocation de Tofu\n+10 de dommages\n+30 aux CC sur le sort Crapaud\n+25 aux CC sur le sort Résistance Naturelle",
+   "recette": "1x Etoffe Corailleuse\n2x Pétale Passaoh\n10x Pince de Crustorail\n10x Bulbe Passaoh\n14x Canine du Mulou",
+   "image": "https://barbok.eratz.fr/capuche_apin.png",
+   "condition": "",
+   "description": "Description : Grâce à cette coiffe, vous aurez vraiment l'air d'une bête à cornes. Nul doute que l'on se retourne pour admirer la très grosse paire qui orne votre tête. Cette ample capuche permet aussi de conserver au frais des aliments comme le foin pour Bouftou ou le pain pour Tofu."
+  },
+  {
+   "name": "Végacoiffe",
+   "level": "Niveau 40",
+   "caracteristique": "Prospection : 1 à 10\nAgilité : 1 à 40\nVitalité : 1 à 50",
+   "recette": "1x Coiffe Champêtre\n15x Trèfle à 5 feuilles\n15x Orchidée Freyesque\n25x Fleur de Lin\n2x Edelweiss",
+   "image": "https://barbok.eratz.fr/vegacoiffe.png",
+   "condition": "",
+   "description": "Description : Le top du top de la mode, mais uniquement au nord-est d'Amakna."
+  },
+  {
+   "name": "Chapeau Taufeu",
+   "level": "Niveau 40",
+   "caracteristique": "Réduit de 2 le délai de relance du sort Chance\n+20 de dommages\nSoins : 30\nAugmente la portée du sort Force de l'Age de 1",
+   "recette": "1x Etoffe Corailleuse\n2x Pétale Passaoh\n10x Pince de Crustorail\n10x Bulbe Passaoh\n2x Langue de Chef de Guerre Bouftou",
+   "image": "https://barbok.eratz.fr/chapeau_taufeu.png",
+   "condition": "",
+   "description": "Description : Ce couvre-chef sert aussi bien de protection contre les intempéries que d'accessoire de cuisine, pour mitonner des plats à la bonne température. L'agitation du chapeau permet d'apporter l'afflux d'air nécessaire à la bonne tenue du feu de cuisson. Et, comme tout le monde sait que le pot au feu est un plat qui se mijote pendant longtemps, on comprend mieux pourquoi les Enutrofs ont des poignets si musclés."
+  },
+  {
+   "name": "Masque Kanniboule",
+   "level": "Niveau 40",
+   "caracteristique": "+3 à 7 de dommages",
+   "image": "https://barbok.eratz.fr/masque_kanniboule.png",
+   "condition": "",
+   "description": "Description : Ce masque est la réplique exacte, en un peu plus grand, de ceux que portent fièrement les Kanniboules importants."
+  },
+  {
+   "name": "Coiffe de Robbie Capuche",
+   "level": "Niveau 40",
+   "caracteristique": "Réduit de 1 le coût en PA du sort Tir Eloigné\nAugmente de 1 le nombre de lancer maximal par cible du sort Flèche Glacée\nAugmente de 1 le nombre de lancer maximal par cible du sort Flèche d'Immobilisation\nRéduit de 1 le coût en PA du sort Flèche d'Expiation",
+   "recette": "1x Etoffe Corailleuse\n2x Pétale Malibout\n10x Pince de Crustorail\n10x Bulbe Malibout\n10x Bandeau du Black Tiwabbit",
+   "image": "https://barbok.eratz.fr/coiffe_de_robbie_capuche.png",
+   "condition": "",
+   "description": "Description : Robbie Capuche était un célèbre Crâ qui vivait dans les bois, d'où la couleur verte de sa coiffe pour se fondre dans le paysage. Il se prenait pour un justicier et passait tout son temps à dérober l'argent des riches au profit d'une bonne cause : la sienne."
+  },
+  {
+   "name": "Chapeau Tyron",
+   "level": "Niveau 40",
+   "caracteristique": "Désactive la ligne de vue du sort 0\nAugmente la portée du sort La Folle de 3\n+30 aux CC sur le sort Larme\nSoins : 100",
+   "recette": "1x Etoffe Corailleuse\n2x Pétale Malibout\n10x Pince de Crustorail\n10x Bulbe Malibout\n12x Boue du Boo",
+   "image": "https://barbok.eratz.fr/chapeau_tyron.png",
+   "condition": "",
+   "description": "Description : On aurait pu croire que cette coiffe possédait une jolie couleur orangée. C'est pas du tout le cas. De plus, cet accessoire de mode tient plus du masque que du chapeau. Alors pourquoi ces créateurs l'ont-ils nommé Chapeau Tyron ? Sûrement pour faire parler les bavards !"
+  },
+  {
+   "name": "Sombrero de Pépitox",
+   "level": "Niveau 40",
+   "caracteristique": "+3 à 7 de dommages",
+   "image": "https://barbok.eratz.fr/sombrero_de_pepitox.png",
+   "condition": "",
+   "description": "Description : Ce sombrero est le seul vestige d'un sombre héros Xélor qui aurait soudainement disparu. La dernière fois qu'on l'aurait vu, il venait tout juste de chanter la sérénade à sa belle. On raconte que les frères de la jeune fille ne seraient pas étrangers à cette disparition, mais certains pensent qu'il aurait été emmené dans une dimension parallèle... Le mystère reste entier..."
+  },
+  {
+   "name": "Chapeau du bois de l'est",
+   "level": "Niveau 40",
+   "caracteristique": "Prospection : 1 à 10\nAgilité : 1 à 40\nVitalité : 1 à 50",
+   "image": "https://barbok.eratz.fr/chapeau_du_bois_de_lest.png",
+   "condition": "",
+   "description": "Description : Moins à la mode que le Clint, mais beaucoup plus raffiné, ce chapeau vous permettra d'exacerber votre coquetterie sans limite."
+  },
+  {
+   "name": "Coiffe Fère",
+   "level": "Niveau 40",
+   "caracteristique": "Désactive la ligne de vue du sort 0\nAugmente la portée du sort Mot de Frayeur de 1\n+35 aux CC sur le sort Mot Drainant\n+15 de dommages",
+   "recette": "1x Etoffe Corailleuse\n2x Pétale Kouraçao\n10x Pince de Crustorail\n2x Bulbe Kouraçao\n10x Bandeau du Black Tiwabbit",
+   "image": "https://barbok.eratz.fr/coiffe_fere.png",
+   "condition": "",
+   "description": "Description : Grâce à la Coiffe Fère, les Eniripsas savent toujours comment agir en cas d'urgence. En effet, la liste des gestes de premiers secours y est discrètement inscrite dans la doublure. Ce couvre-chef leur donne un air doctoral, comme s'ils venaient de recevoir leur diplôme, alors que personne n'oserait arborer un chapeau aussi ridicule lors d'une cérémonie scolaire !"
+  },
+  {
+   "name": "Kwakoiffe de Flammes",
+   "level": "Niveau 41",
+   "caracteristique": "Intelligence : 11 à 15\nRésistance : 3 à 5% (feu)\nSagesse : 4 à 7",
+   "recette": "6x Poils de Wo Wabbit\n4x Poils de Grand Pa Wabbit\n2x Poil de Sanglier des Plaines\n50x Plume du Kwak de Flamme\n1x Etoffe du Prespic",
+   "image": "https://barbok.eratz.fr/kwakoiffe_de_flammes.png",
+   "condition": "",
+   "description": "Description : La Kwakoiffe de Flammes vous donne réellement une allure de tombeur, ce qui est très pratique pour mettre à terre vos adversaires, lorsque ceux-ci n'arrivent plus à tenir debout tellement ils rigolent, en vous voyant affublé de cette coiffe."
+  },
+  {
+   "name": "Kwakoiffe de Glace",
+   "level": "Niveau 41",
+   "caracteristique": "Chance : 11 à 15\nRésistance : 3 à 5% (eau)\nSagesse : 4 à 7",
+   "recette": "6x Poils de Wo Wabbit\n4x Poils de Grand Pa Wabbit\n2x Poil de Sanglier des Plaines\n50x Plume du Kwak de Glace\n1x Etoffe du Prespic",
+   "image": "https://barbok.eratz.fr/kwakoiffe_de_glace.png",
+   "condition": "",
+   "description": "Description : Cette Kwakoiffe de Glace vous permettra de toujours avoir des idées fraîches, même lorsque vous serez à court d'idées. Elle n'est cependant pas assez puissante pour un Iop."
+  },
+  {
+   "name": "Kwakoiffe de Terre",
+   "level": "Niveau 41",
+   "caracteristique": "Force : 11 à 15\nRésistance : 3 à 5% (terre)\nSagesse : 4 à 7",
+   "recette": "50x Plume du Kwak de Terre\n6x Poils de Wo Wabbit\n4x Poils de Grand Pa Wabbit\n2x Poil de Sanglier des Plaines\n1x Etoffe du Prespic",
+   "image": "https://barbok.eratz.fr/kwakoiffe_de_terre.png",
+   "condition": "",
+   "description": "Description : Cette Kwakoiffe de Terre est tellement lourde qu'elle vous permettra de garder en permanence les pieds sur terre, mais vous fera également parfois tomber par terre. On ne peut pas tout avoir."
+  },
+  {
+   "name": "Kwakoiffe du Vent",
+   "level": "Niveau 41",
+   "caracteristique": "Agilité : 11 à 15\nRésistance : 3 à 5% (air)\nSagesse : 4 à 7",
+   "recette": "50x Plume du Kwak de Vent\n6x Poils de Wo Wabbit\n2x Poil de Sanglier des Plaines\n4x Poils de Grand Pa Wabbit\n1x Etoffe du Prespic",
+   "image": "https://barbok.eratz.fr/kwakoiffe_du_vent.png",
+   "condition": "",
+   "description": "Description : Pour garder les cheveux au vent même une fois équipé d'une coiffe, rien ne vaut cette sympathique Kwakoiffe du Vent, qui vous permettra sans aucun doute de laisser libre court à votre expression capillaire dans la plupart des circonstances. C'est suffisant pour réussir à interloquer le plus blasé des Chafers."
+  },
+  {
+   "name": "Kaskwette",
+   "level": "Niveau 42",
+   "caracteristique": "Vitalité : 31 à 50\nCoup critiques : +2 à 3\nAugmente les dommages de 11 à 15%\nCréature invocables : +1",
+   "image": "https://barbok.eratz.fr/kaskwette.png",
+   "condition": "",
+   "description": "Description : Les ailes cousues sur ce chapeau protègent vos oreilles des injures, mais uniquement de celles que vous proférez."
+  },
+  {
+   "name": "La HmmMmmMmmm",
+   "level": "Niveau 42",
+   "caracteristique": "Chance : -42\nEchec critique : +13\nForce : 42",
+   "image": "https://barbok.eratz.fr/la_hmmmmmmmmm.png",
+   "condition": "",
+   "description": "Description : Mmmmm mm mmmmmm mmmmm, mmm mmm mm mmmmmm mmmmm mmmmmmm mmmmmm mmm mmmm'm mmmmm mmmm mmmmmmm."
+  },
+  {
+   "name": "Borsalino du Parrain",
+   "level": "Niveau 43",
+   "caracteristique": "Vitalité : 11 à 20\nSagesse : 11 à 20\nPortée : +1",
+   "image": "https://barbok.eratz.fr/borsalino_du_parrain.png",
+   "condition": "",
+   "description": "Description : Ce chapeau plutôt original permet d'affirmer avec fierté votre rôle de parrain. Vous auriez tort de vous en priver."
+  },
+  {
+   "name": "Chapeau Akwadala",
+   "level": "Niveau 43",
+   "caracteristique": "Sagesse : 6 à 25\nChance : 11 à 30\n+2 à 3 de dommages",
+   "recette": "50x Artefact Pandawushu Eau\n4x Peau de Kitsou Nakwa\n3x Poils de Kitsou Nakwa\n1x Poils de Pandule\n1x Poils de Pandikaze",
+   "image": "https://barbok.eratz.fr/chapeau_akwadala.png",
+   "condition": "",
+   "description": "Description : Avec ce chapeau sur la tête, vous ressemblez de loin à un Pandawushuka du village d'Akwadala. De près, vous ne ressemblez à rien."
+  },
+  {
+   "name": "Champo",
+   "level": "Niveau 43",
+   "caracteristique": "Portée : +1\nVitalité : 1 à 40\n+1 à 5 de dommages",
+   "recette": "50x Champignon\n1x Champignon Luidegît\n50x Epine du Champ Champ\n1x Chanvre Euphorique\n20x Feuille de Tournesol Sauvage",
+   "image": "https://barbok.eratz.fr/champo.png",
+   "condition": "",
+   "description": "Description : Le Champo appartenait à l'un des plus grands Maîtres Bolet d'Amakna. Vaillant et brillant, Gnion le Bolet était le seul de sa race à avoir réussi à se faire respecter des êtres humains."
+  },
+  {
+   "name": "Scaracoiffe Rouge",
+   "level": "Niveau 44",
+   "caracteristique": "Intelligence : 1 à 30\nVitalité : 1 à 30\nSagesse : 1 à 15\nRésistance : 1 à 5% (feu)",
+   "recette": "1x Huile de Palme\n12x Fruit de Palme\n5x Carapace de Scarafeuille Rouge\n40x Antenne du Scarafeuille rouge\n10x Ailes de Scarafeuille rouge",
+   "image": "https://barbok.eratz.fr/scaracoiffe_rouge.png",
+   "condition": "",
+   "description": "Description : Affublé de cette coiffe originale, vous pourrez enfin faire croire à vos amis que vous êtes un chasseur de Scarafeuilles."
+  },
+  {
+   "name": "Scaracoiffe Blanche",
+   "level": "Niveau 44",
+   "caracteristique": "Agilité : 1 à 30\nVitalité : 1 à 30\nSagesse : 1 à 15\nRésistance : 1 à 5% (air)",
+   "recette": "1x Huile de Palme\n12x Fruit de Palme\n5x Carapace de Scarafeuille Blanc\n40x Antenne du Scarafeuille blanc\n10x Ailes de Scarafeuille blanc",
+   "image": "https://barbok.eratz.fr/scaracoiffe_blanche.png",
+   "condition": "",
+   "description": "Description : Affublé de cette coiffe originale, vous pourrez enfin faire croire à vos amis que vous êtes un chasseur de Scarafeuilles."
+  },
+  {
+   "name": "Caskogato",
+   "level": "Niveau 44",
+   "caracteristique": "Force : 1 à 30\nVitalité : 1 à 30\nSagesse : 1 à 15\nRésistance : 1 à 5% (terre)",
+   "image": "https://barbok.eratz.fr/caskogato.png",
+   "condition": "",
+   "description": "Description : Autrefois, les poux vous dévoraient le crâne. Avec ce chapeau sur la tête, les Pious vous picoreront le crâne. Parfois, il vaut mieux rester chauve."
+  },
+  {
+   "name": "Scaracoiffe Bleue",
+   "level": "Niveau 44",
+   "caracteristique": "Chance : 1 à 30\nVitalité : 1 à 30\nSagesse : 1 à 15\nRésistance : 1 à 5% (eau)",
+   "recette": "1x Huile de Palme\n12x Fruit de Palme\n5x Carapace de Scarafeuille Bleu\n40x Antenne du Scarafeuille bleu\n10x Ailes de Scarafeuille bleu",
+   "image": "https://barbok.eratz.fr/scaracoiffe_bleue.png",
+   "condition": "",
+   "description": "Description : Affublé de cette coiffe originale, vous pourrez enfin faire croire à vos amis que vous êtes un chasseur de Scarafeuilles."
+  },
+  {
+   "name": "Chapeau Paupayahn",
+   "level": "Niveau 44",
+   "caracteristique": "Agilité : 1 à 30\nVitalité : 1 à 30\nSagesse : 1 à 15\nRésistance : 1 à 5% (air)",
+   "image": "https://barbok.eratz.fr/chapeau_paupayahn.png",
+   "condition": "",
+   "description": "Description : Ce chapeau vous permettra d'étancher vos petites soifs. Le sucre est à commander séparément."
+  },
+  {
+   "name": "Scaracoiffe Verte",
+   "level": "Niveau 44",
+   "caracteristique": "Force : 1 à 30\nVitalité : 1 à 30\nSagesse : 1 à 15\nRésistance : 1 à 5% (terre)",
+   "recette": "1x Huile de Palme\n12x Fruit de Palme\n40x Antenne du Scarafeuille vert\n10x Ailes de Scarafeuille vert\n5x Carapace de Scarafeuille Vert",
+   "image": "https://barbok.eratz.fr/scaracoiffe_verte.png",
+   "condition": "",
+   "description": "Description : Affublé de cette coiffe originale, vous pourrez enfin faire croire à vos amis que vous êtes un chasseur de Scarafeuilles."
+  },
+  {
+   "name": "Casque Vioutifoule",
+   "level": "Niveau 44",
+   "caracteristique": "Intelligence : 1 à 30\nVitalité : 1 à 30\nSagesse : 1 à 15\nRésistance : 1 à 5% (feu)",
+   "image": "https://barbok.eratz.fr/casque_vioutifoule.png",
+   "condition": "",
+   "description": "Description : Ce casque a appartenu au bon vieux Jojo, célèbre héros de l'ancien temps. Connu pour ses divers exploits, on a tout de même du mal à comprendre la passion qui anime ses fans."
+  },
+  {
+   "name": "Casque du Craqueleur",
+   "level": "Niveau 44",
+   "caracteristique": "Vitalité : 1 à 30\nProspection : 1 à 10\nRésistance : 1 à 6 (terre)\nRésistance : 1 à 6 (neutre)",
+   "recette": "2x Coeur de Craqueleur\n6x Pierre du Craqueleur\n12x Charbon\n20x Dent en Or du Craqueleur\n16x Silex",
+   "image": "https://barbok.eratz.fr/casque_du_craqueleur.png",
+   "condition": "",
+   "description": "Description : Ce casque directement taillé dans la pierre vaut son pesant d'or. Il saura vous protéger des attaques d'un Craqueboule tout en vous permettant d'enchaîner des coups de boules dignes du Désiroboule. De quoi faire perdre la boule à tous vos adversaires."
+  },
+  {
+   "name": "Mégacoiffe",
+   "level": "Niveau 44",
+   "caracteristique": "Chance : 1 à 30\nVitalité : 1 à 30\nSagesse : 1 à 15\nRésistance : 1 à 5% (eau)",
+   "image": "https://barbok.eratz.fr/megacoiffe.png",
+   "condition": "",
+   "description": "Description : Pour assurer dans les situations les plus extrêmes, et briller en société, cette coiffe devrait faire l'affaire."
+  },
+  {
+   "name": "Corbacoiffe",
+   "level": "Niveau 45",
+   "caracteristique": "Augmente les dommages de 11 à 20%\nInitiative : 11 à 210",
+   "recette": "45x Patte de Corbac\n40x Plume de Corbac\n1x Coeur de Brandon\n1x Teinture Magique Sombre\n1x Oeil de Corbac",
+   "image": "https://barbok.eratz.fr/corbacoiffe.png",
+   "condition": "",
+   "description": "Description : Grâce à cette magnifique coiffe, vous aurez au moins autant de classe que le tristement célèbre Maître Corbac."
+  },
+  {
+   "name": "Abracaska",
+   "level": "Niveau 45",
+   "caracteristique": "PA : +1\nPM perdu à la cible : 1\nVitalité : 21 à 35",
+   "recette": "3x Bois de Tronknyde\n20x Ecorce d'Abraknyde\n15x Ambre\n60x Bourgeon d'Abraknyde\n40x Racine d'Abraknyde",
+   "image": "https://barbok.eratz.fr/abracaska.png",
+   "condition": "",
+   "description": "Description : L'Abracaska permet d'éviter les gueules de bois."
+  },
+  {
+   "name": "Poshocoiffe",
+   "level": "Niveau 45",
+   "caracteristique": "Augmente les dommages de 11 à 20%\nInitiative : 11 à 210",
+   "image": "https://barbok.eratz.fr/poshocoiffe.png",
+   "condition": "",
+   "description": "Description : Le clou planté dans cette coiffe permet de dégonfler la tête de ceux qui l'ont un peu trop grosse."
+  },
+  {
+   "name": "Goyave",
+   "level": "Niveau 46",
+   "caracteristique": "Vitalité : 31 à 40\nIntelligence : 16 à 25\nSoins : 1 à 5",
+   "recette": "20x Fleur de Bulbiflore\n20x Feuille de Bulbuisson\n20x Pousses de Bulbambou\n5x Peau de Cooleuvre\n3x Poils de Pandikaze",
+   "image": "https://barbok.eratz.fr/goyave.png",
+   "condition": "",
+   "description": "Description : Cette étrange coiffe ressemble à un gros fruit déshydraté en décomposition, un peu comme vous après une soirée passée à la taverne."
+  },
+  {
+   "name": "Coiffe du Boufcoul",
+   "level": "Niveau 47",
+   "caracteristique": "Agilité : 26 à 40\nChance : 26 à 40\nRésistance : 4 à 5 (feu)\nRésistance : 4 à 5 (terre)",
+   "recette": "1x Coiffe du Bouftou\n30x Cuir de Bouftou\n2x Cuir du Boufcoul\n3x Laine du Boufcoul\n30x Laine de Bouftou",
+   "image": "https://barbok.eratz.fr/coiffe_du_boufcoul.png",
+   "condition": "",
+   "description": "Description : Avec cette coiffe sur le crâne, vous n'aurez pas l'air plus astucieux qu'avant, c'est une certitude. En revanche, vous aurez l'air beaucoup plus \"cool\", et finalement, c'est tout ce qui compte."
+  },
+  {
+   "name": "Masque Tromatisant",
+   "level": "Niveau 47",
+   "caracteristique": "Force : 21 à 60\n+3 à 5 de dommages",
+   "recette": "1x Noix de Kokoko Traumatisée\n10x Noix de Kokoko\n10x Ficelle en Lin\n10x Poils de souris\n10x Poils du Sanglier",
+   "image": "https://barbok.eratz.fr/masque_tromatisant.png",
+   "condition": "",
+   "description": "Description : Si vous voulez être traumatisé, il vous faut absolument cette magnifique noix de coco trouée. Nous rappelons à l'utilisateur que l'intérieur est équipé d'une paille et de boissons rafraîchissantes."
+  },
+  {
+   "name": "Bandeau Papayou",
+   "level": "Niveau 48",
+   "caracteristique": "Vitalité : 26 à 40\nChance : 16 à 25\n+3 à 4 de dommages",
+   "image": "https://barbok.eratz.fr/bandeau_papayou.png",
+   "condition": "",
+   "description": "Description : Voici le bandeau parfait pour éponger votre front, ou tout simplement pour avoir la \"Papayou attitude\"."
+  },
+  {
+   "name": "Kraignosse",
+   "level": "Niveau 48",
+   "caracteristique": "Vitalité : 41 à 80\nSagesse : 11 à 15\nAugmente les dommages de 11 à 15%",
+   "recette": "1x Chaîne de l'Ouginak\n20x Bandelettes\n2x Kobalite\n2x Kriptonite\n2x Corne de Chef de Guerre Bouftou",
+   "image": "https://barbok.eratz.fr/kraignosse.png",
+   "condition": "",
+   "description": "Description : Le Kraignosse est un casque inquiétant confectionné à partir de restes d'Ouginak et de divers détritus. Longtemps porté par Gourlo le Terrible, le Kraignosse fût l'image de la désolation."
+  },
+  {
+   "name": "Coiffe du Black Wab",
+   "level": "Niveau 49",
+   "caracteristique": "Vitalité : 21 à 30\nSoins : 2 à 3\nAugmente les dommages de 16 à 25%\nCréature invocables : +1",
+   "image": "https://barbok.eratz.fr/coiffe_du_black_wab.png",
+   "condition": "",
+   "description": "Description : Avec cette coiffe, vous pourrez facilement vous métamorphoser en vengeur masqué, et peut-être même en mangeur vasqué. A vous de voir."
+  },
+  {
+   "name": "Noreilles de Slait",
+   "level": "Niveau 49",
+   "caracteristique": "Vitalité : 21 à 30\nSagesse : 11 à 20\nAgilité : 21 à 30\n+1 à 2 de dommages",
+   "image": "https://barbok.eratz.fr/noreilles_de_slait.png",
+   "condition": "",
+   "description": "Description : Ces oreilles recouvertes de fourrure rousse sont plus aérodynamiques qu'il n'y paraît."
+  },
+  {
+   "name": "Casque du Chafer",
+   "level": "Niveau 50",
+   "caracteristique": "PA : +1\nForce : -21 à -70\nIntelligence : -21 à -70\nAgilité : -21 à -70\nChance : -21 à -70",
+   "recette": "1x Casque Cassé du Chafer\n2x Kobalite\n1x Crête de Porkass\n20x Cuir du Cochon de Lait\n3x Kriptonite\n20x Cuir de Porkass",
+   "image": "https://barbok.eratz.fr/casque_du_chafer.png",
+   "condition": "",
+   "description": "Description : Même Spartapine le grand moissonneur, n'eut pas la chance de porter un tel casque, qui doit sa résistance aux métaux et pierres de qualité utilisés pour sa confection."
+  },
+  {
+   "name": "Boufcoiffe Royale",
+   "level": "Niveau 50",
+   "caracteristique": "Force : 1 à 70\nIntelligence : 1 à 70",
+   "recette": "1x Coiffe du Bouftou\n1x Laine de Bouftou Royal\n1x Cervelle de Chef de Guerre Bouftou\n400x Laine de Bouftou\n200x Laine du Chef de Guerre Bouftou\n300x Laine de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/boufcoiffe_royale.png",
+   "condition": "",
+   "description": "Description : La Boufcoiffe Royale est un objet indémodable. Elégante, elle procure à son porteur force et intelligence."
+  },
+  {
+   "name": "Clint",
+   "level": "Niveau 50",
+   "caracteristique": "Portée : +2\n+5 de dommages\nCoup critiques : +5\nAugmente les dommages de 30 à 0%",
+   "image": "https://barbok.eratz.fr/clint.png",
+   "condition": "",
+   "description": "Description : Le Clint est un chapeau sobre mais qui en jette pas mal. La dernière version de ce chapeau convient aussi bien aux aventurières coquettes qu'aux aventuriers virils. Sûrement un gage de qualité."
+  },
+  {
+   "name": "Makroute Sombre",
+   "level": "Niveau 50",
+   "caracteristique": "Résistance : 3 à 8 (terre)\nRésistance : 3 à 8 (neutre)\nRésistance : 3 à 8 (eau)\nRésistance : 3 à 8 (air)\nRésistance : 3 à 8 (feu)\nVitalité : 16 à 30",
+   "recette": "1x Makroute Déchiqueté\n1x Fil de Soie\n1x Etoffe du Wabbit\n1x Etoffe du Prespic\n1x Poils de Wabbit\n4x Linceul",
+   "image": "https://barbok.eratz.fr/makroute_sombre.png",
+   "condition": "",
+   "description": "Description : Le Makroute Sombre est un chapeau qui provient d'un Makroute Déchiqueté recousu à la main et sans anesthésie.\nMaintenant, il n'obéit plus qu'à son maître et adore mordre les inconnus."
+  },
+  {
+   "name": "Chapodindo",
+   "level": "Niveau 50",
+   "caracteristique": "Sagesse : 1 à 30\nProspection : 1 à 20\nVitalité : 1 à 50\n+1 à 4 de dommages",
+   "recette": "2x Queue de Dragodinde\n3x Queue de Dragodinde Rousse Sauvage\n25x Dent de Dragodinde\n50x Pic de Dragodinde\n11x Aile de Dragodinde Rousse Sauvage\n15x Aile de Dragodinde",
+   "image": "https://barbok.eratz.fr/chapodindo.png",
+   "condition": "",
+   "description": "Description : Vous qui avez toujours rêvé de ressembler à une Dragodinde, c'est le moment ou jamais. Cependant, si vous voulez conserver votre bonne santé, nous vous conseillons d'éviter de vous promener dans les rues d'Amakna durant la période de Noël."
+  },
+  {
+   "name": "Scaracoiffe Noire",
+   "level": "Niveau 53",
+   "caracteristique": "Vitalité : 6 à 45\nSagesse : 6 à 15\n+1 à 4 de dommages\nPortée : +1",
+   "recette": "1x Scaracoiffe Blanche\n1x Scaracoiffe Bleue\n1x Scaracoiffe Rouge\n1x Scaracoiffe Verte\n1x Antennes du Scarafeuille Noir\n1x Ailes du Scarafeuille Noir",
+   "image": "https://barbok.eratz.fr/scaracoiffe_noire.png",
+   "condition": "",
+   "description": "Description : C'est la coiffe parfaite pour ceux qui veulent avoir des idées noires."
+  },
+  {
+   "name": "Kannipiou",
+   "level": "Niveau 55",
+   "caracteristique": "Sagesse : 16 à 25\nSoins : 3 à 7",
+   "recette": "1x Masque Kanniboule\n15x Plume de Piou Jaune\n15x Plume de Piou Violet\n15x Plume de Piou Rose\n15x Plume de Piou Bleu\n15x Plume de Piou Vert",
+   "image": "https://barbok.eratz.fr/kannipiou.png",
+   "condition": "",
+   "description": "Description : Version embellie du célèbre masque Kanniboule, le Kannipiou vous permettra de passer pour un véritable chasseur de Pious, auprès de vos amis."
+  },
+  {
+   "name": "Dragocoiffe Dorée",
+   "level": "Niveau 57",
+   "caracteristique": "Vitalité : 16 à 30\nIntelligence : 16 à 30\nRésistance : 3 à 5 (eau)\nRésistance : 3 à 5 (air)\nRésistance : 3 à 5 (feu)\nRésistance : 5% (feu)",
+   "recette": "20x Or\n1x Cuir de Sanglier des Plaines\n10x Peau de serpentin\n7x Oeuf de Dragoeuf Doré\n15x Coquille de Dragoeuf Doré\n3x Kobalite",
+   "image": "https://barbok.eratz.fr/dragocoiffe_doree.png",
+   "condition": "",
+   "description": "Description : Cette coquille de Dragoeuf Doré rembourrée, vous rend presque insensible aux coups de foudre magiques du Bwork Mage. En revanche, il ne vous protège en rien contre les vrais coups de foudre..."
+  },
+  {
+   "name": "Scaracoiffe Dorée",
+   "level": "Niveau 58",
+   "caracteristique": "Intelligence : 6 à 30\nAgilité : 6 à 30\nCoup critiques : +1 à 5\nCréature invocables : +1 à 2\nProspection : 1 à 10\nRésistance : 1 à 5% (neutre)",
+   "recette": "1x Scaracoiffe Blanche\n1x Scaracoiffe Bleue\n1x Scaracoiffe Noire\n1x Scaracoiffe Rouge\n1x Scaracoiffe Verte\n1x Antennes du Scarabosse Doré",
+   "image": "https://barbok.eratz.fr/scaracoiffe_doree.png",
+   "condition": "",
+   "description": "Description : Cette coiffe est parfaite pour cacher votre acné, ou votre visage de chérubin."
+  },
+  {
+   "name": "Coiffe du Koalak",
+   "level": "Niveau 60",
+   "caracteristique": "Vitalité : 41 à 60\nCoup critiques : +3 à 4\n+4 à 6 de dommages\nCréature invocables : +1",
+   "recette": "1x Poils de Koalak Forestier\n7x Etoffe de Dok Alako\n3x Poils de Koalak Griotte\n4x Poils de Koalak Indigo\n5x Poils de Koalak Koko\n6x Poils de Koalak Reinette",
+   "image": "https://barbok.eratz.fr/coiffe_du_koalak.png",
+   "condition": "",
+   "description": "Description : Cette coiffe est ornée d'énormes oreilles de Koalak, qui permettent d'amplifier les sons émis par les créatures qui vous entourent. Attention, elle peut détruire vos tympans si vos amis sont adeptes des vents de panique."
+  },
+  {
+   "name": "Caracoiffe",
+   "level": "Niveau 60",
+   "caracteristique": "PA : +1\nVitalité : 1 à 80",
+   "recette": "150x Carapace Bleue Vide\n150x Carapace Jaune Vide\n150x Carapace Rouge Vide\n200x Kokopaille\n150x Carapace Verte Vide\n20x Pot de Gloutovore",
+   "image": "https://barbok.eratz.fr/caracoiffe.png",
+   "condition": "",
+   "description": "Description : Comme vous, la tortue a vraiment une toute petite tête. Ca tombe bien, ce chapeau est spécialement prévu pour ça."
+  },
+  {
+   "name": "Oreilles de Wabbits",
+   "level": "Niveau 60",
+   "caracteristique": "Sagesse : 11 à 40\nChance : 16 à 25\nProspection : 1 à 8\nRésistance : 1 à 5% (eau)",
+   "recette": "16x Oreilles du Tiwabbit\n10x Poils de Barbe du Grand Pa Wabbit\n36x Poils de Wo Wabbit\n19x Patte de Wabbit\n21x Poils de Black Tiwabbit\n18x Oreille du Grand Pa Wabbit",
+   "image": "https://barbok.eratz.fr/oreilles_de_wabbits.png",
+   "condition": "",
+   "description": "Description : Ces oreilles ne vous permettront pas de mieux entendre, mais permettront à vos amis de mieux vous retrouver dans la foule, et à vos ennemis, de mourir de rire. Une paire d'oreilles qui s'avère avec le temps vraiment indispensable."
+  },
+  {
+   "name": "Gelocoiffe",
+   "level": "Niveau 60",
+   "caracteristique": "Prospection : 6 à 20\nSagesse : 1 à 30\nIntelligence : 1 à 40",
+   "recette": "10x Gelée Bleutée\n20x Gelée à la Fraise\n20x Gelée à la Menthe\n10x Eau\n20x Blugely\n20x Vertgely",
+   "image": "https://barbok.eratz.fr/gelocoiffe.png",
+   "condition": "",
+   "description": "Description : Avec cette coiffe sur la tête, vous pouvez être certain que vos amis rêveront enfin de vous lécher. Voilà un chapeau qui aurait comblé le Captain Chafer à la grande époque."
+  },
+  {
+   "name": "Coiffe du Kitsou",
+   "level": "Niveau 61",
+   "caracteristique": "Vitalité : 51 à 150",
+   "recette": "1x Peau de Kitsou Nae\n1x Poils de Kitsou Nufeu\n1x Poils de Kitsou Nae\n1x Peau de Kitsou Nakwa\n1x Poils de Kitsou Nere\n1x Poils de Kitsou Nakwa",
+   "image": "https://barbok.eratz.fr/coiffe_du_kitsou.png",
+   "condition": "",
+   "description": "Description : Cette tête de Kitsou n'est portable que par les aventuriers qui ont perdu l'odorat. On ne se demande pas pourquoi..."
+  },
+  {
+   "name": "Coiffe du Mulou",
+   "level": "Niveau 61",
+   "caracteristique": "Vitalité : 1 à 40\nSagesse : 1 à 20\nAgilité : 1 à 40\n+1 à 5 de dommages\nCréature invocables : +1\nProspection : 1 à 10",
+   "recette": "1x Mojo du Mulou\n10x Oeil de Mulou\n20x Oeil du Milimulou\n30x Canine du Mulou\n30x Griffe du Mulou\n2x Scalp de Mulou",
+   "image": "https://barbok.eratz.fr/coiffe_du_mulou.png",
+   "condition": "",
+   "description": "Description : Avec cette tête de Mulou sur le crâne, vous ressemblez à Bernaize Mainarht, illustre ménestrel en avance sur son temps, dont la tête fut retrouvée coincée dans la gueule d'un Mulou agonisant, n'ayant pas supporté les chansons que le ménestrel avait tenté de lui infliger."
+  },
+  {
+   "name": "Chapeau Aerdala",
+   "level": "Niveau 64",
+   "caracteristique": "Agilité : 26 à 40\nSagesse : 11 à 20\n+2 à 3 de dommages\nRésistance : 6 à 8 (neutre)\nRésistance : 6 à 8 (air)",
+   "recette": "12x Peau de Kitsou Nakwa\n8x Peau de Kitsou Nae\n50x Artefact Pandawushu Air\n1x Aigue-Marine\n20x Peau de serpentin\n10x Poils de Pandikaze",
+   "image": "https://barbok.eratz.fr/chapeau_aerdala.png",
+   "condition": "",
+   "description": "Description : Avec ce chapeau sur la tête, vous ressemblez de loin à un Pandawushuka du village d'Aerdala. De près, vous ne ressemblez à rien."
+  },
+  {
+   "name": "Coiffe du Chef Crocodaille",
+   "level": "Niveau 70",
+   "caracteristique": "Vitalité : 21 à 30\nSagesse : 16 à 20\nAgilité : 21 à 30\nChance : 21 à 30\nPortée : +1\nCréature invocables : +1\nRésistance : 4 à 5% (feu)",
+   "recette": "1x Crâne de Chef Crocodaille\n25x Ecaille de Chef Crocodaille\n25x Ecaille de Crocodaille\n1x Peau de Chef Crocodaille\n1x Peau de Crocodaille\n4x Os de Crocodaille",
+   "image": "https://barbok.eratz.fr/coiffe_du_chef_crocodaille.png",
+   "condition": "",
+   "description": "Description : Si vous avez toujours rêvé de ressembler à un Crocodaille sans pour autant vous transformer en Crocodaille, cette coiffe est faîte pour vous. N'espérez pas pour autant utiliser cette coiffe pour faire croire à vos amis que vous avez un jour réussi à tuer vous-même un Crocodaille. Personne n'y croira, à part vous peut-être."
+  },
+  {
+   "name": "Dragocoiffe de Saphire",
+   "level": "Niveau 70",
+   "caracteristique": "Vitalité : 31 à 50\nChance : 21 à 35\n+2 à 3 de dommages\nCréature invocables : +1 à 2\nRésistance : 3 à 5 (terre)\nRésistance : 3 à 5 (neutre)\nRésistance : 5% (eau)",
+   "recette": "25x Coquille de Dragoeuf Saphir\n18x Oeuf de Dragoeuf de Saphir\n2x Saphir\n2x Cristal\n10x Laine du Chef de Guerre Bouftou\n30x Laine de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/dragocoiffe_de_saphire.png",
+   "condition": "",
+   "description": "Description : Cette coquille de Dragoeuf de Saphire vous ira à merveille si vous savez la porter. Arborer une telle coiffe n'est pas à la portée de tout le monde, la preuve, les Iops ont tendance à la porter à l'envers."
+  },
+  {
+   "name": "Coiffe du Dragoeuf volant",
+   "level": "Niveau 72",
+   "caracteristique": "Intelligence : 31 à 45\nCoup critiques : +3 à 4\nVitalité : 31 à 50\nCréature invocables : +1 à 2\nRésistance : 3 à 5% (air)\nInitiative : 151 à 200",
+   "recette": "1x Coquille de Dragoss Blanc\n1x Coquille de Dragoss Doré\n1x Dragocoiffe Blanche\n1x Dragocoiffe Dorée\n10x Etoffe du Wabbit\n10x Plume de Corbac Apprivoisé",
+   "image": "https://barbok.eratz.fr/coiffe_du_dragoeuf_volant.png",
+   "condition": "",
+   "description": "Description : Cette petite coiffe permet au Dragoeuf volant de se jeter sur ses ennemis sans risquer de se faire de jolies bosses sur le crâne. Utilisée depuis longtemps sur les grands chantiers d'Amakna, cette coiffe a connu un regain de popularité après l'invasion d'Astrub par l'illustre troupe des Meulous débridés de la montagne de Kruup. Il n'y a aucune logique dans cette histoire, mais quelle importance ?"
+  },
+  {
+   "name": "Korko Kousto",
+   "level": "Niveau 73",
+   "caracteristique": "Vitalité : 21 à 40\n+3 à 7 de dommages\nCréature invocables : +2 à 3\nIntelligence : 21 à 40\nSagesse : 16 à 25\nForce : 21 à 40",
+   "recette": "1x Jouik Krampe\n50x Feuille de Fourbasse\n20x Fleur de Gloutovore\n30x Feuille de Kokoko\n10x Peau de Trukikol\n1x Trukikol Mort",
+   "image": "https://barbok.eratz.fr/korko_kousto.png",
+   "condition": "Classe doit etre Sadida",
+   "description": "Description : Version retravaillée du Jouik Krampe, ce chapeau utilise les meilleurs ressources de l'île de Moon, ce qui lui donne un cachet très terroir reconnaissons-le. A défaut de ressembler à un Kanniboul, vous pourrez sortir de très bons coups de boule."
+  },
+  {
+   "name": "Chapeau Terrdala",
+   "level": "Niveau 75",
+   "caracteristique": "Force : 21 à 35\nVitalité : 31 à 50\nSagesse : 21 à 35\nPortée : +1\nProspection : 4 à 5\nRésistance : 4 à 5 (feu)\nRésistance : 4 à 5 (air)",
+   "recette": "50x Artefact Pandawushu Terre\n1x Aigue-Marine\n4x Poils de Kitsou Nere\n5x Peau de Kitsou Nere\n8x Poils de Pandikaze\n10x Poils de Pandule",
+   "image": "https://barbok.eratz.fr/chapeau_terrdala.png",
+   "condition": "",
+   "description": "Description : Avec ce chapeau sur la tête, vous ressemblez de loin à un Pandawushuka du village de Terrdala. De près, vous ne ressemblez à rien."
+  },
+  {
+   "name": "Octovius",
+   "level": "Niveau 77",
+   "caracteristique": "Vitalité : 201 à 250\nRésistance : 6 à 8 (eau)\nRésistance : 6 à 8 (terre)",
+   "recette": "400x Kralamoure vidé\n20x Peau de Kanigrou\n15x Peau de Cooleuvre\n12x Peau de Léopardo\n19x Peau de Pandikaze\n30x Peau de Kitsou Nae",
+   "image": "https://barbok.eratz.fr/octovius.png",
+   "condition": "",
+   "description": "Description : Cette coiffe a été confectionnée à partir de restes de Kralamoures morts, séchés. Attention, elle risque de reprendre vie si vous vous en servez comme bonnet de bain."
+  },
+  {
+   "name": "Couronne du Roi Gelax",
+   "level": "Niveau 79",
+   "caracteristique": "Vitalité : 201 à 300\nCoup critiques : +4 à 6\nInitiative : 200",
+   "image": "https://barbok.eratz.fr/couronne_du_roi_gelax.png",
+   "condition": "",
+   "description": "Description : Cette couronne a appartenu à l'illustre Roi Gelax, réputé pour son romantisme débordant et son pouvoir de séduction qui a marqué à vie plus d'une Gelée femelle... On raconte même, qu'il est plus ou moins le père de toutes les Gelées de la région d'Amakna, preuve s'il en est, de son endurance et de sa fertilité légendaire."
+  },
+  {
+   "name": "Chapeau de Barbroussa",
+   "level": "Niveau 79",
+   "caracteristique": "Agilité : 31 à 50\nSagesse : 11 à 20\nCoup critiques : +4 à 5\nPortée : +1\nInitiative : 201 à 300\nRésistance : 4 à 6 (terre)\nRésistance : 4 à 6% (terre)",
+   "recette": "29x Maillot de corps de Barbroussa\n2x Touffe rousse du Flib\n1x Etoffe de Gourlo le Terrible\n2x Morceau de caleçon de Gourlo\n14x Moustache du Mufafah\n7x Barbe inexistante du Barbroussa",
+   "image": "https://barbok.eratz.fr/chapeau_de_barbroussa.png",
+   "condition": "",
+   "description": "Description : Ce chapeau était suffisamment large pour dissimuler la tête et la barbe ridiculement peu fournie de Barbroussa. Mais il n'est pas capable de couvrir le crâne de quelqu'un ayant la grosse tête."
+  },
+  {
+   "name": "Casque du Craqueleur Légendaire",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 41 à 60\nSagesse : 16 à 25\nAgilité : 26 à 35\nCoup critiques : +2 à 3\nAugmente les dommages de 11 à 15%\nPortée : +1\nInitiative : 101 à 200\nRésistance : 5 à 7 (feu)\nRésistance : 5 à 7 (air)",
+   "recette": "5x Pierre du Craqueleur Légendaire\n5x Fragment de Pierre Pointue\n50x Silex\n8x Rubis\n2x Agathe\n1x Casque du Craqueleur\n16x Pierre du Craqueleur",
+   "image": "https://barbok.eratz.fr/casque_du_craqueleur_legendaire.png",
+   "condition": "",
+   "description": "Description : Version améliorée du casque du Craqueleur, ce roc vous protègera efficacement des chutes de pierres, mais pas des chutes de cheveux."
+  },
+  {
+   "name": "Shikacoiffe",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 26 à 35\nSagesse : 21 à 30\n+1 à 2 de dommages\nPortée : +1\nProspection : 8 à 10\nRésistance : 3 à 5% (air)",
+   "recette": "1x Avoine Aurifère\n50x Fleur de Kaliptus\n12x Poils de Koalak Reinette\n12x Poils de Koalak Indigo\n4x Avoine Magique\n1x Lin Tempête\n3x Poils de Koalak Forestier",
+   "image": "https://barbok.eratz.fr/shikacoiffe.png",
+   "condition": "",
+   "description": "Description : Recouverte d'une multitude de fleurs des moissons, cette coiffe donnait une allure guillerette à Shika, lorsqu'elle partait au petit matin, labourer les collines Koln."
+  },
+  {
+   "name": "Farlacoiffe",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 26 à 35\nSagesse : 21 à 30\n+1 à 2 de dommages\nPortée : +1\nProspection : 8 à 10\nRésistance : 3 à 5% (eau)",
+   "recette": "2x Lin Tempête\n2x Seigle Résistant\n2x Avoine Aurifère\n4x Etoffe de Kanigrou\n5x Etoffe du Prespic\n15x Poil de Kanigrou\n5x Poils de Grand Pa Wabbit",
+   "image": "https://barbok.eratz.fr/farlacoiffe.png",
+   "condition": "",
+   "description": "Description : Ce chapeau de paille a été confectionné à l'aide d'une multitude d'épis magiques tressés entre eux, puis l'intérieur a été rembourré avec divers poils et étoffes cousues à la main par Shika Ingalsse, femme de Farle. Plus classe que le Ploukosse, et plus stylé que le Kraignosse, ce chapeau vous protègera du cagnard comme il l'a fait pour Farle pendant des centaines de moissons, tout en vous donnant une allure guillerette et vraiment \"cool\". Suffisant pour s'improviser roi ou reine des champs."
+  },
+  {
+   "name": "La Bertheuze",
+   "level": "Niveau 81",
+   "caracteristique": "Vitalité : 81 à 110\nIntelligence : 16 à 30\nAgilité : 16 à 30\nSoins : 4 à 6\nRésistance : 6 à 10 (eau)\nRésistance : 6 à 10 (terre)",
+   "recette": "8x Poil d'Ouginak\n16x Poils de Black Tiwabbit\n10x Plume du Kwak de Glace\n8x Poils de Léopardo\n5x Poils de Kitsou Nae\n3x Poils de Pandikaze\n1x Etoffe de Yokai Firefoux",
+   "image": "https://barbok.eratz.fr/la_bertheuze.png",
+   "condition": "",
+   "description": "Description : Cette coiffe surpuissante tient plus de la perruque qu'autre chose, mais qu'importe, elle est surpuissante. En effet, son propriétaire aimait se travestir et se faire passer pour les autres, afin de mieux profiter des personnes naïves. Ses jeux lugubres et glauques finirent par être découverts, tout comme son crâne, une fois sa coiffe retirée. Son immense talent d'artiste lui sauva la vie, puisqu'il se proposa quelques jours avant sa mise à mort, pour sculpter une statue géante à l'effigie des parties intimes du Meulou. Il fût tout de même brûlé vif une fois la statue finie."
+  },
+  {
+   "name": "Coiffe du Koulosse",
+   "level": "Niveau 82",
+   "caracteristique": "Vitalité : 151 à 300\nForce : -1 à -100\nAgilité : -1 à -100\nIntelligence : -1 à -100\nChance : -1 à -100\nRésistance : 1 à 5% (neutre)\nRésistance : 1 à 5% (feu)\nRésistance : 1 à 10 (neutre)\nRésistance : 1 à 10 (feu)",
+   "image": "https://barbok.eratz.fr/coiffe_du_koulosse.png",
+   "condition": "",
+   "description": "Description : Cette coiffe a appartenu au célèbre Koulosse, réputé pour ses pieds d'argile et sa bonne humeur légendaire."
+  },
+  {
+   "name": "Dragocoiffe noire",
+   "level": "Niveau 93",
+   "caracteristique": "Vitalité : 31 à 50\nSagesse : 6 à 15\nChance : 21 à 40\n+3 à 7 de dommages\nAugmente les dommages de 6 à 10%\nPortée : +1\nProspection : 6 à 15\nRésistance : 5% (terre)",
+   "recette": "40x Coquille de Dragoeuf Noir\n30x Oeuf de Dragoeuf Noir\n3x Emeraude\n3x Saphir\n10x Kobalite\n30x Laine du Chef de Guerre Bouftou\n30x Peau de serpentin",
+   "image": "https://barbok.eratz.fr/dragocoiffe_noire.png",
+   "condition": "",
+   "description": "Description : Cette coquille de Dragoeuf Noir est idéale pour rester discret la nuit, ou se protéger des chutes de pierres, courantes en montagne, ou lorsque l'on défie un Craqueleur au lancer de rochers."
+  },
+  {
+   "name": "Coiffe de la Dragueuse",
+   "level": "Niveau 95",
+   "caracteristique": "Force : 26 à 40\nAgilité : 26 à 40\nVitalité : 51 à 90\nProspection : 6 à 10\n+4 à 6 de dommages\nInitiative : 151 à 250\nCoup critiques : +1 à 2\nRésistance : 6 à 8% (feu)",
+   "recette": "1x Dragocoiffe Dorée\n100x Pétale de Blop\n1x Corne de Dragueuse\n1x Pétale Magique du Tournesol Affamé\n100x Feuille de Bambouto\n1x Dragocoiffe Blanche\n100x Pétale de Tournesol Sauvage",
+   "image": "https://barbok.eratz.fr/coiffe_de_la_dragueuse.png",
+   "condition": "",
+   "description": "Description : Equipé de cette coiffe, vous pourrez sans peine vous travestir et séduire le premier Astrubien un peu trop crédule que vous voudrez arnaquer, en lui proposant une folle nuit d'amour derrière un grand orme, pour 100 kamas seulement."
+  },
+  {
+   "name": "Masque de l'Abrakleur sombre",
+   "level": "Niveau 95",
+   "caracteristique": "Force : 26 à 40\nIntelligence : 26 à 40\nVitalité : 51 à 80\nSagesse : 16 à 25\n+4 à 5 de dommages\nProspection : 6 à 10\nRésistance : 5 à 7% (eau)",
+   "recette": "8x Rembourrage de Meupette\n16x Fragment de cerveau poli\n9x Talon d'achille de l'Abrakleur sombre\n16x Maillot de corps de Barbroussa\n43x Graine de l'Abrakleur sombre\n3x Ecorce de Floribonde\n1x Etoffe de Gourlo le Terrible",
+   "image": "https://barbok.eratz.fr/masque_de_labrakleur_sombre.png",
+   "condition": "",
+   "description": "Description : Ce masque ne permet ni de prévenir ni de guérir la gueule de bois, mais il vous permet au moins de la dissimuler de façon élégante. La nuance sombre indique juste que vous êtes de mauvaise humeur et qu'il ne faut pas vous chauffer longtemps pour que vous lanciez à tout le monde une volée de bois vert."
+  },
+  {
+   "name": "Chapeau Feudala",
+   "level": "Niveau 98",
+   "caracteristique": "Vitalité : 41 à 60\nSagesse : 21 à 30\nIntelligence : 26 à 40\nProspection : 6 à 10\nRésistance : 6 à 10% (feu)\nRésistance : 6 à 10% (air)",
+   "recette": "50x Artefact Pandawushu Feu\n1x Saphir\n1x Etoffe de Pandikaze\n5x Peau de Pandikaze\n5x Poils de Kitsou Nufeu\n12x Peau de Kitsou Nufeu\n4x Poils de Kitsou Nae",
+   "image": "https://barbok.eratz.fr/chapeau_feudala.png",
+   "condition": "",
+   "description": "Description : Avec ce chapeau sur la tête, vous ressemblez de loin à un Pandawushuka du village de Feudala. De près, vous ne ressemblez à rien."
+  },
+  {
+   "name": "Coiffe du Dragon Cochon",
+   "level": "Niveau 98",
+   "caracteristique": "Chance : 21 à 35\nAgilité : 21 à 35\nCoup critiques : +2 à 4\n+4 à 6 de dommages\nSagesse : 21 à 30\nRésistance : 1 à 10 (air)\nRésistance : 1 à 10 (eau)\nRésistance : 4 à 6% (eau)\nProspection : 6 à 10\nRésistance : 1 à 10 (feu)\nRésistance : 1 à 10 (terre)\nRésistance : 1 à 10 (neutre)",
+   "recette": "1x Crâne du Dragon Cochon\n1x Crâne de Chef Crocodaille\n25x Crâne de chafer\n12x Cubitus de Momie Koalak\n3x Fémur de Koalak Farouche\n31x Os de Pékeualak\n4x Os de Mama Koalak",
+   "image": "https://barbok.eratz.fr/coiffe_du_dragon_cochon.png",
+   "condition": "",
+   "description": "Description : Affublé de cet énorme crâne, vous aurez l'air d'un Grizboule à poils durs, mais sans poils. De quoi laisser sans voix vos admiratrices."
+  },
+  {
+   "name": "Billréole",
+   "level": "Niveau 100",
+   "caracteristique": "Créature invocables : +1 à 2\nPortée : +1 à 2\nSoins : 6 à 10\nInitiative : 1 à 2000\nVitalité : 51 à 100",
+   "recette": "2x Sourcil du Rasboul majeur\n4x Crinière fleurie\n12x Tissu Invisible\n19x Fragment de cerveau poli\n3x Touffe rousse du Flib\n2x Etoffe du Rat Blanc\n13x Plume de fesse du Kido",
+   "image": "https://barbok.eratz.fr/billreole.png",
+   "condition": "",
+   "description": "Description : Bill voulait une auréole. Il cria si fort et fit si grand caprice qu'on la lui accorda. Un vrai petit diable."
+  },
+  {
+   "name": "Casque du Chef Bwork",
+   "level": "Niveau 100",
+   "caracteristique": "Force : 26 à 40\nVitalité : 26 à 40\nSagesse : 16 à 25\nAgilité : 26 à 40\nChance : 21 à 35\n+3 à 4 de dommages\nPortée : +1\nRésistance : 4 à 5% (air)\nRésistance : 4 à 5% (feu)\nRésistance : 4 à 5% (eau)",
+   "image": "https://barbok.eratz.fr/casque_du_chef_bwork.png",
+   "condition": "",
+   "description": "Description : Si vous voulez réellement avoir une tête de gros débile, ce casque est fait pour vous. Avec un peu de chance, on ne verra même pas la différence lorsque vous l'enlèverez."
+  },
+  {
+   "name": "Kabuto",
+   "level": "Niveau 101",
+   "caracteristique": "Augmente les dommages de 21 à 35%\n+4 à 6 de dommages\nVitalité : 71 à 100\nCréature invocables : +1\nSoins : 4 à 6\nRésistance : 4 à 6% (terre)\nRésistance : 4 à 6% (eau)\nInitiative : 101 à 150",
+   "recette": "15x Bois de Kaliptus\n100x Ecorce d'Abraknyde\n2x Etoffe de Fantôme Pandule\n21x Antennes du Scarafeuille Noir\n20x Etoffe de Dok Alako\n40x Ecorce de Fourbasse\n8x Ambre de Bambouto Sacré",
+   "image": "https://barbok.eratz.fr/kabuto.png",
+   "condition": "",
+   "description": "Description : Porté autrefois par les forces de l'ordre des plus grandes cités, ce casque est aujourd'hui utilisé pour effrayer ceux qui contestent l'ordre établi et cherchent à en apprendre trop sur ce qui régit leur univers."
+  },
+  {
+   "name": "Masque du Rat Noir",
+   "level": "Niveau 102",
+   "caracteristique": "Agilité : 26 à 40\nSagesse : 16 à 25\nVitalité : 51 à 80\nCoup critiques : +3 à 4\n+6 à 10 de dommages aux pièges\nAugmente les dommages de 6 à 10%\n16 à 25% de dommages aux pièges\nRésistance : 4 à 6 (air)\nRésistance : 4 à 6 (terre)",
+   "recette": "2x Poil de Chaman d'Egoutant\n20x Main de Boo\n10x Sève d'Abraknyde\n4x Etoffe du Rat Noir\n20x Poils de souris\n20x Oeil de Kolérat\n30x Poil de Rat d'Egoutant",
+   "image": "https://barbok.eratz.fr/masque_du_rat_noir.png",
+   "condition": "",
+   "description": "Description : Ce masque a servi à Brouce Boulgoure lorsqu'il infiltra subtilement un repaire de rats d'Egoûtants afin de couper un orme en commençant par les racines. Il finit tout de même par massacrer tous les rats du repaire, parce qu'il n'était en réalité pas très discret, avec ses gros sabots en bois."
+  },
+  {
+   "name": "Chapeau du Mineur Sombre",
+   "level": "Niveau 103",
+   "caracteristique": "Sagesse : 21 à 40\nChance : 31 à 50\nPortée : +1\nProspection : 6 à 15\n+3 à 5 de dommages\nRésistance : 3 à 5% (feu)\nRésistance : 3 à 5% (eau)\nRésistance : 3 à 5% (terre)",
+   "recette": "1x Bougie Magique du Mineur Sombre\n1x Crinière de Trool\n2x Laine du Trool Furieux\n8x Bougie du Mineur Sombre\n13x Pince de Scorbute\n3x Rutile\n3x Pyrute",
+   "image": "https://barbok.eratz.fr/chapeau_du_mineur_sombre.png",
+   "condition": "",
+   "description": "Description : Ce somptueux chapeau vous permet d'y voir plus clair même lorsqu'il fait déjà assez clair. Il est également très utile pour éblouir les bêtes qui hantent les mines mal famées, ou tout simplement, pour faire croire aux Iops que vous êtes une lumière."
+  },
+  {
+   "name": "Capuche de la Ouassingue",
+   "level": "Niveau 104",
+   "caracteristique": "Vitalité : 71 à 120\nSagesse : 21 à 30\nAgilité : 16 à 25\nIntelligence : 26 à 40\nSoins : 4 à 6\n+4 à 6 de dommages\nRésistance : 6 à 10% (neutre)",
+   "recette": "14x Jus de Ouassingue\n1x Sourcil du Rasboul majeur\n4x Tourbe séchée de Tourbassingue\n7x Faux menton du Bourbassingue\n1x Etoffe du Roissingue\n101x Etoffe de Ouassingue\n3x Etoffe de Meupette",
+   "image": "https://barbok.eratz.fr/capuche_de_la_ouassingue.png",
+   "condition": "",
+   "description": "Description : Moins efficace que la Coiffe royale, cette capuche permet toutefois une très bonne évacuation de la sueur. Un peu trop bonne, en fait. Du coup, que l'on porte la capuche ou qu'on ne la porte pas ne fait aucune différence."
+  },
+  {
+   "name": "Coiffe du Rat Blanc",
+   "level": "Niveau 105",
+   "caracteristique": "Agilité : 26 à 35\nForce : 16 à 25\nVitalité : 51 à 100\nSagesse : 11 à 20\nCoup critiques : +2 à 3\n+4 à 6 de dommages\nAugmente les dommages de 6 à 10%\nInitiative : 101 à 200\nRésistance : 4 à 6 (feu)",
+   "recette": "20x Poil de Rat d'Egoutant\n1x Poil de Chaman d'Egoutant\n12x Poil de Kanigrou\n1x Champo\n25x Crocs de Rats\n2x Etoffe du Rat Blanc\n15x Etoffe de Kanigrou",
+   "image": "https://barbok.eratz.fr/coiffe_du_rat_blanc.png",
+   "condition": "",
+   "description": "Description : Avec cette coiffe, le Rat Blanc ressemble à un vrai Rat Blanc de Bonta. Sans cette coiffe, il ressemble à un vrai Rat Blanc de Bonta sans coiffe."
+  },
+  {
+   "name": "Coiffe du Gaddie",
+   "level": "Niveau 106",
+   "caracteristique": "Vitalité : 201 à 250\nRésistance : 6 à 10 (neutre)\nRésistance : 6 à 10 (eau)\nRésistance : 6 à 10% (neutre)\nRésistance : 6 à 10% (eau)",
+   "recette": "1x Etoffe de Soryo Firefoux\n20x Poils de souris\n1x Etoffe de Fantôme Pandule\n15x Poils de Kitsou Nae\n15x Poils de Léopardo\n9x Poils de Pandikaze\n3x Poils de Pandule",
+   "image": "https://barbok.eratz.fr/coiffe_du_gaddie.png",
+   "condition": "",
+   "description": "Description : Créature étrange sortie d'un monde imaginaire, le Gaddie se démarquait avant tout par son extraordinaire ruse, son aversion totale pour le règne végétal, et sa faculté à jeûner pendant plusieurs jours en temps de guerre. Une créature aussi complexe à comprendre était de toute évidence impossible à maîtriser, on la laissa donc vivre en paix dans les mines sans fond de Kruup, où elle fit connaissance avec une vieille Liche dévoreuse de Bouftons."
+  },
+  {
+   "name": "Blémiche",
+   "level": "Niveau 108",
+   "caracteristique": "Vitalité : 101 à 150\nSagesse : 21 à 35\nProspection : 11 à 15\nRésistance : 6 à 10% (air)\nRésistance : 6 à 10% (eau)",
+   "recette": "1x Etoffe de Fantôme Pandikaze\n1x Etoffe de Fantôme Maho Firefoux\n4x Poils de Maho Firefoux\n3x Poils de Pandule\n15x Poils de Wo Wabbit\n16x Poils du Milimulou\n3x Plume du Kwak de Vent",
+   "image": "https://barbok.eratz.fr/blemiche.png",
+   "condition": "",
+   "description": "Description : Cette coiffe de mariée est passée de mode depuis bien longtemps, peut-être à cause de sa dentelle qui date d'une autre ère. Recyclée en culotte, et portée sur une tête bien garnie en cheveux, elle pourrait cependant mettre en transe, le plus blasé des Chafers."
+  },
+  {
+   "name": "Coiffe du Bimd'Oule",
+   "level": "Niveau 110",
+   "caracteristique": "Agilité : 26 à 40\nVitalité : 101 à 150\nChance : 26 à 40\nAugmente les dommages de 16 à 25%\nCréature invocables : +1\nInitiative : 201 à 300\nProspection : 16 à 20\nRésistance : 5 à 7 (feu)\nCoup critiques : +2 à 3\nRésistance : 5 à 7% (feu)",
+   "recette": "1x Coiffe déchiquetée de Drakoalak\n18x Etoffe de Dok Alako\n1x Poil de Bworkette\n21x Poil de Renarbo\n5x Poils de Barbe du Warko Marron\n2x Poils de Barbe du Warko Violet\n2x Etoffe de Fantôme Pandule",
+   "image": "https://barbok.eratz.fr/coiffe_du_bimdoule.png",
+   "condition": "",
+   "description": "Description : C'est un vieil Enutrof, connu sous le nom de Dhy-Ah-Mhanhd, aigri et rongé par des siècles de malchance qui fit le premier, la découverte de cette terrible coiffe, cachée au fond d'une alcôve dans les grottes de Bimd'Oule. Plus tard, l'Enutrof s'exila loin des terres d'Amakna pour tenter d'échapper à l'ennui et découvrir de nouveaux horizons. La légende raconte qu'il revient sur ses terres natales une fois par siècle, pour se moquer de ses anciens amis, mais surtout par nostalgie."
+  },
+  {
+   "name": "La Bekille",
+   "level": "Niveau 111",
+   "caracteristique": "Vitalité : 151 à 200\nIntelligence : 31 à 50\nAgilité : 31 à 50\nCoup critiques : +4 à 6\n+5 à 8 de dommages\nRésistance : 5 à 8% (eau)\nRésistance : 5 à 8% (terre)",
+   "recette": "1x Etoffe de Fantôme Pandikaze\n6x Poils de Pandule\n8x Poils de Pandikaze\n5x Etoffe de Kanigrou\n26x Plume du Kwak de Terre\n18x Poils de Kitsou Nakwa\n4x Poils de Soryo Firefoux",
+   "image": "https://barbok.eratz.fr/la_bekille.png",
+   "condition": "",
+   "description": "Description : Ce chapeau au nom surprenant, appartenait à un pauvre Ecaflip, qui avait perdu l'usage de la parole suite à un terrible traumatisme. Artiste dans l'âme, et dans le sang, il fût contraint de suivre une formation de Brasseur. Il se noya dans un fût de bière et de larmes, vers son quatorzième anniversaire. Heureusement, la bière ne fut pas perdue pour autant, puisque le prêtre responsable des obsèques, tomba dans un coma éthylique pendant plusieurs années avant de reprendre son office là où il s'était arrêté."
+  },
+  {
+   "name": "Phalène",
+   "level": "Niveau 113",
+   "caracteristique": "Vitalité : 101 à 150\nSagesse : 21 à 30\nIntelligence : 31 à 50\nSoins : 6 à 10\nRésistance : 6 à 10% (air)\nRésistance : 6 à 10% (eau)",
+   "recette": "500x Ailes de Moskito\n500x Sourcil de Moskito\n1x Etoffe de Pandore\n9x Poils de Tanukouï San\n1x Etoffe de Fantôme Pandule\n4x Etoffe de Pandikaze\n16x Poils de Kitsou Nere",
+   "image": "https://barbok.eratz.fr/phalene.png",
+   "condition": "",
+   "description": "Description : Cette coiffe est un hommage aux cousins lointains des Moskitos, les Phalènes. Bien plus gros, mais plus gentils que les Moskitos, les Phalènes avaient une fâcheuse tendance à chercher à se reproduire avec tout et n'importe quoi, mais surtout avec n'importe quoi, ce qui a conduit à une extinction progressive de leur espèce. Cette terrible histoire n'avait laissé personne indifférent, et de nos jours, il est courant d'insulter un aventurier de Phalène, lorsque l'on veut insinuer qu'il choisit très mal ses conjoints..."
+  },
+  {
+   "name": "Abracaska Ancestral",
+   "level": "Niveau 114",
+   "caracteristique": "Chance : 31 à 50\nForce : 26 à 40\nSagesse : 26 à 40\nVitalité : 151 à 200\n+5 à 7 de dommages\nAugmente les dommages de 6 à 10%\nProspection : 6 à 10\nRésistance : 5 à 7% (feu)",
+   "recette": "1x Abracaska\n1x Ambre Ancestrale\n3x Ecorce d'Abraknyde Ancestral\n3x Racine d'Abraknyde Ancestral\n20x Bourgeon d'Abraknyde Sombre\n2x Racine d'Abraknyde Sombre\n120x Racine d'Abraknyde",
+   "image": "https://barbok.eratz.fr/abracaska_ancestral.png",
+   "condition": "",
+   "description": "Description : Cette Coiffe fut créée pour Jicé Aouaire car il a la tête plate, aucun soucis d'équilibre pour l'arborer donc.\nIl l'a faite faire après avoir vaincu l'Abraknyde Ancestral en brisant ses noisettes entre ses fesses, mais il s'en vante moins."
+  },
+  {
+   "name": "Dora Bora",
+   "level": "Niveau 120",
+   "caracteristique": "Force : 61 à 80\nSagesse : 41 à 60\nIntelligence : 61 à 80\n+6 à 10 de dommages\nProspection : 6 à 15\nRésistance : 3 à 5% (air)\nRésistance : 3 à 5% (neutre)\nRésistance : 3 à 5% (terre)",
+   "recette": "10x Trukikol Mort\n5x Noix de Kokoko Traumatisée\n100x Feuille de Fourbasse\n100x Fleur de Gloutovore\n100x Feuille de Kokoko\n80x Peau de Trukikol\n80x Tranche de Nodkoko\n4x Poils de Moon",
+   "image": "https://barbok.eratz.fr/dora_bora.png",
+   "condition": "",
+   "description": "Description : Ce splendide chapeau a été imaginé sur l'île de Dora Bora un peu au sud de l'île de Moon. Parfaitement adapté au combat, il est également très apprécié comme corbeille à fruits, pour entreposer les noix de Kokokos Traumatisées par exemple."
+  },
+  {
+   "name": "Kanistère",
+   "level": "Niveau 120",
+   "caracteristique": "Vitalité : 201 à 250\nCoup critiques : +5 à 7\n+6 à 10 de dommages\nInitiative : 1500",
+   "recette": "15x Poils de Léopardo\n10x Poils de Kitsou Nae\n1x Etoffe de Fantôme Léopardo\n8x Poils de Kitsou Nakwa\n1x Etoffe de Pandule\n12x Plume du Kwak de Flamme\n15x Poil d'Ouginak\n3x Etoffe de Kanigrou",
+   "image": "https://barbok.eratz.fr/kanistere.png",
+   "condition": "",
+   "description": "Description : Ce chapeau en forme de cuve servait aux pompiers d'Amakna lors des incendies de champs de céréales. De nos jours, il sert avant tout aux Brasseurs et aux serveuses de taverne, qui servent de fûts sur pattes."
+  },
+  {
+   "name": "Solomonk",
+   "level": "Niveau 120",
+   "caracteristique": "Force : 31 à 50\nVitalité : 201 à 250\nAgilité : 31 à 50\nCoup critiques : +5 à 7\n+6 à 10 de dommages\n+21 à 30 de dommages aux pièges\nAugmente les dommages de 16 à 25%\nInitiative : 300",
+   "recette": "1x Etoffe de Fantôme Tanukouï San\n1x Etoffe de Pandule\n2x Etoffe de Pandikaze\n6x Poils de Grand Pa Wabbit\n8x Poils de Tanukouï San\n2x Poils de Pandore\n1x Poils de Maho Firefoux\n10x Poils de Kitsou Nufeu",
+   "image": "https://barbok.eratz.fr/solomonk.png",
+   "condition": "",
+   "description": "Description : Le Solomonk était le chapeau d'un vieux chef d'une Tribu de Pandawas, experts en potions laxatives. Les Pandawas en question étant souvent obligés de tester eux-mêmes les effets de leurs potions, ils utilisaient ce type de chapeau, qui à défaut de les mettre en valeur, faisait un excellent pot de chambre."
+  },
+  {
+   "name": "Krokop",
+   "level": "Niveau 120",
+   "caracteristique": "Vitalité : 151 à 200\nAgilité : 31 à 50\nIntelligence : 31 à 50\nProspection : 16 à 20\nRésistance : 6 à 10 (eau)\nRésistance : 6 à 10% (air)\nRésistance : 6 à 10% (eau)",
+   "recette": "1x Etoffe de Fantôme Pandule\n15x Plume du Kwak de Flamme\n4x Poils de Tanukouï San\n8x Poils du Mulou\n4x Etoffe de Croc Gland\n12x Poils de Léopardo\n12x Poils de Kitsou Nufeu\n1x Etoffe de Fantôme Pandikaze",
+   "image": "https://barbok.eratz.fr/krokop.png",
+   "condition": "",
+   "description": "Description : Ce chapeau a été confectionné il y a bien longtemps par des apprentis tailleurs qui voulaient se protéger des crises de colères de Mirko le tailleur. Ce dernier avait la fâcheuse habitude de décimer ses apprentis avec des coups de pieds en pleine tête, lorsqu'ils ne travaillaient pas assez vite. Une façon comme une autre de les remotiver pour qu'ils se mettent au travail."
+  },
+  {
+   "name": "Koloss",
+   "level": "Niveau 120",
+   "caracteristique": "Force : 31 à 50\nVitalité : 151 à 200\nAgilité : 31 à 50\n+11 à 15 de dommages aux pièges\n11 à 15% de dommages aux pièges\nProspection : 16 à 20\nRésistance : 6 à 8% (air)\nRésistance : 6 à 8% (terre)",
+   "recette": "1x Etoffe de Fantôme Pandikaze\n1x Etoffe de Soryo Firefoux\n5x Poils de Kitsou Nufeu\n6x Poils de Kitsou Nere\n3x Poils de Yokai Firefoux\n11x Poils du Mulou\n16x Poils de Léopardo\n12x Poils de Pandikaze",
+   "image": "https://barbok.eratz.fr/koloss.png",
+   "condition": "",
+   "description": "Description : Le slogan publicitaire de ce casque était : \"Cet imposant casque en argile fera de vous un colosse à la tête d'argile\". Une étude approfondie de l'objet vous permettra de vous apercevoir que le casque en question n'est pas en argile, mais en plomb. De quoi prendre un peu de plomb dans le crâne à moindre frais."
+  },
+  {
+   "name": "Holoune",
+   "level": "Niveau 122",
+   "caracteristique": "Vitalité : 201 à 250\nIntelligence : 31 à 50\nChance : 31 à 50\nCoup critiques : +4 à 5\nSoins : 6 à 10\nRésistance : 6 à 10% (feu)\nRésistance : 6 à 10% (terre)",
+   "recette": "1x Etoffe de Fantôme Soryo Firefoux\n9x Etoffe du Wabbit\n20x Plume de Corbac\n8x Poils du Mulou\n32x Poils de Kitsou Nakwa\n34x Poils de Kitsou Nae\n50x Poils de Léopardo\n12x Etoffe du Sanglier",
+   "image": "https://barbok.eratz.fr/holoune.png",
+   "condition": "",
+   "description": "Description : Ce chapeau étrange vous protègera des rayons du soleil, même la nuit. Attention, il reprend vie une fois toutes les trois décennies, et se retourne contre son maître en tentant de l'étouffer pendant son sommeil."
+  },
+  {
+   "name": "Kaskargo",
+   "level": "Niveau 123",
+   "caracteristique": "Force : 31 à 50\nSagesse : 26 à 40\nVitalité : 151 à 200\n+3 à 4 de dommages\nRésistance : 6 à 10 (eau)\nRésistance : 6 à 10 (terre)\nRésistance : 6 à 10% (air)\nRésistance : 6 à 10% (feu)\nRésistance : 6 à 10% (neutre)",
+   "recette": "59x Bave du Kaskargo\n19x Etoffe de Ouassingue\n1x Queue emplumée du Rasboul Majeur\n4x Jus de Ouassingue\n18x Plume de fesse du Kido\n22x Amygdales du Bitouf Sombre\n9x Coquille du Kaskargo\n11x Foulard du Sparo",
+   "image": "https://barbok.eratz.fr/kaskargo.png",
+   "condition": "",
+   "description": "Description : Avec ça sur le crâne, vous aurez l'air d'un Kaskargo. Certes vous serez protégé des coups à la tête, mais est-ce une raison pour baver ainsi ? Vous n'avez pourtant pas besoin de ça pour vous déplacer !"
+  },
+  {
+   "name": "Chapeau de la Gamine Zoth",
+   "level": "Niveau 128",
+   "caracteristique": "Agilité : 41 à 60\nSagesse : 31 à 50\n+6 à 10 de dommages\nProspection : 11 à 20\nRésistance : 6 à 10 (neutre)\nRésistance : 6 à 10 (air)\nRésistance : 6 à 10% (air)\nRésistance : 6 à 10% (neutre)",
+   "recette": "13x Mouchoir de la Gamine Zoth\n75x Etoffe Zoth\n1x Peau du Rasboul Majeur\n23x Etoffe de Ouassingue\n6x Coco du Bitouf des plaines\n3x Ecorce de Fécorce\n3x Bec du Kido\n5x Kristalite",
+   "image": "https://barbok.eratz.fr/chapeau_de_la_gamine_zoth.png",
+   "condition": "",
+   "description": "Description : Le Chapeau de la Gamine Zoth a la particularité de lui faire voir les choses en double. Ainsi, lorsqu'elle voit une personne de sa tribu, elle zoth zoth."
+  },
+  {
+   "name": "Casque Dragoeuf",
+   "level": "Niveau 128",
+   "caracteristique": "Vitalité : 151 à 200\nRésistance : 6 à 13% (air)\nRésistance : 6 à 13% (eau)\nRésistance : 6 à 13% (feu)\nRésistance : 6 à 13% (neutre)\nRésistance : 6 à 13% (terre)",
+   "recette": "1x Dragocoiffe Blanche\n1x Dragocoiffe Dorée\n1x Dragocoiffe noire\n1x Corne de Dragoeuf Volant\n1x Corne de Dragoeuf Guerrier\n1x Dent de Crocabulia\n1x Peau de Crocabulia\n10x Ecaille de Dragoss Blanc",
+   "image": "https://barbok.eratz.fr/casque_dragoeuf.png",
+   "condition": "",
+   "description": "Description : Ce casque absolument terrifiant et d'une taille démesurée ferait passer un petit chérubin comme vous, pour un impitoyable guerrier venu de l'au delà. Cloué sur un mur, il fera un excellent porte manteau."
+  },
+  {
+   "name": "Coiffe du Disciple Zoth",
+   "level": "Niveau 128",
+   "caracteristique": "Vitalité : 201 à 300\nSagesse : 16 à 25\nIntelligence : 31 à 50\nAgilité : -21 à -30\n+4 à 6 de dommages\nPortée : +1\nProspection : 11 à 15\nFaiblesse : 6 à 10% (air)\nRésistance : 6 à 10% (feu)\nRésistance : 6 à 10% (terre)",
+   "recette": "14x Rotule du Disciple Zoth\n26x Bractée de Chiendent\n89x Etoffe Zoth\n1x Kristalite\n1x Sourcil du Rasboul majeur\n3x Talon d'achille de l'Abrakleur sombre\n19x Graine de l'Abrakleur sombre\n3x Ecorce de Nerbe",
+   "image": "https://barbok.eratz.fr/coiffe_du_disciple_zoth.png",
+   "condition": "",
+   "description": "Description : De loin, cette coiffe ressemble à un abat-jour avec deux trous pour les yeux. De près, aussi."
+  },
+  {
+   "name": "Couronne du Tofu Royal",
+   "level": "Niveau 128",
+   "caracteristique": "Vitalité : 151 à 200\nAgilité : 46 à 60\nPA perdu à la cible : 1\nPM : 1\nSagesse : 26 à 35\nFaiblesse : 6 à 8% (terre)\nRésistance : 6 à 8% (air)",
+   "recette": "1x Couronne Brisée du Tofu Royal\n10x Plume de Tofu Royal\n1x Plume du Dernier Poolay\n10x Plume de Tofu Maléfique\n50x Plume de Buveur\n200x Plumes de Tofu\n1x Aigue-Marine\n1x Plume du Maître Corbac",
+   "image": "https://barbok.eratz.fr/couronne_du_tofu_royal.png",
+   "condition": "",
+   "description": "Description : Cette couronne est assez difficile à attraper, elle file entre les doigts. Aucun doute, c'est bien la Couronne du Tofu Royal. En revanche, elle ne semble pas du tout pouvoir s'assortir avec votre petite tête, ne parlons même pas de celle d'un Iop !"
+  },
+  {
+   "name": "Doro le Blak",
+   "level": "Niveau 129",
+   "caracteristique": "Chance : 41 à 60\nSagesse : 31 à 50\nProspection : 21 à 30\n+6 à 10 de dommages\nRésistance : 6 à 10% (neutre)\nRésistance : 6 à 10% (feu)",
+   "recette": "1x Peau lacérée du Tynril\n8x Corail Kouraçao\n5x Ecorce de Floribonde\n1x Mojo du Meulou\n7x Pétale Kouraçao\n19x Cloaque du Poolay\n4x Crinière fleurie\n1x Corail Magistral",
+   "image": "https://barbok.eratz.fr/doro_le_blak.png",
+   "condition": "",
+   "description": "Description : Cette coiffe appartenait à une petite Xélorette, qui prenait un malin plaisir à dérégler l'écoulement du temps. La légende raconte qu'elle parvint à voler plusieurs jours aux habitants d'Amakna. Elle ne s'est soustraite à la colère de la population qu'en distribuant de nombreuses friandises."
+  },
+  {
+   "name": "Bandeau Kaliptus",
+   "level": "Niveau 133",
+   "caracteristique": "Agilité : 31 à 50\nAugmente les dommages de 11 à 20%\nVitalité : 201 à 250\nInitiative : 201 à 400\nPortée : +1\nSagesse : 21 à 40\nCoup critiques : +3 à 5\nProspection : 11 à 15\nRésistance : 5 à 7% (neutre)\n+6 à 10 de dommages\nFaiblesse : 4 à 6% (eau)\nFaiblesse : 4 à 6% (terre)",
+   "recette": "500x Feuille de Kaliptus\n100x Feuille de Bambouto Sacré\n500x Fleur de Kaliptus\n100x Feuille de Bambouto\n15x Antennes du Scarabosse Doré\n2x Pétale Magique du Tournesol Affamé\n3x Etoffe de Fantôme Maho Firefoux\n2x Etoffe de Fantôme Soryo Firefoux",
+   "image": "https://barbok.eratz.fr/bandeau_kaliptus.png",
+   "condition": "",
+   "description": "Description : Avec ce bandeau, les Iops n'auront jamais été aussi séduisants !"
+  },
+  {
+   "name": "Masque du Sergent Zoth",
+   "level": "Niveau 133",
+   "caracteristique": "Vitalité : 151 à 200\nSagesse : 11 à 20\nChance : 41 à 60\nCoup critiques : +4 à 5\n+5 à 7 de dommages\nInitiative : 201 à 400\nProspection : 11 à 20\nFaiblesse : 6 à 10% (neutre)\nRésistance : 6 à 10% (eau)\nRésistance : 6 à 10% (terre)",
+   "recette": "110x Etoffe Zoth\n14x Ecusson du Sergent Zoth\n4x Ecorce de Fécorce\n1x Pistil du Tynril\n2x Kristalite\n36x Souche de l'Abrakleur clair\n5x Ecorce de Brouture\n42x Sépale de Nerbe",
+   "image": "https://barbok.eratz.fr/masque_du_sergent_zoth.png",
+   "condition": "",
+   "description": "Description : Grâce à ce masque, vous affronterez tous les dangers sans aucune crainte ! C'est normal vu qu'il obstrue tout le champ de vision."
+  },
+  {
+   "name": "Coiffe Cérémoniale du Seigneur des Rats",
+   "level": "Niveau 133",
+   "caracteristique": "Agilité : 31 à 50\nIntelligence : 21 à 30\nSagesse : 11 à 20\nVitalité : 151 à 200\nProspection : 6 à 10\n+4 à 6 de dommages\nAugmente les dommages de 11 à 15%\nSoins : 5 à 7\nRésistance : 4 à 6 (terre)\nRésistance : 4 à 6 (eau)\nRésistance : 5 à 7% (terre)\nRésistance : 5 à 7% (eau)",
+   "recette": "50x Patte de Prespic\n1x Coiffe du Rat Blanc\n200x Poil de Kanigrou\n1x Masque du Rat Noir\n2x Peau de Sphincter Cell\n1x Etoffe de Sphincter Cell\n6x Poil de Chaman d'Egoutant\n5x Plume Graisseuse du Tofu Ventripotent",
+   "image": "https://barbok.eratz.fr/coiffe_ceremoniale_du_seigneur_des_rats.png",
+   "condition": "",
+   "description": "Description : Cette coiffe n'a rien à voir avec un Dora... Absolument rien on vous dit ! Il est donc inutile de répandre de fausses rumeurs à propos du manque d'inspiration ou de la fainéantise de son concepteur . En revanche elle est très jolie."
+  },
+  {
+   "name": "Casque du Guerrier Zoth",
+   "level": "Niveau 134",
+   "caracteristique": "Force : 61 à 80\nVitalité : 301 à 400\n+6 à 10 de dommages\nProspection : 6 à 10\nFaiblesse : 6 à 10% (neutre)\nRésistance : 6 à 10 (terre)\nRésistance : 6 à 10% (terre)",
+   "recette": "14x Tibia du Guerrier Zoth\n102x Etoffe Zoth\n1x Ecorce du Tynril\n4x Ecorce de Nerbe\n6x Jus de Ouassingue\n4x Faux menton du Bourbassingue\n36x Rembourrage de Meupette\n5x Kristalite",
+   "image": "https://barbok.eratz.fr/casque_du_guerrier_zoth.png",
+   "condition": "",
+   "description": "Description : Ce casque a les mêmes avantages que les autres coiffes Zoth : il protège des coups de soleil même en plein cagnard, il amortit les coups portés à la tête, et il empêche de prendre conscience du danger en restreignant le champ de vision de celui qui le porte. Bref, ceci est le couvre-chef idéal du guerrier."
+  },
+  {
+   "name": "Masque de l'Abrakleur clair",
+   "level": "Niveau 134",
+   "caracteristique": "Force : 26 à 40\nAgilité : 26 à 40\nSagesse : 21 à 30\nVitalité : 151 à 200\n+6 à 8 de dommages\nProspection : 11 à 15\nAugmente les dommages de 11 à 15%\nRésistance : 6 à 10% (air)\nRésistance : 6 à 10% (terre)",
+   "recette": "13x Noeud de l'Abrakleur clair\n2x Coco du Bitouf aérien\n69x Souche de l'Abrakleur clair\n12x Duvet du Kilibriss\n1x Peau du Rasboul Majeur\n3x Ecorce de Fécorce\n17x Carpelle de Brouture\n14x Calice de Fécorce",
+   "image": "https://barbok.eratz.fr/masque_de_labrakleur_clair.png",
+   "condition": "",
+   "description": "Description : Ce masque ne permet ni de prévenir ni de guérir la gueule de bois, mais il vous donne au moins l'occasion de la dissimuler de façon élégante."
+  },
+  {
+   "name": "Coiffe du Meulou",
+   "level": "Niveau 141",
+   "caracteristique": "Force : 31 à 55\nAugmente les dommages de 11 à 20%\n+6 à 10 de dommages\nProspection : 11 à 20\nVitalité : 201 à 270\nSagesse : 21 à 40\nCoup critiques : +3 à 4\nIntelligence : 16 à 25\nAgilité : 16 à 25\nRésistance : 3 à 4% (neutre)",
+   "recette": "1x Poil de Bworkette\n1x Coiffe du Mulou\n1x Etoffe du Meulou\n8x Dents de Meulou\n1x Oeil de Meulou\n5x Scalp de Meulou\n10x Poils du Meulou\n5x Scalp de Bwork Archer",
+   "image": "https://barbok.eratz.fr/coiffe_du_meulou.png",
+   "condition": "",
+   "description": "Description : En dépeçant le Meulou, des chasseurs se sont aperçus qu'il ne possède qu'une seule grosse corne qui traverse son crâne de part en part, ce qui ne gène nullement les Iops qui la portent avec enthousiasme non dissimulé."
+  },
+  {
+   "name": "Casque du Bwork de Bronze",
+   "level": "Niveau 144",
+   "caracteristique": "Vitalité : 151 à 200\nSagesse : 26 à 40\nIntelligence : 31 à 50\nChance : 31 à 50\nRésistance : 16 à 20 (neutre)\nInitiative : 300\nProspection : 16 à 25\nRésistance : 16 à 20 (feu)",
+   "recette": "1x Casque du Chef Bwork\n1x Os de Fantôme Pandore\n7x Rutile\n1x Casque cassé de Bwork\n100x Corne de Chef de Guerre Bouftou\n10x Corne du Boufcoul\n3x Cubitus de Momie Koalak\n3x Tibia de Koalak Fossoyeur",
+   "image": "https://barbok.eratz.fr/casque_du_bwork_de_bronze.png",
+   "condition": "",
+   "description": "Description : Ce surprenant casque transforme son propriétaire en Bwork de Bronze selon la légende. A essayer d'urgence sur les gros lourds, vous pourrez les refondre ensuite et en tirer un bon prix."
+  },
+  {
+   "name": "Coiffe du Chêne Mou",
+   "level": "Niveau 145",
+   "caracteristique": "Force : 31 à 50\nIntelligence : 31 à 50\nProspection : 6 à 10\nAugmente les dommages de 11 à 20%\n+6 à 8 de dommages\nSoins : 4 à 5\nCoup critiques : +4 à 5\nVitalité : 201 à 250\nSagesse : 21 à 30\nRésistance : 4 à 5% (terre)\nRésistance : 4 à 5% (feu)",
+   "recette": "10x Champignon Luidegît\n1x Abracaska\n1x Abracaska Ancestral\n10x Ecorce du Chêne Mou\n1x Bourgeon du Chêne Mou\n10x Racine du Chêne Mou\n2x Ambre du Chêne Mou\n10x Ambre d'Abraknyde Sombre",
+   "image": "https://barbok.eratz.fr/coiffe_du_chene_mou.png",
+   "condition": "",
+   "description": "Description : Vous pouvez porter cette coiffe dans n'importe quel sens, on aura toujours l'impression qu'elle n'est pas droite."
+  },
+  {
+   "name": "Piruk",
+   "level": "Niveau 145",
+   "caracteristique": "Vitalité : 251 à 300\nSagesse : 21 à 40\nIntelligence : 31 à 50\nInitiative : 401 à 600\nProspection : 6 à 10\nRésistance : 6 à 10 (feu)\nRésistance : 6 à 10 (air)\nRésistance : 6 à 10% (eau)\nRésistance : 6 à 10% (terre)",
+   "recette": "1x Etoffe de Fantôme Tanukouï San\n5x Etoffe de Pandikaze\n3x Etoffe du Mulou\n1x Etoffe de Pandore\n30x Poils de Kitsou Nufeu\n40x Poils du Sanglier\n16x Poils de Barbe du Bwork Mage\n2x Etoffe de Maho Firefoux",
+   "image": "https://barbok.eratz.fr/piruk.png",
+   "condition": "",
+   "description": "Description : Ce chapeau était utilisé par certains Xélors, pour cacher leur calvitie naissante. Certains Enutrofs s'en servaient même pour cacher leur femme. Une façon habile de cacher deux problèmes majeurs de la vie de tous les jours."
+  },
+  {
+   "name": "Krépite",
+   "level": "Niveau 149",
+   "caracteristique": "Vitalité : 201 à 300\nSagesse : 31 à 40\nProspection : 16 à 30\nRésistance : 11 à 15 (feu)\nRésistance : 11 à 15 (air)\nRésistance : 6 à 8% (feu)\nRésistance : 6 à 8% (air)",
+   "recette": "1x Etoffe de Fantôme Tanukouï San\n15x Etoffe de Sanglier des Plaines\n20x Tissu Invisible\n9x Linceul\n1x Plume de Tofu Royal\n20x Poils de Léopardo\n1x Poils de Moon\n4x Poils de Maho Firefoux",
+   "image": "https://barbok.eratz.fr/krepite.png",
+   "condition": "",
+   "description": "Description : Ce chapeau unique a appartenu à un Xélor, connu pour ses idées explosives et sa maîtrise du temps. Il est mort d'une façon assez peu commune en lançant un Vent de Panique décoiffant, et en oubliant que son chapeau lançait de petites étincelles autour de lui. Sa mort fut paraît-il assez douloureuse, mais si lumineuse, qu'on raconte qu'il aurait éclairé la cité de Brâkmar toute entière pendant quelques secondes."
+  },
+  {
+   "name": "Ruskauffe",
+   "level": "Niveau 151",
+   "caracteristique": "Vitalité : 201 à 300\nSagesse : 31 à 45\nCoup critiques : +2 à 4\nSoins : 5 à 7\n+5 à 7 de dommages\nCréature invocables : +4 à 5\nInitiative : 1 à 100\nRésistance : 6 à 10% (neutre)\nRésistance : 6 à 10% (terre)",
+   "recette": "12x Touffe rousse du Flib\n48x Rembourrage de Meupette\n8x Barbe inexistante du Barbroussa\n1x Etoffe de Gourlo le Terrible\n5x Saphir\n3x Perruque du Kimbo\n28x Duvet du Kilibriss\n1x Etoffe du Roissingue",
+   "image": "https://barbok.eratz.fr/ruskauffe.png",
+   "condition": "",
+   "description": "Description : Cette coiffe tient chaud aux oreilles, et absorbe les effluves d'alcool qui s'échappent de votre haleine. Que demander de plus ?"
+  },
+  {
+   "name": "Chapblopignon",
+   "level": "Niveau 152",
+   "caracteristique": "Force : 41 à 60\nVitalité : 151 à 200\nSagesse : 31 à 50\n+6 à 10 de dommages\nPortée : +1\nInitiative : 201 à 300\nProspection : 11 à 20\nRésistance : 6 à 10 (feu)\nRésistance : 6 à 10% (feu)",
+   "recette": "6x Etoffe de Fantôme Pandule\n43x Cloaque du Poolay\n10x Tresse du Poolay\n10x Perruque du Kimbo\n20x Fleur de Blopignon\n41x Croupion du Bitouf aérien\n4x Os de Fantôme Maho Firefoux\n32x Etoffe Zoth",
+   "image": "https://barbok.eratz.fr/chapblopignon.png",
+   "condition": "",
+   "description": "Description : Cette coiffe stylée donne la Mitcho classe à n'importe qui, ainsi qu'une odeur de sous-bois dont vos amis se passeraient bien."
+  },
+  {
+   "name": "Casque du Bitouf Aérien",
+   "level": "Niveau 154",
+   "caracteristique": "PM : 1\nVitalité : 151 à 200\nSagesse : 21 à 30\nSoins : 5 à 7\n+5 à 7 de dommages\nProspection : 11 à 20\nRésistance : 4 à 6 (air)\nRésistance : 4 à 6 (eau)\nRésistance : 4 à 6 (feu)\nRésistance : 4 à 6 (neutre)\nRésistance : 4 à 6 (terre)",
+   "recette": "13x Coco du Bitouf des plaines\n51x Aile du Bitouf des plaines\n51x Amygdales du Bitouf Sombre\n13x Coco du Bitouf aérien\n13x Coco du Bitouf sombre\n51x Croupion du Bitouf aérien\n1x Pierre précieuse du Kimbo\n1x Ambre du Tynril",
+   "image": "https://barbok.eratz.fr/casque_du_bitouf_aerien.png",
+   "condition": "",
+   "description": "Description : Avec ce casque sur la tête, vous pouvez espérer vous élever dans les airs si vous tournez sur vous-même à la vitesse de l'éclair. Pour l'atterrissage, débrouillez-vous."
+  },
+  {
+   "name": "Coiffe du Maître Zoth",
+   "level": "Niveau 156",
+   "caracteristique": "Vitalité : 151 à 200\nSagesse : 31 à 50\nCoup critiques : +4 à 5\nAugmente les dommages de 16 à 25%\nSoins : 6 à 10\n+6 à 10 de dommages\nPortée : +1\nProspection : 16 à 25",
+   "recette": "1x Ambre du Tynril\n16x Braguette du Maître Zoth\n115x Etoffe Zoth\n1x Etoffe du Roissingue\n5x Tourbe séchée de Tourbassingue\n6x Jus de Ouassingue\n4x Coco du Bitouf aérien\n5x Kristalite",
+   "image": "https://barbok.eratz.fr/coiffe_du_maitre_zoth.png",
+   "condition": "",
+   "description": "Description : La coiffe du Maître Zoth possède l'immense avantage de restreindre le champ de vision de manière encore plus importante que les autres casques. C'est grâce à lui que l'on peut accéder à la fameuse technique de combat dite « de la fouine ». En gros, il suffit de frapper n'importe où en utilisant toutes ses forces. Étant ainsi totalement imprévisible, vous êtes sûr de vaincre l'adversaire (ou du moins le surprendre suffisamment pour lui donner des coups bien placés)."
+  },
+  {
+   "name": "Coiffe du Minotot",
+   "level": "Niveau 157",
+   "caracteristique": "Chance : 31 à 50\nAugmente les dommages de 16 à 25%\nIntelligence : 31 à 50\nVitalité : 201 à 270\nSoins : 5 à 8\nCoup critiques : +3 à 5\nSagesse : 21 à 35\nInitiative : 101 à 200\nProspection : 16 à 25\nRésistance : 4 à 6% (feu)",
+   "recette": "1x Laine du Minotot\n21x Poil de Péki\n1x Minotokorno\n15x Plume de Tofu Royal\n3x Etoffe du Wa Wabbit\n1x Corne du Minotot\n3x Etoffe de Fantôme Pandore\n5x Poil de Skeunk",
+   "image": "https://barbok.eratz.fr/coiffe_du_minotot.png",
+   "condition": "",
+   "description": "Description : Cette coiffe se transmet dans la famille du Minotot, de génération en génération. Ce qui explique en partie son odeur de pellicules en décomposition."
+  },
+  {
+   "name": "Masque Vaudou Jav",
+   "level": "Niveau 158",
+   "caracteristique": "Chance : 61 à 80\nSagesse : 31 à 50\nVitalité : -101 à -150\nCoup critiques : +4 à 5\n+11 à 15 de dommages\nAugmente les dommages de 11 à 15%\nPortée : +1\nInitiative : 301 à 500\nProspection : 11 à 20\nRésistance : 9 à 14% (eau)\nRésistance : 9 à 14 (eau)",
+   "recette": "1x Chaussette du Kimbo\n29x Etoffe de Ouassingue\n1x Pistil du Tynril\n31x Souche de l'Abrakleur clair\n1x Masque Kanniboule\n1x Sourcil du Rasboul majeur\n1x Poupée Vaudou Jav\n2x Etoffe du Roissingue",
+   "image": "https://barbok.eratz.fr/masque_vaudou_jav.png",
+   "condition": "",
+   "description": "Description : Les Kannibouls Jav ont souvent le \"blues\" et peignent leur coiffe en bleu. Est-ce lié à un chagrin d'amour ou à une autre raison ? Difficile de connaître le fin mot de cette histoire. Mais ce serait bien qu'ils se contentent de porter le masque et qu'ils arrêtent de chanter leur mélancolie."
+  },
+  {
+   "name": "Masque Vaudou Archer",
+   "level": "Niveau 158",
+   "caracteristique": "Intelligence : 61 à 80\nSagesse : 31 à 50\nVitalité : -101 à -150\nCoup critiques : +4 à 5\n+11 à 15 de dommages\nAugmente les dommages de 11 à 15%\nPortée : +1\nInitiative : 301 à 500\nProspection : 11 à 20\nRésistance : 9 à 14% (feu)\nRésistance : 9 à 14 (feu)",
+   "recette": "1x Poupée Vaudou Archer\n1x Chaussette du Kimbo\n1x Sourcil du Rasboul majeur\n29x Etoffe de Ouassingue\n1x Masque Kanniboule\n1x Pistil du Tynril\n2x Etoffe du Roissingue\n31x Souche de l'Abrakleur clair",
+   "image": "https://barbok.eratz.fr/masque_vaudou_archer.png",
+   "condition": "",
+   "description": "Description : Les Kannibouls Archer n'arrivaient pas à se concentrer et à bien viser sauf lorsqu'ils étaient très en colère. Ainsi, pour être toujours sur de voir rouge, ils ont peint leur masque dans cette couleur."
+  },
+  {
+   "name": "Masque Vaudou Sarbak",
+   "level": "Niveau 158",
+   "caracteristique": "Agilité : 61 à 80\nSagesse : 31 à 50\nVitalité : -101 à -150\nCoup critiques : +4 à 5\n+11 à 15 de dommages\nAugmente les dommages de 11 à 15%\nPortée : +1\nInitiative : 301 à 500\nProspection : 11 à 20\nRésistance : 9 à 14% (air)\nRésistance : 9 à 14 (air)",
+   "recette": "1x Pistil du Tynril\n29x Etoffe de Ouassingue\n1x Sourcil du Rasboul majeur\n1x Masque Kanniboule\n1x Chaussette du Kimbo\n2x Etoffe du Roissingue\n31x Souche de l'Abrakleur clair\n1x Poupée Vaudou Sarbak",
+   "image": "https://barbok.eratz.fr/masque_vaudou_sarbak.png",
+   "condition": "",
+   "description": "Description : À force de rire jaune car ils loupent leur objectif, certains Kanniboules ont peint leur masque de cette couleur. Ainsi, même lorsqu'ils rient de bon cœur, on a l'impression qu'ils se forcent."
+  },
+  {
+   "name": "Masque Vaudou Thierry",
+   "level": "Niveau 158",
+   "caracteristique": "Force : 61 à 80\nSagesse : 31 à 50\nVitalité : -101 à -150\nCoup critiques : +4 à 5\n+11 à 15 de dommages\nAugmente les dommages de 11 à 15%\nPortée : +1\nInitiative : 301 à 500\nProspection : 11 à 20\nRésistance : 9 à 14% (terre)\nRésistance : 9 à 14 (terre)",
+   "recette": "1x Chaussette du Kimbo\n2x Etoffe du Roissingue\n1x Masque Kanniboule\n1x Pistil du Tynril\n29x Etoffe de Ouassingue\n1x Sourcil du Rasboul majeur\n1x Poupée Vaudou Thierry\n31x Souche de l'Abrakleur clair",
+   "image": "https://barbok.eratz.fr/masque_vaudou_thierry.png",
+   "condition": "",
+   "description": "Description : Ce masque Vaudou sert essentiellement à masquer le visage des Kannibouls qui aiment la fronde (comme Thierry), mais qui ratent souvent leur cible. C'est pourquoi, ils sont toujours un peu verts de rage."
+  },
+  {
+   "name": "Le Nahitse",
+   "level": "Niveau 160",
+   "caracteristique": "Sagesse : 31 à 50\nAgilité : 41 à 60\nIntelligence : 41 à 60\n+6 à 10 de dommages\nProspection : 11 à 15\nRésistance : 8 à 12 (air)\nRésistance : 8 à 12 (feu)\nRésistance : 8 à 12% (air)\nRésistance : 8 à 12% (feu)\nPortée : +1",
+   "recette": "2x Grelot\n22x Etoffe de Kanigrou\n1x Peau du Rasboul Majeur\n8x Jus de Ouassingue\n28x Tissu Pourpre\n34x Amygdales du Bitouf Sombre\n1x Queue emplumée du Rasboul Majeur\n7x Crinière fleurie",
+   "image": "https://barbok.eratz.fr/le_nahitse.png",
+   "condition": "",
+   "description": "Description : Si vous agitez vos deux petits grelots rapidement, vous pourrez presque jouer de la musique."
+  },
+  {
+   "name": "Blopronne Royale",
+   "level": "Niveau 161",
+   "caracteristique": "Force : 31 à 50\nIntelligence : 31 à 50\nSagesse : 31 à 50\nVitalité : 151 à 200\nSoins : 5 à 7\n+5 à 7 de dommages\nCréature invocables : +1 à 2\nProspection : 11 à 15\nRésistance : 5 à 7% (air)\nRésistance : 5 à 7% (eau)",
+   "recette": "1x Blopture Multicolore Royale\n10x Perruque du Kimbo\n1x Amublop Multicolore Royale\n1x Bloptes Multicolores Royales\n32x Bave du Kaskargo\n1x Blopanneau Multicolore Royal\n50x Plume de fesse du Kido\n10x Sourcil du Rasboul majeur",
+   "image": "https://barbok.eratz.fr/blopronne_royale.png",
+   "condition": "",
+   "description": "Description : Ce couvre-chef a été porté par Kuri en personne pendant plusieurs années, jusqu'à ce qu'elle décide d'arrêter de porter des coiffes démodées."
+  },
+  {
+   "name": "Coiffe du Tynril",
+   "level": "Niveau 164",
+   "caracteristique": "PA : +1\nVitalité : 201 à 250\nSagesse : 26 à 40\nIntelligence : -11 à -30\nAgilité : -11 à -30\nChance : -11 à -30\nForce : -11 à -30\nProspection : 21 à 30\nRésistance : 6 à 8 (air)\nRésistance : 6 à 8 (eau)\nRésistance : 6 à 8 (feu)\nRésistance : 6 à 8 (neutre)\nRésistance : 6 à 8 (terre)",
+   "recette": "1x Ambre du Tynril\n1x Peau lacérée du Tynril\n1x Ecorce du Tynril\n2x Pistil du Tynril\n1x Rune Ga Pa\n8x Jus de Ouassingue\n5x Crinière fleurie\n7x Etoffe de Meupette",
+   "image": "https://barbok.eratz.fr/coiffe_du_tynril.png",
+   "condition": "",
+   "description": "Description : Avec cette coiffe sur le crâne, vous aurez toujours une tête en pétard, même si vous n'êtes pas en colère. Il faut dire que les écorces de la chevelure du Tynril frisent lorsque le temps est humide, ce qui fait de cet animal l'indicateur météorologique le plus sûr au monde. En revanche, il redoute le feu. Faites donc très attention aux flammes si vous ne voulez pas vous transformer en torche humaine."
+  },
+  {
+   "name": "Capuche Souveraine du Roissingue",
+   "level": "Niveau 168",
+   "caracteristique": "Vitalité : 151 à 200\nSagesse : 41 à 60\nChance : 51 à 70\nAgilité : 51 à 70\nInitiative : 201 à 400\nProspection : 16 à 20\nRésistance : 6 à 10 (feu)\nRésistance : 6 à 10 (air)\nRésistance : 5 à 7% (air)\nRésistance : 5 à 7% (eau)",
+   "recette": "11x Etoffe du Roissingue\n15x Cuir de Mominotor\n1x Pierre précieuse du Kimbo\n25x Lingot d'Or\n210x Etoffe de Ouassingue\n11x Tourbe séchée de Tourbassingue\n11x Faux menton du Bourbassingue\n4x Culotte à l'envers du Roissingue",
+   "image": "https://barbok.eratz.fr/capuche_souveraine_du_roissingue.png",
+   "condition": "",
+   "description": "Description : Coiffe royale, cette capuche possède les mêmes vertus que la Cape du Roissingue. Ses micro-aérations contribuent à une meilleure évacuation de la sueur pour toujours garder la tête froide. Hélas, elle possède également les défauts de la cape : son odeur nauséabonde est si présente qu'on pourrait presque la découper au couteau."
+  },
+  {
+   "name": "Sulik",
+   "level": "Niveau 172",
+   "caracteristique": "Vitalité : 301 à 400\nSagesse : 41 à 50\nRenvois de dommages : 11\nChance : 41 à 60",
+   "recette": "1x Etoffe de Fantôme Pandore\n2x Etoffe de Fantôme Léopardo\n10x Poils de Moon\n4x Etoffe de Pandule\n6x Etoffe de Pandore\n2x Etoffe de Maho Firefoux\n2x Etoffe de Soryo Firefoux\n2x Etoffe de Yokai Firefoux",
+   "image": "https://barbok.eratz.fr/sulik.png",
+   "condition": "",
+   "description": "Description : Autrefois porté par un Xélor sauvage dont la soeur avait été enlevée par des esclavagistes sans scrupules, ce somptueux chapeau fera de vous un sauvage vraiment original."
+  },
+  {
+   "name": "Ougalurette",
+   "level": "Niveau 178",
+   "caracteristique": "Vitalité : 301 à 400\nSagesse : 41 à 50\n+8 à 10 de dommages\nAugmente les dommages de 41 à 50%\nProspection : 21 à 30\nRésistance : 8 à 10% (neutre)",
+   "recette": "1x Fragment d'Ougalurette\n1x Toady\n8x Chanvre Euphorique\n16x Ecorce de Chiendent\n4x Epine d'Ougah\n1x Kaskargo\n6x Ecorce de Champaknyde\n7x Trompe de la Tromperelle",
+   "image": "https://barbok.eratz.fr/ougalurette.png",
+   "condition": "",
+   "description": "Description : Cette coiffe n'est autre qu'une partie de la tête d'Ougah, très grande divinité vénérée par les Porcos. Rembourrée avec du tissu, des plumes et de la laine, cette coiffe peut être portée par n'importe qui, à condition d'en supporter l'odeur et le poids."
+  },
+  {
+   "name": "Chapeau de Crocodaille Dandi",
+   "level": "Niveau 180",
+   "caracteristique": "Force : 41 à 60\nChance : 41 à 60\nAgilité : -26 à -40\nIntelligence : -26 à -40\nVitalité : 251 à 300\nSagesse : 31 à 50\n+6 à 10 de dommages\nAugmente les dommages de 16 à 20%\nProspection : 16 à 25\nRésistance : 6 à 10 (neutre)\nRésistance : 6 à 10% (neutre)",
+   "recette": "1x Pierre précieuse du Kimbo\n18x Ecaille de Chef Crocodaille\n29x Rembourrage de Meupette\n43x Plume de fesse du Kido\n120x Dent de Crocodaille\n1x Queue emplumée du Rasboul Majeur\n6x Tresse du Poolay\n6x Touffe rousse du Flib",
+   "image": "https://barbok.eratz.fr/chapeau_de_crocodaille_dandi.png",
+   "condition": "",
+   "description": "Description : Avec ce chapeau sur le crâne, le Crocodaille pense être à la pointe de la mode. Il faudrait que celle-ci soit vraiment bien émoussée pour ce que cela soit possible. Mais il vaut mieux éviter de lui faire remarquer son côté ridicule. Le Crocodaille est très susceptible..."
+  },
+  {
+   "name": "Chapignon",
+   "level": "Niveau 185",
+   "caracteristique": "Vitalité : 251 à 300\nSagesse : 21 à 30\nAgilité : 31 à 50\nCoup critiques : +3 à 5\n+6 à 10 de dommages\nAugmente les dommages de 11 à 20%\nCréature invocables : +1\nInitiative : 201 à 300\nProspection : 11 à 15\nRésistance : 6 à 10% (air)\nRésistance : 6 à 10% (feu)",
+   "recette": "24x Ecorce de Champaknyde\n18x Langue du Champodonte\n20x Trompe de la Tromperelle\n15x Lamelle de Champbis\n1x Peau de Skeunk\n8x Crinière fleurie\n18x Etoffe de Fantôme Yokai Firefoux\n15x Os de Fantôme Pandule",
+   "image": "https://barbok.eratz.fr/chapignon.png",
+   "condition": "",
+   "description": "Description : Prenez un Dora, recouvrez-le de bave de Bouftou et de la sueur de Iop. Laissez le tout moisir pendant quelques semaines, et voilà vous avec une réplique de Chapignon. Attention, ce chapeau donne parfois des hallucinations."
+  },
+  {
+   "name": "Casque Harnage",
+   "level": "Niveau 189",
+   "caracteristique": "Chance : 41 à 60\nIntelligence : 41 à 60\nSagesse : 21 à 30\nVitalité : 201 à 250\nCoup critiques : +3 à 4\nSoins : 6 à 10\n+6 à 10 de dommages\nProspection : 21 à 30\nCréature invocables : +2\nRésistance : 6 à 10 (eau)",
+   "recette": "23x Bave du Kaskargo\n50x Etoffe Zoth\n17x Cloaque du Poolay\n1x Casque du Bwork de Bronze\n12x Coco du Bitouf sombre\n15x Etoffe de Fantôme Soryo Firefoux\n4x Peau de Bworker\n22x Os de Fantôme Pandikaze",
+   "image": "https://barbok.eratz.fr/casque_harnage.png",
+   "condition": "",
+   "description": "Description : Ce magnifique casque renferme bien des secrets, pendant de longues années, lorsqu'il était le seul compagnon du Bworker, et lorsqu'il était encore vivant, le Bworker lui aurait confié toutes ses histoires de protections usagées. A force d'entendre ces atrocités, le casque a fini par mourir."
+  },
+  {
+   "name": "Le Kim",
+   "level": "Niveau 196",
+   "caracteristique": "Coup critiques : +4 à 7\nForce : 51 à 80\nVitalité : 301 à 400\nSagesse : 31 à 50\n+6 à 10 de dommages\nCréature invocables : +1\nProspection : 16 à 25\nRésistance : 6 à 10 (air)\nRésistance : 6 à 10 (terre)\nRésistance : 6 à 10% (feu)",
+   "recette": "1x Coiffe du Meulou\n1x Solomonk\n15x Perruque du Kimbo\n20x Poil de Péki\n10x Tresse du Poolay\n15x Touffe rousse du Flib\n19x Etoffe de Fantôme Pandule\n8x Plume du Maître Corbac",
+   "image": "https://barbok.eratz.fr/le_kim.png",
+   "condition": "",
+   "description": "Description : On dit que le Kimbo porte cette perruque en hommage à un bel éphèbe bronzé rencontré un jour sur son île, dont il appréciait le sourire aéré. Il la cache néanmoins sous sa coco parce qu'il la trouve quand même ridicule."
+  }
+ ]
+}

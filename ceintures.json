@@ -1,0 +1,1406 @@
+{
+ "ceinture": [
+  {
+   "name": "Ceinture du Kobeer",
+   "level": "Niveau 1",
+   "caracteristique": "Force : 2\nAgilité : -2",
+   "image": "https://barbok.eratz.fr/ceinture_du_kobeer.png",
+   "condition": "",
+   "description": "Description : Cette ceinture fait fureur auprès de la jeune population d'Amakna. Un couturier Sadida en est à l'origine. Lors de sa première vente, il s'exclama : \"La vie est courte, jouez durement !\"."
+  },
+  {
+   "name": "Ceinture du Piou Bleu",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 1",
+   "recette": "1x Plume de Piou Bleu\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/ceinture_du_piou_bleu.png",
+   "condition": "",
+   "description": "Description : Cette petite ceinture mettra vos hanches en valeur l'espace d'un combat. Elle servira ensuite à contenir vos tripes lorsqu'un sanglier des plaines un peu énervé vous aura éventré au fin fond des bois."
+  },
+  {
+   "name": "Ceinture de l'aventurier",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 1 à 2\nForce : 1 à 2\nAgilité : 1 à 2\nSagesse : 1 à 2\nIntelligence : 1 à 2",
+   "recette": "2x Imposante Ceinture Vitalesque\n2x Imposante Ceinture Forcesque",
+   "image": "https://barbok.eratz.fr/ceinture_de_laventurier.png",
+   "condition": "",
+   "description": "Description : Une petite ceinture pour les aventuriers en herbe."
+  },
+  {
+   "name": "Ceinture de Chance",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 1",
+   "recette": "4x Cuir de Boufton Noir\n2x Cuivre",
+   "image": "https://barbok.eratz.fr/ceinture_de_chance.png",
+   "condition": "",
+   "description": "Description : Cette modeste ceinture augmente la chance de son porteur."
+  },
+  {
+   "name": "Ceinture d'Agilité",
+   "level": "Niveau 1",
+   "caracteristique": "Agilité : 1",
+   "image": "https://barbok.eratz.fr/ceinture_dagilite.png",
+   "condition": "",
+   "description": "Description : Cette modeste ceinture augmente l'agilité de son porteur."
+  },
+  {
+   "name": "Ceinture du Piou Rose",
+   "level": "Niveau 1",
+   "caracteristique": "Vitalité : 1",
+   "recette": "1x Graine de Sésame\n1x Plume de Piou Rose",
+   "image": "https://barbok.eratz.fr/ceinture_du_piou_rose.png",
+   "condition": "",
+   "description": "Description : Cette petite ceinture mettra vos hanches en valeur l'espace d'un combat. Elle servira ensuite à contenir vos tripes lorsqu'un sanglier des plaines un peu énervé vous aura éventré au fin fond des bois."
+  },
+  {
+   "name": "Ceinture du Piou Jaune",
+   "level": "Niveau 1",
+   "caracteristique": "Force : 1",
+   "recette": "1x Plume de Piou Jaune\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/ceinture_du_piou_jaune.png",
+   "condition": "",
+   "description": "Description : Cette petite ceinture mettra vos hanches en valeur l'espace d'un combat. Elle servira ensuite à contenir vos tripes lorsqu'un sanglier des plaines un peu énervé vous aura éventré au fin fond des bois."
+  },
+  {
+   "name": "Ceinture du Piou Rouge",
+   "level": "Niveau 1",
+   "caracteristique": "Intelligence : 1",
+   "recette": "1x Plume de Piou Rouge\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/ceinture_du_piou_rouge.png",
+   "condition": "",
+   "description": "Description : Cette petite ceinture mettra vos hanches en valeur l'espace d'un combat. Elle servira ensuite à contenir vos tripes lorsqu'un sanglier des plaines un peu énervé vous aura éventré au fin fond des bois."
+  },
+  {
+   "name": "Petite Ceinture Forcesque",
+   "level": "Niveau 1",
+   "caracteristique": "Force : 2",
+   "recette": "1x Cuir de Boufton Blanc\n1x Fer",
+   "image": "https://barbok.eratz.fr/petite_ceinture_forcesque.png",
+   "condition": "",
+   "description": "Description : Cette ceinture augmente la force de son porteur."
+  },
+  {
+   "name": "Petite Ceinture Vitalesque",
+   "level": "Niveau 1",
+   "caracteristique": "Vitalité : 2",
+   "recette": "1x Cuir de Boufton Blanc\n1x Cuivre",
+   "image": "https://barbok.eratz.fr/petite_ceinture_vitalesque.png",
+   "condition": "",
+   "description": "Description : Cette ceinture augmente la vie de son porteur, pour plus de sûreté en plein combat."
+  },
+  {
+   "name": "La Spamette",
+   "level": "Niveau 1",
+   "caracteristique": "+1 de dommages",
+   "image": "https://barbok.eratz.fr/la_spamette.png",
+   "condition": "",
+   "description": "Description : Cette ceinture se porte si serrée qu'elle force presque son porteur à bégayer, trembloter et faire n'importe quoi, tant que c'est en boucle."
+  },
+  {
+   "name": "Petite Ceinture Agilesque",
+   "level": "Niveau 1",
+   "caracteristique": "Agilité : 2",
+   "recette": "1x Cuir de Boufton Noir\n1x Fer",
+   "image": "https://barbok.eratz.fr/petite_ceinture_agilesque.png",
+   "condition": "",
+   "description": "Description : Cette ceinture augmente l'agilité de son porteur."
+  },
+  {
+   "name": "Ceinture du Piou Vert",
+   "level": "Niveau 1",
+   "caracteristique": "Agilité : 1",
+   "recette": "1x Graine de Sésame\n1x Plume de Piou Vert",
+   "image": "https://barbok.eratz.fr/ceinture_du_piou_vert.png",
+   "condition": "",
+   "description": "Description : Cette petite ceinture mettra vos hanches en valeur l'espace d'un combat. Elle servira ensuite à contenir vos tripes lorsqu'un sanglier des plaines un peu énervé vous aura éventré au fin fond des bois."
+  },
+  {
+   "name": "Ceinture du Piou Violet",
+   "level": "Niveau 1",
+   "caracteristique": "Sagesse : 1",
+   "recette": "1x Plume de Piou Violet\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/ceinture_du_piou_violet.png",
+   "condition": "",
+   "description": "Description : Cette petite ceinture mettra vos hanches en valeur l'espace d'un combat. Elle servira ensuite à contenir vos tripes lorsqu'un sanglier des plaines un peu énervé vous aura éventré au fin fond des bois."
+  },
+  {
+   "name": "Ceinture Forcesque",
+   "level": "Niveau 2",
+   "caracteristique": "Force : 4",
+   "recette": "2x Cuir de Boufton Blanc\n2x Fer",
+   "image": "https://barbok.eratz.fr/ceinture_forcesque.png",
+   "condition": "",
+   "description": "Description : Cette ceinture augmente la force de son porteur."
+  },
+  {
+   "name": "Ceinture Vitalesque",
+   "level": "Niveau 2",
+   "caracteristique": "Vitalité : 4",
+   "recette": "2x Cuir de Boufton Blanc\n2x Cuivre",
+   "image": "https://barbok.eratz.fr/ceinture_vitalesque.png",
+   "condition": "",
+   "description": "Description : Cette ceinture augmente la vie de son porteur, pour plus de sûreté en plein combat."
+  },
+  {
+   "name": "Ceinture Agilesque",
+   "level": "Niveau 3",
+   "caracteristique": "Agilité : 4",
+   "recette": "2x Cuir de Boufton Noir\n2x Fer",
+   "image": "https://barbok.eratz.fr/ceinture_agilesque.png",
+   "condition": "",
+   "description": "Description : Cette ceinture augmente l'agilité de son porteur."
+  },
+  {
+   "name": "Araknoture",
+   "level": "Niveau 6",
+   "caracteristique": "Initiative : 11 à 50",
+   "recette": "2x Patte d'Arakne\n2x Ailes de Moskito",
+   "image": "https://barbok.eratz.fr/araknoture.png",
+   "condition": "",
+   "description": "Description : Confectionnée à partir de vieux restes d'Araknes en décomposition, cette ceinture a tout pour plaire. Elle reprendra parfois vie et prendra un malin plaisir à vous mordre les hanches. Sales bêtes !"
+  },
+  {
+   "name": "Grande Ceinture Agilesque",
+   "level": "Niveau 6",
+   "caracteristique": "Agilité : 6",
+   "recette": "4x Cuir de Boufton Noir\n2x Fer",
+   "image": "https://barbok.eratz.fr/grande_ceinture_agilesque.png",
+   "condition": "",
+   "description": "Description : Cette ceinture augmente l'agilité de son porteur."
+  },
+  {
+   "name": "Grande Ceinture Vitalesque",
+   "level": "Niveau 6",
+   "caracteristique": "Vitalité : 6",
+   "recette": "3x Cuir de Boufton Blanc\n3x Cuivre",
+   "image": "https://barbok.eratz.fr/grande_ceinture_vitalesque.png",
+   "condition": "",
+   "description": "Description : Cette ceinture augmente la vie de son porteur, pour plus de sûreté en plein combat."
+  },
+  {
+   "name": "Grande Ceinture Forcesque",
+   "level": "Niveau 6",
+   "caracteristique": "Force : 6",
+   "recette": "3x Cuir de Boufton Blanc\n3x Fer",
+   "image": "https://barbok.eratz.fr/grande_ceinture_forcesque.png",
+   "condition": "",
+   "description": "Description : Cette ceinture augmente la force de son porteur."
+  },
+  {
+   "name": "Ceinture du Kwabe",
+   "level": "Niveau 8",
+   "caracteristique": "Résistance : 3 à 5% (eau)\nFaiblesse : 11 à 15% (feu)",
+   "recette": "10x Pince du Crabe\n1x Carapace vide de Crabe",
+   "image": "https://barbok.eratz.fr/ceinture_du_kwabe.png",
+   "condition": "",
+   "description": "Description : Cette étrange ceinture est entièrement constituée de fragments de pince, et de carapace de crabe. Même en employant une magie très puissante, elle sentira toujours aussi mauvais, il faut vous rendre à l'évidence."
+  },
+  {
+   "name": "Imposante Ceinture Agilesque",
+   "level": "Niveau 8",
+   "caracteristique": "Agilité : 8",
+   "recette": "4x Cuir de Boufton Noir\n4x Fer",
+   "image": "https://barbok.eratz.fr/imposante_ceinture_agilesque.png",
+   "condition": "",
+   "description": "Description : Cette ceinture augmente l'agilité de son porteur."
+  },
+  {
+   "name": "Imposante Ceinture Forcesque",
+   "level": "Niveau 8",
+   "caracteristique": "Force : 8",
+   "recette": "4x Cuir de Boufton Blanc\n4x Fer",
+   "image": "https://barbok.eratz.fr/imposante_ceinture_forcesque.png",
+   "condition": "",
+   "description": "Description : Cette ceinture augmente la force de son porteur."
+  },
+  {
+   "name": "Imposante Ceinture Vitalesque",
+   "level": "Niveau 8",
+   "caracteristique": "Vitalité : 8",
+   "recette": "4x Cuir de Boufton Blanc\n4x Cuivre",
+   "image": "https://barbok.eratz.fr/imposante_ceinture_vitalesque.png",
+   "condition": "",
+   "description": "Description : Cette ceinture augmente la vie de son porteur, pour plus de sûreté en plein combat."
+  },
+  {
+   "name": "Ceinture Fleurie",
+   "level": "Niveau 10",
+   "caracteristique": "Vitalité : 5 à 6\nIntelligence : 4 à 5",
+   "recette": "15x Pétale de Rose Démoniaque\n11x Tige de Pissenlit Diabolique\n11x Langue du Pissenlit Diabolique",
+   "image": "https://barbok.eratz.fr/ceinture_fleurie.png",
+   "condition": "",
+   "description": "Description : Avec cette ceinture décorée de petits pétales autour de la taille, vous pourrez sans problème vous faire passer pour une danseuse étoile au milieu d'un combat perdu d'avance. De quoi décontenancer une armée de Chafers, pour retourner la situation à votre avantage."
+  },
+  {
+   "name": "Ceinture en Mousse",
+   "level": "Niveau 10",
+   "caracteristique": "Pods : +1 à 200",
+   "image": "https://barbok.eratz.fr/ceinture_en_mousse.png",
+   "condition": "",
+   "description": "Description : Cette ceinture permettait à Vald de prendre son bain sans danger car aucun Iop n'a encore réussi à apprendre à nager."
+  },
+  {
+   "name": "Ceinture du Bandit",
+   "level": "Niveau 15",
+   "caracteristique": "Vitalité : 6 à 20\n+1 à 3 de dommages\nCoup critiques : +1\nFaiblesse : 1 à 10% (feu)\nFaiblesse : 1 à 10% (eau)",
+   "recette": "3x Petite Ceinture Agilesque\n3x Petite Ceinture Forcesque\n3x Petite Ceinture Vitalesque",
+   "image": "https://barbok.eratz.fr/ceinture_du_bandit.png",
+   "condition": "",
+   "description": "Description : Cette ceinture saillante vous ira à ravir si vous rejoignez un jour la cause des bandits de grand chemin. En attendant, elle ne vous rendra que plus ridicule."
+  },
+  {
+   "name": "Ceinture de Sécurité",
+   "level": "Niveau 17",
+   "caracteristique": "Force : 25\nVitalité : -5",
+   "recette": "5x Cuir de Sanglier\n5x Cuir de Bouftou\n5x Etain",
+   "image": "https://barbok.eratz.fr/ceinture_de_securite.png",
+   "condition": "",
+   "description": "Description : Cette ceinture permettait aux gardes du Château d'Amakna de contenir les émeutes et autres débordements lors des fêtes populaires."
+  },
+  {
+   "name": "Sanglature",
+   "level": "Niveau 18",
+   "caracteristique": "Vitalité : 6 à 20\nCoup critiques : +1",
+   "recette": "1x Groin du Sanglier\n1x Poils du Sanglier\n1x Défense du Sanglier",
+   "image": "https://barbok.eratz.fr/sanglature.png",
+   "condition": "",
+   "description": "Description : Poilue mais élégante, cette ceinture devrait parfois vous faire penser à votre dulcinée."
+  },
+  {
+   "name": "Ceinture de Poche",
+   "level": "Niveau 20",
+   "caracteristique": "Pods : +201 à 300\nForce : 16 à 25",
+   "recette": "8x Etain\n4x Cuir de Sanglier\n4x Poils du Sanglier\n8x Kobalte",
+   "image": "https://barbok.eratz.fr/ceinture_de_poche.png",
+   "condition": "",
+   "description": "Description : Cette ceinture possède de petites poches permettant de stocker davantage d'objets dans votre inventaire."
+  },
+  {
+   "name": "Ceinture de l'Homme Ours",
+   "level": "Niveau 20",
+   "caracteristique": "Résistance : 1 à 2 (eau)\nRésistance : 1 à 2 (air)\nRésistance : 1 à 2 (feu)\nVitalité : 9 à 12",
+   "recette": "1x Peau d'Ours\n4x Cuir de Boufton Blanc\n4x Cuir de Boufton Noir\n3x Cuir de Bouftou",
+   "image": "https://barbok.eratz.fr/ceinture_de_lhomme_ours.png",
+   "condition": "",
+   "description": "Description : Cette petite ceinture recouverte de poils d'ours, est idéale pour cacher vos poignées d'amour. Il est donc conseillé de ne jamais l'enlever, pour ne pas décevoir l'élu de votre coeur."
+  },
+  {
+   "name": "Ceinturemuda du Paysan",
+   "level": "Niveau 20",
+   "caracteristique": "Vitalité : 11 à 15\nChance : 11 à 15",
+   "recette": "15x Graine de Chanvre\n2x Huile de Noix\n10x Fleur de Pissenlit Diabolique\n10x Tige de Pissenlit Diabolique",
+   "image": "https://barbok.eratz.fr/ceinturemuda_du_paysan.png",
+   "condition": "",
+   "description": "Description : Cette ceinture est franchement exceptionnelle, puisqu'un bermuda en fibre de lin y est attaché. C'est la ceinture idéale pour ceux qui aiment se délester de leurs vêtements rapidement, et passer à l'action sur le champ. Attention cependant, pour des raisons d'hygiène, cette ceinture est interdite dans les piscines municipales."
+  },
+  {
+   "name": "Ceinture du Bouftou",
+   "level": "Niveau 20",
+   "caracteristique": "Pods : +1 à 500",
+   "recette": "5x Cuir de Boufton Noir\n5x Cuir de Bouftou\n5x Cuir de Boufton Blanc\n50x Laine de Bouftou",
+   "image": "https://barbok.eratz.fr/ceinture_du_bouftou.png",
+   "condition": "",
+   "description": "Description : Rapide à équiper, cette ceinture s'avère tout de même assez légère pour sa taille. La laine donne l'impression d'être neuve. Normal, il a fallu selon la légende, dépecer une centaine de bouftons pour avoir cet aspect lisse et soyeux."
+  },
+  {
+   "name": "Ceinture du Tofu",
+   "level": "Niveau 22",
+   "caracteristique": "Intelligence : 6 à 15\nAgilité : 6 à 15\nPods : +1 à 200",
+   "recette": "1x Plume du Batofu\n10x Plumes de Tofu\n9x Bec du Tofu\n8x Oeuf de Tofu",
+   "image": "https://barbok.eratz.fr/ceinture_du_tofu.png",
+   "condition": "",
+   "description": "Description : Idéale pour étrangler les Tofus, cette ceinture permet également aux chasseurs de fouetter les aventuriers qui s'aventurent sur leur domaine en période de chasse. Il est donc déconseillé de plaisanter pas avec nos amis les chasseurs, ce ne sont pas forcément les Tofus qui ont un coup dans l'aile."
+  },
+  {
+   "name": "Ceinture Piquante",
+   "level": "Niveau 26",
+   "caracteristique": "Sagesse : 11 à 15",
+   "recette": "1x Crinière de Prespic\n1x Poils Darits\n2x Queue de Prespic\n2x Estomac de Prespic",
+   "image": "https://barbok.eratz.fr/ceinture_piquante.png",
+   "condition": "",
+   "description": "Description : Cette magnifique ceinture de couleur rousse, vous permettra grâce à ses pouvoirs magiques de mieux vous concentrer et d'apprendre plus rapidement. Le rêve de tous les cancres d'Amakna."
+  },
+  {
+   "name": "Ceinture de Célérité",
+   "level": "Niveau 27",
+   "caracteristique": "Agilité : 16 à 35\nSagesse : -6 à -15\nRésistance : 1 à 2% (air)",
+   "recette": "1x Tissu Pourpre\n30x Plumes de Tofu\n30x Plume de Corbac\n1x Cuir Violet de Bwork",
+   "image": "https://barbok.eratz.fr/ceinture_de_celerite.png",
+   "condition": "",
+   "description": "Description : Cette ceinture aérodynamique conçue par Tengra Reufrus vous rend agile comme l'air, et libre comme un Tofu. A moins que ça ne soit l'inverse."
+  },
+  {
+   "name": "Ceinture d'Endurance",
+   "level": "Niveau 27",
+   "caracteristique": "Force : 21 à 30\nVitalité : 21 à 30\nAgilité : -1 à -20",
+   "recette": "6x Cuir de Boufton Blanc\n10x Cuir de Bouftou\n16x Cuir de Sanglier\n6x Etain",
+   "image": "https://barbok.eratz.fr/ceinture_dendurance.png",
+   "condition": "",
+   "description": "Description : Cette ceinture rend son porteur plus résistant et endurant."
+  },
+  {
+   "name": "La Mouthmou",
+   "level": "Niveau 27",
+   "caracteristique": "Vitalité : 21 à 100\nCréature invocables : +1 à 4\nPM perdu à la cible : 1",
+   "recette": "2x Poil de Kanigrou\n5x Poils de Crocs Glands\n10x Or\n5x Poils de Grand Pa Wabbit\n10x Poils de Wo Wabbit",
+   "image": "https://barbok.eratz.fr/la_mouthmou.png",
+   "condition": "",
+   "description": "Description : Cette ceinture vous est conseillée par Jiva en personne, pour les nuits froides et rigoureuses. En cas de tâches, elle se lave avec du Rimennelle."
+  },
+  {
+   "name": "La Croqueuse",
+   "level": "Niveau 28",
+   "caracteristique": "Intelligence : 16 à 30\nRésistance : 1 à 2% (feu)\nFaiblesse : 1 à 2% (neutre)",
+   "recette": "20x Dent de Dragodinde\n30x Dent de Wabbit\n4x Cuir du Chef de Guerre Bouftou\n4x Dent de Crocodaille",
+   "image": "https://barbok.eratz.fr/la_croqueuse.png",
+   "condition": "Force < 40\nIntelligence > 80",
+   "description": "Description : Cette ceinture fut créée par Xof le Lenald, il eut la bonne idée de ramasser toutes les dents qu'il pouvait trouver sur un champ de bataille Wabbit. Depuis ce jour, ce geste est devenu une habitude."
+  },
+  {
+   "name": "Ceinture Banisation",
+   "level": "Niveau 29",
+   "caracteristique": "Agilité : 11 à 20\nCoup critiques : +3 à 5",
+   "recette": "1x Aile de Dragodinde\n4x Dent de Dragodinde\n10x Pic de Dragodinde\n4x Cuir de Sanglier des Plaines",
+   "image": "https://barbok.eratz.fr/ceinture_banisation.png",
+   "condition": "",
+   "description": "Description : Le cordonnier qui a créé cette ceinture avec les restes d'un Dragodinde devait vraiment manquer d'imagination, pour lui donner un nom aussi stupide."
+  },
+  {
+   "name": "Ceinture Fulgurante",
+   "level": "Niveau 30",
+   "caracteristique": "PA : +1\nVitalité : 1 à 30\nSagesse : 1 à 30\n+1 à 3 de dommages",
+   "image": "https://barbok.eratz.fr/ceinture_fulgurante.png",
+   "condition": "",
+   "description": "Description : Cette magnifique ceinture augmente les points d'action de son porteur. Elle augmente également sa vitalité et sa sagesse."
+  },
+  {
+   "name": "Ceinture de Puissance",
+   "level": "Niveau 31",
+   "caracteristique": "Chance : 21 à 35\nCoup critiques : +2\n+1 de dommages\nAgilité : -11 à -20",
+   "recette": "8x Or\n10x Cuir de Bouftou\n10x Cuir de Sanglier\n8x Etain\n10x Cuir de Boufton Noir",
+   "image": "https://barbok.eratz.fr/ceinture_de_puissance.png",
+   "condition": "",
+   "description": "Description : La Ceinture de Puissance rend son porteur particulièrement puissant lors des combats, mais son poids réduit de manière conséquente son agilité."
+  },
+  {
+   "name": "Ceinture Banisation Sauvage",
+   "level": "Niveau 32",
+   "caracteristique": "Agilité : 11 à 20\nCoup critiques : +3 à 5\nInitiative : 41 à 65",
+   "recette": "1x Aile de Dragodinde Rousse Sauvage\n1x Queue de Dragodinde Rousse Sauvage\n1x Pic de Dragodinde Rousse Sauvage\n4x Dent de Dragodinde\n10x Fer",
+   "image": "https://barbok.eratz.fr/ceinture_banisation_sauvage.png",
+   "condition": "",
+   "description": "Description : Comportant des renforts en fer, c'est une version améliorée de la classique Ceinture Banisation, elle a été spécialement conçue pour chasser les Dragodindes Sauvages dans les contrées sauvages."
+  },
+  {
+   "name": "Ceinture du bois de l'est",
+   "level": "Niveau 32",
+   "caracteristique": "Agilité : 11 à 20\nCoup critiques : +3 à 5\nInitiative : 41 à 65",
+   "image": "https://barbok.eratz.fr/ceinture_du_bois_de_lest.png",
+   "condition": "",
+   "description": "Description : La fronde accrochée à cette ceinture est très bien accrochée. Tellement bien accrochée que vous ne pourrez pas la décrocher. Elle ne sert qu'à impressionner les petits bandits de grand chemin que vous croiserez."
+  },
+  {
+   "name": "Ceinture du Prespic",
+   "level": "Niveau 33",
+   "caracteristique": "Renvois de dommages : 1",
+   "recette": "4x Patte de Prespic\n1x Pic du Prespic\n1x Estomac de Prespic\n3x Crinière de Prespic\n1x Queue de Prespic",
+   "image": "https://barbok.eratz.fr/ceinture_du_prespic.png",
+   "condition": "",
+   "description": "Description : Idéale pour garder ses hanches au chaud, cette ceinture a tout de même l'inconvénient d'irriter et de démanger les peaux douces. A réserver aux durs à cuir."
+  },
+  {
+   "name": "Ceinture Fourbissante",
+   "level": "Niveau 33",
+   "caracteristique": "Vitalité : 11 à 15\nCoup critiques : +1 à 2\nAugmente les dommages de 11 à 15%\nInitiative : 41 à 60",
+   "recette": "3x Kole\n15x Feuille de Fourbasse\n12x Feuille de Kokoko\n3x Ecorce de Fourbasse\n1x Peau de Trukikol",
+   "image": "https://barbok.eratz.fr/ceinture_fourbissante.png",
+   "condition": "",
+   "description": "Description : Remarquable création artisanale à base de restes de Fourbasses et de détritus ramassés le long des plages de Moon, au milieu de l'écume nauséabonde, cette ceinture si elle est portée toute seule, vous donnera une allure vraiment surprenante. De quoi décontenancer vos adversaires ou surprendre l'être aimé, pour mieux tirer partie de cet instant où pour une fois c'est vous qui aurez le dessus."
+  },
+  {
+   "name": "Ceinture du Tot",
+   "level": "Niveau 33",
+   "caracteristique": "Vitalité : 31 à 50\nCoup critiques : +4\nIntelligence : -11 à -30",
+   "recette": "4x Cuir de Bouftou\n2x Bauxite\n2x Or\n4x Cuir du Chef de Guerre Bouftou\n8x Cuir de Sanglier",
+   "image": "https://barbok.eratz.fr/ceinture_du_tot.png",
+   "condition": "",
+   "description": "Description : Si vous avez ce formidable objet autour des reins, c'est que vous êtes l'un des héros les plus chanceux de cet univers. Cette ceinture appartenait au héros barbu le plus fort et séduisant de tous les temps."
+  },
+  {
+   "name": "Puissance de Crocoburio",
+   "level": "Niveau 34",
+   "caracteristique": "Vitalité : 51 à 80",
+   "recette": "10x Os de Chafer\n10x Dent de Crocodaille\n20x Ecaille de Crocodaille\n20x Cuir de Boufton Blanc\n1x Os de Crocodaille",
+   "image": "https://barbok.eratz.fr/puissance_de_crocoburio.png",
+   "condition": "Vitalité > 119",
+   "description": "Description : Grougalorasalar aimait garder des fragments d'os appartenant aux ennemis vaincus les plus forts. Son affection pour Crocoburio le poussa à les utiliser pour fabriquer cette ceinture surpuissante."
+  },
+  {
+   "name": "Ceinture du Boufcoul",
+   "level": "Niveau 37",
+   "caracteristique": "Agilité : 11 à 15\nChance : 11 à 15\nCoup critiques : +2 à 3\nPods : +101 à 500",
+   "recette": "20x Cuir de Bouftou\n2x Laine du Boufcoul\n1x Ceinture du Bouftou\n2x Cuir du Boufcoul\n20x Laine de Bouftou",
+   "image": "https://barbok.eratz.fr/ceinture_du_boufcoul.png",
+   "condition": "",
+   "description": "Description : Portée autour des hanches, cette ceinture vous permettra de passer pour un aventurier pacifiste et ainsi de mieux surprendre vos adversaires en leur assenant un coup d'épée dans le dos."
+  },
+  {
+   "name": "Ramoume l'Eternelle",
+   "level": "Niveau 37",
+   "caracteristique": "Pods : -1 à 300\nRésistance : 1 à 2% (air)\nFaiblesse : 3 à 5% (terre)\nSagesse : 16 à 25",
+   "recette": "1x Crâne de chafer\n5x Os de Chafer\n8x Manganèse\n1x Tissu Pourpre\n5x Cuir de Sanglier des Plaines",
+   "image": "https://barbok.eratz.fr/ramoume_leternelle.png",
+   "condition": "Sagesse > 49\nAlignement doit etre Brâkmar",
+   "description": "Description : Ramoume était un ancien ami d'enfance de Nova, ils se sont perdus de vue quand Ramoume décida de faire une sieste éternelle."
+  },
+  {
+   "name": "L'Ami Léhunui",
+   "level": "Niveau 37",
+   "caracteristique": "Pods : -1 à 300\nRésistance : 1 à 2% (eau)\nFaiblesse : 3 à 5% (feu)\nSagesse : 16 à 25",
+   "recette": "5x Cuir de Sanglier des Plaines\n5x Poils de Black Tiwabbit\n5x Poils de souris\n8x Manganèse\n1x Tissu Pourpre",
+   "image": "https://barbok.eratz.fr/lami_lehunui.png",
+   "condition": "Sagesse > 49\nAlignement doit etre Bonta",
+   "description": "Description : Léhunui savait se faire des amis, il conviait souvent ses camarades à de grandes soirées costumées. Il avait aussi pour réputation de mettre toujours les petits plats dans les grands et d'offrir de somptueux bijoux pour vous remercier de venir chez lui."
+  },
+  {
+   "name": "Ceinture du Tétounik",
+   "level": "Niveau 38",
+   "caracteristique": "Vitalité : 16 à 25\nIntelligence : 6 à 15\nSoins : 2 à 3",
+   "image": "https://barbok.eratz.fr/ceinture_du_tetounik.png",
+   "condition": "",
+   "description": "Description : Cette ceinture est dotée d'un mécanisme magnétique incroyablement puissant qui lui permet de se rester fermée sans utiliser la moindre boucle de ceinture. Attention, il est déconseillé de l'utiliser en même temps qu'un slip de plomb."
+  },
+  {
+   "name": "Krustoture",
+   "level": "Niveau 39",
+   "caracteristique": "Vitalité : 16 à 25\nForce : 16 à 25\nAgilité : 16 à 25\nCoup critiques : +1 à 2\n1 à 10% de dommages aux pièges",
+   "recette": "39x Pince de Crustorail\n1x Sacrum magistral\n2x Corail Malibout\n2x Corail Passaoh\n2x Corail Kouraçao",
+   "image": "https://barbok.eratz.fr/krustoture.png",
+   "condition": "",
+   "description": "Description : Enfin une bonne excuse de sentir la marée !"
+  },
+  {
+   "name": "Ceinture Lardière",
+   "level": "Niveau 39",
+   "caracteristique": "Vitalité : 16 à 25\nForce : 16 à 25\nAgilité : 16 à 25\nCoup critiques : +1 à 2\n1 à 10% de dommages aux pièges",
+   "image": "https://barbok.eratz.fr/ceinture_lardiere.png",
+   "condition": "",
+   "description": "Description : Votre petite queue en tire-bouchon fera plus d'un jaloux parmi votre entourage."
+  },
+  {
+   "name": "Ceinture Siks Won Naïne",
+   "level": "Niveau 41",
+   "caracteristique": "Vitalité : 36 à 45\n+1 à 2 de dommages\nAugmente les dommages de 11 à 15%",
+   "image": "https://barbok.eratz.fr/ceinture_siks_won_naine.png",
+   "condition": "",
+   "description": "Description : Chez certains combattants, le talon d'Achille se situe au niveau du nombril. Avec cette ceinture autour des hanches, vos amis vous trouveront deux fois plus lourd, mais vous serez mieux protégé."
+  },
+  {
+   "name": "Kwakture de Flammes",
+   "level": "Niveau 41",
+   "caracteristique": "Intelligence : 11 à 15\nProspection : 1 à 2\nRésistance : 3 à 5% (feu)",
+   "recette": "15x Plume du Kwak de Flamme\n3x Peau de serpentin\n1x Peau de Trukikol\n5x Cuir de Porkass\n8x Cuir de Sanglier des Plaines",
+   "image": "https://barbok.eratz.fr/kwakture_de_flammes.png",
+   "condition": "",
+   "description": "Description : Pour parader comme un Kwak de Flammes pendant la saison des amours, cette ceinture sera parfaite, à condition de ne porter que ça."
+  },
+  {
+   "name": "Ceinture Akwadala",
+   "level": "Niveau 41",
+   "caracteristique": "Sagesse : 6 à 20\nPods : +101 à 150\nRésistance : 1 à 5% (eau)",
+   "recette": "50x Artefact Pandawushu Eau\n2x Peau de Cooleuvre\n4x Peau de Pandikaze\n10x Cuir de Porkass\n2x Peau de serpentin",
+   "image": "https://barbok.eratz.fr/ceinture_akwadala.png",
+   "condition": "",
+   "description": "Description : Les Pandawas du village d'Akwadala ont toujours voulu garder la taille fine. En serrant au maximum cette ceinture, vous devriez arriver au même résultat."
+  },
+  {
+   "name": "Kwakture de Glace",
+   "level": "Niveau 41",
+   "caracteristique": "Chance : 11 à 15\nProspection : 1 à 2\nRésistance : 3 à 5% (eau)",
+   "recette": "15x Plume du Kwak de Glace\n3x Peau de serpentin\n1x Peau de Trukikol\n5x Cuir de Porkass\n8x Cuir de Sanglier des Plaines",
+   "image": "https://barbok.eratz.fr/kwakture_de_glace.png",
+   "condition": "",
+   "description": "Description : Idéale pour vous raffermir les hanches, cette ceinture vous permettra de garder bien au frais ce que vous avez en dessous de la ceinture."
+  },
+  {
+   "name": "Kwakture de Vent",
+   "level": "Niveau 41",
+   "caracteristique": "Agilité : 11 à 15\nProspection : 1 à 2\nRésistance : 3 à 5% (air)",
+   "recette": "15x Plume du Kwak de Vent\n3x Peau de serpentin\n1x Peau de Trukikol\n5x Cuir de Porkass\n8x Cuir de Sanglier des Plaines",
+   "image": "https://barbok.eratz.fr/kwakture_de_vent.png",
+   "condition": "",
+   "description": "Description : \"La seule façon d'attraper un vieux mâle Kwak du Vent contrarié, c'est de se déguiser en femelle Kwak du Vent contrariée. Dès lors, le mâle tentera de comprendre pourquoi la femelle est contrariée et tentera avec tous les moyens dont il dispose, de satisfaire la femelle. Une fois le mâle satisfait de sa prestation, il faut profiter de sa béatitude pour le plumer.\" Voici ce que l'on peut lire dans la section douze du tome trois sur la chasse aux Kwaks du Vent. Il y est en outre clairement indiqué, que cette ceinture est un élément indispensable pour se faire passer pour une femelle Kwak du Vent. Vous savez ce qu'il vous reste à faire."
+  },
+  {
+   "name": "Kwakture de Terre",
+   "level": "Niveau 41",
+   "caracteristique": "Force : 11 à 15\nProspection : 1 à 2\nRésistance : 3 à 5% (terre)",
+   "recette": "15x Plume du Kwak de Terre\n3x Peau de serpentin\n1x Peau de Trukikol\n5x Cuir de Porkass\n8x Cuir de Sanglier des Plaines",
+   "image": "https://barbok.eratz.fr/kwakture_de_terre.png",
+   "condition": "",
+   "description": "Description : Le Kwak de Terre n'est pas très social et surtout très chassé pour ses plumes, c'est bien connu. En portant cette ceinture autour des hanches, vous vous exposez donc à de multiples fourberies de la part des chasseurs de Kwaks de Terre, qui vous prendront de loin pour un vieux Kwak grabataire sur le déclin. Les apparences ne sont finalement pas toujours trompeuses."
+  },
+  {
+   "name": "La Végète Hâtif",
+   "level": "Niveau 41",
+   "caracteristique": "Résistance : 3 à 5% (air)\nFaiblesse : 3 à 5% (terre)\nAgilité : 21 à 30\nForce : 11 à 25",
+   "recette": "5x Fleur de Blop Coco\n10x Edelweiss\n20x Fleur de Pissenlit Diabolique\n40x Fleur de Lin\n10x Feuille de Fourbasse",
+   "image": "https://barbok.eratz.fr/la_vegete_hatif.png",
+   "condition": "Agilité > 50",
+   "description": "Description : Equipement d'une légèreté incompararable, la Végéte Hâtif vous apporte quelques grammes de finesses dans ce monde de Bwork en rût."
+  },
+  {
+   "name": "Ceinture Kokokette",
+   "level": "Niveau 42",
+   "caracteristique": "Force : 21 à 35\nIntelligence : 21 à 35\nRésistance : 3 à 5% (neutre)",
+   "recette": "3x Feuille de Kokoko\n5x Noix de Kokoko\n10x Tronc de Kokoko\n1x Kokopaille\n10x Cuir de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/ceinture_kokokette.png",
+   "condition": "",
+   "description": "Description : Cette ceinture ressemble presque à un pagne, elle conviendra parfaitement si vous voulez vous camoufler parmi les Kokokos de l'île de Moon, ou tout simplement si vous désirez courtiser un Kokoko."
+  },
+  {
+   "name": "Scarature Noire",
+   "level": "Niveau 43",
+   "caracteristique": "Coup critiques : +2 à 4\nCréature invocables : +1\nInitiative : 1 à 100\nProspection : 1 à 10",
+   "recette": "1x Scarature Blanche\n1x Scarature Bleue\n1x Scarature Rouge\n1x Scarature Verte\n1x Ailes du Scarafeuille Noir",
+   "image": "https://barbok.eratz.fr/scarature_noire.png",
+   "condition": "",
+   "description": "Description : Cette ceinture manque cruellement d'originalité. Elle semble cependant assortie à votre coiffure."
+  },
+  {
+   "name": "Abrature",
+   "level": "Niveau 45",
+   "caracteristique": "Pods : +51 à 150\nRésistance : 4 à 6% (neutre)\nForce : 11 à 30",
+   "recette": "10x Ecorce d'Abraknyde\n20x Racine d'Abraknyde\n10x Bourgeon d'Abraknyde\n1x Ambre\n1x Bois de Tronknyde",
+   "image": "https://barbok.eratz.fr/abrature.png",
+   "condition": "",
+   "description": "Description : Cette ceinture vous apportera assurance et abdominaux en bois. Un traitement anti-Arakne est néanmoins recommandé tous les ans. Un peu comme la coiffure d'un Sadida, avec heureusement trois fois moins d'anti-parasites."
+  },
+  {
+   "name": "Beignature",
+   "level": "Niveau 45",
+   "caracteristique": "Vitalité : 1 à 20\nSagesse : 1 à 15\nRésistance : 1 à 5 (terre)\nRésistance : 1 à 5 (neutre)\nRésistance : 1 à 5% (terre)",
+   "image": "https://barbok.eratz.fr/beignature.png",
+   "condition": "",
+   "description": "Description : Lorsque vous aurez équipé cette ceinture, vous vous apercevrez rapidement que vos hanches n'auront jamais été aussi alléchantes."
+  },
+  {
+   "name": "Mégature",
+   "level": "Niveau 45",
+   "caracteristique": "Vitalité : 1 à 20\nSagesse : 1 à 15\nRésistance : 1 à 5 (eau)\nRésistance : 1 à 5 (air)\nRésistance : 1 à 5 (feu)\nRésistance : 1 à 5% (eau)",
+   "image": "https://barbok.eratz.fr/megature.png",
+   "condition": "",
+   "description": "Description : Cette ceinture a été spécialement conçue pour protéger les hanches des héros. Elle ne vous sera donc d'aucune utilité."
+  },
+  {
+   "name": "Ceinture du Craqueleur",
+   "level": "Niveau 45",
+   "caracteristique": "Sagesse : 1 à 15\nPods : +1 à 300\nRésistance : 1 à 5 (terre)\nRésistance : 1 à 5 (neutre)\nRésistance : 1 à 5% (air)",
+   "recette": "24x Dent en Or du Craqueleur\n1x Pierre du Craqueleur\n5x Silex\n3x Charbon\n2x Pierre de Granit",
+   "image": "https://barbok.eratz.fr/ceinture_du_craqueleur.png",
+   "condition": "",
+   "description": "Description : Porter cette ceinture autour des hanches fera de vous un aventurier respecté. La porter sur la tête en guise de bandeau fera de vous la risée du village d'Astrub."
+  },
+  {
+   "name": "Ceinture du Black Wab",
+   "level": "Niveau 46",
+   "caracteristique": "Vitalité : 16 à 30\nSagesse : 11 à 15\n+2 à 3 de dommages",
+   "image": "https://barbok.eratz.fr/ceinture_du_black_wab.png",
+   "condition": "",
+   "description": "Description : Cette ceinture peut se porter dans les deux sens, suivant ce que vous désirez cacher ou montrer..."
+  },
+  {
+   "name": "Scarature Blanche",
+   "level": "Niveau 46",
+   "caracteristique": "Vitalité : 1 à 20\nSagesse : 1 à 15\nRésistance : 1 à 5 (eau)\nRésistance : 1 à 5 (air)\nRésistance : 1 à 5 (feu)\nRésistance : 1 à 5% (air)",
+   "recette": "15x Fruit de Palme\n40x Antenne du Scarafeuille blanc\n1x Huile de Palme\n3x Carapace de Scarafeuille Blanc\n10x Ailes de Scarafeuille blanc",
+   "image": "https://barbok.eratz.fr/scarature_blanche.png",
+   "condition": "",
+   "description": "Description : La Scarature servait autrefois à donner une indication sur votre niveau en combat à mains nues. Posséder une Scarature verte signifiait que vous étiez un débutant, une rouge, signifiait que vous léchiez le sang de vos ennemis une fois ceux-ci exterminés, une blanche, signifiait que vous étiez une véritable machine à exterminer les ennemis, et une bleue signifiait que vous n'aviez pas assez de kamas pour vous acheter une des trois autres Scaratures."
+  },
+  {
+   "name": "Ceinture Vioutifoule",
+   "level": "Niveau 46",
+   "caracteristique": "Vitalité : 1 à 20\nSagesse : 1 à 15\nRésistance : 1 à 5 (eau)\nRésistance : 1 à 5 (air)\nRésistance : 1 à 5 (feu)\nRésistance : 1 à 5% (feu)",
+   "image": "https://barbok.eratz.fr/ceinture_vioutifoule.png",
+   "condition": "",
+   "description": "Description : On raconte que cette ceinture aurait été fabriquée par le capitaine Bloue en personne. A peine croyable, et pourtant vous y croyez tout de même."
+  },
+  {
+   "name": "Scarature Verte",
+   "level": "Niveau 46",
+   "caracteristique": "Vitalité : 1 à 20\nSagesse : 1 à 15\nRésistance : 1 à 5 (eau)\nRésistance : 1 à 5 (air)\nRésistance : 1 à 5 (feu)\nRésistance : 1 à 5% (terre)",
+   "recette": "1x Huile de Palme\n15x Fruit de Palme\n3x Carapace de Scarafeuille Vert\n40x Antenne du Scarafeuille vert\n10x Ailes de Scarafeuille vert",
+   "image": "https://barbok.eratz.fr/scarature_verte.png",
+   "condition": "",
+   "description": "Description : La Scarature servait autrefois à donner une indication sur votre niveau en combat à mains nues. Posséder une Scarature verte signifiait que vous étiez un débutant, une rouge, signifiait que vous léchiez le sang de vos ennemis une fois ceux-ci exterminés, une blanche, signifiait que vous étiez une véritable machine à exterminer les ennemis, et une bleue signifiait que vous n'aviez pas assez de kamas pour vous acheter une des trois autres Scaratures."
+  },
+  {
+   "name": "Scarature Bleue",
+   "level": "Niveau 46",
+   "caracteristique": "Vitalité : 1 à 20\nSagesse : 1 à 15\nRésistance : 1 à 5 (eau)\nRésistance : 1 à 5 (air)\nRésistance : 1 à 5 (feu)\nRésistance : 1 à 5% (eau)",
+   "recette": "15x Fruit de Palme\n40x Antenne du Scarafeuille bleu\n1x Huile de Palme\n3x Carapace de Scarafeuille Bleu\n10x Ailes de Scarafeuille bleu",
+   "image": "https://barbok.eratz.fr/scarature_bleue.png",
+   "condition": "",
+   "description": "Description : La Scarature servait autrefois à donner une indication sur votre niveau en combat à mains nues. Posséder une Scarature verte signifiait que vous étiez un débutant, une rouge, signifiait que vous léchiez le sang de vos ennemis une fois ceux-ci exterminés, une blanche, signifiait que vous étiez une véritable machine à exterminer les ennemis, et une bleue signifiait que vous n'aviez pas assez de kamas pour vous acheter une des trois autres Scaratures."
+  },
+  {
+   "name": "Scarature Rouge",
+   "level": "Niveau 46",
+   "caracteristique": "Vitalité : 1 à 20\nSagesse : 1 à 15\nRésistance : 1 à 5 (eau)\nRésistance : 1 à 5 (air)\nRésistance : 1 à 5 (feu)\nRésistance : 1 à 5% (feu)",
+   "recette": "40x Antenne du Scarafeuille rouge\n10x Ailes de Scarafeuille rouge\n1x Huile de Palme\n3x Carapace de Scarafeuille Rouge\n15x Fruit de Palme",
+   "image": "https://barbok.eratz.fr/scarature_rouge.png",
+   "condition": "",
+   "description": "Description : La Scarature servait autrefois à donner une indication sur votre niveau en combat à mains nues. Posséder une Scarature verte signifiait que vous étiez un débutant, une rouge, signifiait que vous léchiez le sang de vos ennemis une fois ceux-ci exterminés, une blanche, signifiait que vous étiez une véritable machine à exterminer les ennemis, et une bleue signifiait que vous n'aviez pas assez de kamas pour vous acheter une des trois autres Scaratures."
+  },
+  {
+   "name": "Ceinture Noire de Frank Lee Bruce",
+   "level": "Niveau 47",
+   "caracteristique": "Force : 16 à 25\nSagesse : 11 à 15\nAgilité : 16 à 25\nCoup critiques : +2 à 3\n+4 à 5 de dommages aux pièges",
+   "image": "https://barbok.eratz.fr/ceinture_noire_de_frank_lee_bruce.png",
+   "condition": "",
+   "description": "Description : Célèbre combattant du dimanche, Frank s'est reconverti dans les arts martiaux après avoir lamentablement raté son diplôme de tailleur de pierres."
+  },
+  {
+   "name": "Caleçon à bretelles du Parrain",
+   "level": "Niveau 48",
+   "caracteristique": "Sagesse : 11 à 20\nAgilité : 16 à 25\nChance : 16 à 25\nCoup critiques : +4 à 5",
+   "image": "https://barbok.eratz.fr/calecon_a_bretelles_du_parrain.png",
+   "condition": "",
+   "description": "Description : Le slogan du couturier à l'origine de cette merveille était : \"Même dans le feu de l'action, ce caleçon restera solidement accroché à votre postérieur, grâce à ses bretelles en lin d'une qualité supérieure\". Avant d'être couturier, il était mauvais poète."
+  },
+  {
+   "name": "L'Adelus",
+   "level": "Niveau 48",
+   "caracteristique": "Sagesse : 16 à 25\n+2 à 4 de dommages",
+   "recette": "2x Cuir de Bouftou\n1x Argent\n2x Cuir de Sanglier\n2x Cuir du Chef de Guerre Bouftou\n9x Cuir du Cochon de Lait",
+   "image": "https://barbok.eratz.fr/ladelus.png",
+   "condition": "",
+   "description": "Description : Cette ceinture, en plus d'habiller d'une manière élégante, procure à son porteur un effet massant vraiment agréable. L'heureux propriétaire, moins stressé, est alors plus apte à réfléchir."
+  },
+  {
+   "name": "Ceinture de Flash Gorgone",
+   "level": "Niveau 48",
+   "caracteristique": "Sagesse : 16 à 25\n+2 à 4 de dommages",
+   "image": "https://barbok.eratz.fr/ceinture_de_flash_gorgone.png",
+   "condition": "",
+   "description": "Description : On ne connait que peu de chose sur Flash Gorgone, hormis sa passion pour les vases en porcelaine. Une légende raconte que ce héros courait tellement vite que même les Tofus ne parvenaient pas à le rattraper. Malheureusement, à force d'être tout le temps pressé, il arriva un jour où il attacha mal sa ceinture... et s'empêtra les pieds dedans. Sa collection de porcelaine s'en souvient encore..."
+  },
+  {
+   "name": "Tutu Rose",
+   "level": "Niveau 49",
+   "caracteristique": "Coup critiques : +3 à 7\nSagesse : 16 à 25\nVitalité : 31 à 50",
+   "recette": "50x Pétale de Rose Démoniaque\n1x Teinture Magique de Rougeur\n30x Plume de Piou Rose\n10x Caleçon Mignon du Capitaine Pirate\n1x Mouchoir de la Gamine Zoth",
+   "image": "https://barbok.eratz.fr/tutu_rose.png",
+   "condition": "",
+   "description": "Description : Ce tutu rose sera parfait pour la représentation de fin d'année de votre petite dernière. Fabriqué en coton ancestral et en mousse de Mob l'éponge extensible, doux et confortable avec une jupe en froufrou, ce tutu sera peut-être le premier d'une future danseuse étoile."
+  },
+  {
+   "name": "String du Mulou",
+   "level": "Niveau 49",
+   "caracteristique": "Force : 1 à 30\nVitalité : 1 à 20\nChance : 1 à 30\n+1 à 3 de dommages\nRésistance : 1 à 5% (terre)",
+   "recette": "1x Scalp de Milimulou\n5x Poils du Milimulou\n10x Oeil du Milimulou\n10x Griffe du Mulou\n15x Canine du Mulou",
+   "image": "https://barbok.eratz.fr/string_du_mulou.png",
+   "condition": "",
+   "description": "Description : Utilisé comme fouet, ce string peut se révéler plus efficace qu'il n'y paraît, pour remotiver vos compagnons de route, lorsque l'amour du risque commence à leur faire défaut."
+  },
+  {
+   "name": "Chtévu",
+   "level": "Niveau 49",
+   "caracteristique": "Echec critique : +1 à 2\nCoup critiques : +3 à 7\nPortée : +1\nRésistance : 1 à 5% (neutre)",
+   "recette": "10x Poil de Sanglier des Plaines\n2x Cuir de Sanglier des Plaines\n3x Queue de Sanglier des Plaines\n1x Etoffe de Sanglier des Plaines\n1x Oeil de Corbac",
+   "image": "https://barbok.eratz.fr/chtevu.png",
+   "condition": "",
+   "description": "Description : Autrefois utilisée pour les libertés conditionnelles, la Chtévu possède paraît-il un pouvoir supplémentaire par rapport aux autres ceintures. Mais personne n'a encore trouvé. Mieux vaut donc garder un oeil sur cette ceinture."
+  },
+  {
+   "name": "Ceinture Chafeuse",
+   "level": "Niveau 49",
+   "caracteristique": "Force : 26 à 40\nVitalité : 31 à 50\nCoup critiques : +1 à 9",
+   "recette": "1x Colonne Vertebrale\n1x Slip en cuir du Chafer Lancier\n4x Os de Chafer\n1x Os Invisible du Chafer Invisible\n1x Os Surprise du Chafer Fantassin",
+   "image": "https://barbok.eratz.fr/ceinture_chafeuse.png",
+   "condition": "",
+   "description": "Description : Derrière ce nom assez grotesque, se cache une belle création de Bowisse le Cordonnier qui lors d'une promenade dans le Donjon des Squelettes a eu l'idée de récupérer les restes de ses ennemis."
+  },
+  {
+   "name": "Ceinture Terrdala",
+   "level": "Niveau 49",
+   "caracteristique": "Force : 21 à 35\nCoup critiques : +3 à 4\nCréature invocables : +1\nPods : +301 à 400\n11 à 15% de dommages aux pièges",
+   "recette": "50x Artefact Pandawushu Terre\n2x Peau de Kitsou Nere\n1x Poils de Kitsou Nere\n5x Peau de Pandikaze\n2x Peau de Cooleuvre",
+   "image": "https://barbok.eratz.fr/ceinture_terrdala.png",
+   "condition": "",
+   "description": "Description : Les Pandawas du village de Terrdala ont toujours voulu garder la taille fine. En serrant au maximum cette ceinture, vous devriez arriver au même résultat."
+  },
+  {
+   "name": "Blopture Griotte",
+   "level": "Niveau 50",
+   "caracteristique": "Vitalité : 21 à 35\nSagesse : 11 à 15\nIntelligence : 11 à 15\n+1 à 2 de dommages\nPods : +101 à 300",
+   "recette": "1x Ceinture du Prespic\n1x Fleur de Gloutoblop\n1x Feuille de Blop Royal\n50x Bout de Blop Griotte\n50x Pollen de Blop\n10x Fleur de Blop Griotte",
+   "image": "https://barbok.eratz.fr/blopture_griotte.png",
+   "condition": "",
+   "description": "Description : Derrière ce nom stupide, se cache en réalité une ceinture originale, dont on ne connaît pas vraiment les défauts, ni les qualités. On sait tout de même qu'elle est reconnue d'utilité publique grâce à la protection exceptionnelle qu'elle confère aux poignées d'amour."
+  },
+  {
+   "name": "Blopture Indigo",
+   "level": "Niveau 50",
+   "caracteristique": "Vitalité : 21 à 35\nSagesse : 11 à 15\nChance : 11 à 15\n+1 à 2 de dommages\nPods : +101 à 300",
+   "recette": "1x Ceinture du Prespic\n1x Fleur de Gloutoblop\n1x Feuille de Blop Royal\n50x Bout de Blop Indigo\n50x Pollen de Blop\n10x Fleur de Blop Indigo",
+   "image": "https://barbok.eratz.fr/blopture_indigo.png",
+   "condition": "",
+   "description": "Description : Derrière ce nom stupide, se cache en réalité une ceinture originale, dont on ne connaît pas vraiment les défauts, ni les qualités. On sait tout de même qu'elle est reconnue d'utilité publique grâce à la protection exceptionnelle qu'elle confère aux poignées d'amour."
+  },
+  {
+   "name": "Blopture Coco",
+   "level": "Niveau 50",
+   "caracteristique": "Vitalité : 21 à 35\nSagesse : 11 à 15\nAgilité : 11 à 15\n+1 à 2 de dommages\nPods : +101 à 300",
+   "recette": "1x Ceinture du Prespic\n1x Fleur de Gloutoblop\n1x Feuille de Blop Royal\n50x Bout de Blop Coco\n50x Pollen de Blop\n10x Fleur de Blop Coco",
+   "image": "https://barbok.eratz.fr/blopture_coco.png",
+   "condition": "",
+   "description": "Description : Derrière ce nom stupide, se cache en réalité une ceinture originale, dont on ne connaît pas vraiment les défauts, ni les qualités. On sait tout de même qu'elle est reconnue d'utilité publique grâce à la protection exceptionnelle qu'elle confère aux poignées d'amour."
+  },
+  {
+   "name": "Blopture Reinette",
+   "level": "Niveau 50",
+   "caracteristique": "Vitalité : 21 à 35\nSagesse : 11 à 15\nForce : 11 à 15\n+1 à 2 de dommages\nPods : +101 à 300",
+   "recette": "1x Ceinture du Prespic\n1x Fleur de Gloutoblop\n50x Bout de Blop Reinette\n50x Pollen de Blop\n10x Fleur de Blop Reinette\n1x Feuille de Blop Royal",
+   "image": "https://barbok.eratz.fr/blopture_reinette.png",
+   "condition": "",
+   "description": "Description : Derrière ce nom stupide, se cache en réalité une ceinture originale, dont on ne connaît pas vraiment les défauts, ni les qualités. On sait tout de même qu'elle est reconnue d'utilité publique grâce à la protection exceptionnelle qu'elle confère aux poignées d'amour."
+  },
+  {
+   "name": "Ceinture Luthuthu",
+   "level": "Niveau 50",
+   "caracteristique": "Intelligence : 21 à 30\nVitalité : 21 à 30\nAugmente les dommages de 6 à 10%\nPortée : +1\nRésistance : 3 à 5 (eau)\nRésistance : 3 à 5 (air)\nRésistance : 3 à 5 (feu)\nAgilité : -21 à -30",
+   "recette": "10x Poils de Wabbit\n10x Ecaille de Chef Crocodaille\n4x Ecaille de Crocodaille\n8x Cuir du Chef de Guerre Bouftou\n12x Cuir de Sanglier\n10x Cuir de Porkass",
+   "image": "https://barbok.eratz.fr/ceinture_luthuthu.png",
+   "condition": "",
+   "description": "Description : Cette ceinture porte le nom ridicule de son créateur, Luthuthu, un cordonnier beaucoup moins connu que Bowisse, mais encore très créatif malgré son âge avancé."
+  },
+  {
+   "name": "Ceinture Kolante",
+   "level": "Niveau 50",
+   "caracteristique": "Vitalité : 11 à 15\nAugmente les dommages de 7 à 11%\nAgilité : 11 à 15\nCoup critiques : +2 à 3\nProspection : 3 à 4",
+   "recette": "1x Peau de Trukikol\n1x Trukikol Mort\n10x Kole\n10x Pétale de Trukikol\n2x Cuir de Porkass\n10x Bronze",
+   "image": "https://barbok.eratz.fr/ceinture_kolante.png",
+   "condition": "",
+   "description": "Description : Le moins que l'on puisse dire, c'est qu'une fois enfilée, vous ne risquez plus de perdre cette ceinture. Elle fera le bonheur des étourdis et des victimes récurrentes de vols."
+  },
+  {
+   "name": "Scarature Dorée",
+   "level": "Niveau 51",
+   "caracteristique": "Vitalité : 6 à 55\nAgilité : 6 à 30\nSoins : 1 à 3\nRésistance : 1 à 3 (eau)\nRésistance : 1 à 3 (air)\nRésistance : 1 à 3 (feu)\nRésistance : 1 à 3 (terre)",
+   "recette": "1x Scarature Blanche\n1x Scarature Bleue\n1x Scarature Noire\n1x Scarature Rouge\n1x Scarature Verte\n1x Ailes du Scarabosse Doré",
+   "image": "https://barbok.eratz.fr/scarature_doree.png",
+   "condition": "",
+   "description": "Description : Si vous aimez parader entièrement nu sur les plages de l'île de Moon, vous devriez rapidement tomber amoureux de cette ceinture, réputée pour être un excellent cache-misère."
+  },
+  {
+   "name": "Ceinture Royale du Bouftou",
+   "level": "Niveau 52",
+   "caracteristique": "Pods : +101 à 800\nVitalité : 21 à 70\nCoup critiques : +1 à 5\n+1 à 2 de dommages",
+   "recette": "1x Ceinture du Bouftou\n1x Cuir de Bouftou Royal\n30x Cuir du Chef de Guerre Bouftou\n100x Cuir de Bouftou\n50x Cuir de Boufton Noir\n50x Cuir de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/ceinture_royale_du_bouftou.png",
+   "condition": "",
+   "description": "Description : Cette magnifique ceinture augmente la vitalité de son porteur et lui permet de porter plus facilement ses objets. Elle si douce qu'elle permet même de ligoter sa dulcinée lorsque celle-ci refuse de rester à la maison."
+  },
+  {
+   "name": "Ceinture Bontarienne",
+   "level": "Niveau 53",
+   "caracteristique": "Initiative : 101 à 150\nRésistance : 3 à 5 (eau)\nRésistance : 3 à 5 (air)\nRésistance : 3 à 5 (feu)\nIntelligence : 16 à 30\nRésistance : 3 à 5% (feu)",
+   "image": "https://barbok.eratz.fr/ceinture_bontarienne.png",
+   "condition": "Alignement doit etre Bonta",
+   "description": "Description : C'est la ceinture la plus à la mode dans les rues de Bonta. Elle est ornée au niveau de la boucle, de l'insigne d'une célèbre confrérie de cordonniers."
+  },
+  {
+   "name": "Ceinture Brâkmarienne",
+   "level": "Niveau 53",
+   "caracteristique": "Initiative : 101 à 150\nRésistance : 3 à 5 (terre)\nRésistance : 3 à 5 (neutre)\nForce : 16 à 30\nRésistance : 3 à 5% (terre)",
+   "image": "https://barbok.eratz.fr/ceinture_brakmarienne.png",
+   "condition": "Alignement doit etre Brâkmar",
+   "description": "Description : C'est la ceinture la plus en vogue dans les égouts de Brâkmar. Pour donner l'impression d'être un dur à cuir, elle est parfaite. Pour faire de vous un dur à cuir, vous pouvez trouver mieux."
+  },
+  {
+   "name": "Ceinture du Rat",
+   "level": "Niveau 55",
+   "caracteristique": "Force : 16 à 30\nVitalité : 31 à 50\nSagesse : 16 à 30\nInitiative : 101 à 200",
+   "image": "https://barbok.eratz.fr/ceinture_du_rat.png",
+   "condition": "",
+   "description": "Description : Cette ceinture a appartenu à un Rat d'Egoût, elle lui allait à merveille, bien moulante au niveau des hanches, elle lui permettait de cacher ses poignées d'amour."
+  },
+  {
+   "name": "Ceinture du Dodu Trembleur",
+   "level": "Niveau 55",
+   "caracteristique": "+3 à 8 de dommages\nRésistance : 3 à 8 (eau)\nRésistance : 3 à 8 (air)\nRésistance : 3 à 8 (feu)\nRésistance : 3 à 8 (terre)\nRésistance : 3 à 8 (neutre)\nAgilité : -31 à -50\nChance : -31 à -50",
+   "recette": "10x Cuir de Sanglier des Plaines\n4x Ecaille de Crocodaille\n2x Ecaille de Chef Crocodaille\n4x Cuir du Chef de Guerre Bouftou\n12x Cuir de Sanglier\n10x Cuir du Cochon de Lait",
+   "image": "https://barbok.eratz.fr/ceinture_du_dodu_trembleur.png",
+   "condition": "",
+   "description": "Description : Le Dodu était un Sadida qui s'obstinait à faire trembler ses ennemis, il a commandé à Bowisse cette ceinture, assortie à la couleur de ses poils, car ne l'oublions pas, le Dodu en plus d'être un trembleur était un charmeur."
+  },
+  {
+   "name": "Ceinture Tortue Rouge",
+   "level": "Niveau 60",
+   "caracteristique": "Vitalité : 16 à 30\nIntelligence : 16 à 35\nProspection : 3 à 6\nInitiative : 51 à 100\nPortée : +1",
+   "recette": "1x Carapace Rouge Vide\n10x Bauxite\n1x Cristal\n10x Cuir de Porkass\n10x Cuir de Sanglier des Plaines\n10x Etain",
+   "image": "https://barbok.eratz.fr/ceinture_tortue_rouge.png",
+   "condition": "",
+   "description": "Description : Cette petite ceinture est idéale pour protéger les parties sensibles, des coups critiques.\nVérifiez tout de même que le cordonnier a bien retiré le propriétaire de la carapace avant que vous ne l'essayez."
+  },
+  {
+   "name": "Ceinture Tortue Bleue",
+   "level": "Niveau 60",
+   "caracteristique": "Vitalité : 16 à 30\nChance : 16 à 35\nProspection : 3 à 6\nInitiative : 51 à 100\nPortée : +1",
+   "recette": "1x Carapace Bleue Vide\n10x Bauxite\n1x Cristal\n10x Cuir de Porkass\n10x Cuir de Sanglier des Plaines\n10x Etain",
+   "image": "https://barbok.eratz.fr/ceinture_tortue_bleue.png",
+   "condition": "",
+   "description": "Description : Cette petite ceinture est idéale pour protéger les parties sensibles, des coups critiques.\nVérifiez tout de même que le cordonnier a bien retiré le propriétaire de la carapace avant que vous ne l'essayez."
+  },
+  {
+   "name": "Ceinture Tortue Jaune",
+   "level": "Niveau 60",
+   "caracteristique": "Vitalité : 16 à 30\nAgilité : 16 à 35\nProspection : 3 à 6\nInitiative : 51 à 100\nPortée : +1",
+   "recette": "1x Carapace Jaune Vide\n1x Cristal\n10x Cuir de Porkass\n10x Cuir de Sanglier des Plaines\n10x Bauxite\n10x Etain",
+   "image": "https://barbok.eratz.fr/ceinture_tortue_jaune.png",
+   "condition": "",
+   "description": "Description : Cette petite ceinture est idéale pour protéger les parties sensibles, des coups critiques.\nVérifiez tout de même que le cordonnier a bien retiré le propriétaire de la carapace avant que vous ne l'essayez."
+  },
+  {
+   "name": "Ceinture Tortue Verte",
+   "level": "Niveau 60",
+   "caracteristique": "Vitalité : 16 à 30\nForce : 16 à 35\nProspection : 3 à 6\nInitiative : 51 à 100\nPortée : +1",
+   "recette": "1x Carapace Verte Vide\n10x Bauxite\n1x Cristal\n10x Cuir de Porkass\n10x Cuir de Sanglier des Plaines\n10x Etain",
+   "image": "https://barbok.eratz.fr/ceinture_tortue_verte.png",
+   "condition": "",
+   "description": "Description : Cette petite ceinture est idéale pour protéger les parties sensibles, des coups critiques.\nVérifiez tout de même que le cordonnier a bien retiré le propriétaire de la carapace avant que vous ne l'essayez."
+  },
+  {
+   "name": "Ceinture du Koalak",
+   "level": "Niveau 60",
+   "caracteristique": "Pods : +101 à 200\nInitiative : 201 à 250\nProspection : 11 à 15",
+   "recette": "1x Poils de Koalak Griotte\n1x Peau de Drakoalak\n1x Peau de Koalak Immature\n1x Poils de Koalak Indigo\n1x Poils de Koalak Koko\n1x Poils de Koalak Reinette",
+   "image": "https://barbok.eratz.fr/ceinture_du_koalak.png",
+   "condition": "",
+   "description": "Description : Cette ceinture en feuilles de Kaliptus diffuse une délicieuse odeur, capable d'en masquer d'autres. Elle est en outre parfaite pour masquer vos rondeurs."
+  },
+  {
+   "name": "Slip Kangouwou du Wabbit GM",
+   "level": "Niveau 60",
+   "caracteristique": "Vitalité : 11 à 30\nSagesse : 11 à 30\nCoup critiques : +3 à 9\nProspection : 1 à 10",
+   "recette": "50x Oreilles du Tiwabbit\n20x Poils de Barbe du Grand Pa Wabbit\n50x Etoffe du Wabbit\n150x Bandeau du Black Tiwabbit\n50x Oreille du Grand Pa Wabbit\n1x Estomac de Wo Wabbit",
+   "image": "https://barbok.eratz.fr/slip_kangouwou_du_wabbit_gm.png",
+   "condition": "",
+   "description": "Description : De taille plus que respectable, ce magnifique slip comporte encore les traces du passage de son ancien propriétaire et quelques poils bien étranges. Sur les fesses ou sur la tête, ce slip fera de vous une personnalité respectée de tout Amakna."
+  },
+  {
+   "name": "Geloture",
+   "level": "Niveau 60",
+   "caracteristique": "Intelligence : 11 à 50",
+   "recette": "5x Blugely\n15x Gelée Bleutée\n1x Gelée Citron\n15x Gelée à la Fraise\n10x Rougely\n20x Gelée à la Menthe",
+   "image": "https://barbok.eratz.fr/geloture.png",
+   "condition": "",
+   "description": "Description : Le plus dur avec cette Geloture, c'est qu'en cas de fringale, on est vite tenté de croquer dedans."
+  },
+  {
+   "name": "Ceinture Ouginakale",
+   "level": "Niveau 65",
+   "caracteristique": "Agilité : 11 à 25\nChance : 11 à 25\n+1 à 2 de dommages\nAugmente les dommages de 11 à 15%\nRésistance : 3 à 5% (feu)\nRésistance : 3 à 5% (air)",
+   "recette": "2x Poil d'Ouginak\n10x Babines d'Ouginak\n1x Coeur d'Ouginak\n1x Tissu Sombre\n10x Bandelettes\n10x Kobalte",
+   "image": "https://barbok.eratz.fr/ceinture_ouginakale.png",
+   "condition": "",
+   "description": "Description : Voilà une ceinture qui saura plaire aux amateurs de sensations fortes. En effet cette dernière a été conçue spécialement pour pouvoir s'approcher sans risques des Ouginaks. Son efficacité n'a cependant pas encore été prouvée."
+  },
+  {
+   "name": "La Xerbo",
+   "level": "Niveau 67",
+   "caracteristique": "Force : 21 à 35\nSagesse : 11 à 20\nAgilité : 21 à 35\n+3 à 5 de dommages\nAugmente les dommages de 3 à 5%\nCréature invocables : +1\nPods : +151 à 250\nRésistance : 1 à 2% (air)",
+   "recette": "1x Slip en cuir de Porkass\n1x Tissu Invisible\n1x Etoffe de Croc Gland\n2x Etoffe de Sanglier des Plaines\n1x Queue de Chef de Guerre Bouftou\n1x Touffe de Cheveux Blancs",
+   "image": "https://barbok.eratz.fr/la_xerbo.png",
+   "condition": "",
+   "description": "Description : Créée spécialement pour récompenser les guerriers les plus habiles de leurs mains, elle se porte sans sous-vêtements et uniquement en hiver."
+  },
+  {
+   "name": "Ceinture Aerdala",
+   "level": "Niveau 70",
+   "caracteristique": "Vitalité : 31 à 50\nSagesse : 11 à 20\nAgilité : 21 à 35\nRésistance : 4 à 5% (air)\nRésistance : 4 à 5% (feu)",
+   "recette": "50x Artefact Pandawushu Air\n10x Bois de Bambou Sombre\n20x Peau de Cooleuvre\n10x Peau de Pandikaze\n20x Cuir de Porkass\n13x Peau de serpentin",
+   "image": "https://barbok.eratz.fr/ceinture_aerdala.png",
+   "condition": "",
+   "description": "Description : Les Pandawas du village d'Aerdala ont toujours voulu garder la taille fine. En serrant au maximum cette ceinture, vous devriez arriver au même résultat."
+  },
+  {
+   "name": "Ceinture du Chef Crocodaille",
+   "level": "Niveau 70",
+   "caracteristique": "Agilité : 26 à 35\nChance : 26 à 35\nAugmente les dommages de 11 à 15%\nProspection : 3 à 5\nRésistance : 3 à 5% (feu)\nRésistance : 3 à 5% (eau)",
+   "recette": "25x Ecaille de Chef Crocodaille\n35x Ecaille de Crocodaille\n1x Peau de Chef Crocodaille\n1x Peau de Crocodaille\n2x Rubis\n1x Diamant",
+   "image": "https://barbok.eratz.fr/ceinture_du_chef_crocodaille.png",
+   "condition": "",
+   "description": "Description : Trop rigide pour servir de fouet, cette ceinture recouverte de minuscules pierres précisieuses peut néanmoins être utilisée de manière plus conventionnelle, pour éviter que vos guêtres ne tombent sur vos genoux par exemple."
+  },
+  {
+   "name": "Ceinture d'une Femme en Or",
+   "level": "Niveau 71",
+   "caracteristique": "Vitalité : 51 à 70\nIntelligence : 21 à 30\nPods : +301 à 500\nProspection : 11 à 15",
+   "recette": "10x Potion de métal précieux liquide\n1x Estomac de Bouftou\n20x Museau de Kolérat\n2x Oeuf d'Arakne Majeure\n100x Or\n10x Potion de métal liquide",
+   "image": "https://barbok.eratz.fr/ceinture_dune_femme_en_or.png",
+   "condition": "",
+   "description": "Description : Une vieille légende extraite du fameux grimoire \"Toute la vérité sur les femmes\", raconte que cette ceinture aurait appartenu à une femme en or, plus intéressée par la richesse que par le pouvoir. Dans la version non censurée du grimoire, on y apprend également qu'elle était avant tout connue pour son goût prononcé pour les plaisanteries salaces. Elle n'était finalement pas si différente des autres femmes..."
+  },
+  {
+   "name": "Ceinture Dracochoune",
+   "level": "Niveau 77",
+   "caracteristique": "Sagesse : 31 à 40\nChance : 21 à 40\nPortée : +1 à 2\nCréature invocables : +2 à 3\nRésistance : 3 à 5% (neutre)\nRésistance : 3 à 5% (eau)",
+   "recette": "2x Ivoire\n4x Défense de Dragon Cochon\n2x Queue de Dragon Cochon\n1x Sang de Dragon Cochon\n20x Or\n1x Emeraude\n1x Cuir du Dragon Cochon",
+   "image": "https://barbok.eratz.fr/ceinture_dracochoune.png",
+   "condition": "",
+   "description": "Description : Cette ceinture fera de vous une personne irrésistible. Bowisse recommande cependant de ne pas s'approcher du Dragon Cochon avec cette ceinture, cela pourrait réveiller certaines de ses pulsions les plus tourmentées."
+  },
+  {
+   "name": "Blopture Indigo Royale",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 26 à 45\nSagesse : 16 à 25\nChance : 16 à 30\nCoup critiques : +2 à 3\nPods : +201 à 400\nProspection : 6 à 10\nRésistance : 3 à 5% (eau)",
+   "recette": "10x Fleur de Gloutoblop\n5x Feuille de Blop Royal\n100x Bout de Blop Indigo\n100x Pollen de Blop\n10x Racine de Tronkoblop\n1x Fleur de Blop Indigo Royal\n1x Blopture Indigo",
+   "image": "https://barbok.eratz.fr/blopture_indigo_royale.png",
+   "condition": "",
+   "description": "Description : Dépourvue de boucle, cette ceinture peut tout de même faire très mal si vous vous en servez comme fouet sur un postérieur à la peau fragile. Les pointes en fer rouillées sont à commander séparément."
+  },
+  {
+   "name": "Blopture Griotte Royale",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 26 à 45\nSagesse : 16 à 25\nIntelligence : 16 à 30\nCoup critiques : +2 à 3\nPods : +201 à 400\nProspection : 6 à 10\nRésistance : 3 à 5% (feu)",
+   "recette": "10x Fleur de Gloutoblop\n5x Feuille de Blop Royal\n100x Bout de Blop Griotte\n100x Pollen de Blop\n10x Racine de Tronkoblop\n1x Fleur de Blop Griotte Royal\n1x Blopture Griotte",
+   "image": "https://barbok.eratz.fr/blopture_griotte_royale.png",
+   "condition": "",
+   "description": "Description : Dépourvue de boucle, cette ceinture peut tout de même faire très mal si vous vous en servez comme fouet sur un postérieur à la peau fragile. Les pointes en fer rouillées sont à commander séparément."
+  },
+  {
+   "name": "Blopture Reinette Royale",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 26 à 45\nSagesse : 16 à 25\nForce : 16 à 30\nCoup critiques : +2 à 3\nPods : +201 à 400\nProspection : 6 à 10\nRésistance : 3 à 5% (terre)",
+   "recette": "10x Fleur de Gloutoblop\n5x Feuille de Blop Royal\n100x Bout de Blop Reinette\n100x Pollen de Blop\n10x Racine de Tronkoblop\n1x Fleur de Blop Reinette Royal\n1x Blopture Reinette",
+   "image": "https://barbok.eratz.fr/blopture_reinette_royale.png",
+   "condition": "",
+   "description": "Description : Dépourvue de boucle, cette ceinture peut tout de même faire très mal si vous vous en servez comme fouet sur un postérieur à la peau fragile. Les pointes en fer rouillées sont à commander séparément."
+  },
+  {
+   "name": "Blopture Coco Royale",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 26 à 45\nSagesse : 16 à 25\nAgilité : 16 à 30\nCoup critiques : +2 à 3\nPods : +201 à 400\nProspection : 6 à 10\nRésistance : 3 à 5% (feu)",
+   "recette": "10x Fleur de Gloutoblop\n5x Feuille de Blop Royal\n100x Bout de Blop Coco\n100x Pollen de Blop\n10x Racine de Tronkoblop\n1x Fleur de Blop Coco Royal\n1x Blopture Coco",
+   "image": "https://barbok.eratz.fr/blopture_coco_royale.png",
+   "condition": "",
+   "description": "Description : Dépourvue de boucle, cette ceinture peut tout de même faire très mal si vous vous en servez comme fouet sur un postérieur à la peau fragile. Les pointes en fer rouillées sont à commander séparément."
+  },
+  {
+   "name": "Shikature",
+   "level": "Niveau 80",
+   "caracteristique": "Intelligence : 21 à 30\nSagesse : 11 à 15\nAugmente les dommages de 4 à 5%\nProspection : 4 à 5\nRésistance : 2 à 3 (air)\nRésistance : 2 à 3 (eau)\nRésistance : 2 à 3 (feu)\nRésistance : 3 à 5% (feu)\nRésistance : 3 à 5% (terre)\nRésistance : 3 à 5% (terre)",
+   "recette": "2x Cuir de Déminoboule\n30x Cuir de Porkass\n10x Peau de Don Duss Ang\n5x Cuir du Boufcoul\n1x Slip en cuir de Porkass\n10x Peau de Cochon de Farle\n10x Peau de Don Dorgan",
+   "image": "https://barbok.eratz.fr/shikature.png",
+   "condition": "",
+   "description": "Description : Cette ceinture en cuir protégeait les cuisses de Shika, lorsqu'elle traversait des champs de blé en courant pour rattraper les Bouftous égarés de son troupeau. Recouverte de pollen de céréales magiques, on raconte qu'elle brillait au clair de lune, et permettait à Farle de ne pas sectionner les jambes de sa propre femme lorsqu'il fauchait des champs entiers de céréales une fois la nuit tombée."
+  },
+  {
+   "name": "Ceinture du Craqueleur Légendaire",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 21 à 35\nSagesse : 16 à 25\nAgilité : 16 à 25\n+4 à 5 de dommages\nCréature invocables : +1\nPods : +201 à 300\nInitiative : 101 à 150",
+   "recette": "5x Rubis\n10x Pierre du Craqueleur\n10x Fragment de Pierre Polie\n10x Ebonite\n5x Saphir\n1x Ceinture du Craqueleur\n2x Pierre du Craqueleur Légendaire",
+   "image": "https://barbok.eratz.fr/ceinture_du_craqueleur_legendaire.png",
+   "condition": "",
+   "description": "Description : Le Craqueleur légendaire porte cette ceinture autour de ses orteils, vous autour de la taille, ou des chevilles peut-être..."
+  },
+  {
+   "name": "Puissante Ceinture Fulgurante",
+   "level": "Niveau 80",
+   "caracteristique": "PA : +1\nVitalité : 31 à 40\nSagesse : 31 à 40\n+4 à 5 de dommages",
+   "recette": "50x Pierre de Dopeul\n20x Cuir de Sanglier\n20x Cuir du Chef de Guerre Bouftou\n20x Cuir de Boufton Blanc\n20x Cuir de Porkass\n20x Cuir de Sanglier des Plaines\n20x Cuir de Boufton Noir\n20x Cuir de Bouftou",
+   "image": "https://barbok.eratz.fr/puissante_ceinture_fulgurante.png",
+   "condition": "",
+   "description": "Description : Cette magnifique ceinture a été confectionnée suite à un pari fou. Le défi était d'améliorer une des plus belles ceintures conçue sur Amakna : la ceinture Fulgurante. Le pari fut réussi par Pakape Prométhé."
+  },
+  {
+   "name": "Farlature",
+   "level": "Niveau 80",
+   "caracteristique": "Force : 21 à 30\nSagesse : 11 à 15\nAugmente les dommages de 4 à 5%\nProspection : 4 à 5\nRésistance : 2 à 3 (eau)\nRésistance : 2 à 3 (air)\nRésistance : 2 à 3 (feu)\nRésistance : 3 à 5% (air)\nRésistance : 3 à 5% (feu)\nRésistance : 3 à 5% (eau)",
+   "recette": "10x Peau de serpentin\n6x Cuir Violet de Bwork\n5x Peau de Gobelin\n20x Cuir de Porkass\n20x Cuir de Sanglier des Plaines\n3x Peau de Crocodaille\n20x Cuir de Sanglier",
+   "image": "https://barbok.eratz.fr/farlature.png",
+   "condition": "",
+   "description": "Description : Cette ceinture servait également de tablier de boucher à Farle Ingalsse lorsqu'il devait égorger ses troupeaux de Bouftous. Une tâche ingrate et cruelle, dont il s'affranchissait pourtant avec un plaisir non dissimulé."
+  },
+  {
+   "name": "Ceinture Feudala",
+   "level": "Niveau 81",
+   "caracteristique": "Vitalité : 31 à 45\nIntelligence : 21 à 40\nCoup critiques : +4 à 5\nSoins : 4 à 5\n+4 à 5 de dommages\nRésistance : 4 à 5 (neutre)\nRésistance : 4 à 5 (feu)",
+   "recette": "50x Artefact Pandawushu Feu\n20x Bois de Bambou Sombre\n15x Peau de Pandikaze\n20x Poils de Pandikaze\n1x Etoffe de Pandikaze\n25x Cuir de Porkass\n2x Peau de Kitsou Nufeu",
+   "image": "https://barbok.eratz.fr/ceinture_feudala.png",
+   "condition": "",
+   "description": "Description : Les Pandawas du village de Feudala ont toujours voulu garder la taille fine. En serrant au maximum cette ceinture, vous devriez arriver au même résultat."
+  },
+  {
+   "name": "Ceinture Mulante",
+   "level": "Niveau 81",
+   "caracteristique": "Force : 26 à 40\nVitalité : 41 à 70\nSagesse : 21 à 30\nAgilité : 26 à 40\nInitiative : 151 à 200\nRésistance : 3 à 5% (eau)\nRésistance : 3 à 5% (terre)",
+   "recette": "10x Queue du Mulou\n2x Etoffe du Mulou\n2x Testicules du Mulou\n1x Testicules Magiques du Mulou\n10x Scalp de Mulou\n10x Poils du Mulou\n10x Cuir de Sanglier des Plaines",
+   "image": "https://barbok.eratz.fr/ceinture_mulante.png",
+   "condition": "",
+   "description": "Description : Le célèbre Mulou a fait don de ses plus précieux organes pour aider à la confection de cette ceinture incroyable qui respire la puissance malgrès son apparence assez étrange qui comblerait le plus pervers des Chafers."
+  },
+  {
+   "name": "Ceinture des Vents",
+   "level": "Niveau 84",
+   "caracteristique": "Portée : +1 à 2\nSagesse : 11 à 20\nIntelligence : 21 à 40\nChance : 21 à 40\n+4 à 8 de dommages\nCoup critiques : +4 à 8",
+   "recette": "1x Ceinture Luthuthu\n1x Cristal\n1x Cuir du Cochon de Lait\n1x Emeraude\n2x Cuir du Dragon Cochon\n3x Ecaille de Chef Crocodaille\n2x Cuir Violet de Bwork",
+   "image": "https://barbok.eratz.fr/ceinture_des_vents.png",
+   "condition": "",
+   "description": "Description : Cette ceinture a été créée pour la plus populaire des Crâette, qui aimait donner de son temps pour organiser tout un tas de fêtes et d'évènements hors du commun, histoire de divertir le peuple entre deux repassages de Slip en Cuir du Captain Chafer."
+  },
+  {
+   "name": "Blopture Multicolore Royale",
+   "level": "Niveau 90",
+   "caracteristique": "Vitalité : 41 à 60\nAugmente les dommages de 21 à 35%\nSagesse : 21 à 30\n+6 à 8 de dommages\nRésistance : 2 à 3% (terre)",
+   "recette": "1x Blopture Coco Royale\n1x Blopture Griotte Royale\n1x Blopture Indigo Royale\n1x Blopture Reinette Royale\n1x Fleur de Blop Multicolore Royal\n5x Feuille de Blop Multicolore Royal\n10x Fleur de Blopignon",
+   "image": "https://barbok.eratz.fr/blopture_multicolore_royale.png",
+   "condition": "",
+   "description": "Description : En serrant suffisamment fort cette ceinture, on peut réussir à bloquer entièrement l'appareil digestif de son propriétaire. Il ne reste ensuite plus qu'à trouver une utilité à cet acte profondément débile."
+  },
+  {
+   "name": "Ceinture sombre en Abrakleur",
+   "level": "Niveau 92",
+   "caracteristique": "Force : 26 à 35\nIntelligence : 26 à 35\nVitalité : 41 à 60\nCoup critiques : +4 à 5\nAugmente les dommages de 6 à 10%\nProspection : 6 à 10\nRésistance : 5 à 7% (neutre)\nRésistance : 5 à 7% (air)",
+   "recette": "9x Talon d'achille de l'Abrakleur sombre\n25x Bois de Bambou Sombre\n48x Graine de l'Abrakleur sombre\n4x Bec du Kido\n1x Etoffe de Gourlo le Terrible\n3x Humérus du Sparo\n3x Coco du Bitouf sombre",
+   "image": "https://barbok.eratz.fr/ceinture_sombre_en_abrakleur.png",
+   "condition": "",
+   "description": "Description : Taillée dans un Abrakleur sombre, cette ceinture n'est pas assez flexible pour permettre de bouger librement, mais au moins, elle protège bien."
+  },
+  {
+   "name": "Ceinture Chouqueuse",
+   "level": "Niveau 98",
+   "caracteristique": "Vitalité : 51 à 80\nForce : 31 à 50\n+6 à 10 de dommages\nAugmente les dommages de 11 à 15%\nRésistance : 3 à 5% (feu)\nRésistance : 3 à 5% (eau)\nRésistance : 3 à 5% (terre)",
+   "recette": "1x Boucle du Chouque\n4x Caleçon Mignon du Capitaine Pirate\n1x Barbe du Chouque\n10x Cuir de Sanglier des Plaines\n10x Ecaille de Chef Crocodaille\n30x Ecaille de Crocodaille\n2x Cuir Violet de Bwork",
+   "image": "https://barbok.eratz.fr/ceinture_chouqueuse.png",
+   "condition": "",
+   "description": "Description : Cette ceinture a été confectionnée à partir des éléments les plus puissants du Chouque, notamment son célèbre caleçon. De quoi mettre en émoi toutes les flibustières du bar des pirates."
+  },
+  {
+   "name": "Slip du Chef Bwork",
+   "level": "Niveau 100",
+   "caracteristique": "Force : 21 à 35\nVitalité : 31 à 45\nSagesse : 16 à 25\nAgilité : 21 à 35\nCoup critiques : +3 à 4\n+3 à 4 de dommages\nProspection : 4 à 5\nRésistance : 4 à 5% (air)\nFaiblesse : 4 à 5% (feu)\nRésistance : 4 à 5% (eau)",
+   "image": "https://barbok.eratz.fr/slip_du_chef_bwork.png",
+   "condition": "",
+   "description": "Description : Ce slip en cuir violet se suffit à lui-même, vous pouvez vous contenter de ne porter que ça, vous aurez tout de même fière allure, à condition qu'il soit à votre taille et qu'il ne vous tombe pas sur les genoux lors d'une partie de corde à sauter un peu trop mouvementée."
+  },
+  {
+   "name": "Ceinture du Rat Noir",
+   "level": "Niveau 101",
+   "caracteristique": "Agilité : 31 à 45\nVitalité : 41 à 60\nSagesse : 11 à 15\nCoup critiques : +3 à 4\nPortée : +1\n+6 à 10 de dommages aux pièges\n16 à 25% de dommages aux pièges\nInitiative : 101 à 200\nRésistance : 4 à 6% (neutre)",
+   "recette": "50x Cuir de Porkass\n2x Peau du Rat Noir\n1x Etoffe du Rat Noir\n2x Poil de Chaman d'Egoutant\n15x Poil de Rat d'Egoutant\n1x Ceinture Brâkmarienne\n30x Peau de Kanigrou",
+   "image": "https://barbok.eratz.fr/ceinture_du_rat_noir.png",
+   "condition": "",
+   "description": "Description : Contrairement à son cousin blanc bontarien, le Rat Noir aime faire dans la discrétion, et porte donc une simple ceinture d'étoffe. Mais il aime aussi emporter un maximum d'armes avec lui, qui font un bruit d'enfer en s'entrechoquant à chaque pas."
+  },
+  {
+   "name": "Ceinture du Rat Blanc",
+   "level": "Niveau 102",
+   "caracteristique": "Agilité : 26 à 40\nForce : 16 à 25\nVitalité : 51 à 80\n+3 à 4 de dommages\nCoup critiques : +3 à 4\nProspection : 6 à 10\nRésistance : 4 à 6% (terre)",
+   "recette": "1x Ceinture Bontarienne\n3x Rutile\n3x Peau de Rat Blanc\n2x Pyrute\n25x Peau de Chaman d'Egoutant\n1x Bakélélite\n2x Peau de Rat d'Egoutant",
+   "image": "https://barbok.eratz.fr/ceinture_du_rat_blanc.png",
+   "condition": "",
+   "description": "Description : Contrairement à ce que pense son cousin noir brâkmarien, le rat blanc aime également faire dans la discrétion. Les raccords métalliques de cette ceinture sont doublés de goudron et ne font aucun bruit, sauf quand son porteur tombe lamentablement, c'est à dire souvent puisqu'elle pèse plusieurs tonnes."
+  },
+  {
+   "name": "Abrature Ancestrale",
+   "level": "Niveau 111",
+   "caracteristique": "Chance : 31 à 45\nForce : 21 à 35\nVitalité : 101 à 150\nSagesse : 11 à 20\nProspection : 11 à 15\n+4 à 6 de dommages\nCoup critiques : +3 à 4\nRésistance : 4 à 6 (terre)\nRésistance : 4 à 6 (air)\nRésistance : 4 à 6 (eau)\nRésistance : 4 à 6 (feu)\nRésistance : 4 à 6 (neutre)",
+   "recette": "10x Ecorce d'Abraknyde Sombre\n1x Bois Ancestral\n25x Bois de Tronknyde\n1x Abrature\n10x Racine d'Abraknyde Sombre\n30x Bourgeon d'Abraknyde Sombre\n4x Ambre Ancestrale",
+   "image": "https://barbok.eratz.fr/abrature_ancestrale.png",
+   "condition": "",
+   "description": "Description : Cette ceinture est censée vous donner la virilité ancestrale. Que ce soit vrai ou pas, l'effet est périmé."
+  },
+  {
+   "name": "Ceinture du Minotoror",
+   "level": "Niveau 111",
+   "caracteristique": "Vitalité : 131 à 200\nSagesse : 26 à 40\nCréature invocables : +2 à 3\nProspection : 11 à 20\nRésistance : 6 à 8 (air)\nRésistance : 6 à 8 (feu)\nSoins : 5 à 7",
+   "recette": "4x Laine du Minotoror\n1x Cuir de Minotoror\n8x Peau de Dragueuse\n80x Peau de Kraméléhon\n75x Peau de Minoskito\n2x Peau de Drakoalak\n5x Peau de Don Dorgan",
+   "image": "https://barbok.eratz.fr/ceinture_du_minotoror.png",
+   "condition": "",
+   "description": "Description : Cette ceinture est si souple, qu'elle peut servir à fouetter les fesses des enfants trop turbulents. Avec un peu de chance, ses ferrures permettront d'arracher quelques lambeaux de chair, et les terribles garnements qui vous servent de marmaille auront compris une bonne fois pour toute la leçon."
+  },
+  {
+   "name": "Ceinture Corbaquiale",
+   "level": "Niveau 120",
+   "caracteristique": "Force : 31 à 50\nSagesse : 21 à 40\nInitiative : 181 à 330\nRésistance : 3 à 5% (air)\nProspection : 6 à 10\nRésistance : 3 à 5% (terre)\nRésistance : 3 à 5% (eau)",
+   "recette": "5x Tissu Sombre\n1x Plume du Maître Corbac\n10x Corbac Mort\n10x Cuir de Porkass\n10x Cuir de Sanglier des Plaines\n1x Boucle du Chouque\n10x Cuir du Chef de Guerre Bouftou\n1x Coeur du Maitre Corbac",
+   "image": "https://barbok.eratz.fr/ceinture_corbaquiale.png",
+   "condition": "",
+   "description": "Description : Cette ceinture a été confectionnée à partir des restes du Maître Corbac, soigneusement cousus entre eux. Vous devriez vous sentir respecté une fois équipé de celle-ci. Le Chouque a même accepté de prêter sa boucle pour l'occasion."
+  },
+  {
+   "name": "Ceinture de l'Amant d'Ha",
+   "level": "Niveau 121",
+   "caracteristique": "Vitalité : 71 à 100\nSagesse : 31 à 50\n+6 à 8 de dommages\nRésistance : 4 à 5% (terre)\nRésistance : 4 à 5% (feu)\nRésistance : 4 à 5% (eau)\nProspection : 9 à 13\nRésistance : 6 à 10 (eau)\nRésistance : 6 à 10 (air)\nRésistance : 6 à 10 (feu)",
+   "recette": "1x Coeur du Maitre Corbac\n2x Laine du Trool Furieux\n30x Cuir de Porkass\n30x Poil d'Ouginak\n30x Poil de Kanigrou\n5x Cuir Violet de Bwork\n2x Crinière de Trool\n1x Barbe du Chouque",
+   "image": "https://barbok.eratz.fr/ceinture_de_lamant_dha.png",
+   "condition": "",
+   "description": "Description : La célèbre Cordonnière Ha, avait un amant connu pour lui faire faux bond au dernier moment. Mais l'amour l'aveuglant, elle lui offrit tout de même cette magnifique ceinture comme témoin de leur union secrète."
+  },
+  {
+   "name": "Ceinture du Dragoeuf",
+   "level": "Niveau 124",
+   "caracteristique": "Chance : 31 à 50\nForce : 31 à 50\nVitalité : 101 à 150\nSagesse : 21 à 40\nPods : +301 à 500\n+3 à 4 de dommages\nCoup critiques : +2 à 3\nProspection : 11 à 20\nInitiative : 101 à 200\nRésistance : 4 à 5 (air)\nRésistance : 4 à 5 (eau)\nRésistance : 4 à 6% (terre)\nRésistance : 4 à 5 (feu)\nRésistance : 4 à 5 (neutre)\nRésistance : 4 à 5 (terre)",
+   "recette": "1x Corne de Dragoss Noir\n1x Corne brisée de Crocabulia\n15x Peau de Dragoeuf Guerrier\n10x Peau de Chevaucheur Koalak\n11x Peau de Dragueuse\n20x Ecaille de Dragoss Blanc\n20x Ecaille de Dragoss Doré\n20x Ecaille de Dragoss Noir",
+   "image": "https://barbok.eratz.fr/ceinture_du_dragoeuf.png",
+   "condition": "",
+   "description": "Description : Les esprits les plus pervertis d'Amakna, racontent que cette ceinture pouvait servir de prothèse. Personne ne comprend pourquoi, et heureusement il n'en n'est rien, ce n'est qu'une banale ceinture du Dragoeuf."
+  },
+  {
+   "name": "Ceinture Sula",
+   "level": "Niveau 125",
+   "caracteristique": "Agilité : 31 à 50\nVitalité : 151 à 200\nChance : 31 à 50\n+16 à 20 de dommages aux pièges\n16 à 20% de dommages aux pièges\nProspection : 16 à 20\nRésistance : 9 à 12 (neutre)\nRésistance : 5 à 7% (neutre)\nRésistance : 5 à 7% (terre)",
+   "recette": "1x Etoffe de Fantôme Léopardo\n10x Peau de Pandikaze\n2x Peau de Soryo Firefoux\n3x Peau de Yokai Firefoux\n15x Peau de Pandule\n12x Peau de Kitsou Nufeu\n3x Peau de Maho Firefoux\n12x Peau de Kanigrou",
+   "image": "https://barbok.eratz.fr/ceinture_sula.png",
+   "condition": "",
+   "description": "Description : Sula la cordonnière aimait perdre son temps à flâner dans les champs, en quête d'un amour improbable. A défaut de trouver l'être tant convoité, elle trouva la mort en tombant dans une grande fosse remplie d'immondices, près de la zone Cochonne. Son corps ne fût retrouvé que 7 décennies plus tard, au moment de vider la fameuse fosse. Son frère se serait alors écrié : \"je me doutais bien qu'elle était quelque part\", juste avant de tomber lui aussi dans la fosse."
+  },
+  {
+   "name": "Ceinture du Meulou",
+   "level": "Niveau 125",
+   "caracteristique": "Force : 31 à 50\nVitalité : 151 à 200\nProspection : 11 à 20\nSagesse : 26 à 40\n+4 à 6 de dommages\nPortée : +1\nRésistance : 3 à 4% (neutre)\nRésistance : 3 à 4% (eau)\nFaiblesse : 4 à 7% (air)",
+   "recette": "80x Poil de Renarbo\n3x Poil du Wa Wabbit\n3x Poil de Maître Pandore\n14x Poils de Barbe du Warko Marron\n11x Poils de Barbe du Warko Violet\n1x Ceinture Mulante\n1x String du Mulou\n1x Mojo du Meulou",
+   "image": "https://barbok.eratz.fr/ceinture_du_meulou.png",
+   "condition": "",
+   "description": "Description : Cette ceinture colorée est dotée d'une superbe touffe violacée sur le devant, vous pouvez également la porter à l'envers pour vous travestir en Wabbit."
+  },
+  {
+   "name": "Xénature",
+   "level": "Niveau 125",
+   "caracteristique": "Vitalité : 151 à 200\nIntelligence : 31 à 50\nAgilité : 31 à 50\nSoins : 4 à 5\nInitiative : 300\nProspection : 16 à 20\nRésistance : 4 à 5% (neutre)\nRésistance : 4 à 5% (feu)\nRésistance : 4 à 5% (air)",
+   "recette": "1x Etoffe de Fantôme Pandikaze\n3x Etoffe de Kanigrou\n2x Etoffe de Pandikaze\n12x Peau de Kitsou Nufeu\n11x Peau de Kitsou Nere\n6x Peau de Léopardo\n2x Peau de Pandore\n6x Peau de Soryo Firefoux",
+   "image": "https://barbok.eratz.fr/xenature.png",
+   "condition": "",
+   "description": "Description : Contrairement aux apparences, Xéna, n'était pas une guerrière, mais une cordonnière. Ses formes généreuses et sa passion sans limite pour les tâches ménagères la prédestinaient à une brillante carrière dans les brasseries d'Amakna. Le destin en a décidé autrement."
+  },
+  {
+   "name": "Ceinture Claire en Abrakleur",
+   "level": "Niveau 128",
+   "caracteristique": "Force : 31 à 45\nAgilité : 31 à 45\nVitalité : 151 à 200\nSagesse : 31 à 40\nAugmente les dommages de 6 à 10%\nInitiative : 201 à 300\nProspection : 11 à 20\nRésistance : 6 à 10% (neutre)\nRésistance : 6 à 10% (feu)",
+   "recette": "68x Souche de l'Abrakleur clair\n3x Ecorce de Floribonde\n35x Bois de Bambou\n3x Ecorce de Chiendent\n1x Ambre du Tynril\n28x Sépale de Nerbe\n13x Noeud de l'Abrakleur clair\n5x Coco du Bitouf aérien",
+   "image": "https://barbok.eratz.fr/ceinture_claire_en_abrakleur.png",
+   "condition": "",
+   "description": "Description : Taillée dans un Abrakleur clair, cette ceinture ne protège pas bien, mais au moins, elle est assez flexible pour bouger librement."
+  },
+  {
+   "name": "Ceinture Meulante",
+   "level": "Niveau 129",
+   "caracteristique": "Sagesse : 31 à 50\n+5 à 10 de dommages\nInitiative : 401 à 600\nRésistance : 11 à 15 (air)\nVitalité : 151 à 300\nRésistance : 11 à 15 (eau)\nRésistance : 11 à 15 (feu)\nRésistance : 11 à 15 (terre)",
+   "recette": "10x Scalp de Meulou\n10x Poils du Meulou\n20x Queue du Mulou\n30x Cuir de Porkass\n10x Griffe du Mulou\n1x Testicules Magiques du Meulou\n1x Etoffe du Meulou\n1x Testicules de Meulou",
+   "image": "https://barbok.eratz.fr/ceinture_meulante.png",
+   "condition": "",
+   "description": "Description : C'est Bowisse le Cordonnier en personne, qui a conçu cette ceinture. Il l'a offerte à Brouce Boulgoure lorsque celui-ci a réussi à déraciner à mains nues le Chêne Mou, il y a de ça très longtemps."
+  },
+  {
+   "name": "Ceinture Lupine",
+   "level": "Niveau 130",
+   "caracteristique": "Désactive le lancer en ligne du sort 0\n+30 aux CC sur le sort Sablier de Xélor\nAugmente la portée du sort Protection Aveuglante de 3\nAugmente de 1 le nombre de lancer maximal par tour du sort Fuite",
+   "recette": "20x Etamine de Floribonde\n28x Sépale de Nerbe\n30x Bractée de Chiendent\n2x Estomac de Sanglier des Plaines\n1x Ecorce du Tynril\n18x Carpelle de Brouture\n24x Calice de Fécorce\n2x Talon d'achille de l'Abrakleur sombre",
+   "image": "https://barbok.eratz.fr/ceinture_lupine.png",
+   "condition": "",
+   "description": "Description : Le tic-tac incessant du système d'horlogerie de la Ceinture Lupine empêche les Xélors de s'endormir lorsque les combats s'éternisent. Il est donc vivement recommandé d'enlever cette ceinture avant d'aller se coucher."
+  },
+  {
+   "name": "Gaine Hage",
+   "level": "Niveau 130",
+   "caracteristique": "+30 aux CC sur le sort Armure Incandescente\nRéduit de 1 le coût en PA du sort Trê\nAugmente la portée du sort Glyphe de Silence de 1\nAugmente la portée du sort Retour du bâ de 1",
+   "recette": "20x Etamine de Floribonde\n28x Sépale de Nerbe\n30x Bractée de Chiendent\n1x Ver d'Eau\n1x Ecorce du Tynril\n18x Carpelle de Brouture\n24x Calice de Fécorce\n2x Talon d'achille de l'Abrakleur sombre",
+   "image": "https://barbok.eratz.fr/gaine_hage.png",
+   "condition": "",
+   "description": "Description : Prévoyants, les Fécas conservent des provisions de survie dans une petite sacoche. Celles-ci se composent essentiellement de pain en pierre de Craqueboule. C'est pourquoi cette nourriture dure si longtemps. La Ceinture Deucékurité arrime fermement la sacoche à la taille, car le choc lié à la chute de ce sac de nourriture fait encore trop de blessés graves, par négligence ou inconscience."
+  },
+  {
+   "name": "Ceinture Luthe",
+   "level": "Niveau 130",
+   "caracteristique": "Réduit de 1 le délai de relance du sort Ronce Insolente\nAugmente la portée du sort La Gonflable de 3\n+10 de dommages\nRéduit de 2 le coût en PA du sort Arbre",
+   "recette": "20x Etamine de Floribonde\n2x Talon d'achille de l'Abrakleur sombre\n18x Carpelle de Brouture\n2x Dragolait\n28x Sépale de Nerbe\n1x Ecorce du Tynril\n24x Calice de Fécorce\n30x Bractée de Chiendent",
+   "image": "https://barbok.eratz.fr/ceinture_luthe.png",
+   "condition": "",
+   "description": "Description : Les raisons qui ont poussé les concepteurs de cet accessoire de mode à placer une tête de poupée près de l'entrejambe restent mystérieuses. Bien des théories ont été avancées, mais chacun sait que tout ceci n'est que du pipeau !"
+  },
+  {
+   "name": "Ceinture Bodiézèle",
+   "level": "Niveau 130",
+   "caracteristique": "Réduit de 1 le coût en PA du sort Invocation de Dragonnet Rouge\n+20 de dommages\nRéduit de 1 le coût en PA du sort Invocation de Sanglier\n+25 aux CC sur le sort Crocs du Mulou",
+   "recette": "20x Etamine de Floribonde\n28x Sépale de Nerbe\n30x Bractée de Chiendent\n1x Chauve souris\n1x Ecorce du Tynril\n18x Carpelle de Brouture\n24x Calice de Fécorce\n2x Talon d'achille de l'Abrakleur sombre",
+   "image": "https://barbok.eratz.fr/ceinture_bodiezele.png",
+   "condition": "",
+   "description": "Description : Les Osamodas ont la réputation d'être un peu impulsif. Ils ont tendance à démarrer au quart de tour. Cette ceinture aux multiples boucles leur sert à refréner cette spontanéité : « Avant d'allumer ta colère, et d'avoir les yeux injectés de sang, touche toutes les cornes de ta Ceinture Bodiézèle ! »"
+  },
+  {
+   "name": "Ceinture Buhlent",
+   "level": "Niveau 130",
+   "caracteristique": "Désactive la ligne de vue du sort 0\nAugmente la portée du sort Esprit Félin de 1\nRéduit de 1 le coût en PA du sort Tout ou rien\nAugmente la portée du sort Réflexes de 4",
+   "recette": "1x Ecorce du Tynril\n28x Sépale de Nerbe\n2x Talon d'achille de l'Abrakleur sombre\n18x Carpelle de Brouture\n30x Bractée de Chiendent\n20x Etamine de Floribonde\n24x Calice de Fécorce\n2x Estomac de Chef de Guerre Bouftou",
+   "image": "https://barbok.eratz.fr/ceinture_buhlent.png",
+   "condition": "",
+   "description": "Description : Lorsqu'un Ecaflip ne sait pas quoi faire, il dégaine son jeu de carte de sa ceinture et entame un solitaire. En combat, il se sert également de ses cartes en tant que projectiles. Il tire plus vite que son ombre et, après la victoire, il est toujours temps de faire une petite partie !"
+  },
+  {
+   "name": "Ceinture Gessant",
+   "level": "Niveau 130",
+   "caracteristique": "Réduit de 1 le coût en PA du sort Corruption\n+30 aux CC sur le sort Pelle Massacrante\nAugmente la portée du sort Pelle Animée de 6\n+25 aux CC sur le sort Roulage de Pelle",
+   "recette": "20x Etamine de Floribonde\n28x Sépale de Nerbe\n30x Bractée de Chiendent\n1x Ver de Terre\n1x Ecorce du Tynril\n18x Carpelle de Brouture\n24x Calice de Fécorce\n2x Talon d'achille de l'Abrakleur sombre",
+   "image": "https://barbok.eratz.fr/ceinture_gessant.png",
+   "condition": "",
+   "description": "Description : La Ceinture Gessant est un accessoire de mode très utile auprès les Enutrofs mâles. Grâce à la carte qui y est cousue, ils peuvent cacher certains accidents de parcours, lorsqu'ils se sont perdus sur le chemin des toilettes."
+  },
+  {
+   "name": "Sangle Hans",
+   "level": "Niveau 130",
+   "caracteristique": "Réduit de 1 le coût en PA du sort Châ\n+30 aux CC sur le sort Punition\nAugmente la portée du sort Détour de 1\n+30 aux CC sur le sort Folie sanguinaire",
+   "recette": "1x Ecorce du Tynril\n28x Sépale de Nerbe\n30x Bractée de Chiendent\n2x Oeuf pourri\n20x Etamine de Floribonde\n18x Carpelle de Brouture\n24x Calice de Fécorce\n2x Talon d'achille de l'Abrakleur sombre",
+   "image": "https://barbok.eratz.fr/sangle_hans.png",
+   "condition": "",
+   "description": "Description : Guerriers d'une ancienne tribu réputée pour son goût du sang, les Hans seraient les premiers adorateurs de la déesse Sacrieur. Sous son apparence inoffensive, cette ceinture est en réalité un instrument de torture sophistiqué."
+  },
+  {
+   "name": "Sangle Hynère",
+   "level": "Niveau 130",
+   "caracteristique": "Réduit de 1 le coût en PA du sort Colère de Iop\nAugmente la portée du sort Couper de 3\nAugmente la portée du sort Souffle de 3\nAugmente la portée du sort Amplification de 3",
+   "recette": "20x Etamine de Floribonde\n24x Calice de Fécorce\n10x Lait de Dragodinde\n18x Carpelle de Brouture\n30x Bractée de Chiendent\n1x Ecorce du Tynril\n28x Sépale de Nerbe\n2x Talon d'achille de l'Abrakleur sombre",
+   "image": "https://barbok.eratz.fr/sangle_hynere.png",
+   "condition": "",
+   "description": "Description : Cette magnifique sangle ajoute du prestige à la tenue des Iops. Certains prétendent que la croix centrale peut se transformer en une arme amovible, lorsque l'épée n'est pas à portée de main. C'est bien sûr une légende, car seuls les Srams seraient assez fourbes pour ce genre de pratique."
+  },
+  {
+   "name": "Sangle Cible",
+   "level": "Niveau 130",
+   "caracteristique": "Désactive le lancer en ligne du sort 0\nRéduit de 1 le coût en PA du sort Flèche Cinglante\n+30 aux CC sur le sort Flèche Destructrice\nRéduit de 1 le délai de relance du sort Tir Puissant",
+   "recette": "20x Etamine de Floribonde\n28x Sépale de Nerbe\n30x Bractée de Chiendent\n1x Ver d'Air\n1x Ecorce du Tynril\n18x Carpelle de Brouture\n24x Calice de Fécorce\n2x Talon d'achille de l'Abrakleur sombre",
+   "image": "https://barbok.eratz.fr/sangle_cible.png",
+   "condition": "",
+   "description": "Description : Ce ceinturon permet à la fois de retenir les vêtements tombants (pour ne pas effrayer les âmes sensibles) et d'offrir une mire pour les jeunes Crâ en phase d'apprentissage. En effet, on leur apprend à ne jamais tirer en dessous de la ceinture, mais juste au milieu."
+  },
+  {
+   "name": "Sangle Huée",
+   "level": "Niveau 130",
+   "caracteristique": "Désactive la ligne de vue du sort 0\n+25 aux CC sur le sort Vague à Lame\nAugmente la portée du sort Souillure de 1\nAugmente la portée du sort Chamrak de 1",
+   "recette": "20x Etamine de Floribonde\n28x Sépale de Nerbe\n30x Bractée de Chiendent\n1x Ver de Feu\n1x Ecorce du Tynril\n18x Carpelle de Brouture\n24x Calice de Fécorce\n2x Talon d'achille de l'Abrakleur sombre",
+   "image": "https://barbok.eratz.fr/sangle_huee.png",
+   "condition": "",
+   "description": "Description : Cette ceinture aide les Pandawas à se tenir à peu près droit lorsqu'ils sont saouls, ce qui leur arrive souvent. Dans ces moments-là, ils ont tendance à se sentir englués au sol, alors que la gravité n'a aucun rapport avec cette sensation de pesanteur. Elle est bien trop occupée à assommer les scientifiques à coup de pommes."
+  },
+  {
+   "name": "Sangle Holon",
+   "level": "Niveau 130",
+   "caracteristique": "+35 aux CC sur le sort Mot Stimulant\n+30 aux CC sur le sort Mot Vampirique\nSoins : 50\nRéduit de 1 le coût en PA du sort Mot d'Altruisme",
+   "recette": "1x Ecorce du Tynril\n24x Calice de Fécorce\n2x Talon d'achille de l'Abrakleur sombre\n20x Etamine de Floribonde\n28x Sépale de Nerbe\n18x Carpelle de Brouture\n30x Bractée de Chiendent\n2x Estomac de Gloutovore",
+   "image": "https://barbok.eratz.fr/sangle_holon.png",
+   "condition": "",
+   "description": "Description : À défaut d'enrayer les pleurs, la sangle Holon permet de transporter du matériel médical. Inutile de faire jouer les violons de l'automne qui blessent les tympans d'une langueur monotone. Les diverses potions utiles pour soigner les maux de gorge et autres affections ORL s'y trouvent soigneusement rangées. En effet, un Eniripsa à la voix enrouée ne peut pas lancer correctement ses sorts. Lorsqu'il est aphone, il est aussi utile qu'une veste polaire en pleine canicule."
+  },
+  {
+   "name": "Sangle Glinglin",
+   "level": "Niveau 130",
+   "caracteristique": "Augmente la portée du sort Peur de 1\nDésactive le lancer en ligne du sort 0\nAugmente la portée du sort Arnaque de 2\nRéduit de 1 le coût en PA du sort Invisibilité d'Autrui",
+   "recette": "18x Carpelle de Brouture\n2x Carreau d'Arbalète\n1x Ecorce du Tynril\n28x Sépale de Nerbe\n30x Bractée de Chiendent\n20x Etamine de Floribonde\n24x Calice de Fécorce\n2x Talon d'achille de l'Abrakleur sombre",
+   "image": "https://barbok.eratz.fr/sangle_glinglin.png",
+   "condition": "",
+   "description": "Description : L'origine du nom de cette ceinture provient du bruit particulier qu'elle produit. L'entrechoc des os ornant la sangle empêche les Srams, même invisibles, de passer inaperçus. Aussi, on peut les entendre dire : « Surprendre quelqu'un avec la Sangle Glinglin ? Tu peux toujours attendre ! »."
+  },
+  {
+   "name": "Ceinture Cérémoniale du Seigneur des Rats",
+   "level": "Niveau 133",
+   "caracteristique": "Agilité : 31 à 50\nIntelligence : 16 à 30\nSagesse : 16 à 25\nProspection : 11 à 15\nVitalité : 151 à 200\nPods : +500\nCréature invocables : +1\nAugmente les dommages de 6 à 10%\n+6 à 10 de dommages\nRésistance : 6 à 10 (eau)\nRésistance : 6 à 10 (neutre)\nRésistance : 5 à 8% (eau)",
+   "recette": "3x Peau de Sphincter Cell\n100x Crocs de Rats\n5x Poil de Chaman d'Egoutant\n1x Ceinture du Rat Blanc\n1x Ceinture du Rat Noir\n5x Peau de Rat d'Egoutant\n50x Peau de Chaman d'Egoutant\n1x Slip de Trool",
+   "image": "https://barbok.eratz.fr/ceinture_ceremoniale_du_seigneur_des_rats.png",
+   "condition": "",
+   "description": "Description : Les motifs sur cette ceinture donnent l'impression que vous avez le feu au fondement. Le trompe l'oeil est si bon que la plupart des porteurs y croient eux-mêmes et courent partout en hurlant. Ce qui correspond exactement au rituel de la cérémonie."
+  },
+  {
+   "name": "String Automnal du Chêne Mou",
+   "level": "Niveau 141",
+   "caracteristique": "Force : 26 à 40\nIntelligence : 26 à 40\nVitalité : 151 à 200\nSagesse : 11 à 20\nProspection : 11 à 15\nCoup critiques : +3 à 4\n+6 à 10 de dommages\nSoins : 3 à 4\nPortée : +1\nPods : +501 à 600\nInitiative : 101 à 200\nRésistance : 6 à 10 (air)\nRésistance : 6 à 10 (neutre)",
+   "recette": "1x Abrature\n1x Abrature Ancestrale\n20x Racine d'Abraknyde Sombre\n25x Ecorce d'Abraknyde Sombre\n50x Bourgeon d'Abraknyde Sombre\n9x Ecorce du Chêne Mou\n8x Racine du Chêne Mou\n130x Ambre d'Abraknyde",
+   "image": "https://barbok.eratz.fr/string_automnal_du_chene_mou.png",
+   "condition": "",
+   "description": "Description : En automne, le Chêne Mou porte son string pour protéger ses précieux glands. En été, il les trimballe à l'air."
+  },
+  {
+   "name": "Ceinture Bitoufale de Prosper Youpla",
+   "level": "Niveau 148",
+   "caracteristique": "Force : 31 à 50\nAgilité : 31 à 50\nSagesse : 31 à 50\nCoup critiques : +1 à 2\nSoins : 4 à 5\n+4 à 5 de dommages\nInitiative : 201 à 300\nProspection : 11 à 20\nRésistance : 6 à 10% (air)\nRésistance : 6 à 10% (terre)\nRésistance : 6 à 10% (neutre)",
+   "recette": "12x Coco du Bitouf aérien\n50x Amygdales du Bitouf Sombre\n14x Coco du Bitouf sombre\n40x Croupion du Bitouf aérien\n16x Coco du Bitouf des plaines\n1x Chaussette du Kimbo\n60x Aile du Bitouf des plaines\n1x Queue emplumée du Rasboul Majeur",
+   "image": "https://barbok.eratz.fr/ceinture_bitoufale_de_prosper_youpla.png",
+   "condition": "",
+   "description": "Description : Prosper Youpla était persuadé de pouvoir voler grâce à cette ceinture ornée d'ailes de Bitouf. Ignorant que très peu de Bitoufs savent voler, il s'élançait du haut de l'arbre Hakam et s'écrasait systématiquement au sol, tant et si bien qu'il fût surnommé \"Boum\"."
+  },
+  {
+   "name": "Ceinture du Minotot",
+   "level": "Niveau 149",
+   "caracteristique": "Chance : 31 à 50\nIntelligence : 31 à 50\nVitalité : 181 à 250\nProspection : 16 à 25\nPods : +500\nAugmente les dommages de 11 à 15%\nSoins : 5 à 8\nRésistance : 4 à 6 (neutre)\nRésistance : 4 à 6 (air)\nSagesse : 21 à 40\nRésistance : 4 à 6 (terre)\nCréature invocables : +1",
+   "recette": "1x Laine du Minotot\n8x Laine du Minotoror\n1x Etoffe de Maître Pandore\n3x Cuir de Minotoror\n12x Peau de Chevaucheur Koalak\n1x Cuir du Minotot\n1x Ceinture du Minotoror\n25x Poil de Renarbo",
+   "image": "https://barbok.eratz.fr/ceinture_du_minotot.png",
+   "condition": "",
+   "description": "Description : Cette ceinture rigide, permettait au Minotot, de contenir son énorme bedaine, afin de ne pas basculer en avant au moindre courant d'air."
+  },
+  {
+   "name": "Goldoture",
+   "level": "Niveau 164",
+   "caracteristique": "Créature invocables : +1 à 2\nVitalité : 201 à 250\nSagesse : 31 à 50\nCoup critiques : +3 à 4\nAugmente les dommages de 16 à 25%\n+6 à 10 de dommages\nProspection : 11 à 20\nRésistance : 6 à 10 (neutre)",
+   "recette": "58x Aile du Bitouf des plaines\n1x Ambre du Tynril\n1x La Xerbo\n5x Kriptonite\n18x Silicate\n6x Coco du Bitouf sombre\n1x Poudre explosive de Gourlo\n12x Jus de Ouassingue",
+   "image": "https://barbok.eratz.fr/goldoture.png",
+   "condition": "",
+   "description": "Description : On raconte que lorsque son premier propriétaire enfilait cette ceinture, il tournait à chaque fois sur lui même. Ce qui confirme qu'il faut être un peu dingue pour porter un truc pareil."
+  },
+  {
+   "name": "Ceinture Mycosine",
+   "level": "Niveau 177",
+   "caracteristique": "Force : 41 à 60\nVitalité : 301 à 350\nSagesse : 21 à 30\nCoup critiques : +3 à 4\n+4 à 5 de dommages\nCréature invocables : +1\nInitiative : 301 à 500\nProspection : 11 à 20\nRésistance : 6 à 10 (eau)\nRésistance : 6 à 10 (terre)\nRésistance : 6 à 10% (feu)",
+   "recette": "1x Epine d'Ougah\n1x Ceinture sombre en Abrakleur\n1x Krustoture\n18x Lamelle de Champbis\n9x Etoffe de Meupette\n4x Queue Magique du Péki\n3x Poil de Skeunk\n12x Etoffe de Péki",
+   "image": "https://barbok.eratz.fr/ceinture_mycosine.png",
+   "condition": "",
+   "description": "Description : La meilleure façon de ne pas avoir de champignons dans l'entrejambe, c'est de les attirer ailleurs. Comme il n'y avait déjà plus de place dans vos chaussures pour loger d'autres champignons, vous pourrez utiliser cette ceinture, véritable substrat pour tout bon champignon digne de ce nom."
+  },
+  {
+   "name": "Tranche des Sous-bois",
+   "level": "Niveau 179",
+   "caracteristique": "Chance : 31 à 50\nVitalité : 351 à 400\nSagesse : 31 à 50\nCoup critiques : +2 à 3\n+6 à 10 de dommages\nCréature invocables : +1\nProspection : 21 à 30\nRésistance : 6 à 10% (terre)",
+   "recette": "1x Epine d'Ougah\n8x Oeil de Champmane\n12x Lamelle de Champbis\n12x Pistil du Tynril\n40x Amygdales du Bitouf Sombre\n35x Sépale de Nerbe\n8x Sourcil du Rasboul majeur\n1x Etoffe Magique de Moon",
+   "image": "https://barbok.eratz.fr/tranche_des_sous-bois.png",
+   "condition": "",
+   "description": "Description : Prenez un Orme, retirez-lui son écorce, laissez-la tremper dans une flaque, enfouissez-la dans la vase pendant plusieurs mois, recouvrez-là de spores de champignons, mettez-là sous votre lit pendant une semaine en la badigeonnant de graisse de Blop tous les soirs, et voilà vous avez une ceinture en écorce qui sent très mauvais. Alors heureux ?"
+  },
+  {
+   "name": "Ceinture Toré",
+   "level": "Niveau 181",
+   "caracteristique": "Chance : 31 à 50\nIntelligence : 31 à 50\nSagesse : 21 à 30\nVitalité : 251 à 300\nCoup critiques : +1 à 2\n+4 à 5 de dommages\nSoins : 4 à 5\nPortée : +1\nAugmente les dommages de 6 à 10%\nProspection : 11 à 20\nRésistance : 6 à 10 (neutre)\nRésistance : 6 à 10% (neutre)",
+   "recette": "10x Ecusson du Sergent Zoth\n33x Coeur de pierre poli\n16x Ecorce de Brouture\n11x Braguette du Maître Zoth\n25x Ecorce de Fécorce\n2x Peau de Bworker\n1x Slip du Chef Bwork\n3x Poil de Skeunk",
+   "image": "https://barbok.eratz.fr/ceinture_tore.png",
+   "condition": "",
+   "description": "Description : Les deux clous de la ceinture se plantaient directement dans les poignées d'amour du Bworker. Lorsqu'il se trémoussait en faisant la danse du ventre pour distraire ses ennemis, on pouvait parfois apercevoir les coutures de ses sous-vêtements en peau de Kilibriss. L'érotisme exacerbé du Bworker a fait vaciller plus d'un ennemi. Sa lame s'est contentée de les achever."
+  },
+  {
+   "name": "Ceinture Rasboulaire du Rasboul",
+   "level": "Niveau 182",
+   "caracteristique": "Vitalité : 251 à 300\nSagesse : 31 à 40\nAgilité : 41 à 60\nCoup critiques : +4 à 6\n+5 à 7 de dommages\nAugmente les dommages de 11 à 15%\nPortée : +1\nProspection : 11 à 15\nRésistance : 6 à 10% (eau)\nRésistance : 6 à 10% (terre)",
+   "recette": "4x Sourcil du Rasboul majeur\n1x Ceinture de l'Amant d'Ha\n2x Peau du Rasboul Majeur\n12x Coquille du Kaskargo\n1x Queue emplumée du Rasboul Majeur\n8x Coco du Bitouf aérien\n9x Etoffe du Roissingue\n11x Coco du Bitouf sombre",
+   "image": "https://barbok.eratz.fr/ceinture_rasboulaire_du_rasboul.png",
+   "condition": "",
+   "description": "Description : Lorsque le Rasboul a les boules, il porte sa ceinture Rasboulaire pour envoyer bouler tous les casse-boules."
+  },
+  {
+   "name": "Ougature",
+   "level": "Niveau 185",
+   "caracteristique": "Vitalité : 301 à 350\nSagesse : 41 à 50\n+6 à 10 de dommages\nAugmente les dommages de 31 à 40%\nPortée : +1\nCréature invocables : +2\nProspection : 11 à 20\nRésistance : 6 à 10% (terre)",
+   "recette": "1x Fragment d'Ougalurette\n4x Etoffe de Meupette\n12x Langue du Champodonte\n13x Bave de Champ à Gnons\n8x Rotule du Disciple Zoth\n10x Ecorce de Floribonde\n2x Epine d'Ougah\n1x Ceinture Claire en Abrakleur",
+   "image": "https://barbok.eratz.fr/ougature.png",
+   "condition": "",
+   "description": "Description : Sur l'étiquette de cette ceinture, on peut lire : \"Nous sommes désolés mais ce n'est pas en portant cette ceinture que vous aurez le déhanchement légendaire d'Ougah\". Et alors ?"
+  },
+  {
+   "name": "String Tue-Mouche",
+   "level": "Niveau 192",
+   "caracteristique": "Vitalité : 201 à 250\nSagesse : 31 à 40\nIntelligence : 31 à 50\nCoup critiques : +2 à 3\nSoins : 6 à 10\n+4 à 5 de dommages\nInitiative : 201 à 300\nProspection : 11 à 20\nRésistance : 5 à 7% (feu)\nRésistance : 5 à 7% (terre)",
+   "recette": "14x Langue du Champodonte\n17x Maillot de corps de Barbroussa\n26x Coeur de pierre poli\n8x Ecorce de Floribonde\n10x Perruque du Kimbo\n12x Oeil de Champmane\n13x Tresse du Poolay\n2x Epine d'Ougah",
+   "image": "https://barbok.eratz.fr/string_tue-mouche.png",
+   "condition": "",
+   "description": "Description : Comme son nom l'indique, ce string est particulièrement efficace pour tuer les mouches un peu trop intéressées par votre anatomie. Il est déconseillé de l'arracher avec les dents, même si vous appréciez cela."
+  }
+ ]
+}

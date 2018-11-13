@@ -1,0 +1,1394 @@
+{
+ "Botte": [
+  {
+   "name": "Bottes de l'Aventurier",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 1 à 2\nForce : 1 à 2\nAgilité : 1 à 2\nSagesse : 1 à 2\nIntelligence : 1 à 2",
+   "recette": "3x Sandales Tofuesques\n3x Bottes du Petit Bouftou",
+   "image": "https://barbok.eratz.fr/bottes_de_laventurier.png",
+   "condition": "",
+   "description": "Description : Bottes de simple facture mais idéales pour les jeunes se lançant sur le dur chemin de l'aventure."
+  },
+  {
+   "name": "Bottes du Bouftou",
+   "level": "Niveau 1",
+   "caracteristique": "Agilité : 3",
+   "recette": "1x Laine de Boufton Blanc\n2x Cuir de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/bottes_du_bouftou.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont confectionnées en cuir de Bouftou, elles permettent aux éleveurs de s'approcher plus facilement des Bouftous pour les tuer, grâce à l'odeur qu'elles dégagent."
+  },
+  {
+   "name": "Les Incrustes",
+   "level": "Niveau 1",
+   "caracteristique": "Résistance : 1 (neutre)",
+   "image": "https://barbok.eratz.fr/les_incrustes.png",
+   "condition": "",
+   "description": "Description : Ces Getas sont si légères qu'elles poussent leur propriétaire à courir dans tous les sens et à sauter partout lorsqu'un combat commence. Les aventuriers expérimentés détestent ces getas, qui permettent aux premiers venus de prendre part à un combat auquel ils n'ont pas été invités."
+  },
+  {
+   "name": "Sandales Tofuesques",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 2",
+   "recette": "10x Plumes de Tofu\n10x Bec du Tofu",
+   "image": "https://barbok.eratz.fr/sandales_tofuesques.png",
+   "condition": "",
+   "description": "Description : Ces sandales sont faites à partir de plumes de Tofu bouilli, et la semelle est en Bec de Tofu inusable. Pour des raisons encore inexpliquées, elles rendent parfois leur porteur un peu débile...comme un Tofu."
+  },
+  {
+   "name": "Bottananas",
+   "level": "Niveau 1",
+   "image": "https://barbok.eratz.fr/bottananas.png",
+   "condition": "",
+   "description": "Description : Ces bottes sentent le jus d'ananas macéré dans du substrat de chaussette trouée. L'avantage, c'est qu'on ne vous demandera jamais de les enlever lorsque vous irez chez un ami."
+  },
+  {
+   "name": "Bottes du Petit Bouftou",
+   "level": "Niveau 1",
+   "caracteristique": "Agilité : 2",
+   "recette": "1x Laine de Boufton Blanc\n1x Cuir de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/bottes_du_petit_bouftou.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont confectionnées en cuir de Bouftou, elles permettent aux éleveurs de s'approcher plus facilement des Bouftous pour les tuer, grâce à l'odeur qu'elles dégagent."
+  },
+  {
+   "name": "Bottes Usées d'Hogmeiser",
+   "level": "Niveau 1",
+   "caracteristique": "PM perdu à la cible : 1\nPA perdu à la cible : 1",
+   "image": "https://barbok.eratz.fr/bottes_usees_dhogmeiser.png",
+   "condition": "",
+   "description": "Description : Ces bottes usées ont appartenu à Hogmeiser pendant des années, elles sont tellement usées, qu'elles sont surtout handicapantes. Un très bon Cordonnier devrait pouvoir les réparer avec de la chance."
+  },
+  {
+   "name": "Sandales du Piou Rouge",
+   "level": "Niveau 1",
+   "caracteristique": "Intelligence : 1",
+   "recette": "1x Plume de Piou Rouge\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/sandales_du_piou_rouge.png",
+   "condition": "",
+   "description": "Description : Parfaites pour protéger votre petite voûte plantaire, ces sandales sont en outre parfaites pour écraser les petites créatures qui rampent entre les brins d'herbe, comme les Xélors ou les Eniripsas par exemple."
+  },
+  {
+   "name": "Sandales du Piou Violet",
+   "level": "Niveau 1",
+   "caracteristique": "Sagesse : 1",
+   "recette": "1x Plume de Piou Violet\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/sandales_du_piou_violet.png",
+   "condition": "",
+   "description": "Description : Parfaites pour protéger votre petite voûte plantaire, ces sandales sont en outre parfaites pour écraser les petites créatures qui rampent entre les brins d'herbe, comme les Xélors ou les Eniripsas par exemple."
+  },
+  {
+   "name": "Sandales du Piou Rose",
+   "level": "Niveau 1",
+   "caracteristique": "Vitalité : 1",
+   "recette": "1x Graine de Sésame\n1x Plume de Piou Rose",
+   "image": "https://barbok.eratz.fr/sandales_du_piou_rose.png",
+   "condition": "",
+   "description": "Description : Parfaites pour protéger votre petite voûte plantaire, ces sandales sont en outre parfaites pour écraser les petites créatures qui rampent entre les brins d'herbe, comme les Xélors ou les Eniripsas par exemple."
+  },
+  {
+   "name": "Sandales du Piou Vert",
+   "level": "Niveau 1",
+   "caracteristique": "Agilité : 1",
+   "recette": "1x Plume de Piou Vert\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/sandales_du_piou_vert.png",
+   "condition": "",
+   "description": "Description : Parfaites pour protéger votre petite voûte plantaire, ces sandales sont en outre parfaites pour écraser les petites créatures qui rampent entre les brins d'herbe, comme les Xélors ou les Eniripsas par exemple."
+  },
+  {
+   "name": "Sandales du Piou Bleu",
+   "level": "Niveau 1",
+   "caracteristique": "Chance : 1",
+   "recette": "1x Graine de Sésame\n1x Plume de Piou Bleu",
+   "image": "https://barbok.eratz.fr/sandales_du_piou_bleu.png",
+   "condition": "",
+   "description": "Description : Parfaites pour protéger votre petite voûte plantaire, ces sandales sont en outre parfaites pour écraser les petites créatures qui rampent entre les brins d'herbe, comme les Xélors ou les Eniripsas par exemple."
+  },
+  {
+   "name": "Sandales du Piou Jaune",
+   "level": "Niveau 1",
+   "caracteristique": "Force : 1",
+   "recette": "1x Plume de Piou Jaune\n1x Graine de Sésame",
+   "image": "https://barbok.eratz.fr/sandales_du_piou_jaune.png",
+   "condition": "",
+   "description": "Description : Parfaites pour protéger votre petite voûte plantaire, ces sandales sont en outre parfaites pour écraser les petites créatures qui rampent entre les brins d'herbe, comme les Xélors ou les Eniripsas par exemple."
+  },
+  {
+   "name": "Bottes du Chat Buté",
+   "level": "Niveau 2",
+   "caracteristique": "Chance : 6 à 10\nIntelligence : -6 à -10",
+   "recette": "1x Cuir de Boufton Blanc\n3x Laine de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/bottes_du_chat_bute.png",
+   "condition": "",
+   "description": "Description : Le Chat Buté est le surnom donné à un célèbre Ecaflip. Aucun Ecaflip n'aura été plus têtu que lui, et en combat seule sa chance le sauvait de son inexistante intelligence.\n\"Qui qu'c'est qu'y'est buté comme un caillou ?\", s'exclamait-il souvent."
+  },
+  {
+   "name": "Petites Bottes de Force",
+   "level": "Niveau 2",
+   "caracteristique": "Force : 6 à 10\nAgilité : -6 à -10",
+   "recette": "3x Cuir de Boufton Noir\n1x Cuir de Bouftou",
+   "image": "https://barbok.eratz.fr/petites_bottes_de_force.png",
+   "condition": "",
+   "description": "Description : Ces bottes augmentent la force de leur porteur au détriment de son agilité, ce qui tend à le rendre différent d'un Tofu, sans pour autant le rendre moins idiot."
+  },
+  {
+   "name": "Einekeineux",
+   "level": "Niveau 2",
+   "caracteristique": "Chance : 6 à 10\nVitalité : -6 à -10",
+   "recette": "1x Cuir de Boufton Blanc\n3x Cuir de Boufton Noir",
+   "image": "https://barbok.eratz.fr/einekeineux.png",
+   "condition": "",
+   "description": "Description : Les bottes qui portent chance. Le problème c'est qu'elles vous rendent moins résistant en combat."
+  },
+  {
+   "name": "Fecaflip",
+   "level": "Niveau 2",
+   "caracteristique": "Intelligence : 6 à 10\nForce : -6 à -10",
+   "recette": "1x Cuir de Boufton Noir\n3x Cuir de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/fecaflip.png",
+   "condition": "",
+   "description": "Description : Cette magnifique paire de bottes convertit un peu de votre force en intelligence."
+  },
+  {
+   "name": "Bottes du Grand Bouftou",
+   "level": "Niveau 2",
+   "caracteristique": "Agilité : 4",
+   "recette": "2x Laine de Boufton Blanc\n2x Cuir de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/bottes_du_grand_bouftou.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont confectionnées en cuir de Bouftou, elles permettent aux éleveurs de s'approcher plus facilement des Bouftous pour les tuer, grâce à l'odeur qu'elles dégagent."
+  },
+  {
+   "name": "Bottes du Puissant Bouftou",
+   "level": "Niveau 4",
+   "caracteristique": "Agilité : 5",
+   "recette": "2x Laine de Boufton Blanc\n3x Cuir de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/bottes_du_puissant_bouftou.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont confectionnées en cuir de Bouftou, elles permettent aux éleveurs de s'approcher plus facilement des Bouftous pour les tuer, grâce à l'odeur qu'elles dégagent."
+  },
+  {
+   "name": "Bottes de Chance",
+   "level": "Niveau 8",
+   "caracteristique": "Chance : 6 à 10",
+   "recette": "5x Cuir de Bouftou\n3x Cuir de Boufton Noir",
+   "image": "https://barbok.eratz.fr/bottes_de_chance.png",
+   "condition": "",
+   "description": "Description : Ces bottes augmentent la chance de leur porteur afin de l'aider à trouver des objets très puissants, comme de la bave de Bouftou par exemple."
+  },
+  {
+   "name": "Bottes Agilesques",
+   "level": "Niveau 8",
+   "caracteristique": "Agilité : 6 à 10",
+   "recette": "5x Cuir de Boufton Noir\n3x Laine de Bouftou",
+   "image": "https://barbok.eratz.fr/bottes_agilesques.png",
+   "condition": "",
+   "description": "Description : Ces bottes permettent d'augmenter l'agilité de leur porteur, afin qu'il puisse se prendre pour un Tofu plus facilement, lorsque l'envie lui prend de faire l'idiot."
+  },
+  {
+   "name": "Bottes de Kluh",
+   "level": "Niveau 8",
+   "caracteristique": "Force : 11 à 20\nIntelligence : -11 à -20",
+   "recette": "7x Cuir de Bouftou\n1x Cuir de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/bottes_de_kluh.png",
+   "condition": "",
+   "description": "Description : Ces bottes augmentent la force de leur porteur, mais risquent de le rendre un peu idiot au bout d'un certain temps, voire de le transformer en Iop en cas d'utilisation régulière et prolongée"
+  },
+  {
+   "name": "Sandales d'Intelligence",
+   "level": "Niveau 8",
+   "caracteristique": "Intelligence : 6 à 10",
+   "recette": "7x Cuir de Bouftou\n1x Bois de Noyer",
+   "image": "https://barbok.eratz.fr/sandales_dintelligence.png",
+   "condition": "",
+   "description": "Description : Ces bottes permettent d'augmenter l'intelligence de leur porteur, tout en lui conférant un style vraiment à la mode par les temps qui courent grâce à leur semelle en Bois de Noyer qui offre une adhérence remarquable."
+  },
+  {
+   "name": "Boufbottes",
+   "level": "Niveau 10",
+   "caracteristique": "Augmente les dommages de 1 à 15%\nVitalité : 1 à 35",
+   "recette": "10x Cuir de Boufton Noir\n1x Cuir du Chef de Guerre Bouftou\n10x Cuir de Bouftou\n1x Sabot de Chef de Guerre Bouftou",
+   "image": "https://barbok.eratz.fr/boufbottes.png",
+   "condition": "",
+   "description": "Description : Ces Bottes sont d'un confort inégalé, l'intérieur a l'air d'être doublé en laine de Bouftou, mais on peut ressentir également comme un liquide circulant entre les orteils. Reste à savoir si c'est de la Bave ou du Sang de Bouftou. Peu importe."
+  },
+  {
+   "name": "Bottes Champêtres",
+   "level": "Niveau 10",
+   "caracteristique": "Vitalité : 5 à 6\nIntelligence : 4 à 5",
+   "recette": "10x Pétale de Tournesol Sauvage\n8x Fleur de Pissenlit Diabolique\n8x Feuille de Tournesol Sauvage",
+   "image": "https://barbok.eratz.fr/bottes_champetres.png",
+   "condition": "",
+   "description": "Description : Rien de mieux que d'utiliser des bottes confectionnées à partir de restes de fleurs champêtres, pour écraser ces misérables fleurs qui poussent dans vos champs. De plus, ces bottes permettront à vos pieds de dégager une délicieuse odeur de fleur. Dommage qu'il n'existe pas un équivalent à ces bottes pour les caleçons."
+  },
+  {
+   "name": "Bottes en Mousse",
+   "level": "Niveau 11",
+   "caracteristique": "Agilité : 6 à 15",
+   "image": "https://barbok.eratz.fr/bottes_en_mousse.png",
+   "condition": "",
+   "description": "Description : Avec ces bottes, un Eniripsa peut marcher sur l'eau, ce qui ne sert à rien puisqu'il peut voler, mais ça impressionne toujours les foules. Les autres pourront toujours se servir de ces bottes pour se gratter les pieds en marchant, ou tout simplement pour les nettoyer."
+  },
+  {
+   "name": "Petites Bottes de Klime",
+   "level": "Niveau 13",
+   "caracteristique": "Vitalité : 6 à 10\nAgilité : 6 à 10\nForce : -1 à -10",
+   "recette": "5x Cuir de Sanglier\n4x Laine de Bouftou\n5x Cuir de Bouftou",
+   "image": "https://barbok.eratz.fr/petites_bottes_de_klime.png",
+   "condition": "",
+   "description": "Description : L'agilité que confère ces bottes permettait à Klime le cordonnier de monter facilement sur le dos de n'importe quel Bouftou. Il est mort en confondant un Bouftou avec une Gelée, après une soirée trop arrosée passée à la taverne."
+  },
+  {
+   "name": "Gobtroteur",
+   "level": "Niveau 14",
+   "caracteristique": "Vitalité : 16 à 25\nForce : 11 à 15\nInitiative : 51 à 100",
+   "image": "https://barbok.eratz.fr/gobtroteur.png",
+   "condition": "",
+   "description": "Description : Ces bottes en peaux de gobelins ont été créées par Planbworksek afin de charger l'ennemi (si possible dans le dos) avec une grande vélocité. En chaussant ces bottes, il a sauvé plus d'un camarade Bwork dans la panade."
+  },
+  {
+   "name": "Bottes de Nexus",
+   "level": "Niveau 17",
+   "caracteristique": "Vitalité : 11 à 30",
+   "recette": "6x Cuir de Boufton Blanc\n6x Cuir de Bouftou\n4x Ailes de Scarafeuille bleu",
+   "image": "https://barbok.eratz.fr/bottes_de_nexus.png",
+   "condition": "",
+   "description": "Description : Ces bottes ont appartenu à Nexus, grand chevalier figé à jamais."
+  },
+  {
+   "name": "Bottes de Klime",
+   "level": "Niveau 17",
+   "caracteristique": "Vitalité : 11 à 15\nAgilité : 11 à 15\nForce : -1 à -10",
+   "recette": "7x Cuir de Sanglier\n6x Cuir de Bouftou\n6x Laine de Bouftou",
+   "image": "https://barbok.eratz.fr/bottes_de_klime.png",
+   "condition": "",
+   "description": "Description : L'agilité que confère ces bottes permettait à Klime le cordonnier de monter facilement sur le dos de n'importe quel Bouftou. Il est mort en confondant un Bouftou avec une Gelée, après une soirée trop arrosée passée à la taverne."
+  },
+  {
+   "name": "Bottes de Satisfaction",
+   "level": "Niveau 17",
+   "caracteristique": "Intelligence : -21 à -50\nAgilité : -21 à -50\nChance : -21 à -50\nForce : -21 à -50\nPM : 1",
+   "recette": "10x Etain\n10x Cuivre\n5x Poils du Sanglier",
+   "image": "https://barbok.eratz.fr/bottes_de_satisfaction.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont si confortables, si légères, que l'on ne peut qu'en être satisfait. Seul un adversaire pourrait ne pas être satisfait si vous lui faites voir vos semelles d'un peu trop près. Et encore ce n'est pas dit."
+  },
+  {
+   "name": "Grandes Bottes de Klime",
+   "level": "Niveau 18",
+   "caracteristique": "Vitalité : 16 à 20\nAgilité : 16 à 20\nForce : -1 à -10",
+   "recette": "8x Cuir de Sanglier\n7x Laine de Bouftou\n7x Cuir de Bouftou",
+   "image": "https://barbok.eratz.fr/grandes_bottes_de_klime.png",
+   "condition": "",
+   "description": "Description : L'agilité que confère ces bottes permettait à Klime le cordonnier de monter facilement sur le dos de n'importe quel Bouftou. Il est mort en confondant un Bouftou avec une Gelée, après une soirée trop arrosée passée à la taverne."
+  },
+  {
+   "name": "Bottes Paysannes",
+   "level": "Niveau 18",
+   "caracteristique": "Vitalité : 11 à 15\nSagesse : 1 à 5",
+   "recette": "10x Houblon\n2x Feuille de Tournesol Sauvage\n2x Huile de Sésame",
+   "image": "https://barbok.eratz.fr/bottes_paysannes.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont rembourrées avec de la paille de blé, ce qui permet d'absorber la transpiration et de cultiver des champignons toxiques à moindre frais. Grâce à leur semelle molle, ces bottes sont recommandées par les arbitres de la fédération de Boufball."
+  },
+  {
+   "name": "Puissantes Bottes de Klime",
+   "level": "Niveau 19",
+   "caracteristique": "Vitalité : 21 à 25\nAgilité : 21 à 25\nForce : -1 à -10",
+   "recette": "9x Cuir de Sanglier\n7x Laine de Bouftou\n8x Cuir de Bouftou",
+   "image": "https://barbok.eratz.fr/puissantes_bottes_de_klime.png",
+   "condition": "",
+   "description": "Description : L'agilité que confère ces bottes permettait à Klime le cordonnier de monter facilement sur le dos de n'importe quel Bouftou. Il est mort en confondant un Bouftou avec une Gelée, après une soirée trop arrosée passée à la taverne."
+  },
+  {
+   "name": "Bottes de l'Homme Ours",
+   "level": "Niveau 20",
+   "caracteristique": "Agilité : 11 à 15\nCoup critiques : +1 à 2",
+   "recette": "1x Poils d'Ours\n1x Cuir de Porkass\n1x Cuir de Sanglier des Plaines\n4x Cuir de Bouftou",
+   "image": "https://barbok.eratz.fr/bottes_de_lhomme_ours.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont rembourrées avec de la fourrure d'ours. De quoi garder les pieds au chaud même pour ceux qui ont le sang froid."
+  },
+  {
+   "name": "Bottes de Maîtrise",
+   "level": "Niveau 22",
+   "caracteristique": "Agilité : 16 à 25\nIntelligence : 16 à 25\nForce : -6 à -15\nChance : -6 à -15",
+   "recette": "1x Ecaille de Crocodaille\n4x Cuir de Sanglier\n4x Ailes de Scarafeuille bleu\n4x Cuir de Bouftou",
+   "image": "https://barbok.eratz.fr/bottes_de_maitrise.png",
+   "condition": "",
+   "description": "Description : Les bottes de Maîtrise augmentent l'agilité et l'intelligence de leur lanceur au détriment de la force et de la chance. Contrairement à ce que l'on pourrait croire, elle ne vous permettent pas de maitriser votre adversaire."
+  },
+  {
+   "name": "Bottes d'Anticipation",
+   "level": "Niveau 22",
+   "caracteristique": "Force : 16 à 25\nAgilité : 16 à 25\nIntelligence : -6 à -15\nChance : -6 à -15",
+   "recette": "4x Ailes de Scarafeuille rouge\n4x Cuir de Bouftou\n1x Ecaille de Crocodaille\n4x Cuir de Sanglier",
+   "image": "https://barbok.eratz.fr/bottes_danticipation.png",
+   "condition": "",
+   "description": "Description : Les bottes d'Anticipation augmentent la force et l'agilité de leur lanceur au détriment de l'intelligence et de la chance. Contrairement à ce que l'on pourrait croire, elles ne vous permettent pas d'anticiper les actions de vos adversaires."
+  },
+  {
+   "name": "Bottes de Puissance",
+   "level": "Niveau 22",
+   "caracteristique": "Force : 16 à 25\nChance : 16 à 25\nAgilité : -6 à -15\nIntelligence : -6 à -15",
+   "recette": "4x Ailes de Scarafeuille blanc\n1x Ecaille de Crocodaille\n4x Cuir de Sanglier\n4x Cuir de Bouftou",
+   "image": "https://barbok.eratz.fr/bottes_de_puissance.png",
+   "condition": "",
+   "description": "Description : Les bottes de puissance augmentent la force et la chance de leur lanceur au détriment de l'intelligence et de l'agilité. Contrairement à ce que l'on pourrait croire, elle ne confèrent pas à leur porteur, une puissance démente."
+  },
+  {
+   "name": "Pieds du Sanglier",
+   "level": "Niveau 22",
+   "caracteristique": "Agilité : 6 à 15\nSoins : 1",
+   "recette": "3x Poils du Sanglier\n2x Groin du Sanglier\n2x Cuir de Sanglier",
+   "image": "https://barbok.eratz.fr/pieds_du_sanglier.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont parfaites pour marcher dans la boue et rayer les parquets. Elles sont généralement interdites sur toutes les pistes de danse."
+  },
+  {
+   "name": "Petites Bottes de Concentration",
+   "level": "Niveau 22",
+   "caracteristique": "Coup critiques : +2\nIntelligence : 5",
+   "recette": "7x Cuir de Boufton Blanc\n7x Cuir de Boufton Noir\n7x Laine de Boufton Blanc\n8x Cuir de Sanglier",
+   "image": "https://barbok.eratz.fr/petites_bottes_de_concentration.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont si confortables qu'elles permettent au héros qui les chausse d'accroître sa concentration."
+  },
+  {
+   "name": "Pantoufles du Tofu",
+   "level": "Niveau 23",
+   "caracteristique": "Vitalité : 6 à 15\nIntelligence : 6 à 15\nAgilité : 6 à 15",
+   "recette": "1x Plume du Batofu\n12x Plumes de Tofu\n22x Bec du Tofu\n9x Oeuf de Tofu",
+   "image": "https://barbok.eratz.fr/pantoufles_du_tofu.png",
+   "condition": "",
+   "description": "Description : A la fois souples et légères, ces pantoufles restent chaudes l'hiver et fraîches l'été. Malheureusement, elles ne supportent pas les lavages en machine."
+  },
+  {
+   "name": "Bottes de Concentration",
+   "level": "Niveau 24",
+   "caracteristique": "Coup critiques : +2\nIntelligence : 10",
+   "recette": "8x Cuir de Sanglier\n9x Cuir de Boufton Blanc\n9x Cuir de Boufton Noir\n8x Laine de Boufton Blanc",
+   "image": "https://barbok.eratz.fr/bottes_de_concentration.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont si confortables qu'elles permettent au héros qui les chausse d'accroître sa concentration."
+  },
+  {
+   "name": "Bottes de Faillete",
+   "level": "Niveau 24",
+   "caracteristique": "Coup critiques : +3 à 6",
+   "recette": "10x Bronze\n10x Cuivre\n3x Cuir de Sanglier\n10x Cuir de Bouftou",
+   "image": "https://barbok.eratz.fr/bottes_de_faillete.png",
+   "condition": "",
+   "description": "Description : La meilleure défense c'est l'attaque, ces bottes anti-agression vous permettront d'exterminer un groupe d'agresseurs sans aucune difficulté."
+  },
+  {
+   "name": "Grandes Bottes de Concentration",
+   "level": "Niveau 26",
+   "caracteristique": "Coup critiques : +2\nIntelligence : 15",
+   "recette": "11x Cuir de Boufton Blanc\n11x Cuir de Boufton Noir\n9x Laine de Boufton Blanc\n8x Cuir de Sanglier",
+   "image": "https://barbok.eratz.fr/grandes_bottes_de_concentration.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont si confortables qu'elles permettent au héros qui les chausse d'accroître sa concentration."
+  },
+  {
+   "name": "L'Ecrabouilleur de Iop",
+   "level": "Niveau 27",
+   "caracteristique": "Force : 25\nAgilité : 25\nIntelligence : -10",
+   "recette": "2x Cuir de Bouftou\n14x Cuir de Sanglier\n4x Argent\n6x Etain",
+   "image": "https://barbok.eratz.fr/lecrabouilleur_de_iop.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont idéales lorsqu'il s'agit d'asséner un coup de grâce."
+  },
+  {
+   "name": "Puissantes Bottes de Concentration",
+   "level": "Niveau 27",
+   "caracteristique": "Coup critiques : +2\nIntelligence : 20",
+   "recette": "13x Cuir de Boufton Blanc\n13x Cuir de Boufton Noir\n10x Laine de Boufton Blanc\n8x Cuir de Sanglier",
+   "image": "https://barbok.eratz.fr/puissantes_bottes_de_concentration.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont si confortables qu'elles permettent au héros qui les chausse d'accroître sa concentration."
+  },
+  {
+   "name": "Souliers Vernis de Porkass",
+   "level": "Niveau 30",
+   "caracteristique": "Force : 6 à 10\nVitalité : 16 à 25\nIntelligence : 6 à 10\nAgilité : 6 à 10\nChance : 6 à 10",
+   "recette": "1x Soulier de Porkass\n2x Oreille de Porkass\n3x Queue de Kolérat\n2x Oreille de Kolérat\n4x Moustache de Kolérat",
+   "image": "https://barbok.eratz.fr/souliers_vernis_de_porkass.png",
+   "condition": "",
+   "description": "Description : Ces petits souliers ont été renforcés, remis en état, mais surtout désodorisés. Ils sont surtout utilisés pour attirer les Champ-Champ, tant le substrat laissé par le Porkass leur semble appétissant."
+  },
+  {
+   "name": "Sandales Macien",
+   "level": "Niveau 30",
+   "caracteristique": "Vitalité : 16 à 25\nAgilité : 16 à 25\nCoup critiques : +1 à 2",
+   "recette": "1x Peau de Cooleuvre\n1x Peau de Kitsou Nakwa\n5x Cuir de Porkass\n1x Peau de serpentin\n2x Bois de Bambou",
+   "image": "https://barbok.eratz.fr/sandales_macien.png",
+   "condition": "",
+   "description": "Description : Ces sandales appartenaient aux Maciens, une tribu d'Ouginaks, disparue aujourd'hui. Ces derniers étaient très complices avec les Pandawas, ce qui avait fini au fil des générations, par changer la couleur de leur pelage, qui était devenu blanc, tâcheté de noir. Ils furent tous transformés en manteau par une cruelle tailleuse."
+  },
+  {
+   "name": "Bottes du bois de l'est",
+   "level": "Niveau 30",
+   "caracteristique": "Force : 6 à 10\nVitalité : 16 à 25\nIntelligence : 6 à 10\nAgilité : 6 à 10\nChance : 6 à 10",
+   "image": "https://barbok.eratz.fr/bottes_du_bois_de_lest.png",
+   "condition": "",
+   "description": "Description : Les éperons accrochés à ces bottes, permettent de lacérer le cuir de votre Dragodinde, pour pouvoir la dépecer plus rapidement lorsque vous aurez décidé de la manger."
+  },
+  {
+   "name": "Petites Bottes de Poursuite",
+   "level": "Niveau 31",
+   "caracteristique": "PM : 1\nChance : 6 à 10\nPA perdu à la cible : 1",
+   "recette": "2x Cuir du Chef de Guerre Bouftou\n1x Langue Fourchue\n1x Etoffe de Dok Alako\n1x Peau de serpentin\n2x Cuir du Cochon de Lait",
+   "image": "https://barbok.eratz.fr/petites_bottes_de_poursuite.png",
+   "condition": "",
+   "description": "Description : Ces bottes permettaient à Hogmeiser de poursuivre les seuls êtres vivants qu'il ne supportait pas, les enfants. Heureusement pour eux, la lourdeur de ces bottes l'empêchait de leur botter le derrière."
+  },
+  {
+   "name": "Larvabottes",
+   "level": "Niveau 33",
+   "caracteristique": "Intelligence : 6 à 20\nSoins : 2 à 3",
+   "recette": "15x Peau de Larve Bleue\n1x Oeuf de Larve Dorée\n14x Peau de Larve Verte\n14x Peau de Larve Orange\n30x Poudre de Perlinpainpain",
+   "image": "https://barbok.eratz.fr/larvabottes.png",
+   "condition": "",
+   "description": "Description : Qui n'a jamais rêvé d'enfoncer son pied directement dans les entrailles d'une larve ? En tout cas sûrement pas vous, alors profitez-en et lâchez-vous."
+  },
+  {
+   "name": "Pantoufrelons",
+   "level": "Niveau 34",
+   "caracteristique": "Vitalité : 11 à 15\nSagesse : 11 à 15\nCoup critiques : +1 à 2",
+   "image": "https://barbok.eratz.fr/pantoufrelons.png",
+   "condition": "",
+   "description": "Description : Les petites ailes accrochées à ces pantoufles permettent d'aérer les pieds malodorants. Attention, il est déconseillé d'utiliser ces pantoufles pour jouer au Boufball, le Bouftou pourrait ne pas apprécier de se faire piquer les fesses."
+  },
+  {
+   "name": "Fourbabottes",
+   "level": "Niveau 34",
+   "caracteristique": "Vitalité : 11 à 15\nSagesse : 11 à 15\nCoup critiques : +1 à 2",
+   "recette": "8x Ecorce de Fourbasse\n2x Feuille de Kokoko\n1x Racine de Fourbasse\n8x Peau de Trukikol\n5x Kole",
+   "image": "https://barbok.eratz.fr/fourbabottes.png",
+   "condition": "",
+   "description": "Description : Une fois que vous aurez essayé ces bottes, vous ne serez plus capable de vous en défaire. Non pas parce qu'elles sont exceptionnelles, mais car elles sont incroyablement collantes. Une caractéristique trop souvent partagée avec les femelles Fourbasses."
+  },
+  {
+   "name": "Bottes de Poursuite",
+   "level": "Niveau 34",
+   "caracteristique": "PM : 1\nChance : 16 à 20\nPA perdu à la cible : 1",
+   "recette": "1x Langue Fourchue\n1x Peau de serpentin\n1x Etoffe de Dok Alako\n4x Cuir du Chef de Guerre Bouftou\n4x Cuir du Cochon de Lait",
+   "image": "https://barbok.eratz.fr/bottes_de_poursuite.png",
+   "condition": "",
+   "description": "Description : Ces bottes permettaient à Hogmeiser de poursuivre les seuls êtres vivants qu'il ne supportait pas, les enfants. Heureusement pour eux, la lourdeur de ces bottes l'empêchait de leur botter le derrière."
+  },
+  {
+   "name": "Geta Akwadala",
+   "level": "Niveau 35",
+   "caracteristique": "Agilité : 11 à 30\nChance : 11 à 30\nAugmente les dommages de 6 à 20%",
+   "recette": "50x Artefact Pandawushu Eau\n5x Bois de Bambou\n5x Peau de Cooleuvre\n5x Racine de Bulbiflore\n3x Racine de Bulbuisson",
+   "image": "https://barbok.eratz.fr/geta_akwadala.png",
+   "condition": "",
+   "description": "Description : Ces Getas en bois ont été confectionnées par les meilleurs cordonniers du village d'Akwadala. Très aérées, elles permettront à vos verrues de prendre l'air et de profiter du paysage."
+  },
+  {
+   "name": "Grandes Bottes de Poursuite",
+   "level": "Niveau 37",
+   "caracteristique": "PM : 1\nChance : 26 à 30\nPA perdu à la cible : 1",
+   "recette": "1x Langue Fourchue\n6x Cuir du Chef de Guerre Bouftou\n6x Cuir du Cochon de Lait\n1x Peau de serpentin\n1x Etoffe de Dok Alako",
+   "image": "https://barbok.eratz.fr/grandes_bottes_de_poursuite.png",
+   "condition": "",
+   "description": "Description : Ces bottes permettaient à Hogmeiser de poursuivre les seuls êtres vivants qu'il ne supportait pas, les enfants. Heureusement pour eux, la lourdeur de ces bottes l'empêchait de leur botter le derrière."
+  },
+  {
+   "name": "Bottes Tarsy",
+   "level": "Niveau 38",
+   "caracteristique": "Chance : 16 à 35\nPortée : -1\nSagesse : 11 à 15\nVitalité : 16 à 20\nIntelligence : -11 à -15\nRésistance : 3 à 5% (eau)\nAgilité : -11 à -15",
+   "recette": "5x Poils de Barbe du Bwork Mage\n10x Cuir de Porkass\n2x Teinture Magique Sombre\n20x Bronze\n20x Kobalte",
+   "image": "https://barbok.eratz.fr/bottes_tarsy.png",
+   "condition": "",
+   "description": "Description : Tarsy était un ermite qui n'appréciait pas trop les visites. Pour preuve, il recevait ses invités en leur montrant de très près la pointure de ses Bottes."
+  },
+  {
+   "name": "Bottes du Boufcoul",
+   "level": "Niveau 38",
+   "caracteristique": "Augmente les dommages de 6 à 20%\nVitalité : 26 à 40\nRésistance : 4 à 5 (neutre)",
+   "recette": "1x Boufbottes\n2x Laine du Boufcoul\n20x Laine de Bouftou\n20x Cuir de Bouftou\n1x Cuir du Boufcoul",
+   "image": "https://barbok.eratz.fr/bottes_du_boufcoul.png",
+   "condition": "",
+   "description": "Description : Rembourrées avec de la laine de Boufcoul, ces bottes ont tout pour plaire. Légères, chaudes pendant les saisons froides, et aérées pendant les saisons chaudes, elles sauront satisfaire le plus blasé des aventuriers."
+  },
+  {
+   "name": "Puissantes Bottes de Poursuite",
+   "level": "Niveau 39",
+   "caracteristique": "PM : 1\nChance : 26 à 35\nPA perdu à la cible : 1",
+   "recette": "1x Langue Fourchue\n1x Peau de serpentin\n1x Etoffe de Dok Alako\n8x Cuir du Chef de Guerre Bouftou\n8x Cuir du Cochon de Lait",
+   "image": "https://barbok.eratz.fr/puissantes_bottes_de_poursuite.png",
+   "condition": "",
+   "description": "Description : Ces bottes permettaient à Hogmeiser de poursuivre les seuls êtres vivants qu'il ne supportait pas, les enfants. Heureusement pour eux, la lourdeur de ces bottes l'empêchait de leur botter le derrière."
+  },
+  {
+   "name": "Bottes de Lymphe a Tik",
+   "level": "Niveau 39",
+   "caracteristique": "Résistance : 3 à 5% (eau)\nFaiblesse : 3 à 5% (feu)\nChance : 26 à 40\nIntelligence : -26 à -40\nCréature invocables : +1\nInitiative : 31 à 50",
+   "recette": "5x Feuille de Fourbasse\n2x Teinture Magique Verdâtre\n5x Fleur de Blop Indigo\n10x Edelweiss\n10x Cuir du Chef de Guerre Bouftou",
+   "image": "https://barbok.eratz.fr/bottes_de_lymphe_a_tik.png",
+   "condition": "Chance > 50",
+   "description": "Description : Ces bottes donnent l'impression de marcher constamment dans l'herbe fraîche. Elles sont donc idéales pour ceux dont l'odeur des pieds se rapproche plus du Clakoss, que de la Gelée Menthe."
+  },
+  {
+   "name": "Kwakobottes de Flammes",
+   "level": "Niveau 40",
+   "caracteristique": "Vitalité : 11 à 15\n+1 de dommages\nRésistance : 3 à 5% (feu)",
+   "recette": "20x Plume du Kwak de Flamme\n5x Cuir de Porkass\n4x Cuir de Boufton Blanc\n4x Cuir de Boufton Noir\n8x Poils du Sanglier",
+   "image": "https://barbok.eratz.fr/kwakobottes_de_flammes.png",
+   "condition": "",
+   "description": "Description : Muni de ces ergots de Kwak de Feu, il ne vous reste plus qu'à marcher sur des oeufs pour ne pas vous les faire voler par un Sram mal intentionné."
+  },
+  {
+   "name": "Chaussures du Tétounik",
+   "level": "Niveau 40",
+   "caracteristique": "Soins : 2 à 3\nAugmente les dommages de 11 à 15%\nCréature invocables : +1",
+   "image": "https://barbok.eratz.fr/chaussures_du_tetounik.png",
+   "condition": "",
+   "description": "Description : Si vous êtes bien musclé, et que vous voulez danser comme un robot, ces chaussures sont faîtes pour vous. Attention, les lacets sont en option."
+  },
+  {
+   "name": "Kwakobottes du Vent",
+   "level": "Niveau 40",
+   "caracteristique": "Vitalité : 11 à 15\n+1 de dommages\nRésistance : 3 à 5% (air)",
+   "recette": "20x Plume du Kwak de Vent\n5x Cuir de Porkass\n4x Cuir de Boufton Blanc\n4x Cuir de Boufton Noir\n8x Poils du Sanglier",
+   "image": "https://barbok.eratz.fr/kwakobottes_du_vent.png",
+   "condition": "",
+   "description": "Description : Rudimentaires mais efficaces, ces bottes d'une légéreté surprenante sont parfois utilisées après avoir été retravaillées, comme manche à air pour indiquer la direction et la force du vent. Il est alors conseillé de se placer du bon côté de la manche à air, pour ne pas mourir asphyxié."
+  },
+  {
+   "name": "Souliers laqués du Parrain",
+   "level": "Niveau 40",
+   "caracteristique": "Vitalité : 26 à 40\nAgilité : 16 à 25\nChance : 16 à 25\nCréature invocables : +1 à 2",
+   "image": "https://barbok.eratz.fr/souliers_laques_du_parrain.png",
+   "condition": "",
+   "description": "Description : Ces souliers brillent de mille feux, même lorsqu'ils sont complètement usés. Très efficace pour éblouir vos adversaires lorsqu'ils les recevront en pleine tête."
+  },
+  {
+   "name": "Kwakobottes de Terre",
+   "level": "Niveau 40",
+   "caracteristique": "Vitalité : 11 à 15\n+1 de dommages\nRésistance : 3 à 5% (terre)",
+   "recette": "20x Plume du Kwak de Terre\n5x Cuir de Porkass\n4x Cuir de Boufton Blanc\n4x Cuir de Boufton Noir\n8x Poils du Sanglier",
+   "image": "https://barbok.eratz.fr/kwakobottes_de_terre.png",
+   "condition": "",
+   "description": "Description : \"Rien de mieux que les Kwakobottes de Terre pour marcher dans la terre\", telles étaient les paroles de Rola Ingalsse la célèbre laboureuse, juste avant de devenir aveugle, en recevant une motte de terre géante dans les yeux."
+  },
+  {
+   "name": "Kwakobottes de Glace",
+   "level": "Niveau 40",
+   "caracteristique": "Vitalité : 11 à 15\n+1 de dommages\nRésistance : 3 à 5% (eau)",
+   "recette": "20x Plume du Kwak de Glace\n5x Cuir de Porkass\n4x Cuir de Boufton Blanc\n4x Cuir de Boufton Noir\n8x Poils du Sanglier",
+   "image": "https://barbok.eratz.fr/kwakobottes_de_glace.png",
+   "condition": "",
+   "description": "Description : Idéales comme patins à glace sur les lacs gelés, ces bottes sont également très utiles pour garder les pieds au frais, ou pour y stocker votre goûter durant les journées de forte chaleur. Il est cependant déconseillé de les faire sécher au coin du feu, sous peine de ne plus jamais les revoir."
+  },
+  {
+   "name": "Bottes Volatiles",
+   "level": "Niveau 41",
+   "caracteristique": "Résistance : 3 à 5% (air)\nAgilité : 31 à 40\nPortée : -1 à -3\nForce : 31 à 40",
+   "recette": "1x Coeur de Brandon\n50x Patte de Corbac\n5x Oeil de Corbac\n1x Corbac Mort\n50x Plume de Corbac",
+   "image": "https://barbok.eratz.fr/bottes_volatiles.png",
+   "condition": "",
+   "description": "Description : Ces bottes, confectionnées avec de nombreuses parties de cadavre de Corbac, donnent à leur porteur une étrange sensation de légèreté, comparable à celle apportée par la consommation de Bolets grillés."
+  },
+  {
+   "name": "Surpuissantes Bottes de Klime",
+   "level": "Niveau 41",
+   "caracteristique": "Vitalité : 21 à 25\nAgilité : 21 à 25\nForce : 21 à 30",
+   "recette": "1x Cuir de Bouftou Royal\n1x Cuir du Chef de Guerre Bouftou\n1x Slip en cuir du Chafer Lancier\n15x Laine de Bouftou\n15x Cuir de Sanglier",
+   "image": "https://barbok.eratz.fr/surpuissantes_bottes_de_klime.png",
+   "condition": "",
+   "description": "Description : La légende raconte que ces bottes ont été échangées contre d'autres bottes, défectueuses mais surpuissantes, qui avaient été fabriquées par un cordonnier maladroit manquant de sommeil."
+  },
+  {
+   "name": "Esprit de Crocoburio",
+   "level": "Niveau 42",
+   "caracteristique": "Intelligence : 26 à 40\nRésistance : 3 à 5% (feu)",
+   "image": "https://barbok.eratz.fr/esprit_de_crocoburio.png",
+   "condition": "Intelligence > 49",
+   "description": "Description : Cette paire de bottes appartiendrait à Crocoburio. Le peu de personnes aptes à les chausser se sentent soudain envahis de pensées machiavéliques et ingénieuses. Ce maléfice étant, selon la légende, dû aux milliers de crânes qu'elles ont écrasés."
+  },
+  {
+   "name": "Bottes Siks Won Naïne",
+   "level": "Niveau 42",
+   "caracteristique": "Sagesse : 11 à 15\nSoins : 1\nAugmente les dommages de 11 à 15%\nCréature invocables : +1",
+   "image": "https://barbok.eratz.fr/bottes_siks_won_naine.png",
+   "condition": "",
+   "description": "Description : Il vous faudra environ 12 heures pour nouer les lacets de ces bottes et 16 heures pour les dénouer. Si vous décidez de les enlever une fois par jour, vous prendrez donc du retard tous les jours, à moins de prendre de l'avance dès aujourd'hui pour les jours suivants."
+  },
+  {
+   "name": "Les Chaplures",
+   "level": "Niveau 43",
+   "caracteristique": "Sagesse : 11 à 15\nChance : 16 à 25\nPortée : +1",
+   "image": "https://barbok.eratz.fr/les_chaplures.png",
+   "condition": "",
+   "description": "Description : Ces magnifiques chaussures sont recouvertes d'un vernis à base de... Personne ne sait réellement, mais tant qu'elles brillent tout le monde s'en moque."
+  },
+  {
+   "name": "Bottes Paupayahn",
+   "level": "Niveau 43",
+   "caracteristique": "Vitalité : 1 à 20\nCoup critiques : +1 à 4\nAugmente les dommages de 1 à 10%\nInitiative : 1 à 100\nRésistance : 1 à 5% (air)",
+   "image": "https://barbok.eratz.fr/bottes_paupayahn.png",
+   "condition": "",
+   "description": "Description : Voilà ce qui arrive lorsque l'on essaye de casser des tasses à coups de bottes."
+  },
+  {
+   "name": "Bottes Vioutifoule",
+   "level": "Niveau 43",
+   "caracteristique": "Intelligence : 1 à 20\nCoup critiques : +1 à 4\nAugmente les dommages de 1 à 10%\nInitiative : 1 à 100\nRésistance : 1 à 5% (feu)",
+   "image": "https://barbok.eratz.fr/bottes_vioutifoule.png",
+   "condition": "",
+   "description": "Description : Ces bottes permettaient au célèbre Jojo d'augmenter la puissance de son célèbre coup de pied rotatif, également connu sous le nom de \"coup rouge et chaud\". On se demande toujours pourquoi il était appelé ainsi, puisque ses bottes étaient blanches."
+  },
+  {
+   "name": "Les Sleumpettes",
+   "level": "Niveau 43",
+   "caracteristique": "Vitalité : 31 à 50\nCoup critiques : +2 à 3\n+1 à 2 de dommages\nCréature invocables : +1",
+   "image": "https://barbok.eratz.fr/les_sleumpettes.png",
+   "condition": "",
+   "description": "Description : Les roulettes présentes sur ces bottes permettent de descendre les escaliers sans efforts tout en augmentant considérablement vos chances de vous casser quelques os. A vous de choisir."
+  },
+  {
+   "name": "Bottes de Slait",
+   "level": "Niveau 43",
+   "caracteristique": "Intelligence : 11 à 20\nAgilité : 11 à 20\nSoins : 3 à 4",
+   "image": "https://barbok.eratz.fr/bottes_de_slait.png",
+   "condition": "",
+   "description": "Description : Ces bottes permettaient à l'illustre Slait de courir sans rayer les parquets avec ses griffes."
+  },
+  {
+   "name": "Mégabottes",
+   "level": "Niveau 43",
+   "caracteristique": "Chance : 1 à 20\nCoup critiques : +1 à 4\nAugmente les dommages de 1 à 10%\nInitiative : 1 à 100\nRésistance : 1 à 5% (eau)",
+   "image": "https://barbok.eratz.fr/megabottes.png",
+   "condition": "",
+   "description": "Description : Roll, la gentille sœur du propriétaire de ces bottes, était spécialisée en taxidermie astrale. Jadis, personne n'était capable de comprendre la différence entre la taxidermie, et la taxidermie astrale. Mais on peut sans peine, imaginer de nos jours, que la taxidermie astrale permet de confectionner des créatures empaillées astrales. Si ça vous paraît évident maintenant, c'est peut-être parce que vos ancêtres étaient stupides."
+  },
+  {
+   "name": "Corbottes",
+   "level": "Niveau 45",
+   "caracteristique": "Agilité : 1 à 30\nCoup critiques : +1 à 5\nAugmente les dommages de 11 à 15%",
+   "recette": "1x Bottes Volatiles\n10x Plume de Corbac\n1x Oeil de Corbac\n1x Teinture Magique Sombre\n12x Patte de Corbac",
+   "image": "https://barbok.eratz.fr/corbottes.png",
+   "condition": "",
+   "description": "Description : Ces bottes donnent à leur porteur une impression d'incroyable légèreté, mais aussi un air stupide."
+  },
+  {
+   "name": "L'Eni Kère",
+   "level": "Niveau 45",
+   "caracteristique": "Agilité : 16 à 30\nForce : -16 à -30\nChance : -16 à -30\nProspection : 2 à 6",
+   "recette": "4x Cuir Violet de Bwork\n1x Teinture Magique Bleutée\n2x Cuir de Sanglier des Plaines\n2x Cuir du Chef de Guerre Bouftou\n4x Cuir de Porkass",
+   "image": "https://barbok.eratz.fr/leni_kere.png",
+   "condition": "",
+   "description": "Description : Kère fut le seul Eniripsa à remporter devant les Ecaflips, le grand Marathon d'Amakna. C'est grâce à ses bottes artisanales qu'il traversa la Mèr d'Asse et distança tous les écaflips médusés de voir un Eni courir sur l'eau. La classe."
+  },
+  {
+   "name": "Abrabottes",
+   "level": "Niveau 45",
+   "caracteristique": "Force : 1 à 50",
+   "recette": "20x Bourgeon d'Abraknyde\n25x Feuille de Tronknyde\n10x Ecorce d'Abraknyde\n1x Bois de Tronknyde\n20x Racine d'Abraknyde",
+   "image": "https://barbok.eratz.fr/abrabottes.png",
+   "condition": "",
+   "description": "Description : Les effets de cette paire de Bottes peuvent aussi parfaitement être retrouvés en se rendant dans une taverne. Il faut ensuite consommer un peu, voire beaucoup pour un effet optimum. Le lendemain vous aurez des jambes aussi lourdes que ces bottes."
+  },
+  {
+   "name": "Bottines du Black Wab",
+   "level": "Niveau 47",
+   "caracteristique": "Sagesse : 11 à 15\nCoup critiques : +1 à 2\nAugmente les dommages de 11 à 15%\nPortée : +1",
+   "image": "https://barbok.eratz.fr/bottines_du_black_wab.png",
+   "condition": "",
+   "description": "Description : Ces bottines en peau de fesse de Black Wabbit, vous permettront de prendre une bonne revanche sur ces terribles créatures, en ayant l'impression de leur botter le derrière à chaque fois que vous taperez dans quelque chose. La vie est parfois faîte de plaisirs simples."
+  },
+  {
+   "name": "Bottes du Craqueleur",
+   "level": "Niveau 47",
+   "caracteristique": "Vitalité : 1 à 30\nAugmente les dommages de 1 à 10%\nRésistance : 1 à 8 (terre)\nRésistance : 1 à 8 (neutre)\nRésistance : 1 à 5% (terre)",
+   "recette": "11x Dent en Or du Craqueleur\n1x Pierre de Granit\n3x Charbon\n1x Pierre de Rubis\n5x Silex",
+   "image": "https://barbok.eratz.fr/bottes_du_craqueleur.png",
+   "condition": "",
+   "description": "Description : Incroyablement lourdes, mais néanmoins assez efficaces, ces bottes en pierre vous permettront enfin d'avoir une excuse, lorsque vous traînez des pieds pour défendre votre percepteur dans un combat perdu d'avance."
+  },
+  {
+   "name": "Bottes de Ragalde",
+   "level": "Niveau 49",
+   "caracteristique": "Force : 11 à 20\nAgilité : 11 à 20\nIntelligence : 11 à 20\nChance : 11 à 30\nProspection : 2 à 5\nVitalité : 21 à 30",
+   "recette": "1x Cuir de Bouftou Royal\n1x Cuir du Chef de Guerre Bouftou\n1x Saphir\n10x Cuir de Sanglier\n5x Or",
+   "image": "https://barbok.eratz.fr/bottes_de_ragalde.png",
+   "condition": "",
+   "description": "Description : Ragalde était sûrement un des Guerriers Iop les plus téméraires, ces bottes magiques lui ont permis d'occire bon nombre d'indésirables."
+  },
+  {
+   "name": "Sandales Papayou",
+   "level": "Niveau 49",
+   "caracteristique": "Sagesse : 11 à 15\nChance : 16 à 25\n+3 à 4 de dommages",
+   "image": "https://barbok.eratz.fr/sandales_papayou.png",
+   "condition": "",
+   "description": "Description : La semelle de ces sandales est renforcée afin de supporter le poids des Papayous les plus lourds."
+  },
+  {
+   "name": "Bloptes Indigo",
+   "level": "Niveau 50",
+   "caracteristique": "Vitalité : 21 à 35\nChance : 11 à 15\nAugmente les dommages de 11 à 15%\nCréature invocables : +1\nInitiative : 101 à 150\nProspection : 1 à 5",
+   "recette": "1x Racine de Tronkoblop\n1x Pieds du Sanglier\n1x Feuille de Blop Royal\n50x Bout de Blop Indigo\n10x Fleur de Blop Indigo\n50x Pollen de Blop",
+   "image": "https://barbok.eratz.fr/bloptes_indigo.png",
+   "condition": "",
+   "description": "Description : Inutile de râler parce que le nom de ces bottes est imprononçable, cette particularité vous sauvera la vie, quand un brigand de grand chemin vous demandera : \"Donne-moi tes Blopetes, non tes Blotpes, non tes Plobtes, non...\". Vous aurez alors tout le temps nécessaire pour vous enfuir en courant."
+  },
+  {
+   "name": "Bloptes Coco",
+   "level": "Niveau 50",
+   "caracteristique": "Vitalité : 21 à 35\nAgilité : 11 à 15\nAugmente les dommages de 11 à 15%\nCréature invocables : +1\nInitiative : 101 à 150\nProspection : 1 à 5",
+   "recette": "1x Racine de Tronkoblop\n1x Pieds du Sanglier\n1x Feuille de Blop Royal\n50x Bout de Blop Coco\n50x Pollen de Blop\n10x Fleur de Blop Coco",
+   "image": "https://barbok.eratz.fr/bloptes_coco.png",
+   "condition": "",
+   "description": "Description : Inutile de râler parce que le nom de ces bottes est imprononçable, cette particularité vous sauvera la vie, quand un brigand de grand chemin vous demandera : \"Donne-moi tes Blopetes, non tes Blotpes, non tes Plobtes, non...\". Vous aurez alors tout le temps nécessaire pour vous enfuir en courant."
+  },
+  {
+   "name": "Bloptes Griottes",
+   "level": "Niveau 50",
+   "caracteristique": "Vitalité : 21 à 35\nIntelligence : 11 à 15\nAugmente les dommages de 11 à 15%\nCréature invocables : +1\nInitiative : 101 à 150\nProspection : 1 à 5",
+   "recette": "1x Racine de Tronkoblop\n1x Pieds du Sanglier\n1x Feuille de Blop Royal\n50x Bout de Blop Griotte\n50x Pollen de Blop\n10x Fleur de Blop Griotte",
+   "image": "https://barbok.eratz.fr/bloptes_griottes.png",
+   "condition": "",
+   "description": "Description : Inutile de râler parce que le nom de ces bottes est imprononçable, cette particularité vous sauvera la vie, quand un brigand de grand chemin vous demandera : \"Donne-moi tes Blopetes, non tes Blotpes, non tes Plobtes, non...\". Vous aurez alors tout le temps nécessaire pour vous enfuir en courant."
+  },
+  {
+   "name": "Bloptes Reinette",
+   "level": "Niveau 50",
+   "caracteristique": "Vitalité : 21 à 35\nForce : 11 à 15\nAugmente les dommages de 11 à 15%\nCréature invocables : +1\nInitiative : 101 à 150\nProspection : 1 à 5",
+   "recette": "10x Fleur de Blop Reinette\n1x Racine de Tronkoblop\n1x Pieds du Sanglier\n1x Feuille de Blop Royal\n50x Bout de Blop Reinette\n50x Pollen de Blop",
+   "image": "https://barbok.eratz.fr/bloptes_reinette.png",
+   "condition": "",
+   "description": "Description : Inutile de râler parce que le nom de ces bottes est imprononçable, cette particularité vous sauvera la vie, quand un brigand de grand chemin vous demandera : \"Donne-moi tes Blopetes, non tes Blotpes, non tes Plobtes, non...\". Vous aurez alors tout le temps nécessaire pour vous enfuir en courant."
+  },
+  {
+   "name": "Bottes d'Apprentissage",
+   "level": "Niveau 50",
+   "caracteristique": "Sagesse : 16 à 25\nIntelligence : 16 à 25\nVitalité : 16 à 25\nAugmente les dommages de 11 à 20%",
+   "recette": "3x Ecaille de Chef Crocodaille\n3x Laine de Bouftou Royal\n1x Cuir de Sanglier\n1x Cuir du Chef de Guerre Bouftou\n1x Cuir de Boufton Blanc\n1x Cuir de Boufton Noir",
+   "image": "https://barbok.eratz.fr/bottes_dapprentissage.png",
+   "condition": "",
+   "description": "Description : Ces bottes bien étranges étaient utilisées sur les jeunes disciples un peu limités intellectuellement, pour leur permettre de rattraper leur retard. Elles conviendront particulièrement aux Iops."
+  },
+  {
+   "name": "Boufbottes Royales",
+   "level": "Niveau 50",
+   "caracteristique": "Vitalité : 1 à 70\n+2 à 8 de dommages",
+   "recette": "1x Boufbottes\n1x Cuir de Bouftou Royal\n70x Cuir de Boufton Blanc\n70x Cuir de Boufton Noir\n150x Cuir de Bouftou\n50x Cuir du Chef de Guerre Bouftou",
+   "image": "https://barbok.eratz.fr/boufbottes_royales.png",
+   "condition": "",
+   "description": "Description : Elles brillent, elles respirent la puissance, ces bottes sont en tous points royales."
+  },
+  {
+   "name": "Botodindo",
+   "level": "Niveau 50",
+   "caracteristique": "Soins : 2 à 6\n+2 à 6 de dommages\nVitalité : 1 à 30\nCréature invocables : +1",
+   "recette": "50x Pic de Dragodinde\n10x Pic de Dragodinde Rousse Sauvage\n10x Aile de Dragodinde\n10x Aile de Dragodinde Rousse Sauvage\n10x Dent de Dragodinde\n3x Queue de Dragodinde Rousse Sauvage",
+   "image": "https://barbok.eratz.fr/botodindo.png",
+   "condition": "",
+   "description": "Description : Vos copines vont vous envier ces bottes, car nul doute qu'elles vous permettront d'aller croquer les chocolats de l'ambassadeur durant l'une des ses merveilleuses soirées."
+  },
+  {
+   "name": "Bottes de Bowisse",
+   "level": "Niveau 50",
+   "caracteristique": "PM : 1\nChance : 11 à 30\nVitalité : -54\nProspection : 2 à 5",
+   "recette": "1x Cuir de Bouftou Royal\n1x Cuir du Chef de Guerre Bouftou\n1x Laine de Bouftou Royal\n1x Cuir du Dragon Cochon\n20x Cuir de Sanglier",
+   "image": "https://barbok.eratz.fr/bottes_de_bowisse.png",
+   "condition": "",
+   "description": "Description : Ces bottes exceptionnelles vous permettront de gagner un point de mouvement durant les combats.\nAttention cependant aux odeurs qu'elles dégagent, car elles ont appartenu au tristement célèbre Bowisse."
+  },
+  {
+   "name": "Bottes de l'Apprenti Invocateur",
+   "level": "Niveau 51",
+   "caracteristique": "PM : 1\nCréature invocables : +1\nRésistance : 4 à 8 (eau)\nRésistance : 4 à 8 (air)\nRésistance : 4 à 8 (feu)\nAgilité : -11 à -20\nIntelligence : -11 à -20\nForce : -11 à -20\nChance : -11 à -20",
+   "recette": "2x Ecaille de Chef Crocodaille\n1x Cuir du Chef de Guerre Bouftou\n10x Peau de serpentin\n10x Peau de Trukikol\n2x Slip en cuir de Cochon de Lait\n10x Oreille de Cochon de Lait",
+   "image": "https://barbok.eratz.fr/bottes_de_lapprenti_invocateur.png",
+   "condition": "",
+   "description": "Description : Ces bottes ont été spécialement conçues pour ceux qui aiment laisser à leurs créatures le plaisir de faire tout le travail pendant les combats."
+  },
+  {
+   "name": "Bottes de Céleri-Thé",
+   "level": "Niveau 53",
+   "caracteristique": "PM : 1\nChance : 11 à 30\nForce : -20\nProspection : 2 à 5",
+   "recette": "1x Cuir du Chef de Guerre Bouftou\n3x Argent\n1x Slip en cuir du Chafer Lancier\n2x Cuir du Dragon Cochon\n24x Laine de Bouftou\n18x Cuir de Bouftou",
+   "image": "https://barbok.eratz.fr/bottes_de_celeri-the.png",
+   "condition": "",
+   "description": "Description : Ces bottes appartenaient à un cuisinier très pressé, qui allait chercher son céleri et son thé à toute vitesse à travers la campagne d'Amakna."
+  },
+  {
+   "name": "Scarabottes Dorées",
+   "level": "Niveau 54",
+   "caracteristique": "Sagesse : 1 à 10\nPM : 1\nRésistance : 1 à 3 (air)\nRésistance : 1 à 3 (feu)\nRésistance : 1 à 3 (terre)\nRésistance : 1 à 3 (eau)",
+   "recette": "1x Ailes du Scarabosse Doré\n10x Ailes de Scarafeuille blanc\n10x Ailes de Scarafeuille bleu\n10x Ailes de Scarafeuille rouge\n10x Ailes de Scarafeuille vert\n10x Ailes du Scarafeuille Noir",
+   "image": "https://barbok.eratz.fr/scarabottes_dorees.png",
+   "condition": "",
+   "description": "Description : Ces bottes crochues permettent d'escalader facilement les falaises les plus abruptes, ou de labourer les champs sans charrue."
+  },
+  {
+   "name": "Sandales Ailuya",
+   "level": "Niveau 56",
+   "caracteristique": "Force : 16 à 25\nVitalité : 16 à 25\nSagesse : 16 à 25\nIntelligence : 16 à 25\nAgilité : 16 à 25\nChance : 16 à 25",
+   "recette": "1x Ecorce magique de Bulbambou\n4x Bois de Bambou Sombre\n9x Peau de Kitsou Nere\n3x Peau de Kitsou Nufeu\n10x Peau de Kitsou Nakwa\n10x Peau de Cooleuvre",
+   "image": "https://barbok.eratz.fr/sandales_ailuya.png",
+   "condition": "",
+   "description": "Description : Ces sandales étaient confiées aux Pandits à la fin de rituels religieux. Elles sont de nos jours surtout utilisées dans les championnats de claquettes."
+  },
+  {
+   "name": "Geta Aerdala",
+   "level": "Niveau 57",
+   "caracteristique": "PM : 1\nVitalité : 21 à 35\nAgilité : 21 à 35\nCoup critiques : +3 à 4",
+   "recette": "50x Artefact Pandawushu Air\n2x Peau de Kitsou Nae\n3x Bois de Bambou Sombre\n5x Peau de Cooleuvre\n1x Diamant\n1x Peau de Kanigrou",
+   "image": "https://barbok.eratz.fr/geta_aerdala.png",
+   "condition": "",
+   "description": "Description : Ces Getas en bois ont été confectionnées par les meilleurs cordonniers du village d'Aerdala. Très aérées, elles permettront à vos verrues de prendre l'air et de profiter du paysage."
+  },
+  {
+   "name": "Sandales Koliques",
+   "level": "Niveau 58",
+   "caracteristique": "Sagesse : 16 à 25\nCoup critiques : +3 à 4\nPM : 1",
+   "recette": "1x Bois de Bambou Magique\n1x Ecorce magique de Bulbuisson\n5x Peau de Léopardo\n6x Peau de Kitsou Nufeu\n9x Peau de Kitsou Nere\n7x Peau de Cooleuvre",
+   "image": "https://barbok.eratz.fr/sandales_koliques.png",
+   "condition": "",
+   "description": "Description : Ces sandales étaient données aux Pandawas malades, qui avaient besoin de courir très vite lorsqu'ils avaient contracté le virus de la Pandrista, ou lorsqu'ils avaient passé une nuit trop arrosée à la taverne."
+  },
+  {
+   "name": "Bottes du Koalak",
+   "level": "Niveau 60",
+   "caracteristique": "Soins : 1 à 2\nPM : 1\nRésistance : 4 à 5% (neutre)",
+   "recette": "1x Peau de Drakoalak\n1x Poils de Koalak Forestier\n2x Peau de Koalak Immature\n5x Poils de Koalak Indigo\n5x Poils de Koalak Koko\n5x Poils de Koalak Reinette",
+   "image": "https://barbok.eratz.fr/bottes_du_koalak.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont en réalité des pieds de Koalaks, sauvagement arrachés à leur propriétaires, puis vidés de leur contenu avant d'être rembourrés avec des poils de Koalaks. A la fois terrifiantes et séduisantes, ces bottes feront de vous la terreur d'Astrub."
+  },
+  {
+   "name": "Carabottes",
+   "level": "Niveau 60",
+   "caracteristique": "Chance : 1 à 50\nVitalité : 1 à 50",
+   "recette": "60x Tronc de Kokoko\n20x Carapace Bleue Vide\n20x Carapace Jaune Vide\n100x Kokopaille\n20x Carapace Rouge Vide\n20x Carapace Verte Vide",
+   "image": "https://barbok.eratz.fr/carabottes.png",
+   "condition": "",
+   "description": "Description : Elles sont un peu lourdes, mais ces charmantes Carabottes feront de vous la reine de la nuit."
+  },
+  {
+   "name": "Gelobottes",
+   "level": "Niveau 60",
+   "caracteristique": "PM : 1\nProspection : 1 à 15",
+   "recette": "5x Gelée à la Fraise\n6x Blugely\n6x Vertgely\n6x Rougely\n10x Eau\n5x Gelée Bleutée",
+   "image": "https://barbok.eratz.fr/gelobottes.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont très confortables en été, car elles libèrent une odeur de fraise des bois, couvrant facilement l'odeur de transpiration qui pourrait se dégager des orteils d'un vieux Sadida aux pieds poilus."
+  },
+  {
+   "name": "Tongues Wabbits",
+   "level": "Niveau 60",
+   "caracteristique": "Intelligence : 21 à 35\n+3 à 5 de dommages\nInitiative : 51 à 100\nRésistance : 3 à 5% (terre)",
+   "recette": "70x Dent de Wabbit\n35x Bandeau du Black Tiwabbit\n5x Cawotte\n5x Oreilles du Tiwabbit\n25x Patte de Wabbit\n2x Oreille du Grand Pa Wabbit",
+   "image": "https://barbok.eratz.fr/tongues_wabbits.png",
+   "condition": "",
+   "description": "Description : Adoptez la \"Cawotte attitude\" avec ces tongues wabbits issues de la dernière collection. Elles sont recommandées par tous les experts en claquettes, en danses rituelles, et en Tango rapide du Captain Chafer."
+  },
+  {
+   "name": "Bottines du Mulou",
+   "level": "Niveau 61",
+   "caracteristique": "Vitalité : 1 à 30\nAgilité : 1 à 20\nPM : 1\nRésistance : 1 à 5 (terre)\nRésistance : 1 à 5 (neutre)\nRésistance : 1 à 5% (terre)",
+   "recette": "25x Griffe du Mulou\n1x Queue du Mulou\n1x Scalp de Milimulou\n20x Canine du Mulou\n25x Poils du Milimulou\n10x Oeil de Mulou",
+   "image": "https://barbok.eratz.fr/bottines_du_mulou.png",
+   "condition": "",
+   "description": "Description : Ces bottines recouvertes de poils de Mulou, sont très pratiques pour nettoyer les parquets poussiéreux, ou tout simplement pour nettoyer la tête de vos adversaires lorsqu'ils sont au sol en train d'agoniser."
+  },
+  {
+   "name": "Moon Boots",
+   "level": "Niveau 62",
+   "caracteristique": "Sagesse : 16 à 30\nIntelligence : -11 à -20\nVitalité : 21 à 50\nAgilité : 11 à 20\nRésistance : 3 à 5% (air)",
+   "recette": "1x Poils de Moon\n4x Cuir de Porkass\n4x Poils de Grand Pa Wabbit\n10x Bois d'Oliviolet\n3x Kole\n1x Teinture Magique Verdâtre",
+   "image": "https://barbok.eratz.fr/moon_boots.png",
+   "condition": "",
+   "description": "Description : Le poil de Moon, nécessaire pour cette paire de bottes, est sans aucun doute le poil le plus chaud pour les pieds, même si porter ses bottes en souvenir de Moon vous fera chaud au coeur."
+  },
+  {
+   "name": "Tongues Baques",
+   "level": "Niveau 67",
+   "caracteristique": "Sagesse : 16 à 25\nIntelligence : 16 à 25\nSoins : 3 à 5\nRésistance : 4 à 5% (terre)",
+   "recette": "1x Bois de Bambou Doré\n10x Bois de Bambou Sombre\n12x Bois de Bambou\n10x Peau de Cooleuvre\n10x Peau de Kitsou Nae\n12x Peau de Kitsou Nakwa",
+   "image": "https://barbok.eratz.fr/tongues_baques.png",
+   "condition": "",
+   "description": "Description : Ces tongues servaient à pratiquer différents arts martiaux. D'un aspect peu innovant et artistiquement ratées, elles sont très vite tombées dans l'oubli, un peu comme vous, mais moins vite tout de même."
+  },
+  {
+   "name": "Bottes de l'Eleveur de Bouftous",
+   "level": "Niveau 68",
+   "caracteristique": "Vitalité : 21 à 30\nSagesse : 6 à 10\nChance : 16 à 25\nPM : 1\nCréature invocables : +1 à 2",
+   "recette": "10x Peau de Gobelin\n1x Selle en Cuir\n30x Poils de Crocs Glands\n4x Slip de Bwork Archer\n10x Cuir Violet de Bwork\n10x Queue de Croc Gland",
+   "image": "https://barbok.eratz.fr/bottes_de_leleveur_de_bouftous.png",
+   "condition": "",
+   "description": "Description : Ces magnifiques bottes, sont parfaites pour botter le derrière des Bouftous lorsqu'il faut les forcer à changer de pâtures et à traverser le village. Elles fonctionnent également pour forcer les enfants Iops à faire leurs devoirs et à aller à l'école."
+  },
+  {
+   "name": "Geta Feudala",
+   "level": "Niveau 68",
+   "caracteristique": "Intelligence : 16 à 25\nAgilité : 21 à 40\nCoup critiques : +2 à 3\nPM : 1\nProspection : 6 à 10",
+   "recette": "50x Artefact Pandawushu Feu\n12x Bois de Bambou\n10x Peau de Kitsou Nufeu\n10x Peau de Cooleuvre\n1x Peau de Pandule\n10x Bois de Bambou Sombre",
+   "image": "https://barbok.eratz.fr/geta_feudala.png",
+   "condition": "",
+   "description": "Description : Ces Getas en bois ont été confectionnées par les meilleurs cordonniers du village de Feudala. Très aérées, elles permettront à vos verrues de prendre l'air et de profiter du paysage."
+  },
+  {
+   "name": "Pantoufles Crochues du Chef Crocodaille",
+   "level": "Niveau 70",
+   "caracteristique": "Agilité : 16 à 25\nPM : 1\nRésistance : 4 à 5% (air)\nRésistance : 4 à 5% (eau)",
+   "recette": "10x Ecaille de Chef Crocodaille\n20x Ecaille de Crocodaille\n1x Peau de Chef Crocodaille\n10x Dent de Crocodaille\n5x Peau de Crocodaille\n5x Dents de Chef Crocodaille",
+   "image": "https://barbok.eratz.fr/pantoufles_crochues_du_chef_crocodaille.png",
+   "condition": "",
+   "description": "Description : Ces magnifiques pantoufles en peau et en écailles de Chef Crocodaille sont munies de dents acérées à leurs extrémités. Méfiez-vous lorsque vous ferez du pied à votre dulcinée, vous pourriez lui déchirer ses petits bas en laine de Tabi."
+  },
+  {
+   "name": "Bottes du Koulosse",
+   "level": "Niveau 73",
+   "caracteristique": "Vitalité : 51 à 150\nForce : -1 à -100\nIntelligence : -1 à -100\nChance : -1 à -100\nSoins : 5 à 7\nAgilité : -1 à -100\nPM : 1\nRésistance : 1 à 10 (air)\nRésistance : 1 à 10 (terre)",
+   "image": "https://barbok.eratz.fr/bottes_du_koulosse.png",
+   "condition": "",
+   "description": "Description : Ces bottes ont appartenu au Koulosse, et à défaut de se voir, cela peut se sentir. Ces bottes sont si confortables, qu'elles vous feront presque oublier votre misérable vie."
+  },
+  {
+   "name": "Sandales Adin",
+   "level": "Niveau 76",
+   "caracteristique": "Vitalité : 101 à 150\nSagesse : 11 à 20\nCoup critiques : +4 à 5\n+4 à 5 de dommages",
+   "recette": "1x Bois de Bambou Doré\n1x Ecorce magique de Bulbiflore\n15x Peau de Pandikaze\n8x Peau de Kanigrou\n25x Cuir de Porkass\n15x Peau de Cooleuvre",
+   "image": "https://barbok.eratz.fr/sandales_adin.png",
+   "condition": "",
+   "description": "Description : Adin était un jeune Pandawa, grand collectionneur de lampes, mais très loin d'être un génie."
+  },
+  {
+   "name": "Geta Terrdala",
+   "level": "Niveau 76",
+   "caracteristique": "Force : 26 à 40\nVitalité : 26 à 40\nPM : 1\nRésistance : 4 à 5% (feu)\nRésistance : 4 à 5% (air)",
+   "recette": "50x Artefact Pandawushu Terre\n1x Bois de Bambou Doré\n10x Peau de Kitsou Nere\n15x Peau de Cooleuvre\n1x Peau de Pandule\n15x Bois de Bambou Sombre",
+   "image": "https://barbok.eratz.fr/geta_terrdala.png",
+   "condition": "",
+   "description": "Description : Ces Getas en bois ont été confectionnées par les meilleurs cordonniers du village de Terrdala. Très aérées, elles permettront à vos verrues de prendre l'air et de profiter du paysage."
+  },
+  {
+   "name": "Bottes d'Hogmeiser",
+   "level": "Niveau 76",
+   "caracteristique": "Sagesse : 31 à 40\nAgilité : 31 à 40\nCoup critiques : +5 à 6\n+3 à 4 de dommages\nCréature invocables : +1\nVitalité : 31 à 40",
+   "recette": "2x Cuir de Bouftou Royal\n2x Cuir du Cochon de Lait\n1x Bottes Usées d'Hogmeiser\n3x Laine de Bouftou Royal\n3x Laine du Chef de Guerre Bouftou\n3x Cuir du Chef de Guerre Bouftou\n3x Cuir du Dragon Cochon",
+   "image": "https://barbok.eratz.fr/bottes_dhogmeiser.png",
+   "condition": "",
+   "description": "Description : Ces bottes ont appartenu à Hogmeiser pendant des années, avant qu'il ne les perdent lors d'un pari stupide avec Grizmine. La morale de l'histoire, c'est qu'il ne faut jamais jouer avec un Ecaflip."
+  },
+  {
+   "name": "Bottes Orino",
+   "level": "Niveau 77",
+   "caracteristique": "Vitalité : 21 à 50\nSagesse : 6 à 10\n+2 à 3 de dommages\nPM : 1\nRésistance : 3 à 5% (terre)\nAugmente les dommages de 6 à 10%\nForce : 21 à 40",
+   "recette": "20x Cuir du Cochon de Lait\n20x Oreille du Grand Pa Wabbit\n10x Oreille de Kanigrou\n100x Bandelettes\n30x Oreille de Porkass\n1x Tissu Sombre",
+   "image": "https://barbok.eratz.fr/bottes_orino.png",
+   "condition": "",
+   "description": "Description : Grâce à ces bottes, vous serez à même d'entendre le vent dans les voiles d'un bateau situé en pleine Mer d'Asse, ou d'entendre les gémissements d'un Chafer Lancier, perdu dans les tréfonds du labyrinthe."
+  },
+  {
+   "name": "Bloptes Coco Royales",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 26 à 40\nAgilité : 16 à 30\nCoup critiques : +2 à 3\nPortée : +1\nPM : 1\nCréature invocables : +1\nRésistance : 5 à 8% (air)",
+   "recette": "1x Bloptes Coco\n10x Fleur de Blopignon\n100x Bout de Blop Coco\n100x Pollen de Blop\n5x Feuille de Blop Royal\n10x Racine de Tronkoblop\n1x Fleur de Blop Coco Royal",
+   "image": "https://barbok.eratz.fr/bloptes_coco_royales.png",
+   "condition": "",
+   "description": "Description : Prononcez dix-huit fois le mot \"Bloptes\" le plus rapidement possible. Voilà, vous avez l'air d'un Iop."
+  },
+  {
+   "name": "Bloptes Griotte Royales",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 26 à 40\nIntelligence : 16 à 30\nCoup critiques : +2 à 3\nPortée : +1\nPM : 1\nCréature invocables : +1\nRésistance : 5 à 8% (feu)",
+   "recette": "10x Fleur de Blopignon\n5x Feuille de Blop Royal\n100x Bout de Blop Griotte\n1x Bloptes Griottes\n100x Pollen de Blop\n10x Racine de Tronkoblop\n1x Fleur de Blop Griotte Royal",
+   "image": "https://barbok.eratz.fr/bloptes_griotte_royales.png",
+   "condition": "",
+   "description": "Description : Prononcez dix-huit fois le mot \"Bloptes\" le plus rapidement possible. Voilà, vous avez l'air d'un Iop."
+  },
+  {
+   "name": "Bloptes Reinette Royales",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 26 à 40\nForce : 16 à 30\nCoup critiques : +2 à 3\nPortée : +1\nPM : 1\nCréature invocables : +1\nRésistance : 5 à 8% (terre)",
+   "recette": "1x Bloptes Reinette\n5x Feuille de Blop Royal\n100x Pollen de Blop\n10x Fleur de Blopignon\n100x Bout de Blop Reinette\n10x Racine de Tronkoblop\n1x Fleur de Blop Reinette Royal",
+   "image": "https://barbok.eratz.fr/bloptes_reinette_royales.png",
+   "condition": "",
+   "description": "Description : Prononcez dix-huit fois le mot \"Bloptes\" le plus rapidement possible. Voilà, vous avez l'air d'un Iop."
+  },
+  {
+   "name": "Sabots de Shika",
+   "level": "Niveau 80",
+   "caracteristique": "Intelligence : 21 à 30\nVitalité : 36 à 50\nChance : 21 à 30\nCoup critiques : +1 à 2\n+1 à 2 de dommages\nPM : 1\nRésistance : 3 à 4 (air)\nRésistance : 3 à 4 (eau)\nRésistance : 3 à 4 (feu)\nRésistance : 4 à 5% (air)",
+   "recette": "10x Bois de Kaliptus\n30x Peau de Kraméléhon\n3x Peau de Koalak Immature\n3x Peau de Drakoalak\n2x Chanvre Euphorique\n100x Racine d'Abraknyde\n2x Avoine Magique",
+   "image": "https://barbok.eratz.fr/sabots_de_shika.png",
+   "condition": "",
+   "description": "Description : Ces sabots ont été conçus pour permettre à Shika de ne jamais écraser les semis, lorsqu'elle ensemençait les plaines de Snossios. Elle y fit rajouter des talons hauts, pour qu'elle puisse courir librement le matin dans les éteules, sans remplir ses sabots de rosée, ou sans abîmer ses chevilles fragiles."
+  },
+  {
+   "name": "Bloptes Indigo Royales",
+   "level": "Niveau 80",
+   "caracteristique": "Vitalité : 26 à 40\nChance : 16 à 30\nCoup critiques : +2 à 3\nPortée : +1\nPM : 1\nCréature invocables : +1\nRésistance : 5 à 8% (eau)",
+   "recette": "1x Bloptes Indigo\n10x Fleur de Blopignon\n5x Feuille de Blop Royal\n100x Bout de Blop Indigo\n100x Pollen de Blop\n10x Racine de Tronkoblop\n1x Fleur de Blop Indigo Royal",
+   "image": "https://barbok.eratz.fr/bloptes_indigo_royales.png",
+   "condition": "",
+   "description": "Description : Prononcez dix-huit fois le mot \"Bloptes\" le plus rapidement possible. Voilà, vous avez l'air d'un Iop."
+  },
+  {
+   "name": "Sabots de Farle",
+   "level": "Niveau 80",
+   "caracteristique": "Force : 21 à 30\nVitalité : 36 à 50\nAgilité : 21 à 30\nCoup critiques : +1 à 2\n+1 à 2 de dommages\nPM : 1\nRésistance : 3 à 4 (eau)\nRésistance : 3 à 4 (air)\nRésistance : 3 à 4 (feu)\nRésistance : 4 à 5% (eau)",
+   "recette": "6x Bois d'Orme\n8x Bois de Tronknyde\n20x Cuir de Porkass\n20x Cuir de Sanglier des Plaines\n6x Peau de Gobelin\n3x Houblon Brillant\n3x Orge en Sucre",
+   "image": "https://barbok.eratz.fr/sabots_de_farle.png",
+   "condition": "",
+   "description": "Description : Ces sabots ont été taillés dans des bois rares, renforcés avec des pièces de cuirs d'une valeur inestimable, et rembourrés avec des céréales magiques. A la fois légère, élégante, et confortable, cette paire de sabots saura résister aux affres du temps. Beaucoup d'aventuriers un peu trop misogynes aimeraient pouvoir en dire autant de leur dulcinée."
+  },
+  {
+   "name": "Bottes du Gardien des Egoûts",
+   "level": "Niveau 83",
+   "caracteristique": "Vitalité : 31 à 50\nCoup critiques : +3 à 4\n+3 à 6 de dommages\nAugmente les dommages de 11 à 15%\nPM : 1\nProspection : 6 à 10",
+   "image": "https://barbok.eratz.fr/bottes_du_gardien_des_egouts.png",
+   "condition": "",
+   "description": "Description : Comble de l'ironie, le gardien des égoûts s'est fait dévorer par la Gardienne des Egoûts. Il a été digéré pendant plus de cent ans avant de finir par mourir. Heureusement, ses bottes étaient plus résistantes que lui et sont encore en excellent état."
+  },
+  {
+   "name": "Bottes Du Craqueleur Légendaire",
+   "level": "Niveau 86",
+   "caracteristique": "Intelligence : 16 à 25\nAgilité : 16 à 25\nSoins : 4 à 5\n+4 à 5 de dommages\nPM : 1\nRésistance : 5 à 7 (eau)\nRésistance : 5 à 7 (terre)",
+   "recette": "8x Rubis\n8x Saphir\n1x Bottes du Craqueleur\n4x Kriptonite\n3x Pierre du Craqueleur Légendaire\n15x Pierre du Craqueleur\n4x Coeur de Craqueleur",
+   "image": "https://barbok.eratz.fr/bottes_du_craqueleur_legendaire.png",
+   "condition": "",
+   "description": "Description : Si vous aimez danser et écraser les pieds de vos partenaires, ces bottes sont faites pour vous."
+  },
+  {
+   "name": "Bloptes Multicolores Royales",
+   "level": "Niveau 90",
+   "caracteristique": "Vitalité : 31 à 50\nSagesse : 16 à 25\nAugmente les dommages de 16 à 30%\nPM : 1\nRésistance : 2 à 10 (air)\nRésistance : 2 à 10 (eau)\nRésistance : 2 à 10 (feu)\nRésistance : 2 à 10 (terre)\nRésistance : 2 à 3% (eau)",
+   "recette": "1x Bloptes Coco Royales\n1x Bloptes Griotte Royales\n1x Bloptes Indigo Royales\n1x Bloptes Reinette Royales\n1x Fleur de Blop Multicolore Royal\n5x Feuille de Blop Multicolore Royal\n10x Fleur de Gloutoblop",
+   "image": "https://barbok.eratz.fr/bloptes_multicolores_royales.png",
+   "condition": "",
+   "description": "Description : Avec ou sans rembourrage ces bottes restent étranges. Il est donc inutile de les rembourrer avec autre chose que vos pieds."
+  },
+  {
+   "name": "Mules du Dragon Cochon",
+   "level": "Niveau 93",
+   "caracteristique": "Chance : 26 à 40\nPM : 1\nVitalité : 46 à 70\nSagesse : 16 à 25\nCréature invocables : +1\n+2 à 3 de dommages\nProspection : 6 à 10\nRésistance : 6 à 10 (air)\nRésistance : 6 à 10 (eau)\nRésistance : 6 à 10 (feu)",
+   "recette": "15x Queue de Chef de Guerre Bouftou\n25x Peau de Cochon de Farle\n14x Peau de Don Dorgan\n15x Peau de Don Duss Ang\n9x Peau de Maître Koalak\n2x Poil de Dragon Cochon\n5x Groin de Dragon Cochon",
+   "image": "https://barbok.eratz.fr/mules_du_dragon_cochon.png",
+   "condition": "",
+   "description": "Description : Une bonne paire de mules et vous vous sentez de suite plus fort, plus puissant, plus performant. Alors que ce ne sont que des mules."
+  },
+  {
+   "name": "Bottes Animales",
+   "level": "Niveau 94",
+   "caracteristique": "PM : 1\nIntelligence : 21 à 35\nSagesse : 16 à 30\nVitalité : 31 à 50\nRésistance : 6 à 10 (terre)\nRésistance : 6 à 10 (neutre)\nRésistance : 3 à 5% (feu)",
+   "recette": "30x Carapace de Scarafeuille Rouge\n20x Poil d'Ouginak\n20x Poil de Kanigrou\n20x Cuir de Porkass\n20x Cuir de Sanglier des Plaines\n30x Or\n1x Sabot du Minotoror",
+   "image": "https://barbok.eratz.fr/bottes_animales.png",
+   "condition": "",
+   "description": "Description : On peut le dire, ces Bottes ont un côté comment dire... Hmmm... Bestial. Ne vous étonnez donc pas si un Mulou tombe amoureux de vos Bottes. C'est peut-être la pire chose qui puisse vous arriver."
+  },
+  {
+   "name": "Bottes du Rat Blanc",
+   "level": "Niveau 99",
+   "caracteristique": "Agilité : 26 à 40\nForce : 16 à 25\nVitalité : 41 à 60\nSagesse : 11 à 15\nPM : 1\nProspection : 6 à 10\nRésistance : 2 à 3% (air)",
+   "recette": "1x Peau de Rat d'Egoutant\n1x Slip en Cuir Moulant du Vampire\n1x Bottes Volatiles\n15x Peau de Chaman d'Egoutant\n1x Cuir Noir\n3x Peau de Rat Blanc\n32x Cuir de Porkass",
+   "image": "https://barbok.eratz.fr/bottes_du_rat_blanc.png",
+   "condition": "",
+   "description": "Description : Avec ces bottes, votre équilibre est parfait, même par grand vent vous ne bougerez plus d'un pouce."
+  },
+  {
+   "name": "Bottes Dorées d'Hogmeiser",
+   "level": "Niveau 99",
+   "caracteristique": "Sagesse : 31 à 40\nAgilité : 36 à 50\nCoup critiques : +7 à 8\n+5 à 6 de dommages\nVitalité : 51 à 70\nRésistance : 10 à 12 (eau)\nRésistance : 10 à 12 (air)\nRésistance : 10 à 12 (feu)\nCréature invocables : +1 à 2",
+   "recette": "1x Bottes d'Hogmeiser\n1x Cuir de Bouftou Royal\n1x Diamant\n1x Saphir\n1x Cuir du Dragon Cochon\n10x Or\n3x Cuir du Chef de Guerre Bouftou",
+   "image": "https://barbok.eratz.fr/bottes_dorees_dhogmeiser.png",
+   "condition": "",
+   "description": "Description : Ces magnifiques bottes d'Hogmeiser sont recouvertes d'une fine couche de pierres précieuses, pour les rendre insensibles à certaines attaques magiques. C'est avec ces bottes que Brouce Boulgoure a écrasé la tête du Roi des Abraknydes il y a très longtemps, pour animer l'ouverture de la foire du Trool."
+  },
+  {
+   "name": "Bottes Horchons",
+   "level": "Niveau 100",
+   "caracteristique": "PM : 1\nSagesse : 21 à 30\nIntelligence : 26 à 45\nAgilité : 16 à 30\n+4 à 5 de dommages\nPortée : +1\nProspection : 6 à 10\nRésistance : 4 à 6% (eau)",
+   "recette": "29x Duvet du Kilibriss\n90x Etoffe de Ouassingue\n7x Jus de Ouassingue\n4x Faux menton du Bourbassingue\n5x Tourbe séchée de Tourbassingue\n6x Coco du Bitouf sombre\n4x Touffe rousse du Flib",
+   "image": "https://barbok.eratz.fr/bottes_horchons.png",
+   "condition": "",
+   "description": "Description : Ces Bottes émettent un immonde bruit de succion à chaque pas, ce qui n'est pas sans vous rappeler le chant d'amour des Trools en rut. Un souvenir douloureux dont vous vous seriez bien passé."
+  },
+  {
+   "name": "Bottes Antrin",
+   "level": "Niveau 100",
+   "caracteristique": "+30 de dommages\nRend la portée du sort 0 modifiable\n+45 aux CC sur le sort Mutilation\nRéduit de 1 le délai de relance du sort Guide de Bravoure\nPM : 1",
+   "recette": "1x Peau du Rasboul Majeur\n20x Duvet du Kilibriss\n20x Moustache du Mufafah\n10x Plume de fesse du Kido\n10x Aile du Bitouf des plaines\n2x Crinière fleurie\n60x Queue de Kolérat",
+   "image": "https://barbok.eratz.fr/bottes_antrin.png",
+   "condition": "",
+   "description": "Description : Avec les bottes Antrin aux pieds, les Iops sont toujours les premiers à arriver sur le champ de bataille et à mettre de l'ambiance. Il faut dire que cette classe de personnages adore amuser la galerie par ses exploits guerriers. Mais elle n'est jamais prise au sérieux en raison de son intelligence inversement proportionnelle à sa force."
+  },
+  {
+   "name": "Bottes Antouche",
+   "level": "Niveau 100",
+   "caracteristique": "+30 aux CC sur le sort Armure Venteuse\nRéduit de 1 le délai de relance du sort Immunité\nDésactive le lancer en ligne du sort 0\nDésactive la ligne de vue du sort 0\nPM : 1",
+   "recette": "1x Peau du Rasboul Majeur\n10x Plume de fesse du Kido\n23x Poils de Pandule\n20x Duvet du Kilibriss\n10x Aile du Bitouf des plaines\n20x Moustache du Mufafah\n2x Crinière fleurie",
+   "image": "https://barbok.eratz.fr/bottes_antouche.png",
+   "condition": "",
+   "description": "Description : Lorsque les Fécas sont embarrassés et souhaitent détourner la discussion, ils évoquent toujours leurs bottes Antouche. Ils décrivent de quelle manière ces chaussures leur permettent d'arpenter tous types de terrains. Lorsque leurs alliés sont en grosse difficulté lors de combats, le confort de ces bottes leur permet de se ressaisir pour détourner la menace."
+  },
+  {
+   "name": "Botte Hairo",
+   "level": "Niveau 100",
+   "caracteristique": "+25 aux CC sur le sort Horloge\n+25 aux CC sur le sort Poussière Temporelle\nAugmente la portée du sort Contre de 3\nRend la portée du sort 0 modifiable\nPM : 1",
+   "recette": "10x Plume de fesse du Kido\n1x Peau du Rasboul Majeur\n10x Aile du Bitouf des plaines\n20x Duvet du Kilibriss\n2x Crinière fleurie\n20x Moustache du Mufafah\n10x Plume du Serpiplume",
+   "image": "https://barbok.eratz.fr/botte_hairo.png",
+   "condition": "",
+   "description": "Description : Créées par un artiste Xélor, ces bottes devaient lui permettre de peindre plus rapidement. C'est le cas ! En revanche, elles ont tendance à déformer la vision et plus précisément le sens des distances. Avec ces bottes, tout paraît plus rond. Appréciés par les Sadidas, les tableaux de ce Xélor ont contribué à rendre populaires les courbes généreuses des femmes un peu fortes."
+  },
+  {
+   "name": "Botte Ulisme",
+   "level": "Niveau 100",
+   "caracteristique": "Augmente la portée du sort Mot d'Envol de 4\nSoins : 15\nAugmente la portée du sort Mot de Régénération de 2\nAugmente la portée du sort Mot de Silence de 2\nPM : 1",
+   "recette": "20x Duvet du Kilibriss\n16x Soulier de Porkass\n20x Moustache du Mufafah\n10x Plume de fesse du Kido\n10x Aile du Bitouf des plaines\n1x Peau du Rasboul Majeur\n2x Crinière fleurie",
+   "image": "https://barbok.eratz.fr/botte_ulisme.png",
+   "condition": "",
+   "description": "Description : Grâce à ces mi-bottes, vous serez toujours protégés des toxines provenant du sol. On ne se méfie jamais assez des microbes et autres bestioles qui traînent. Selon certains observateurs, ces chaussures ressemblent plus à des pantoufles qu'à des bottes. Pourtant, les Eniripsas les nomment bien ainsi. Est-ce à cause de leur petite taille qu'ils voient les choses sous un angle si différent ?"
+  },
+  {
+   "name": "Charentaises à poils",
+   "level": "Niveau 100",
+   "caracteristique": "Augmente la portée du sort Roue de la Fortune de 4\nRéduit de 1 le coût en PA du sort Griffe Invocatrice\n+30 aux CC sur le sort Griffe Joueuse\nRéduit de 1 le coût en PA du sort Perception\nPM : 1",
+   "recette": "1x Peau du Rasboul Majeur\n20x Aile du Bitouf des plaines\n2x Crinière fleurie\n60x Moustache de Kolérat\n20x Duvet du Kilibriss\n20x Moustache du Mufafah\n10x Plume de fesse du Kido",
+   "image": "https://barbok.eratz.fr/charentaises_a_poils.png",
+   "condition": "",
+   "description": "Description : On dit que les Sadidas ne se sentent jamais seuls, car ils peuvent invoquer plein de poupées pour leur tenir compagnie. Vous aussi, vous ne souffrirez plus de solitude grâce à ces chaussures ! Non seulement vous pourrez prendre votre pied pour lui parler, mais en plus, grâce à ces charentaises à poils, personne ne pourra plus mettre votre jeu à nu. Une fois qu'on les a enfilées, on se sent vraiment bien, même si on a un peu honte de sortir avec."
+  },
+  {
+   "name": "Bottes Deuradi",
+   "level": "Niveau 100",
+   "caracteristique": "Réduit de 1 le coût en PA du sort Flèche Punitive\nRéduit de 1 le coût en PA du sort Flèche Magique\nRéduit de 1 le coût en PA du sort Flèche de Recul\n+30 aux CC sur le sort Flèche Persécutrice\nPM : 1",
+   "recette": "20x Moustache du Mufafah\n2x Crinière fleurie\n1x Peau du Rasboul Majeur\n10x Plume de fesse du Kido\n41x Peau de Pandikaze\n20x Duvet du Kilibriss\n10x Aile du Bitouf des plaines",
+   "image": "https://barbok.eratz.fr/bottes_deuradi.png",
+   "condition": "",
+   "description": "Description : Les multiples sangles entourant ces chaussures peuvent servir de corde de remplacement, lorsque celle de l'arc est rompue. Les jeunes femmes Crâ les emploient aussi pour faire des bottes de légumes en cuisine. Il faut croire qu'elles n'ont pas peur des odeurs de pieds."
+  },
+  {
+   "name": "Chaussures Lepon-Davignon",
+   "level": "Niveau 100",
+   "caracteristique": "+10 de dommages\nRéduit de 2 le coût en PA du sort Coffre Animé\nRéduit de 1 le coût en PA du sort Maladresse de Masse\n+25 aux CC sur le sort Désinvocation\nPM : 1",
+   "recette": "10x Plume de fesse du Kido\n1x Peau du Rasboul Majeur\n10x Aile du Bitouf des plaines\n20x Duvet du Kilibriss\n2x Crinière fleurie\n20x Moustache du Mufafah\n42x Ongle de Kanigrou",
+   "image": "https://barbok.eratz.fr/chaussures_lepon-davignon.png",
+   "condition": "",
+   "description": "Description : Ces chaussures permettent à son porteur de danser jusqu'au bout de la nuit, malgré les cors et les ampoules qu'elles occasionnent ! Elles bougent toutes seules au bruit de la musique et font des « bip bip » lorsqu'elles se trouvent à proximité de minerais précieux. C'est pourquoi les Enutrofs sont souvent appelés les « beat-machines »."
+  },
+  {
+   "name": "Bottes Hox",
+   "level": "Niveau 100",
+   "caracteristique": "Augmente la portée du sort Attaque Mortelle de 1\nDésactive le lancer en ligne du sort 0\n+30 aux CC sur le sort Fourvoiement\n+10 de dommages\nPM : 1",
+   "recette": "40x Oreille de Kolérat\n20x Duvet du Kilibriss\n20x Moustache du Mufafah\n10x Plume de fesse du Kido\n10x Aile du Bitouf des plaines\n2x Crinière fleurie\n1x Peau du Rasboul Majeur",
+   "image": "https://barbok.eratz.fr/bottes_hox.png",
+   "condition": "",
+   "description": "Description : Imprégnées d'un produit repulpant à diffusion lente, ces bottes permettent d'améliorer le galbe des jambes et de lutter contre le teint naturellement cadavérique des Srams. Cette crème a des effets spectaculaires sur la plastique des Srams femelles, mais semble totalement inefficace sur les mâles. Serait-ce un problème d'hormone ?"
+  },
+  {
+   "name": "Bottes Hanik",
+   "level": "Niveau 100",
+   "caracteristique": "Augmente de 1 le nombre de lancer maximal par tour du sort Ronces Multiples\nAugmente la portée du sort La Bloqueuse de 2\nAugmente la portée du sort Vent Empoisonné de 3\nAugmente la portée du sort Sacrifice Poupesque de 2\nPM : 1",
+   "recette": "10x Aile du Bitouf des plaines\n1x Peau du Rasboul Majeur\n2x Crinière fleurie\n20x Duvet du Kilibriss\n25x Patte de Wabbit\n20x Moustache du Mufafah\n10x Plume de fesse du Kido",
+   "image": "https://barbok.eratz.fr/bottes_hanik.png",
+   "condition": "",
+   "description": "Description : L'amour des plantes pousse les Sadidas à s'équiper des seules chaussures à reconnaissance florale. Grâce à leur système de détection, elles permettent à son porteur d'éviter d'écraser les plantes rares. Par contre, elles ne vous empêchent pas de marcher sur des excréments divers et variés, si vous ne regardez pas où vous mettez les pieds."
+  },
+  {
+   "name": "Bottes Swana",
+   "level": "Niveau 100",
+   "caracteristique": "Augmente la portée du sort Frappe du Craqueleur de 1\nDésactive la ligne de vue du sort 0\nSoins : 30\n+25 aux CC sur le sort Piqûre Motivante\nPM : 1",
+   "recette": "1x Peau du Rasboul Majeur\n2x Crinière fleurie\n20x Duvet du Kilibriss\n37x Feuille de Tronknyde\n20x Moustache du Mufafah\n10x Plume de fesse du Kido\n10x Aile du Bitouf des plaines",
+   "image": "https://barbok.eratz.fr/bottes_swana.png",
+   "condition": "",
+   "description": "Description : Ces chaussures permettent aux Osamodas d'arpenter de longues distances à travers les continents, même les plus reculés. À part ça, on ne sait pas très bien à quoi elles peuvent servir. Certains estiment qu'il est possible d'en faire des nids à Tofus ou d'élégants vases pour mettre en valeur les fleurs des champs. Tout cela n'est guère convaincant. Bref, les Bottes Swana sont essentiellement des chaussures."
+  },
+  {
+   "name": "Tong Aclou",
+   "level": "Niveau 100",
+   "caracteristique": "Réduit de 1 le coût en PA du sort Châ\nAugmente la portée du sort Absorption de 2\nRéduit de 1 le délai de relance du sort Coopération\nRéduit de 1 le délai de relance du sort Epée volante\nPM : 1",
+   "recette": "20x Moustache du Mufafah\n10x Plume de fesse du Kido\n10x Aile du Bitouf des plaines\n1x Peau du Rasboul Majeur\n2x Crinière fleurie\n20x Duvet du Kilibriss\n36x Main de Boo",
+   "image": "https://barbok.eratz.fr/tong_aclou.png",
+   "condition": "",
+   "description": "Description : Contrairement aux autres classes, les Sacrieurs aiment vivre avec une épine dans le pied plutôt que de l'enlever du talon. La douleur leur rappelle qu'ils sont vivants et leur donne la rage de massacrer leur ennemi. De plus les traces de sang laissées en chemin permettent aux Sacrieurs de ne jamais se perdre. Ils sont toujours capables de retourner sur leur pas, ce qui n'aurait pas été le cas s'ils avaient des chaussures de mauvaises qualité."
+  },
+  {
+   "name": "Bottes du Chef Bwork",
+   "level": "Niveau 100",
+   "caracteristique": "Vitalité : 36 à 50\nSagesse : 16 à 25\nIntelligence : 21 à 35\nAgilité : 21 à 35\nPM : 1\nProspection : 4 à 5\nRésistance : 4 à 5% (air)\nRésistance : 4 à 5% (eau)\nRésistance : 4 à 5% (terre)",
+   "image": "https://barbok.eratz.fr/bottes_du_chef_bwork.png",
+   "condition": "",
+   "description": "Description : De loin, ces bottes ressemblent à de classiques bottes de Bwork. De près aussi. Et pourtant, ce sont des bottes de Chef Bwork. Plus résistantes, plus puissantes, et plus malodorantes, elles sauront faire la différence dans un combat perdu d'avance."
+  },
+  {
+   "name": "Getas Bernacle",
+   "level": "Niveau 100",
+   "caracteristique": "Désactive la ligne de vue du sort 0\n+35 aux CC sur le sort Gueule de Bois\n+30 aux CC sur le sort Flasque Explosive\nRéduit de 1 le coût en PA du sort Colère de Zatoï\nPM : 1",
+   "recette": "20x Moustache du Mufafah\n63x Oreille de Kanigrou\n10x Plume de fesse du Kido\n1x Peau du Rasboul Majeur\n10x Aile du Bitouf des plaines\n20x Duvet du Kilibriss\n2x Crinière fleurie",
+   "image": "https://barbok.eratz.fr/getas_bernacle.png",
+   "condition": "",
+   "description": "Description : Dans certaines contrées, il semble que les Getas Bernacle sont lancées en guise d'insulte pour provoquer les duels. Même si cela peut prêter à sourire, ce n'est finalement pas plus stupide que de frapper l'adversaire avec une paire de gants. L'avantage des Getas Bernacle est d'ajouter une commotion olfactive au coup physique. Les Pandawas n'ont jamais été réputés pour l'hygiène de leurs pieds..."
+  },
+  {
+   "name": "Bottes du Rat Noir",
+   "level": "Niveau 101",
+   "caracteristique": "Agilité : 21 à 35\nVitalité : 41 à 60\nSagesse : 21 à 30\nPM : 1\n+6 à 10 de dommages aux pièges\n16 à 25% de dommages aux pièges\nRésistance : 3 à 4% (feu)",
+   "recette": "2x Botte trouée de Bwork\n5x Cuir Violet de Bwork\n2x Peau de Rat d'Egoutant\n2x Soulier de Porkass\n35x Peau de Kanigrou\n2x Peau du Rat Noir\n1x Bottes de Ragalde",
+   "image": "https://barbok.eratz.fr/bottes_du_rat_noir.png",
+   "condition": "",
+   "description": "Description : Attention en enfilant ces bottes, il n'est pas rare qu'elles contiennent encore un ou deux pieds du propriétaire précédent."
+  },
+  {
+   "name": "Protège-Tibias Ancestraux",
+   "level": "Niveau 110",
+   "caracteristique": "PM : 1\nVitalité : 81 à 130\nChance : 31 à 50\nForce : 21 à 35\nSagesse : 26 à 35\n+4 à 6 de dommages\nProspection : 11 à 15\nRésistance : 5 à 7% (feu)",
+   "recette": "20x Bois de Kaliptus\n10x Ecorce d'Abraknyde Sombre\n10x Racine d'Abraknyde Sombre\n10x Bois d'Orme\n2x Ecorce d'Abraknyde Ancestral\n1x Abrabottes\n3x Ambre Ancestrale",
+   "image": "https://barbok.eratz.fr/protege-tibias_ancestraux.png",
+   "condition": "",
+   "description": "Description : Avec ces protège-tibias en bois massif, vos jambes ne craignent plus rien. Ils sont en revanche incompatibles avec le port de bottes . Vous pourrez les utiliser pour vous protéger lors des compétitions de Boufball, mais vous ne pourrez plus faire de pointu avec vos bottes coquées."
+  },
+  {
+   "name": "Bottes du Minotoror",
+   "level": "Niveau 113",
+   "caracteristique": "Vitalité : 101 à 150\nSagesse : 21 à 35\nProspection : 11 à 15\nCréature invocables : +2 à 3\nSoins : 3 à 5\nRésistance : 4 à 6 (terre)\nRésistance : 4 à 6 (neutre)\nPM : 1\nRésistance : 3 à 5% (eau)",
+   "recette": "1x Sabot du Minotoror\n4x Laine du Minotoror\n2x Cuir de Minotoror\n9x Laine de Bouftou Royal\n15x Peau de Piralak\n120x Peau de Minoskito\n100x Peau de Kraméléhon",
+   "image": "https://barbok.eratz.fr/bottes_du_minotoror.png",
+   "condition": "",
+   "description": "Description : De toute évidence, ces terribles bottes en poils et en cuir de Minotoror, sont bien trop lourdes pour vous faire gagner la légendaire course à pieds de la baie d'Amakna. Cependant, elles devraient vous permettre d'écraser facilement les pieds des autres concurrents sur la ligne de départ."
+  },
+  {
+   "name": "Sandales Humeuses",
+   "level": "Niveau 121",
+   "caracteristique": "Vitalité : 101 à 150\nSagesse : 21 à 35\nChance : 31 à 40\nPM : 1\nProspection : 11 à 15\nRésistance : 4 à 5% (air)\nRésistance : 4 à 5% (eau)\nRésistance : 4 à 5% (feu)\nRésistance : 4 à 5% (terre)",
+   "recette": "9x Bois de Bambou Sacré\n5x Bois de Bambouto Sacré\n1x Ecorce magique de Bulbig\n4x Peau de Maho Firefoux\n1x Etoffe de Fantôme Maho Firefoux\n10x Peau de Kitsou Nufeu\n15x Peau de Kitsou Nere\n3x Peau de Soryo Firefoux",
+   "image": "https://barbok.eratz.fr/sandales_humeuses.png",
+   "condition": "",
+   "description": "Description : Ces sandales étaient utilisées par certaines femelles Pandits, pour séduire les aventuriers égarés, et les attirer dans d'horribles pièges."
+  },
+  {
+   "name": "Bottes Animales Sombres",
+   "level": "Niveau 122",
+   "caracteristique": "PM : 1\nVitalité : 31 à 50\nSagesse : 16 à 30\n+6 à 10 de dommages\nProspection : 6 à 10\nRésistance : 11 à 15 (eau)\nRésistance : 11 à 15 (air)\nRésistance : 11 à 15 (feu)\nRésistance : 3 à 5% (neutre)",
+   "recette": "2x Sabot du Minotoror\n1x Queue de Minotoror\n1x Cuir de Minotoror\n1x Poils du Minotoror\n10x Teinture Magique Sombre\n20x Poil d'Ouginak\n20x Poil de Kanigrou\n30x Or",
+   "image": "https://barbok.eratz.fr/bottes_animales_sombres.png",
+   "condition": "",
+   "description": "Description : On peut le dire, ces Bottes ont un côté comment dire, .....hmmm.... Sombre. Ne vous étonnez donc pas si un Vampire tombe en amour devant vous et vos Bottes. C'est peut-être la pire chose qui puisse vous arriver."
+  },
+  {
+   "name": "Sandales Titude",
+   "level": "Niveau 122",
+   "caracteristique": "Vitalité : 151 à 175\nSagesse : 21 à 35\nAgilité : 31 à 50\nChance : 31 à 50\nPM : 1\nProspection : 11 à 15\nRésistance : 6 à 7% (neutre)\nRésistance : 6 à 7% (terre)",
+   "recette": "15x Bois de Kaliptus\n12x Bois de Bambou Sombre\n26x Racine de Bulbambou\n1x Corne de Dragoss Blanc\n100x Ongle de Kanigrou\n10x Sabot de Sanglier des Plaines\n3x Aigue-Marine\n2x Peau de Moon",
+   "image": "https://barbok.eratz.fr/sandales_titude.png",
+   "condition": "",
+   "description": "Description : Titude était un modeste Enutrof cordonnier, plus petit encore qu'un Xélor. On raconte qu'il aurait confectionné ces sandales pour enfin réussir à embrasser sa dulcinée, une Eniripsa cul-de-jatte, mais que cela ne suffit point, et qu'il dut se résoudre à ne pas l'embrasser debout."
+  },
+  {
+   "name": "Bottes Harry",
+   "level": "Niveau 123",
+   "caracteristique": "Sagesse : 16 à 25\nVitalité : 126 à 150\nAgilité : 36 à 50\nPM : 1\nInitiative : 300\nProspection : 6 à 10\nRésistance : 6 à 8% (feu)\n+6 à 10 de dommages\nCoup critiques : +3 à 4",
+   "recette": "100x Plume de Buveur\n1x Peau de Maître Pandore\n1x Etoffe de Maître Pandore\n2x Etoffe de Fantôme Pandikaze\n2x Etoffe du Fauchalak\n20x Peau de Bworkette\n28x Peau de Maître Koalak\n10x Peau de Chevaucheur Koalak",
+   "image": "https://barbok.eratz.fr/bottes_harry.png",
+   "condition": "",
+   "description": "Description : Harry était un vieux sage, qui passait ses journées à pêcher sur les quais de Sufokia. Sa grande moustache lui donnait un air de Danous Kouaide, célèbre acteur d'une troupe de théatre qui se produisait régulièrement à la taverne d'Amakna en guise de prélude à d'incroyables orgies à base de bière et de Bougnette."
+  },
+  {
+   "name": "Bottes du Dragoeuf",
+   "level": "Niveau 129",
+   "caracteristique": "Intelligence : 26 à 45\nCoup critiques : +3 à 4\nVitalité : 71 à 120\nChance : 26 à 45\n+4 à 6 de dommages\nProspection : 11 à 20\nSoins : 3 à 5\nPods : +201 à 300\nPM : 1\nRésistance : 5 à 8% (terre)\nRésistance : 5 à 8% (eau)",
+   "recette": "1x Protection de la Dragueuse\n4x Peau de Crocabulia\n5x Aile de Dragoeuf Volant\n12x Peau de Dragueuse\n5x Peau de Chevaucheur Koalak\n5x Peau de Bworkette\n15x Peau de Drakoalak\n1x Peau de Moon",
+   "image": "https://barbok.eratz.fr/bottes_du_dragoeuf.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont parfaites pour tuer le Bouftou lors d'une partie de Boufball ou pour faire souffrir un peu plus vos ennemis lors d'un botte-fesses."
+  },
+  {
+   "name": "Bottes du Meulou",
+   "level": "Niveau 131",
+   "caracteristique": "Force : 31 à 50\nPM : 1\nSagesse : 16 à 30\nVitalité : 71 à 120\nProspection : 11 à 15\nRésistance : 4 à 8 (air)\nRésistance : 4 à 8 (eau)\nCoup critiques : +2 à 3\nAugmente les dommages de 4 à 5%\nCréature invocables : +1 à 2\nRésistance : 6 à 9% (air)\nRésistance : 6 à 9% (eau)\nFaiblesse : 4 à 7% (terre)\nInitiative : 101 à 200\nPods : +201 à 300\nRésistance : 4 à 8 (feu)\nRésistance : 4 à 8 (neutre)\nRésistance : 4 à 8 (terre)",
+   "recette": "1x Bottines du Mulou\n1x Etoffe du Meulou\n1x Peau de Maître Pandore\n30x Peau de Bworkette\n1x Poil de Bworkette\n160x Poil de Kanigrou\n5x Peau de Shin Larve\n10x Poils du Meulou",
+   "image": "https://barbok.eratz.fr/bottes_du_meulou.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont encore animées d'une partie de l'appétit vorace du Meulou. Si vos pieds sentent le Clakoss, elles risquent de vous les mordre."
+  },
+  {
+   "name": "Bottes Cérémoniales du Seigneur des Rats",
+   "level": "Niveau 134",
+   "caracteristique": "Agilité : 26 à 40\nIntelligence : 21 à 35\nVitalité : 121 à 170\nProspection : 6 à 10\nPM : 1\nSagesse : 16 à 25\n+5 à 7 de dommages\nSoins : 5 à 7\nRésistance : 4 à 6 (neutre)\nRésistance : 4 à 6% (neutre)\nRésistance : 4 à 6% (terre)",
+   "recette": "3x Peau de Sphincter Cell\n50x Crocs de Rats\n1x Bottes du Rat Blanc\n50x Peau de Chaman d'Egoutant\n1x Bottes du Rat Noir\n100x Boue du Boo\n20x Sabot de Chef de Guerre Bouftou\n40x Sabot de Bouftou",
+   "image": "https://barbok.eratz.fr/bottes_ceremoniales_du_seigneur_des_rats.png",
+   "condition": "",
+   "description": "Description : Le tout premier Seigneur des rats est mort en marchant par inadvertance dans une flaque de lave en fusion. Ces bottes sont portées en hommage par ses seigneurs. Attention, elles ne sont pas ignifugées."
+  },
+  {
+   "name": "Tongues du dimanche du Chêne Mou",
+   "level": "Niveau 136",
+   "caracteristique": "Intelligence : 31 à 40\nForce : 31 à 40\nSagesse : 21 à 30\nVitalité : 151 à 200\n+6 à 10 de dommages\nAugmente les dommages de 6 à 10%\nPM : 1\nProspection : 6 à 10\nRésistance : 6 à 10 (neutre)\nRésistance : 4 à 6% (feu)\nRésistance : 4 à 6% (terre)",
+   "recette": "1x Protège-Tibias Ancestraux\n1x Abrabottes\n3x Ecorce du Chêne Mou\n4x Racine du Chêne Mou\n25x Ecorce d'Abraknyde Sombre\n20x Racine d'Abraknyde Sombre\n35x Bourgeon d'Abraknyde Sombre\n40x Bois de Kaliptus",
+   "image": "https://barbok.eratz.fr/tongues_du_dimanche_du_chene_mou.png",
+   "condition": "",
+   "description": "Description : Le dimanche, le Chêne Mou fait la sieste, et lorsqu'il se réveille, il aime qu'un Tronknyde obéissant lui apporte ses tongues sans qu'il les demande. Il n'a malheureusement pas de pieds, elles sont donc encore neuves."
+  },
+  {
+   "name": "Bottines en bois d'abrakleur",
+   "level": "Niveau 136",
+   "caracteristique": "Force : 26 à 40\nAgilité : 26 à 40\nVitalité : 101 à 150\nSagesse : 26 à 35\n+6 à 8 de dommages\nPM : 1\nRésistance : 6 à 10 (neutre)\nRésistance : 6 à 10 (eau)\nRésistance : 6 à 10% (eau)",
+   "recette": "42x Bois de Bambou\n12x Bois de Bambou Sacré\n1x Ecorce du Tynril\n26x Bave du Kaskargo\n16x Noeud de l'Abrakleur clair\n8x Boomerang du Warko Marron\n61x Souche de l'Abrakleur clair\n1x Rune Ga Pme",
+   "image": "https://barbok.eratz.fr/bottines_en_bois_dabrakleur.png",
+   "condition": "",
+   "description": "Description : Ces bottes sont si lourdes qu'elles seraient plutôt à classer dans la catégorie des armes tellement les coups de pieds deviennent meurtriers."
+  },
+  {
+   "name": "Sandales Hambic",
+   "level": "Niveau 159",
+   "caracteristique": "Vitalité : 201 à 250\nSagesse : 21 à 35\nSoins : 3 à 6\n+3 à 6 de dommages\nPM : 1\n+16 à 25 de dommages aux pièges\nProspection : 16 à 20\nRésistance : 4 à 5% (feu)\nFaiblesse : 4 à 5% (air)",
+   "recette": "10x Bois de Bambou Sacré\n6x Bois de Bambouto Sacré\n25x Peau de Léopardo\n5x Peau de Maho Firefoux\n3x Peau de Soryo Firefoux\n4x Peau de Yokai Firefoux\n3x Peau de Tanukouï San\n1x Etoffe de Fantôme Yokai Firefoux",
+   "image": "https://barbok.eratz.fr/sandales_hambic.png",
+   "condition": "",
+   "description": "Description : Les Pandawas ont toujours été attirés par les boissons alcoolisées, ils ont ainsi au fil du temps, appris à mieux les conserver et les aromatiser. Quant à ces sandales, elles ont été faites spécialement pour les Pandawas alcooliques, elles sont lestées au niveau de la semelle, pour que vous puissiez garder les pieds sur terre plus souvent."
+  },
+  {
+   "name": "Sandales du Minotot",
+   "level": "Niveau 163",
+   "caracteristique": "Intelligence : 31 à 50\nAgilité : 16 à 30\nPM : 1\nVitalité : 151 à 200\nPortée : +1\n+6 à 10 de dommages\nSoins : 4 à 6\nSagesse : 11 à 20\nProspection : 11 à 20\nFaiblesse : 4 à 6% (air)",
+   "recette": "1x Sabot du Minotot\n1x Bottes Animales\n10x Peau de Bworkette\n1x Bottes Animales Sombres\n25x Peau de Maître Koalak\n1x Bottes du Minotoror\n1x Cuir du Minotot\n30x Peau de Drakoalak",
+   "image": "https://barbok.eratz.fr/sandales_du_minotot.png",
+   "condition": "",
+   "description": "Description : Ces incroyables sandales vous permettront de vous baigner dans les eaux les plus dangereuses, sans risquer de vous abîmer les pieds. Attention cependant, elles ont la réputation de rayer le fond des baignoires."
+  },
+  {
+   "name": "Bottines des sous-bois",
+   "level": "Niveau 175",
+   "caracteristique": "Vitalité : 201 à 250\nSagesse : 31 à 40\nChance : 31 à 50\n+5 à 7 de dommages\nAugmente les dommages de 6 à 10%\nPortée : +1\nPM : 1\nInitiative : 401 à 700\nProspection : 21 à 30\nRésistance : 6 à 10% (neutre)",
+   "recette": "25x Ecorce de Champaknyde\n20x Boomerang du Koalak Sanguin\n10x Coco du Bitouf sombre\n25x Coco du Bitouf aérien\n30x Coco du Bitouf des plaines\n12x Langue du Champodonte\n15x Bave de Champ à Gnons\n2x Ecorce du Tynril",
+   "image": "https://barbok.eratz.fr/bottines_des_sous-bois.png",
+   "condition": "",
+   "description": "Description : Ces bottines sont parfaites pour marcher dans les sous-bois, sans écraser les feuilles mortes. Attention cependant, leurs origines végétales les poussent inexorablement à écraser tout ce qui s'apparente de près ou de loin à du fumier."
+  },
+  {
+   "name": "Chaussons Pignons",
+   "level": "Niveau 181",
+   "caracteristique": "Force : 51 à 70\nVitalité : 251 à 300\nSagesse : 31 à 50\nPM : 1\n+6 à 10 de dommages\nProspection : 6 à 10\nRésistance : 6 à 10 (feu)\nRésistance : 6 à 10 (air)\nRésistance : 6 à 10% (terre)",
+   "recette": "15x Ecorce de Champaknyde\n2x Peau de Bworker\n17x Langue du Champodonte\n60x Fibre de Chanvre\n16x Mouchoir de la Gamine Zoth\n1x Plume Vibrante du Tofu Royal\n28x Etoffe Zoth\n1x Etoffe Magique de Moon",
+   "image": "https://barbok.eratz.fr/chaussons_pignons.png",
+   "condition": "",
+   "description": "Description : Ces chaussons sont recouverts de petites aérations qui contrairement aux idées reçues, ne permettent pas à vos pieds de mieux s'aérer, mais plutôt aux spores des champignons installés sur vos pieds, de s'enfuir rapidement pour aller parasiter d'autres aventuriers plus facilement."
+  },
+  {
+   "name": "Bottes Répané",
+   "level": "Niveau 184",
+   "caracteristique": "Chance : 31 à 50\nIntelligence : 31 à 50\nVitalité : 201 à 250\nSagesse : 21 à 30\nProspection : 6 à 10\n+6 à 10 de dommages\nSoins : 6 à 10\nCréature invocables : +2\nRésistance : 6 à 10% (neutre)\nPM : 1",
+   "recette": "1x Peau de Bworker\n31x Rembourrage de Meupette\n1x Clakoss\n2x Peau du Rasboul Majeur\n15x Peau de Bworkette\n40x Moustache du Mufafah\n10x Poudre explosive de Gourlo\n1x Bottes du Chef Bwork",
+   "image": "https://barbok.eratz.fr/bottes_repane.png",
+   "condition": "",
+   "description": "Description : Il y a bien longtemps, Danous Kouaide a voulu faire le malin et battre le Bworker dans un concours de blagues : \"Si tes bottes sont recouvertes de boucles d'oreilles c'est parce que tu n'as pas compris que les bottes ne se mettaient pas aux oreilles\". Le Bworker lui a répondu avec un coup de hache sur le crâne."
+  },
+  {
+   "name": "Sandales Circulaires du Kimbo",
+   "level": "Niveau 195",
+   "caracteristique": "Chance : 51 à 70\nVitalité : 251 à 300\nSagesse : 31 à 50\n+6 à 10 de dommages\nCoup critiques : +3 à 4\nPM : 1\nProspection : 11 à 20\nRésistance : 6 à 10% (terre)\nRésistance : 6 à 10% (eau)",
+   "recette": "1x Pierre précieuse du Kimbo\n98x Etamine de Floribonde\n1x Chaussette du Kimbo\n69x Rembourrage de Meupette\n1x Peau du Rasboul Majeur\n8x Coquille du Kaskargo\n3x Morceau de caleçon de Gourlo\n1x Sandales Hambic",
+   "image": "https://barbok.eratz.fr/sandales_circulaires_du_kimbo.png",
+   "condition": "",
+   "description": "Description : Seul le Kimbo et ses pieds totalement loufoques peuvent se sentir à l'aise dans ces sandales. En revanche il n'est pas le seul à pouvoir profiter de leur puissance. Attention tout de même de ne pas vous tromper de sens en les enfilant."
+  }
+ ]
+}

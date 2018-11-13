@@ -1,0 +1,338 @@
+{
+ "bouclier": [
+  {
+   "name": "Bouclier du Sadida",
+   "level": "Niveau 1",
+   "caracteristique": "12 à 15% de resistance neutre aux combatants\n21 à 25% de resistance terre aux combatants\n12 à 15 de resistance eau aux combatants",
+   "recette": "10x Bakélélite\n10x Etoffe de Soryo Firefoux\n10x Bois de Bambou Sombre\n50x Laine de Boufton Noir\n10x Farine Blanche\n3x Ecorce magique de Bulbambou\n3x Ecorce magique de Bulbiflore",
+   "image": "https://barbok.eratz.fr/bouclier_du_sadida.png",
+   "condition": "Grace > 6",
+   "description": "Description : Ce bouclier servait à l'origine de tabouret aux Sadidas lorsque ces derniers devaient se reposer. Une fois les pieds repliés, il vous protègera de beaucoup d'attaques, mais pas des fous rires de vos adversaires."
+  },
+  {
+   "name": "Bouclier en Mousse",
+   "level": "Niveau 1",
+   "caracteristique": "1% de resistance eau aux combatants",
+   "image": "https://barbok.eratz.fr/bouclier_en_mousse.png",
+   "condition": "",
+   "description": "Description : Ce bouclier jaune, poreux mais absorbant a été conçu à partir des restes d'un animal qui avait élu domicile dans un Maskananas tombé au fond de la mer."
+  },
+  {
+   "name": "Bouclier en Slip",
+   "level": "Niveau 1",
+   "caracteristique": "15 à 18% de resistance feu aux combatants\n15 à 18% de resistance air aux combatants\n4 à 5 de resistance neutre aux combatants\n4 à 5 de resistance eau aux combatants",
+   "recette": "2x Bois de Bambou Magique\n10x Slip en cuir de Porkass\n10x Rutile\n1x Bois de Bambou Doré\n2x Slip de Bwork Archer\n10x Citron\n8x Manganèse",
+   "image": "https://barbok.eratz.fr/bouclier_en_slip.png",
+   "condition": "Grace > 5",
+   "description": "Description : Cette création surprenante, est recouverte d'un Slip en Cuir du Chafer lancier, bouilli, nettoyé et détendu pour épouser les formes du bouclier, qui sont loin de rappeler celles du Chafer, bien plus avantageuses et aguichantes..."
+  },
+  {
+   "name": "Bouclier du Mont Kipou",
+   "level": "Niveau 1",
+   "caracteristique": "6 à 8% de resistance neutre aux combatants\n8 à 10 de resistance eau aux combatants",
+   "recette": "3x Aluminite\n2x Ecorce magique de Bulbiflore\n10x Bois de Bambou\n10x Bois d'Erable\n3x Kobalite",
+   "image": "https://barbok.eratz.fr/bouclier_du_mont_kipou.png",
+   "condition": "Grace > 2",
+   "description": "Description : Verdâtre et malodorant, ce bouclier n'en reste pas moins une protection de choix, lorsqu'il s'agît d'affronter les créatures du Mont Kipou."
+  },
+  {
+   "name": "Bouclier du Chouque",
+   "level": "Niveau 1",
+   "caracteristique": "21 à 25% de resistance eau aux combatants\n8 à 10% de resistance terre aux combatants\n8 à 10 de resistance air aux combatants",
+   "recette": "1x Diamant\n10x Noix de Kokoko\n2x Bois d'Ebène\n1x Poils de Moon\n7x Bois de Bambou Sombre\n4x Ecorce d'Abraknyde Sombre\n10x Bois de Bombu\n10x Plumes de Tofu",
+   "image": "https://barbok.eratz.fr/bouclier_du_chouque.png",
+   "condition": "Grace > 6",
+   "description": "Description : Le Chouque se servait de ce bouclier pour se protéger des gros boulets qui lui étaient régulièrement envoyés. Les histoires les plus folles, racontent même que certains boulets étaient vivants."
+  },
+  {
+   "name": "Bouclier du Bûcheron",
+   "level": "Niveau 1",
+   "caracteristique": "5 à 6% de resistance terre aux combatants",
+   "recette": "5x Bois de Bambou\n5x Bois de Frêne\n5x Bronze",
+   "image": "https://barbok.eratz.fr/bouclier_du_bucheron.png",
+   "condition": "Grace > 1",
+   "description": "Description : Ce bouclier servait à l'origine aux bûcherons qui voulaient se protéger de la chute des arbres. Il a vite été détourné de son usage, et sert maintenant à se protéger des chutes des ennemis qui ont parfois une fâcheuse tendance à vous tomber dessus sans prévenir."
+  },
+  {
+   "name": "Bouclier du Captain Amakna",
+   "level": "Niveau 1",
+   "caracteristique": "21 à 25% de resistance neutre aux combatants\n21 à 25% de resistance feu aux combatants\n16 à 20% de resistance terre aux combatants\n12 à 15 de resistance eau aux combatants\n12 à 15 de resistance air aux combatants",
+   "recette": "50x Kriptonite\n1x Cuir du Dragon Cochon\n4x Teinture Magique de Rougeur\n3x Bois Ancestral\n3x Bois de Bambou Sacré\n10x Silicate\n2x Emeraude\n15x Poils de Yokai Firefoux",
+   "image": "https://barbok.eratz.fr/bouclier_du_captain_amakna.png",
+   "condition": "Grace > 9",
+   "description": "Description : Un jeune aventurier avait voulu s'enrôler dans la milice de Bonta pour défendre les opprimés. Réformé en raison de sa constitution trop faible, il fut tout de même contacté par un Alchimiste d'Amakna, déterminé à l'utiliser comme cobaye pour tester une de ses nouvelles potions magiques. L'effet fut immédiat, le jeune aventurier devint rapidement un véritable guerrier d'une force extraordinaire, mais aussi complètement stupide. Il avait en fait été transformé en Iop. Il se fit forger ce bouclier réputé indestructible, et le surnom de Captain Amakna (en hommage à l'illustre Captain Chafer qui disparut dans des circonstances bien mystérieuses) lui fut attribué pour l'éternité."
+  },
+  {
+   "name": "Cadran d'Air",
+   "level": "Niveau 1",
+   "caracteristique": "7 à 9 de resistance air aux combatants",
+   "recette": "2x Bois de Bambouto Sacré\n1x Bois d'If\n1x Aluminite\n3x Coquille de Dragoeuf Doré",
+   "image": "https://barbok.eratz.fr/cadran_dair.png",
+   "condition": "Grace > 1",
+   "description": "Description : Ce bouclier original vous protègera de l'élément Air, et accessoirement, donnera l'heure à vos adversaires. Très utile pour les aider à chronométrer leur défaite."
+  },
+  {
+   "name": "Bouclier du Craqueleur",
+   "level": "Niveau 1",
+   "caracteristique": "7 à 9 de resistance neutre aux combatants\n7 à 9 de resistance air aux combatants\n7 à 9 de resistance terre aux combatants",
+   "recette": "10x Argent\n1x Coeur de Craqueleur\n5x Bauxite\n15x Fer\n5x Or",
+   "image": "https://barbok.eratz.fr/bouclier_du_craqueleur.png",
+   "condition": "Grace > 2",
+   "description": "Description : Ce bouclier en pierre est en fait une tête de Craqueleur écrasée par le pied d'un Minotoror. Une façon comme une autre de combiner grosse tête et odeurs de pieds."
+  },
+  {
+   "name": "Cadran d'Eau",
+   "level": "Niveau 1",
+   "caracteristique": "4 à 5 de resistance eau aux combatants",
+   "recette": "1x Aluminite\n1x Bois d'If\n2x Bois de Bambouto Sacré\n3x Coquille de Dragoeuf Saphir",
+   "image": "https://barbok.eratz.fr/cadran_deau.png",
+   "condition": "Grace > 0",
+   "description": "Description : Ce bouclier original vous protégera de l'élément Eau, et accessoirement, donnera l'heure à vos adversaires. Très utile pour les aider à chronométrer leur défaite."
+  },
+  {
+   "name": "Kloume",
+   "level": "Niveau 1",
+   "caracteristique": "12 à 15% de resistance air aux combatants\n12 à 15% de resistance eau aux combatants\n8 à 10 de resistance feu aux combatants",
+   "recette": "10x Bois de Bambou Sombre\n50x Dent en Or du Craqueleur\n1x Etoffe de Maho Firefoux\n2x Testicules Magiques du Mulou\n80x Poudre de Perlinpainpain\n4x Bois de Bambouto Sacré\n1x Bois de Charme",
+   "image": "https://barbok.eratz.fr/kloume.png",
+   "condition": "Grace > 4",
+   "description": "Description : Cet énorme bouclier a jadis, permis au célèbre aventurier Kloume, de ne pas mourir écrasé sous le poids d'un Craqueleur qui était tombé amoureux de lui. L'histoire ne raconte pas s'il a survécu aux effets secondaires de sa relation passionnée avec le Craqueleur."
+  },
+  {
+   "name": "Le Karde Coeur",
+   "level": "Niveau 1",
+   "caracteristique": "10 à 12% de resistance feu aux combatants\n10 à 12% de resistance terre aux combatants",
+   "recette": "3x Bois d'Ebène\n5x Patte d'Araknawa\n3x Ebonite\n2x Coeur de Craqueleur\n1x Peau de Trukikol\n20x Queue de Dragodinde",
+   "image": "https://barbok.eratz.fr/le_karde_coeur.png",
+   "condition": "Grace > 3",
+   "description": "Description : Un illustre aventurier collectionneur, a passé sa vie à chercher ce type de bouclier. On raconte qu'une fois quatre de ces boucliers réunis, on pouvait jouir d'une meilleure vie."
+  },
+  {
+   "name": "Poshoclier",
+   "level": "Niveau 1",
+   "caracteristique": "2 à 3 de resistance terre aux combatants\n2 à 3% de resistance feu aux combatants",
+   "image": "https://barbok.eratz.fr/poshoclier.png",
+   "condition": "",
+   "description": "Description : Le clou planté dans ce bouclier peut servir d'arme de corps à corps si vous voulez crever votre adversaire pour qu'il se dégonfle."
+  },
+  {
+   "name": "Ftalmo",
+   "level": "Niveau 1",
+   "caracteristique": "14 à 18% de resistance feu aux combatants\n14 à 18% de resistance eau aux combatants",
+   "recette": "10x Bois de Bambou\n2x Or\n1x Pierre de Granit\n10x Kriptonite\n10x Oeil de Kanigrou\n10x Oeil du Milimulou\n10x Oeil de Bouftou",
+   "image": "https://barbok.eratz.fr/ftalmo.png",
+   "condition": "Grace > 4",
+   "description": "Description : Ce bouclier est recouvert de divers yeux, pour permettre à son porteur de fixer plus facilement son adversaire dans les yeux."
+  },
+  {
+   "name": "Derma Tho",
+   "level": "Niveau 1",
+   "caracteristique": "10 à 12 de resistance neutre aux combatants\n10 à 12 de resistance air aux combatants",
+   "recette": "2x Peau de Kitsou Nae\n2x Peau de Kitsou Nufeu\n4x Aluminite\n20x Planche en Frêne",
+   "image": "https://barbok.eratz.fr/derma_tho.png",
+   "condition": "Grace > 2",
+   "description": "Description : Ce bouclier en peau, risque de vous coller à la peau, tellement vous l'apprécierez. N'oubliez pas de soigner ses verrues et ses furoncles de temps en temps pour éviter qu'il ne s'abîme."
+  },
+  {
+   "name": "Cadran de Feu",
+   "level": "Niveau 1",
+   "caracteristique": "7 à 9 de resistance feu aux combatants",
+   "recette": "1x Aluminite\n2x Bois de Bambouto Sacré\n1x Bois d'If\n3x Coquille de Dragoeuf Noir",
+   "image": "https://barbok.eratz.fr/cadran_de_feu.png",
+   "condition": "Grace > 1",
+   "description": "Description : Ce bouclier original vous protégera de l'élément Feu, et accessoirement, donnera l'heure à vos adversaires. Très utile pour les aider à chronométrer leur défaite."
+  },
+  {
+   "name": "Cadran de Terre",
+   "level": "Niveau 1",
+   "caracteristique": "4 à 5 de resistance terre aux combatants",
+   "recette": "1x Aluminite\n1x Bois d'If\n2x Bois de Bambouto Sacré\n3x Coquille de Dragoeuf Blanc",
+   "image": "https://barbok.eratz.fr/cadran_de_terre.png",
+   "condition": "Grace > 0",
+   "description": "Description : Ce bouclier original vous protégera de l'élément Terre, et accessoirement, donnera l'heure à vos adversaires. Très utile pour les aider à chronométrer leur défaite."
+  },
+  {
+   "name": "Cigaloclier",
+   "level": "Niveau 1",
+   "caracteristique": "2 à 3 de resistance feu aux combatants\n2 à 3% de resistance eau aux combatants",
+   "image": "https://barbok.eratz.fr/cigaloclier.png",
+   "condition": "",
+   "description": "Description : Si vous avez peur d'effrayer vos amis avec votre tête de monstre, vous pourrez toujours vous cacher derrière ce bouclier pour ressembler à quelqu'un de sympathique."
+  },
+  {
+   "name": "Bouclier du Bouftou",
+   "level": "Niveau 1",
+   "caracteristique": "4 à 5 de resistance neutre aux combatants",
+   "recette": "5x Laine de Boufton Noir\n5x Laine de Bouftou",
+   "image": "https://barbok.eratz.fr/bouclier_du_bouftou.png",
+   "condition": "Grace > 0",
+   "description": "Description : Assez inutile mais tout de même impressionnant grâce à l'odeur qu'il dégage, ce bouclier sera le compagnon de beaucoup de jeunes aventuriers."
+  },
+  {
+   "name": "Bouclier du Bawbawe",
+   "level": "Niveau 1",
+   "caracteristique": "10 à 12% de resistance neutre aux combatants\n10 à 12% de resistance air aux combatants",
+   "recette": "1x Bois de Bambou Sacré\n10x Bakélélite\n6x Estomac de Wo Wabbit\n10x Bois de Châtaignier\n15x Blé\n8x Laine de Boufton Noir",
+   "image": "https://barbok.eratz.fr/bouclier_du_bawbawe.png",
+   "condition": "Grace > 3",
+   "description": "Description : Tous les Wabbits ne sont pas de petites créatures inoffensives. En réalité, tous les Wabbits sont d'infâmes créatures, certains ont même des moeurs barbares et écrasent les Cawottes avec cet énorme bouclier, pour en faire du jus."
+  },
+  {
+   "name": "Bouclier Feudala",
+   "level": "Niveau 1",
+   "caracteristique": "21 à 25% de resistance feu aux combatants\n12 à 15 de resistance air aux combatants",
+   "recette": "4x Bois de Bambou Sombre\n1x Peau de Maho Firefoux\n13x Lingot d'Or\n50x Artefact Pandawushu Feu\n2x Carapace de Scarafeuille Rouge\n1x Bois d'Orme\n15x Bois de Châtaignier",
+   "image": "https://barbok.eratz.fr/bouclier_feudala.png",
+   "condition": "Grace > 5",
+   "description": "Description : Pour parer les coups de bourre ou les coups tordus, ce bouclier issu du village de Feudala devrait faire l'affaire."
+  },
+  {
+   "name": "Bouclier Pandawa",
+   "level": "Niveau 1",
+   "caracteristique": "6 à 8% de resistance neutre aux combatants\n8 à 10 de resistance feu aux combatants",
+   "recette": "2x Poils de Pandikaze\n2x Bois de Bambou Sombre\n1x Graine de Pandouille\n10x Riz\n2x Peau de Pandore",
+   "image": "https://barbok.eratz.fr/bouclier_pandawa.png",
+   "condition": "Grace > 2",
+   "description": "Description : Idéal pour se faire discret sur Pandala, et pour se faire remarquer partout ailleurs, ce bouclier a surtout l'avantage d'être recouvert de poils de Pandawas, réputés pour ne jamais déclencher la moindre allergie. Vous pourrez donc sans crainte ranger ce bouclier directement dans votre slip en cuir."
+  },
+  {
+   "name": "Bouclier Taverne",
+   "level": "Niveau 1",
+   "caracteristique": "8 à 10% de resistance feu aux combatants\n8 à 10% de resistance air aux combatants\n8 à 10 de resistance neutre aux combatants\n8 à 10 de resistance eau aux combatants",
+   "recette": "10x Poils de Kitsou Nufeu\n25x Kobalte\n10x Bois de Chêne\n10x Poils de Kitsou Nae\n10x Poils de Kitsou Nakwa\n10x Poils de Kitsou Nere",
+   "image": "https://barbok.eratz.fr/bouclier_taverne.png",
+   "condition": "Grace > 3",
+   "description": "Description : Le tavernier de la brasserie Feubuk de Bonta devait certainement s'ennuyer fermement lorsqu'il eu soudainement l'idée d'équiper les videurs de sa taverne avec ces boucliers publicitaires."
+  },
+  {
+   "name": "Bouclier Boh-Bihn",
+   "level": "Niveau 1",
+   "caracteristique": "2 à 3 de resistance air aux combatants\n2 à 3% de resistance feu aux combatants",
+   "image": "https://barbok.eratz.fr/bouclier_boh-bihn.png",
+   "condition": "",
+   "description": "Description : Ce bouclier était utilisé par les jeunes Iops qui y rangeaient les images offertes par leurs instituteurs pour les récompenser de leurs efforts. De temps en temps, ils s'amusaient à les faire défiler rapidement pour épater leurs camarades de classe."
+  },
+  {
+   "name": "Bouclier Akwadala",
+   "level": "Niveau 1",
+   "caracteristique": "6 à 8% de resistance eau aux combatants\n8 à 10 de resistance feu aux combatants",
+   "recette": "2x Carapace de Scarafeuille Bleu\n5x Bois d'If\n50x Artefact Pandawushu Eau\n1x Aluminite\n4x Bois d'Oliviolet",
+   "image": "https://barbok.eratz.fr/bouclier_akwadala.png",
+   "condition": "Grace > 2",
+   "description": "Description : Pour parer les coups de bourre ou les coups tordus, ce bouclier issu du village d'Akwadala devrait faire l'affaire."
+  },
+  {
+   "name": "Bouclier Abraknyde",
+   "level": "Niveau 1",
+   "caracteristique": "6 à 8% de resistance neutre aux combatants\n8 à 10 de resistance terre aux combatants",
+   "recette": "2x Bois de Noyer\n1x Bois de Bambou Magique\n2x Planche en Frêne\n10x Ecorce d'Abraknyde\n10x Racine d'Abraknyde",
+   "image": "https://barbok.eratz.fr/bouclier_abraknyde.png",
+   "condition": "Grace > 2",
+   "description": "Description : Caché derrière ce bouclier, les aventuriers les plus naïfs pourront vous prendre pour un Abraknyde et se sauver en courant. Les autres vous agresseront en pensant récupérer quelques ambres."
+  },
+  {
+   "name": "Bouclier Aerdala",
+   "level": "Niveau 1",
+   "caracteristique": "16 à 20% de resistance air aux combatants\n12 à 15 de resistance terre aux combatants",
+   "recette": "1x Bois de Bambou Magique\n10x Bois de Frêne\n2x Carapace de Scarafeuille Blanc\n1x Bois de Bambou Doré\n1x Bois d'Ebène\n50x Artefact Pandawushu Air",
+   "image": "https://barbok.eratz.fr/bouclier_aerdala.png",
+   "condition": "Grace > 4",
+   "description": "Description : Pour parer les coups de bourre ou les coups tordus, ce bouclier issu du village d'Aerdala devrait faire l'affaire."
+  },
+  {
+   "name": "Bouclier Terrdala",
+   "level": "Niveau 1",
+   "caracteristique": "15 à 18% de resistance terre aux combatants\n8 à 10 de resistance eau aux combatants",
+   "recette": "6x Argent\n10x Bois d'Erable\n2x Carapace de Scarafeuille Vert\n3x Bois de Bambou Magique\n1x Etoffe de Soryo Firefoux\n50x Artefact Pandawushu Terre",
+   "image": "https://barbok.eratz.fr/bouclier_terrdala.png",
+   "condition": "Grace > 3",
+   "description": "Description : Pour parer les coups de bourre ou les coups tordus, ce bouclier issu du village de Terrdala devrait faire l'affaire."
+  },
+  {
+   "name": "Bouclier Tigré",
+   "level": "Niveau 1",
+   "caracteristique": "2 à 3 de resistance eau aux combatants\n2 à 3% de resistance terre aux combatants",
+   "image": "https://barbok.eratz.fr/bouclier_tigre.png",
+   "condition": "",
+   "description": "Description : Ce bouclier ne protège pas totalement son propriétaire, mais il pourra vous défendre efficacement contre les fantômes."
+  },
+  {
+   "name": "Bouclier de Bowisse",
+   "level": "Niveau 1",
+   "caracteristique": "12 à 15% de resistance eau aux combatants\n5 à 7 de resistance feu aux combatants\n5 à 7 de resistance neutre aux combatants",
+   "recette": "2x Racine de Bulbig\n2x Etain\n2x Racine de Bulbambou\n2x Racine de Bulbuisson\n2x Racine de Bulbiflore\n4x Bois de Bambou Doré",
+   "image": "https://barbok.eratz.fr/bouclier_de_bowisse.png",
+   "condition": "Grace > 3",
+   "description": "Description : Ce bouclier est clairement un hommage à la cape du Bowisse, elle-même étant un hommage à une célèbre relique composée de trois fragments de forme triangulaire. Encore une histoire à dormir debout."
+  },
+  {
+   "name": "Bouclier de Sidimote",
+   "level": "Niveau 1",
+   "caracteristique": "12 à 15% de resistance neutre aux combatants\n12 à 15% de resistance eau aux combatants\n8 à 10 de resistance terre aux combatants",
+   "recette": "10x Bois d'Ebène\n2x Rutile\n4x Magnésite\n10x Bois de Bambou Sombre\n25x Bois de Bambou\n12x Bois d'Oliviolet",
+   "image": "https://barbok.eratz.fr/bouclier_de_sidimote.png",
+   "condition": "Grace > 4",
+   "description": "Description : Ce bouclier est censé rappeler à vos adversaires que vous avez grandi dans les Landes de Sidimote. Il paraît que cela pourrait suffire à les effrayer."
+  },
+  {
+   "name": "Bouclier des Brigandins",
+   "level": "Niveau 1",
+   "caracteristique": "16 à 20% de resistance neutre aux combatants\n16 à 20% de resistance feu aux combatants\n8 à 10 de resistance terre aux combatants\n8 à 10 de resistance air aux combatants",
+   "recette": "1x Bois de Bambou Doré\n20x Bois de Bambou Sombre\n25x Bois de Bambou\n4x Kriptonite\n3x Magnésite\n5x Pyrute\n2x Rutile",
+   "image": "https://barbok.eratz.fr/bouclier_des_brigandins.png",
+   "condition": "Grace > 6",
+   "description": "Description : Si vous avez toujours rêvé d'être un vrai Brigandin, c'est le bouclier qu'il vous faut. Transmis de générations en générations, il vous permettra de détrousser sans prendre le moindre coup, les jeunes aventuriers d'Astrub."
+  },
+  {
+   "name": "Bouclier des Brigandins écorché",
+   "level": "Niveau 1",
+   "caracteristique": "21 à 30% de resistance neutre aux combatants\n21 à 30% de resistance feu aux combatants\n11 à 15 de resistance feu aux combatants\n11 à 15 de resistance air aux combatants",
+   "image": "https://barbok.eratz.fr/bouclier_des_brigandins_ecorche.png",
+   "condition": "",
+   "description": "Description : Ce brave bouclier a vu trop de batailles, il n'est plus bon à rien dans son état. Peut-être que Bouwada, au village Pandala, pourra vous le remplacer."
+  },
+  {
+   "name": "Bouclier d'entraînement",
+   "level": "Niveau 1",
+   "image": "https://barbok.eratz.fr/bouclier_dentrainement.png",
+   "condition": "",
+   "description": "Description : Ce bouclier est donné aux disciples qui ne savent pas encore correctement utiliser un bouclier."
+  },
+  {
+   "name": "Bouclier Ventaille",
+   "level": "Niveau 1",
+   "caracteristique": "16 à 20% de resistance neutre aux combatants\n12 à 15% de resistance feu aux combatants\n16 à 20% de resistance air aux combatants\n12 à 15 de resistance eau aux combatants",
+   "recette": "2x Cawotte\n10x Patte d'Araknawa\n10x Lingot d'Or\n30x Manganèse\n2x Etoffe de Maho Firefoux\n1x Laine du Trool Furieux\n2x Etoffe de Pandikaze\n51x Peau de Léopardo",
+   "image": "https://barbok.eratz.fr/bouclier_ventaille.png",
+   "condition": "Grace > 8",
+   "description": "Description : Lorsque vos alliés commencent à s'essouffler ou même lorsque vous voulez dissiper les effets d'un Vent de Panique, ce bouclier peut vous sauver la vie, il suffit de l'agiter vigoureusement dans tous les sens, un peu comme si vous vouliez calmer un nourrisson un peu trop bruyant."
+  },
+  {
+   "name": "Bouclier Volant",
+   "level": "Niveau 1",
+   "caracteristique": "4 à 5 de resistance feu aux combatants",
+   "recette": "4x Bois de Bambou\n1x Peau de Léopardo\n3x Peau de Pandikaze",
+   "image": "https://barbok.eratz.fr/bouclier_volant.png",
+   "condition": "Grace > 0",
+   "description": "Description : Aussi étrange que cela puisse paraître, on raconte que ce bouclier en bois et en poils, permet aux aventuriers les plus légers, de s'envoler quelques instants dans les airs, pour impressionner une dernière fois ses adversaires avant de s'écraser stupidement sur le sol."
+  },
+  {
+   "name": "Bouclier d'Asse",
+   "level": "Niveau 1",
+   "caracteristique": "21 à 25% de resistance air aux combatants\n21 à 25% de resistance eau aux combatants\n12 à 15 de resistance terre aux combatants\n4 à 5 de resistance neutre aux combatants",
+   "recette": "10x Bois de Bambou\n1x Etoffe de Soryo Firefoux\n10x Bakélélite\n12x Cuir de Porkass\n10x Fer\n2x Ambre d'Abraknyde\n4x Kralamoure",
+   "image": "https://barbok.eratz.fr/bouclier_dasse.png",
+   "condition": "Grace > 7",
+   "description": "Description : Ce splendide bouclier contient un échantillon d'eau de la Mer d'Asse, ce qui en plus de vous porter bonheur, pourra vous servir de gourde, si votre dulcinée ne vous accompagne pas durant vos combats."
+  },
+  {
+   "name": "Bouclier Fi'Squale",
+   "level": "Niveau 10",
+   "caracteristique": "16 à 25 de resistance neutre aux combatants\n16 à 25 de resistance feu aux combatants",
+   "recette": "1x Requin marteau-faucille vidé\n1x Peau de Raul Mops\n5x Sardine Brillante vidée\n3x Bar Rikain vidé\n3x Bois de Chêne\n3x Silicate",
+   "image": "https://barbok.eratz.fr/bouclier_fisquale.png",
+   "condition": "Kamas > 790000",
+   "description": "Description : Certes ce bouclier, vous assure une protection effective mais ne rêvez pas, il ne durera pas."
+  }
+ ]
+}
